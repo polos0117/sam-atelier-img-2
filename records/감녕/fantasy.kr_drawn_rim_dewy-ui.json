@@ -1,0 +1,117 @@
+{
+ "atelier": "samguk",
+ "card": "감녕",
+ "faction": "wu",
+ "role": "general",
+ "world": "fantasy",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v1",
+ "notes": {},
+ "look": {
+  "params": {},
+  "faceDesignOn": true,
+  "silhouetteOn": true,
+  "exposure": "bold"
+ },
+ "design": {
+  "face": {
+   "eye_color": "gold",
+   "impression": "fierce",
+   "expr": "smug",
+   "skin_tone": "honey_tan",
+   "age": "late_20s",
+   "eye_size": "large",
+   "eye_tilt": "level",
+   "mark": "scar",
+   "brows": "soft_round",
+   "nose": "straight_narrow",
+   "lips": "full_wide",
+   "face_shape": "oval",
+   "eyes": "almond_wide"
+  },
+  "silhouette": {
+   "body": "lean_toned",
+   "hair_color": "bright_red",
+   "hair": "voluminous",
+   "bangs": "straight"
+  }
+ },
+ "shot": {
+  "scene": "",
+  "time": "",
+  "pose": "",
+  "expr": "",
+  "frame": ""
+ },
+ "file": "감녕_fantasy_kr_drawn_rim_dewy_f.webp",
+ "prompt": "A full-body character image, vertical 2:3 (1024×1536): Gan Ning of the Romance of the Three Kingdoms, reimagined as an adult woman — the former river pirate who raided Cao Cao's camp with a hundred raiders and bells.\n\n1. STYLE\nKorean MMORPG character artwork. A recognisably drawn face with gently simplified anatomical structure. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nHer face is small and soft: a short midface, a softly rounded jaw and a small chin, about 1.3 times as long as it is wide, with her eyes open at their natural size. Bangs, side locks and headpieces frame the face without lengthening it.\nSkin finish: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\n2. CHARACTER\nAge: late twenties — a graceful grown-up face with soft, smooth contours.\nFace — her own, recognisably this character, a woman's face with no beard or facial hair: a fierce, wild ferocity; light honey-beige skin; gently long oval face; large eyes — deep-set eyes, level outer eye corners; soft rounded brows; straight narrow nose; full wide lips; gold eyes; a thin faint scar through one eyebrow.\nBody and hair: lean and toned — a slim, firm waist with softly defined vertical abs and lightly sculpted arms and shoulders, a full bust build; a long ponytail with center-parted bangs framing the face; bright red hair.\nExpression: a faint knowing smile, subtle and relaxed.\nLegend, carried in her design and bearing: wild pirate swagger, brocade sails and little bells tied to her clothes, feathers in her hair.\nAnatomy: one head, two arms and two legs, each joined at its natural joint; natural hands with five fingers.\n\n3. COSTUME AND EQUIPMENT — MEDIEVAL FANTASY\nCostume: a knight-champion's armor — articulated plate with a heraldic tabard in her faction's colours, a plumed helm or circlet, a battle cape, her weapon at hand. Western medieval high-fantasy dress — plate, mail and heraldic tabards, gowns and mantles, circlets and crowns; steel, leather, wool, velvet and gold, with a subtle magical glow along the patterns. Her Three Kingdoms origin shows through her signature item, her colours and her bearing.\nSilhouette: angular, spiked dark plate armor and a long cape with torn edges — a sharp, menacing silhouette. This silhouette sets the overall shape of the costume above — keep its materials, ornaments and rank in this shape; the details are free.\nColours: crimson red, gold, river teal, black lacquer.\nSignature item: a broad pirate saber hung with bells, reimagined as a Western high-fantasy version of the same kind of object with the same silhouette — polished steel and silvered mithril throughout, the shaft or hilt also forged metal with engraved runes (never plain wood), a faint magical glow running along the edge and the runes, a gem-set guard or socket, a leather-wrapped grip and heraldic or elven ornament, with any animal motif re-sculpted in Western heraldic style. She holds it at full scale: one whole object, drawn once, held in front of or beside her body; a long weapon keeps one straight, unbroken shaft with a single head or blade.\nExposure (bold): her regalia opens to show skin — bare shoulders and arms between pauldron and bracer, a deep open neckline under the gorget with natural cleavage, a high slit in the tabard or gown showing the thigh; armor pieces stay on and symmetrical. Intimate areas covered; no corset; keep the costume material and palette.\n\n4. SCENE\nWorld: a river-and-sea kingdom of medieval high fantasy: a vast river delta, crimson-sailed galleons and war galleys, harbor fortresses of red stone, fire magic dancing over dark water.\nPose: standing confidently, her body turned slightly while her face looks toward the viewer.\nLight: a soft key light with a strong rim light tracing her hair, shoulders and armour; bright, crisp specular highlights on metal and jewellery, and a clean, warm-neutral sheen on her skin.\nComposition: her whole figure from the top of her head or headpiece to both feet inside the frame with clear margins, about four-fifths of the image height; camera at chest height with natural portrait perspective.\n\n5. CONSTRAINTS\nOne figure only — no second character, horse or other creature. No readable text or numbers — banners and shields carry only heraldic devices (a beast or a crest), never letters or Chinese characters. No logo, watermark, speech bubble or frame border. A Western medieval setting and dress only — stone castles, Romanesque or Gothic architecture — with no Chinese architecture, robes or hanzi.\nAvoid: a blue or bruise-like tint on the skin around the eyes, glossy or shiny highlights on the face, sweaty, oily or plastic-looking skin.",
+ "date": "2026-11-12",
+ "record": "records/감녕/fantasy.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "감녕",
+  "out": "world",
+  "world": "fantasy",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {
+   "감녕|fantasy": {}
+  },
+  "looks": {
+   "감녕|fantasy": {
+    "params": {},
+    "faceDesignOn": true,
+    "silhouetteOn": true,
+    "exposure": "bold"
+   }
+  },
+  "shots": {
+   "감녕|fantasy": {
+    "scene": "",
+    "time": "",
+    "pose": "",
+    "expr": "",
+    "frame": ""
+   }
+  },
+  "walked": {},
+  "casualN": 1,
+  "scenes": {}
+ },
+ "selection": {
+  "candidate": 1,
+  "reply": "2,1,1"
+ },
+ "generation": {
+  "tool": "image_gen",
+  "endpoint": "images/generations",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "bebef5a2df946a68035ee8746f2e73c1f77a13311005ba4322c7a823a04e8dde",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "prompt_form": "en-prompt",
+  "prompt_sha256": "1eac41a5b679b20c434d5d9ae93749293a4f87bd2a2e23b99196d3ac75befb87",
+  "retries": []
+ },
+ "execution": "sam-ganning-20261112-8b23",
+ "imported": "2026-11-13",
+ "qa": {
+  "reviewer": "sam-ganning-20261112-8b23",
+  "image_sha256": "bebef5a2df946a68035ee8746f2e73c1f77a13311005ba4322c7a823a04e8dde",
+  "passed": true,
+  "exposure": "match",
+  "observations": [
+   "1024x1536 verified; one adult woman, both boots and held saber in frame; selected by user."
+  ],
+  "cause": ""
+ },
+ "acceptance": "user_approval: selected 2,1,1; generate casuals and commit/main push without further confirmation",
+ "review": {
+  "reviewed": true,
+  "by": "user",
+  "result": "selected"
+ }
+}

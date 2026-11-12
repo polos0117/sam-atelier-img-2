@@ -1,0 +1,136 @@
+{
+ "atelier": "samguk",
+ "card": "감녕",
+ "faction": "wu",
+ "slot": "casual7",
+ "treeV": 2,
+ "world": "samguk",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v1",
+ "ref": "감녕_samguk_kr_drawn_rim_dewy_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "fantasy",
+  "place": "fx_library",
+  "ofam": "adventure",
+  "item": "aviatrix",
+  "posture": "walk",
+  "support": "none",
+  "frame": "three_quarter",
+  "body": "rear_3q",
+  "head": "over_shoulder",
+  "camera": "eye",
+  "right": "prop",
+  "left": "down",
+  "use": "lantern_low",
+  "kind": "hold",
+  "legs": "walk_pause",
+  "gaze": "camera",
+  "ofree": true,
+  "ofreeFamily": "roleplay",
+  "ofreeSitu": "free",
+  "ofreeRecent": "a hydroponic garden dome aboard a starship — standing; a mirrored labyrinth of endless reflections and soft coloured light — holds her keepsake in both hands in front of her; a hanfu photo studio with costume racks — kneeling on the ground; an empty orbital postal-sorting hobby booth with one unlettered cylindrical delivery capsule — she tries her self-designed pneumatic-post attendant costume while checking a homemade spring cushion for a reusable delivery capsule; a quiet library reading room with tall bookshelves — holds a tall iced coffee in a clear cup with a straw at chest height; her compact orbital apartment sitting room — even on a day off she notices a picture hanging a few degrees crooked: she holds her tiny homemade bubble level against the top edge while turning one small wall-mount adjustment screw; a vast fantasy library of towering shelves — holds a small hand lantern low at her side; a Yangtze ferry landing with moored junks under red sails and coiled ropes on the wooden pier — lying on her front; a Three Kingdoms festival street — standing; a sewing and alteration room with a cutting table — holds a tall iced coffee in a clear cup with a straw at chest height; a vast fantasy library of towering shelves — standing; a small live house with a low stage — touches one ear cup of a pair of over-ear headphones hung around her neck",
+  "expr": "soft_smile",
+  "preset": "walk_lookback",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "감녕_samguk_kr_drawn_rim_dewy_f_casual7.webp",
+ "prompt": "INPUT: the attached image is the approved character — her Three kingdoms card; keep her. Do not reuse earlier conversation images.\n\nCHARACTER: the same woman as the attached image — the female personification of Gan Ning of the Three Kingdoms, seen in her everyday life. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change, and her hair may be worn differently only as SCENE's Hair line says. Her Three Kingdoms identity shows ONLY as a small accessory, an object around her, or the object PROP says she holds — never in the outfit's colours, patterns or cut, never as armor, regalia or a costume.\n\nDESIGN (accessory hints only): her legend — wild pirate swagger, brocade sails and little bells tied to her clothes, feathers in her hair — may inform at most one small accessory, a hair ornament or an object beside her, in its palette (crimson red, gold, river teal, black lacquer). The clothes keep the chosen outfit's own colours; her skin, hair and eyes stay as in the attached image.\n\nSIGNATURE ACCESSORY: off duty she carries no weapon — no sword, saber, spear, glaive, halberd, bow, axe, shield or any blade in her hands, on her back or anywhere in the scene. Her signature weapon (a broad pirate saber hung with bells) appears only as one small worn accessory modelled on its shape and colours — a hair ornament, pendant, earring, brooch or belt charm a few centimetres long, clearly jewellery and not a usable weapon.\n\nSTYLE: Korean MMORPG character artwork. A recognisably drawn face with gently simplified anatomical structure. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\n\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nAGE: the same adult woman as in the attached image — keep her own face shape, cheekbones, eye proportions and skin tone exactly; minimal facial lines (no nasolabial folds, crow's feet, under-eye bags or cheek creases). Keep her face soft, feminine and attractive in every framing — never elongated, gaunt, mannish or heavy-jawed, even in close-ups, profiles or low angles.\n\nOUTPUT: one standalone off-duty scene of her in the outfit chosen in SCENE; her legend shows only through accessories and objects around her — never in the outfit's colours, patterns or cut, never as armor, regalia or a costume. Everything else follows SCENE (chosen).\n\nFRAME: a vertical 2:3 (1024×1536) image. Compose the image for this frame; COMPOSITION in SCENE sets how much of her shows.\n\nSCENE (chosen):\nFREE DESIGN: design the place, activity, pose, framing and outfit yourself. Start from who she is — her legend, traits and personality — and show an everyday moment that is unexpected yet feels natural for her. Make it fresh through the situation and what she is doing, not through more decoration. Avoid scenes like the recent ones listed below. Keep her face, the art style and the body and anatomy rules exactly as stated. Before drawing, write your design into the lines below, then draw it.\nRecent scenes to avoid: a hydroponic garden dome aboard a starship — standing; a mirrored labyrinth of endless reflections and soft coloured light — holds her keepsake in both hands in front of her; a hanfu photo studio with costume racks — kneeling on the ground; an empty orbital postal-sorting hobby booth with one unlettered cylindrical delivery capsule — she tries her self-designed pneumatic-post attendant costume while checking a homemade spring cushion for a reusable delivery capsule; a quiet library reading room with tall bookshelves — holds a tall iced coffee in a clear cup with a straw at chest height; her compact orbital apartment sitting room — even on a day off she notices a picture hanging a few degrees crooked: she holds her tiny homemade bubble level against the top edge while turning one small wall-mount adjustment screw; a vast fantasy library of towering shelves — holds a small hand lantern low at her side; a Yangtze ferry landing with moored junks under red sails and coiled ropes on the wooden pier — lying on her front; a Three Kingdoms festival street — standing; a sewing and alteration room with a cutting table — holds a tall iced coffee in a clear cup with a straw at chest height; a vast fantasy library of towering shelves — standing; a small live house with a low stage — touches one ear cup of a pair of over-ear headphones hung around her neck.\nPlace: a quiet volunteer theatre prop room with a tabletop model river lock and small hand-operated wooden sluice gates\nActivity: she tries her playful lockkeeper event costume while lowering a tiny model gate with a handwheel; reaching upward lifts the short wrap jacket slightly and reveals the toned side of her waist, with all intimate areas covered\nPose: standing in a relaxed side lunge at the table, one hand on the small wheel and the other holding a wooden model boat steady, face turned three-quarter toward the tabletop\nFraming: environmental full-body view with the model lock in the foreground and both hands clearly visible, natural chest-height camera\nOutfit family (required): role-play costume — any role-play costume outfit; you may pick one from our outfit catalog (outfit-catalog.md in this pack) or design your own, but prefer one that is not in it.\nSituation (required): a situational exposure moment of your own design that fits the scene — prefer one that is not among ours: clothes soaked by rain or a splash, clothes caught by a strong gust of wind, a top worn half undone, a strap slipped off the shoulder.\nOutfit: an original adult lockkeeper festival costume: a cream cropped wrap jacket with short open sleeves and a plunging overlap over an opaque fitted camisole, navy high-waisted short culottes with broad white binding, ankle boots and a small blank felt cap; no insignia, no weapons, securely covered chest and hips\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing; intimate areas covered\n\nWARDROBE: change her clothes completely. From the attached image take only her face, hair and body — not its garment, armor, regalia, ornaments, mecha plates or background. Dress her exactly as SCENE describes; that outfit must read at first glance, keeping its own recognisable colours and parts. Do not carry the attached image's palette, patterns or trim into the outfit; her Three Kingdoms identity belongs in accessories and props, never in the clothes — never restyle the chosen outfit into her faction's palette, armor, robes or regalia.\n\nANGLE: the attached image fixes who she is, not how she is posed or shot. Do not copy its head angle, head tilt, gaze direction, face size in frame, camera height or crop — turn her head, set her gaze and place the camera exactly as SCENE describes, and let her face read naturally from that new angle (profile, three-quarter, looking down or away), with her features staying the same. No default card pose, no default front-facing portrait.\n\nONE MAIN FIGURE: she is the only character in focus. Where the place is busy, other people may appear only as small, soft-focus background extras — never posed with her. No logo, no watermark, no speech bubble, no frame border. No readable text or numbers.\n\nANATOMY: natural adult proportions, about 7.5 heads tall — height from the legs, never a smaller head or a longer neck. The neck is a natural length and the head sits close to the shoulders. No body-part enlargement, no extra limbs.\n\nMIDRIFF: wherever her stomach is bare, it shows a soft, subtle six-pack — lightly defined abdominal segments in two neat columns of three on a flat, firm, toned midriff; feminine and gently shaded, an athletic woman's abs, never a hard, deeply carved bodybuilder six-pack. If her outfit covers her stomach, keep it covered.\n\nBODY: a normal human body — one head, two arms and two legs, each joined at its natural joint; elbows, knees and wrists bend the human way. Hands and feet may be partly hidden by the pose, what she holds or the frame. Right and left mean her own right and left, not the viewer's.\n\nHANDS: natural human hands, no extra or duplicated limbs; each visible hand joins through its wrist and forearm to the matching shoulder. A hand may stay outside the crop, and fingers may be partly hidden by a grip.\n\nAVOID: a blue or bruise-like tint on the skin around the eyes, glossy or shiny highlights on the face, sweaty, oily or plastic-looking skin.",
+ "date": "2026-11-12",
+ "record": "records/감녕/samguk-casual7.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "감녕",
+  "out": "casual",
+  "world": "samguk",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 7,
+  "scenes": {
+   "감녕": {
+    "era": "fantasy",
+    "place": "fx_library",
+    "ofam": "adventure",
+    "treeV": 2,
+    "prop": "",
+    "preset": "walk_lookback",
+    "use": "lantern_low",
+    "kind": "hold",
+    "posture": "walk",
+    "support": "none",
+    "frame": "three_quarter",
+    "body": "rear_3q",
+    "head": "over_shoulder",
+    "camera": "eye",
+    "right": "prop",
+    "left": "down",
+    "legs": "walk_pause",
+    "gaze": "camera",
+    "item": "aviatrix",
+    "expr": "soft_smile",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "ofree": true,
+    "ofreeFamily": "roleplay",
+    "ofreeSitu": "free",
+    "ofreeRecent": "a hydroponic garden dome aboard a starship — standing; a mirrored labyrinth of endless reflections and soft coloured light — holds her keepsake in both hands in front of her; a hanfu photo studio with costume racks — kneeling on the ground; an empty orbital postal-sorting hobby booth with one unlettered cylindrical delivery capsule — she tries her self-designed pneumatic-post attendant costume while checking a homemade spring cushion for a reusable delivery capsule; a quiet library reading room with tall bookshelves — holds a tall iced coffee in a clear cup with a straw at chest height; her compact orbital apartment sitting room — even on a day off she notices a picture hanging a few degrees crooked: she holds her tiny homemade bubble level against the top edge while turning one small wall-mount adjustment screw; a vast fantasy library of towering shelves — holds a small hand lantern low at her side; a Yangtze ferry landing with moored junks under red sails and coiled ropes on the wooden pier — lying on her front; a Three Kingdoms festival street — standing; a sewing and alteration room with a cutting table — holds a tall iced coffee in a clear cup with a straw at chest height; a vast fantasy library of towering shelves — standing; a small live house with a low stage — touches one ear cup of a pair of over-ear headphones hung around her neck"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "601e5b5d59689b9d6789635dee56c4a1e5f8d95e478c1f207bca742d1bb0f2e2",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "prompt_form": "en-prompt",
+  "prompt_sha256": "370e6ad85277ea7a3f62d1949cfa18e742b9f1e0ed8561ca6817cbd61503da6b",
+  "retries": [],
+  "ref_sha256": "88a6c05601856da304eb2af4f71b20a09937e83b32368d7a530a7e750f0cc7da",
+  "free_design": {
+   "Place": "a quiet volunteer theatre prop room with a tabletop model river lock and small hand-operated wooden sluice gates",
+   "Activity": "she tries her playful lockkeeper event costume while lowering a tiny model gate with a handwheel; reaching upward lifts the short wrap jacket slightly and reveals the toned side of her waist, with all intimate areas covered",
+   "Pose": "standing in a relaxed side lunge at the table, one hand on the small wheel and the other holding a wooden model boat steady, face turned three-quarter toward the tabletop",
+   "Framing": "environmental full-body view with the model lock in the foreground and both hands clearly visible, natural chest-height camera",
+   "Outfit": "an original adult lockkeeper festival costume: a cream cropped wrap jacket with short open sleeves and a plunging overlap over an opaque fitted camisole, navy high-waisted short culottes with broad white binding, ankle boots and a small blank felt cap; no insignia, no weapons, securely covered chest and hips"
+  },
+  "free_prompt": "INPUT: the attached image is the approved character — her Three kingdoms card; keep her. Do not reuse earlier conversation images.\n\nCHARACTER: the same woman as the attached image — the female personification of Gan Ning of the Three Kingdoms, seen in her everyday life. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change, and her hair may be worn differently only as SCENE's Hair line says. Her Three Kingdoms identity shows ONLY as a small accessory, an object around her, or the object PROP says she holds — never in the outfit's colours, patterns or cut, never as armor, regalia or a costume.\n\nDESIGN (accessory hints only): her legend — wild pirate swagger, brocade sails and little bells tied to her clothes, feathers in her hair — may inform at most one small accessory, a hair ornament or an object beside her, in its palette (crimson red, gold, river teal, black lacquer). The clothes keep the chosen outfit's own colours; her skin, hair and eyes stay as in the attached image.\n\nSIGNATURE ACCESSORY: off duty she carries no weapon — no sword, saber, spear, glaive, halberd, bow, axe, shield or any blade in her hands, on her back or anywhere in the scene. Her signature weapon (a broad pirate saber hung with bells) appears only as one small worn accessory modelled on its shape and colours — a hair ornament, pendant, earring, brooch or belt charm a few centimetres long, clearly jewellery and not a usable weapon.\n\nSTYLE: Korean MMORPG character artwork. A recognisably drawn face with gently simplified anatomical structure. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\n\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nAGE: the same adult woman as in the attached image — keep her own face shape, cheekbones, eye proportions and skin tone exactly; minimal facial lines (no nasolabial folds, crow's feet, under-eye bags or cheek creases). Keep her face soft, feminine and attractive in every framing — never elongated, gaunt, mannish or heavy-jawed, even in close-ups, profiles or low angles.\n\nOUTPUT: one standalone off-duty scene of her in the outfit chosen in SCENE; her legend shows only through accessories and objects around her — never in the outfit's colours, patterns or cut, never as armor, regalia or a costume. Everything else follows SCENE (chosen).\n\nFRAME: a vertical 2:3 (1024×1536) image. Compose the image for this frame; COMPOSITION in SCENE sets how much of her shows.\n\nSCENE (chosen):\nFREE DESIGN: design the place, activity, pose, framing and outfit yourself. Start from who she is — her legend, traits and personality — and show an everyday moment that is unexpected yet feels natural for her. Make it fresh through the situation and what she is doing, not through more decoration. Avoid scenes like the recent ones listed below. Keep her face, the art style and the body and anatomy rules exactly as stated. Before drawing, write your design into the lines below, then draw it.\nRecent scenes to avoid: a hydroponic garden dome aboard a starship — standing; a mirrored labyrinth of endless reflections and soft coloured light — holds her keepsake in both hands in front of her; a hanfu photo studio with costume racks — kneeling on the ground; an empty orbital postal-sorting hobby booth with one unlettered cylindrical delivery capsule — she tries her self-designed pneumatic-post attendant costume while checking a homemade spring cushion for a reusable delivery capsule; a quiet library reading room with tall bookshelves — holds a tall iced coffee in a clear cup with a straw at chest height; her compact orbital apartment sitting room — even on a day off she notices a picture hanging a few degrees crooked: she holds her tiny homemade bubble level against the top edge while turning one small wall-mount adjustment screw; a vast fantasy library of towering shelves — holds a small hand lantern low at her side; a Yangtze ferry landing with moored junks under red sails and coiled ropes on the wooden pier — lying on her front; a Three Kingdoms festival street — standing; a sewing and alteration room with a cutting table — holds a tall iced coffee in a clear cup with a straw at chest height; a vast fantasy library of towering shelves — standing; a small live house with a low stage — touches one ear cup of a pair of over-ear headphones hung around her neck.\nPlace: a quiet volunteer theatre prop room with a tabletop model river lock and small hand-operated wooden sluice gates\nActivity: she tries her playful lockkeeper event costume while lowering a tiny model gate with a handwheel; reaching upward lifts the short wrap jacket slightly and reveals the toned side of her waist, with all intimate areas covered\nPose: standing in a relaxed side lunge at the table, one hand on the small wheel and the other holding a wooden model boat steady, face turned three-quarter toward the tabletop\nFraming: environmental full-body view with the model lock in the foreground and both hands clearly visible, natural chest-height camera\nOutfit family (required): role-play costume — any role-play costume outfit; you may pick one from our outfit catalog (outfit-catalog.md in this pack) or design your own, but prefer one that is not in it.\nSituation (required): a situational exposure moment of your own design that fits the scene — prefer one that is not among ours: clothes soaked by rain or a splash, clothes caught by a strong gust of wind, a top worn half undone, a strap slipped off the shoulder.\nOutfit: an original adult lockkeeper festival costume: a cream cropped wrap jacket with short open sleeves and a plunging overlap over an opaque fitted camisole, navy high-waisted short culottes with broad white binding, ankle boots and a small blank felt cap; no insignia, no weapons, securely covered chest and hips\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing; intimate areas covered\n\nWARDROBE: change her clothes completely. From the attached image take only her face, hair and body — not its garment, armor, regalia, ornaments, mecha plates or background. Dress her exactly as SCENE describes; that outfit must read at first glance, keeping its own recognisable colours and parts. Do not carry the attached image's palette, patterns or trim into the outfit; her Three Kingdoms identity belongs in accessories and props, never in the clothes — never restyle the chosen outfit into her faction's palette, armor, robes or regalia.\n\nANGLE: the attached image fixes who she is, not how she is posed or shot. Do not copy its head angle, head tilt, gaze direction, face size in frame, camera height or crop — turn her head, set her gaze and place the camera exactly as SCENE describes, and let her face read naturally from that new angle (profile, three-quarter, looking down or away), with her features staying the same. No default card pose, no default front-facing portrait.\n\nONE MAIN FIGURE: she is the only character in focus. Where the place is busy, other people may appear only as small, soft-focus background extras — never posed with her. No logo, no watermark, no speech bubble, no frame border. No readable text or numbers.\n\nANATOMY: natural adult proportions, about 7.5 heads tall — height from the legs, never a smaller head or a longer neck. The neck is a natural length and the head sits close to the shoulders. No body-part enlargement, no extra limbs.\n\nMIDRIFF: wherever her stomach is bare, it shows a soft, subtle six-pack — lightly defined abdominal segments in two neat columns of three on a flat, firm, toned midriff; feminine and gently shaded, an athletic woman's abs, never a hard, deeply carved bodybuilder six-pack. If her outfit covers her stomach, keep it covered.\n\nBODY: a normal human body — one head, two arms and two legs, each joined at its natural joint; elbows, knees and wrists bend the human way. Hands and feet may be partly hidden by the pose, what she holds or the frame. Right and left mean her own right and left, not the viewer's.\n\nHANDS: natural human hands, no extra or duplicated limbs; each visible hand joins through its wrist and forearm to the matching shoulder. A hand may stay outside the crop, and fingers may be partly hidden by a grip.\n\nAVOID: a blue or bruise-like tint on the skin around the eyes, glossy or shiny highlights on the face, sweaty, oily or plastic-looking skin."
+ },
+ "execution": "sam-ganning-20261112-8b23",
+ "imported": "2026-11-13",
+ "qa": {
+  "reviewer": "sam-ganning-20261112-8b23",
+  "image_sha256": "601e5b5d59689b9d6789635dee56c4a1e5f8d95e478c1f207bca742d1bb0f2e2",
+  "passed": true,
+  "exposure": "match",
+  "observations": [
+   "1024x1536 verified; one adult main woman; no usable weapon in casual scene.",
+   "Theatre model sluice gate, one hand on wheel and other steadying model boat; cream cropped wrap and blue shorts, visible firm midriff."
+  ],
+  "cause": ""
+ },
+ "acceptance": "user_approval: selected 2,1,1; generate casuals and commit/main push without further confirmation",
+ "review": {
+  "reviewed": false,
+  "by": "user",
+  "result": "pending"
+ }
+}
