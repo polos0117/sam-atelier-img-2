@@ -1,0 +1,134 @@
+{
+ "atelier": "samguk",
+ "card": "장완",
+ "faction": "shu",
+ "slot": "casual5",
+ "treeV": 2,
+ "world": "samguk",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v1",
+ "ref": "장완_samguk_kr_drawn_rim_dewy_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "nation",
+  "place": "nation_camp",
+  "ofam": "dongtan",
+  "item": "club_cutout",
+  "posture": "lean_wall",
+  "support": "back_wall",
+  "frame": "chest_up",
+  "body": "front_3q",
+  "head": "with_body",
+  "camera": "eye",
+  "right": "arms_crossed",
+  "left": "arms_crossed",
+  "use": "",
+  "legs": "",
+  "gaze": "camera",
+  "ofree": true,
+  "ofreeRecent": "the nave of a Gothic cathedral with stained-glass windows — sitting on the ground; a quiet orbital recreation room with a tabletop wire-loop steady-hand puzzle and a small unlettered indicator lamp — she tests her famous precision on a harmless wire-loop puzzle; her compact orbital apartment's utility alcove — she stops a newly laundered sock drifting into a ventilation grille by trapping it gently under an empty mesh laundry basket; a present-day museum gallery of Three Kingdoms relics — standing; an airport lounge — checks the photo on the back screen of a camera at chest height; a moonlit lotus pond with stepping stones and glowing fireflies — standing; a space-station docking bay with a sleek shuttle on its pad and long light strips — standing; the back seat of a taxi at night — touches one ear cup of a pair of over-ear headphones hung around her neck; a retro American diner — touches one ear cup of a pair of over-ear headphones hung around her neck; a walled garden with a lotus pond — lying on her side; an old Chengdu teahouse with bamboo chairs — holds a gourd-shaped wine flask on a red cord by its cord at chest height; a retro-futurist home of rounded chrome appliances and soft panels — holds her keepsake up beside her face; a neon-lit bar counter with backlit bottles — standing",
+  "expr": "nostalgic",
+  "preset": "crossed_wall",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "장완_samguk_kr_drawn_rim_dewy_f_casual5.webp",
+ "prompt": "INPUT: the attached image is the approved character — her Three kingdoms card; keep her. Do not reuse earlier conversation images.\n\nCHARACTER: the same woman as the attached image — the female personification of Jiang Wan of the Three Kingdoms, seen in her everyday life. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change, and her hair may be worn differently only as SCENE's Hair line says. Her Three Kingdoms identity shows ONLY as a small accessory, an object around her, or the object PROP says she holds — never in the outfit's colours, patterns or cut, never as armor, regalia or a costume.\n\nDESIGN (accessory hints only): her legend — calm and generous, steady hands after the Sleeping Dragon, chancellery robes — may inform at most one small accessory, a hair ornament or an object beside her, in its palette (jade green, imperial gold, earthen brown, white jade). The clothes keep the chosen outfit's own colours; her skin, hair and eyes stay as in the attached image.\n\nSTYLE: Korean MMORPG character artwork. A recognisably drawn face with gently simplified anatomical structure. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\n\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nAGE: the same adult woman as in the attached image — keep her own face shape, cheekbones, eye proportions and skin tone exactly; minimal facial lines (no nasolabial folds, crow's feet, under-eye bags or cheek creases). Keep her face soft, feminine and attractive in every framing — never elongated, gaunt, mannish or heavy-jawed, even in close-ups, profiles or low angles.\n\nOUTPUT: one standalone off-duty scene of her in the outfit chosen in SCENE; her legend shows only through accessories and objects around her — never in the outfit's colours, patterns or cut, never as armor, regalia or a costume. Everything else follows SCENE (chosen).\n\nFRAME: a vertical 2:3 (1024×1536) image. Compose the image for this frame; COMPOSITION in SCENE sets how much of her shows.\n\nSCENE (chosen):\nFREE DESIGN: design the place, activity, pose, framing and outfit yourself. Start from who she is — her legend, traits and personality — and show an everyday moment that is unexpected yet feels natural for her. Make it fresh through the situation and what she is doing, not through more decoration. Avoid scenes like the recent ones listed below. Keep her face, the art style and the body and anatomy rules exactly as stated. Before drawing, write your design into the lines below, then draw it.\nRecent scenes to avoid: the nave of a Gothic cathedral with stained-glass windows — sitting on the ground; a quiet orbital recreation room with a tabletop wire-loop steady-hand puzzle and a small unlettered indicator lamp — she tests her famous precision on a harmless wire-loop puzzle; her compact orbital apartment's utility alcove — she stops a newly laundered sock drifting into a ventilation grille by trapping it gently under an empty mesh laundry basket; a present-day museum gallery of Three Kingdoms relics — standing; an airport lounge — checks the photo on the back screen of a camera at chest height; a moonlit lotus pond with stepping stones and glowing fireflies — standing; a space-station docking bay with a sleek shuttle on its pad and long light strips — standing; the back seat of a taxi at night — touches one ear cup of a pair of over-ear headphones hung around her neck; a retro American diner — touches one ear cup of a pair of over-ear headphones hung around her neck; a walled garden with a lotus pond — lying on her side; an old Chengdu teahouse with bamboo chairs — holds a gourd-shaped wine flask on a red cord by its cord at chest height; a retro-futurist home of rounded chrome appliances and soft panels — holds her keepsake up beside her face; a neon-lit bar counter with backlit bottles — standing.\nPlace: …\nActivity: …\nPose: …\nFraming: …\nOutfit: … (a revealing, fashionable outfit that is not in our outfit catalog — outfit-catalog.md in this pack)\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing; nothing slipped off; intimate areas covered\n\nWARDROBE: change her clothes completely. From the attached image take only her face, hair and body — not its garment, armor, regalia, ornaments, mecha plates or background. Dress her exactly as SCENE describes; that outfit must read at first glance, keeping its own recognisable colours and parts. Do not carry the attached image's palette, patterns or trim into the outfit; her Three Kingdoms identity belongs in accessories and props, never in the clothes — never restyle the chosen outfit into her faction's palette, armor, robes or regalia.\n\nANGLE: the attached image fixes who she is, not how she is posed or shot. Do not copy its head angle, head tilt, gaze direction, face size in frame, camera height or crop — turn her head, set her gaze and place the camera exactly as SCENE describes, and let her face read naturally from that new angle (profile, three-quarter, looking down or away), with her features staying the same. No default card pose, no default front-facing portrait.\n\nONE MAIN FIGURE: she is the only character in focus. Where the place is busy, other people may appear only as small, soft-focus background extras — never posed with her. No logo, no watermark, no speech bubble, no frame border. No readable text or numbers.\n\nANATOMY: natural adult proportions, about 7.5 heads tall — height from the legs, never a smaller head or a longer neck. The neck is a natural length and the head sits close to the shoulders. No body-part enlargement, no extra limbs.\n\nBODY: a normal human body — one head, two arms and two legs, each joined at its natural joint; elbows, knees and wrists bend the human way. Hands and feet may be partly hidden by the pose, what she holds or the frame. Right and left mean her own right and left, not the viewer's.\n\nHANDS: natural human hands, no extra or duplicated limbs; each visible hand joins through its wrist and forearm to the matching shoulder. A hand may stay outside the crop, and fingers may be partly hidden by a grip.\n\nAVOID: a blue or bruise-like tint on the skin around the eyes, glossy or shiny highlights on the face, sweaty, oily or plastic-looking skin.",
+ "date": "2026-11-12",
+ "record": "records/장완/samguk-casual5.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "장완",
+  "out": "casual",
+  "world": "samguk",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 5,
+  "scenes": {
+   "장완": {
+    "era": "nation",
+    "place": "nation_camp",
+    "ofam": "dongtan",
+    "treeV": 2,
+    "prop": "",
+    "preset": "crossed_wall",
+    "use": "",
+    "posture": "lean_wall",
+    "support": "back_wall",
+    "frame": "chest_up",
+    "body": "front_3q",
+    "head": "with_body",
+    "camera": "eye",
+    "right": "arms_crossed",
+    "left": "arms_crossed",
+    "legs": "",
+    "gaze": "camera",
+    "item": "club_cutout",
+    "expr": "nostalgic",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "ofree": true,
+    "ofreeRecent": "the nave of a Gothic cathedral with stained-glass windows — sitting on the ground; a quiet orbital recreation room with a tabletop wire-loop steady-hand puzzle and a small unlettered indicator lamp — she tests her famous precision on a harmless wire-loop puzzle; her compact orbital apartment's utility alcove — she stops a newly laundered sock drifting into a ventilation grille by trapping it gently under an empty mesh laundry basket; a present-day museum gallery of Three Kingdoms relics — standing; an airport lounge — checks the photo on the back screen of a camera at chest height; a moonlit lotus pond with stepping stones and glowing fireflies — standing; a space-station docking bay with a sleek shuttle on its pad and long light strips — standing; the back seat of a taxi at night — touches one ear cup of a pair of over-ear headphones hung around her neck; a retro American diner — touches one ear cup of a pair of over-ear headphones hung around her neck; a walled garden with a lotus pond — lying on her side; an old Chengdu teahouse with bamboo chairs — holds a gourd-shaped wine flask on a red cord by its cord at chest height; a retro-futurist home of rounded chrome appliances and soft panels — holds her keepsake up beside her face; a neon-lit bar counter with backlit bottles — standing"
+   }
+  }
+ },
+ "execution": "sam-jiangwan-b510",
+ "imported": "2026-11-13",
+ "acceptance": "user_authorized_complete_character_and_normal_main_push",
+ "review": {
+  "reviewed": false,
+  "by": "user",
+  "result": "pending"
+ },
+ "generation": {
+  "tool": "image_gen",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "166de3e2cbaa82d5fa14ba4798acfa9156eb76c89de761a96974b080c1967a4d",
+  "ref_sha256": "8bfdb19289da3d8db4118c1361bda431437fa51087b4c8ea36cf4ae559f8faa1",
+  "prompt_form": "gpt-structured",
+  "prompt_sha256": "519ececc7b4eea3b227c8df0f311013d4b3b6938e4ef032ab501b970e50e5ea3",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "free_prompt": "INPUT: the attached image is the approved character — her Three kingdoms card; keep her. Do not reuse earlier conversation images.\n\nCHARACTER: the same woman as the attached image — the female personification of Jiang Wan of the Three Kingdoms, seen in her everyday life. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change, and her hair may be worn differently only as SCENE's Hair line says. Her Three Kingdoms identity shows ONLY as a small accessory, an object around her, or the object PROP says she holds — never in the outfit's colours, patterns or cut, never as armor, regalia or a costume.\n\nDESIGN (accessory hints only): her legend — calm and generous, steady hands after the Sleeping Dragon, chancellery robes — may inform at most one small accessory, a hair ornament or an object beside her, in its palette (jade green, imperial gold, earthen brown, white jade). The clothes keep the chosen outfit's own colours; her skin, hair and eyes stay as in the attached image.\n\nSTYLE: Korean MMORPG character artwork. A recognisably drawn face with gently simplified anatomical structure. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\n\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nAGE: the same adult woman as in the attached image — keep her own face shape, cheekbones, eye proportions and skin tone exactly; minimal facial lines (no nasolabial folds, crow's feet, under-eye bags or cheek creases). Keep her face soft, feminine and attractive in every framing — never elongated, gaunt, mannish or heavy-jawed, even in close-ups, profiles or low angles.\n\nOUTPUT: one standalone off-duty scene of her in the outfit chosen in SCENE; her legend shows only through accessories and objects around her — never in the outfit's colours, patterns or cut, never as armor, regalia or a costume. Everything else follows SCENE (chosen).\n\nFRAME: a vertical 2:3 (1024×1536) image. Compose the image for this frame; COMPOSITION in SCENE sets how much of her shows.\n\nSCENE (chosen):\nFREE DESIGN: design the place, activity, pose, framing and outfit yourself. Start from who she is — her legend, traits and personality — and show an everyday moment that is unexpected yet feels natural for her. Make it fresh through the situation and what she is doing, not through more decoration. Avoid scenes like the recent ones listed below. Keep her face, the art style and the body and anatomy rules exactly as stated. Before drawing, write your design into the lines below, then draw it.\nRecent scenes to avoid: the nave of a Gothic cathedral with stained-glass windows — sitting on the ground; a quiet orbital recreation room with a tabletop wire-loop steady-hand puzzle and a small unlettered indicator lamp — she tests her famous precision on a harmless wire-loop puzzle; her compact orbital apartment's utility alcove — she stops a newly laundered sock drifting into a ventilation grille by trapping it gently under an empty mesh laundry basket; a present-day museum gallery of Three Kingdoms relics — standing; an airport lounge — checks the photo on the back screen of a camera at chest height; a moonlit lotus pond with stepping stones and glowing fireflies — standing; a space-station docking bay with a sleek shuttle on its pad and long light strips — standing; the back seat of a taxi at night — touches one ear cup of a pair of over-ear headphones hung around her neck; a retro American diner — touches one ear cup of a pair of over-ear headphones hung around her neck; a walled garden with a lotus pond — lying on her side; an old Chengdu teahouse with bamboo chairs — holds a gourd-shaped wine flask on a red cord by its cord at chest height; a retro-futurist home of rounded chrome appliances and soft panels — holds her keepsake up beside her face; a neon-lit bar counter with backlit bottles — standing.\nPlace: a small present-day community seed-exchange room with wooden drawers, plain paper envelopes, a shallow counting tray and soft window light.\nActivity: she notices that a tiny pile contains one seed too many and calmly nudges it into a second envelope, treating an ordinary act of sharing with gentle precision.\nPose: seated sideways on a low stool with both forearms comfortably above the table, right hand using a short wooden seed scoop and left hand holding an open blank envelope; shoulders turned three-quarter toward the viewer and her face looking toward the tray.\nFraming: an eye-level medium portrait from head to mid-thigh showing her face, both hands and the sorting tray, with a natural neck and relaxed shoulders.\nOutfit: a fashionable original cobalt-blue sleeveless waistcoat romper with a softly sculpted deep V front over an opaque curved ivory inset, a side-laced open waist, short bubble-shaped legs and a broad folded belt; bare shoulders, arms and upper thighs, intimate areas securely covered; no faction colours or ornaments on the clothes. (a revealing, fashionable outfit that is not in our outfit catalog — outfit-catalog.md in this pack)\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing; nothing slipped off; intimate areas covered\n\nWARDROBE: change her clothes completely. From the attached image take only her face, hair and body — not its garment, armor, regalia, ornaments, mecha plates or background. Dress her exactly as SCENE describes; that outfit must read at first glance, keeping its own recognisable colours and parts. Do not carry the attached image's palette, patterns or trim into the outfit; her Three Kingdoms identity belongs in accessories and props, never in the clothes — never restyle the chosen outfit into her faction's palette, armor, robes or regalia.\n\nANGLE: the attached image fixes who she is, not how she is posed or shot. Do not copy its head angle, head tilt, gaze direction, face size in frame, camera height or crop — turn her head, set her gaze and place the camera exactly as SCENE describes, and let her face read naturally from that new angle (profile, three-quarter, looking down or away), with her features staying the same. No default card pose, no default front-facing portrait.\n\nONE MAIN FIGURE: she is the only character in focus. Where the place is busy, other people may appear only as small, soft-focus background extras — never posed with her. No logo, no watermark, no speech bubble, no frame border. No readable text or numbers.\n\nANATOMY: natural adult proportions, about 7.5 heads tall — height from the legs, never a smaller head or a longer neck. The neck is a natural length and the head sits close to the shoulders. No body-part enlargement, no extra limbs.\n\nBODY: a normal human body — one head, two arms and two legs, each joined at its natural joint; elbows, knees and wrists bend the human way. Hands and feet may be partly hidden by the pose, what she holds or the frame. Right and left mean her own right and left, not the viewer's.\n\nHANDS: natural human hands, no extra or duplicated limbs; each visible hand joins through its wrist and forearm to the matching shoulder. A hand may stay outside the crop, and fingers may be partly hidden by a grip.\n\nAVOID: a blue or bruise-like tint on the skin around the eyes, glossy or shiny highlights on the face, sweaty, oily or plastic-looking skin.",
+  "source_path": "/workspace/scratch/b51078711f9b/generated_images/exec-4f20ddf4-746c-4af0-8845-c69945dd732e.png",
+  "retries": [],
+  "free_design": {
+   "Place": "a small present-day community seed-exchange room with wooden drawers, plain paper envelopes, a shallow counting tray and soft window light.",
+   "Activity": "she notices that a tiny pile contains one seed too many and calmly nudges it into a second envelope, treating an ordinary act of sharing with gentle precision.",
+   "Pose": "seated sideways on a low stool with both forearms comfortably above the table, right hand using a short wooden seed scoop and left hand holding an open blank envelope; shoulders turned three-quarter toward the viewer and her face looking toward the tray.",
+   "Framing": "an eye-level medium portrait from head to mid-thigh showing her face, both hands and the sorting tray, with a natural neck and relaxed shoulders.",
+   "Outfit": "a fashionable original cobalt-blue sleeveless waistcoat romper with a softly sculpted deep V front over an opaque curved ivory inset, a side-laced open waist, short bubble-shaped legs and a broad folded belt; bare shoulders, arms and upper thighs, intimate areas securely covered; no faction colours or ornaments on the clothes."
+  }
+ },
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "166de3e2cbaa82d5fa14ba4798acfa9156eb76c89de761a96974b080c1967a4d",
+  "passed": false,
+  "exposure": "match",
+  "observations": [
+   "1024×1536; one adult female main figure.",
+   "Face, burgundy hair and skin tone checked against the selected world reference.",
+   "Visible arms and legs connect naturally; partial occlusion or cropping follows the planned pose.",
+   "Chosen outfit and scene retained; no regeneration for exposure.",
+   "The specified opaque inner neckline inset is absent; other cut and activity retained."
+  ],
+  "cause": "Scene framing or garment detail differs from supplied prompt; retained without regeneration."
+ }
+}
