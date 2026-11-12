@@ -1,0 +1,115 @@
+{
+ "atelier": "samguk",
+ "card": "사마의",
+ "faction": "wei",
+ "role": "strategist",
+ "world": "mecha",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v1",
+ "notes": {},
+ "look": {
+  "params": {},
+  "faceDesignOn": true,
+  "silhouetteOn": true,
+  "exposure": "bold"
+ },
+ "design": {
+  "face": {
+   "eye_color": "violet",
+   "age": "late_20s",
+   "impression": "cool",
+   "skin_tone": "porcelain",
+   "eye_size": "small",
+   "eye_tilt": "up",
+   "mark": "dark_lip",
+   "expr": "cold_smile",
+   "brows": "arched_thin",
+   "nose": "aquiline",
+   "lips": "thin_long",
+   "face_shape": "oval",
+   "eyes": "deep_set"
+  },
+  "silhouette": {
+   "body": "tall_curvy",
+   "hair_color": "jet_black",
+   "hair": "long_wavy",
+   "bangs": "parted"
+  }
+ },
+ "shot": {
+  "scene": "",
+  "time": "",
+  "pose": "",
+  "expr": "",
+  "frame": ""
+ },
+ "file": "사마의_mecha_kr_drawn_rim_dewy_f.webp",
+ "prompt": "A full-body character image, vertical 2:3 (1024×1536): Sima Yi of the Romance of the Three Kingdoms, reimagined as an adult woman — the patient wolf of Wei, the strategist whose house would rise to found Jin.\n\n1. STYLE\nKorean MMORPG character artwork. A recognisably drawn face with gently simplified anatomical structure. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nHer face is small and soft: a short midface, a softly rounded jaw and a small chin, about 1.3 times as long as it is wide, with her eyes open at their natural size. Bangs, side locks and headpieces frame the face without lengthening it.\nSkin finish: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\n2. CHARACTER\nAge: late twenties — a graceful grown-up face with soft, smooth contours.\nFace — her own, recognisably this character, a woman's face with no beard or facial hair: a cool, aloof beauty; porcelain-pale skin; gently long oval face; smaller, narrower eyes than usual anime proportion — narrow upturned eyes, outer eye corners slightly lifted; thin arched brows; aquiline nose; thin long lips; pale violet eyes; dark berry lipstick.\nBody and hair: tall and statuesque with long legs and a full, curvaceous figure — full bust and hips, narrow waist build; long straight hair with curtain bangs; glossy jet-black hair.\nExpression: a faint cool smile, calm composed eyes, subtle and relaxed.\nLegend, carried in her design and bearing: cunning patience and endurance, the wolf-glance — able to look straight behind her over her shoulder, feigning illness to outwait rivals, cold calculation behind courtesy, dark ambition.\nAnatomy: one head, two arms and two legs, each joined at its natural joint; natural hands with five fingers.\n\n3. COSTUME AND EQUIPMENT — MECHA\nCostume: a female mecha personification built as a tactical electronic-warfare mecha frame — slender plating, a sensor-array head unit, holographic map projectors and floating drone bits. Solid hard-surface plates with visible joints cover her frame except at the openings named under Exposure; any cape or skirt is made of rigid armored plates; her face and hair stay human.\nSilhouette: sparse outer plates over an exposed mechanical skeleton of metal struts, pistons and cables — light and precise. This silhouette sets the overall shape of the costume above — keep its materials, ornaments and rank in this shape; the details are free.\nColours: deep navy blue, black lacquer, cold steel silver, ivory white, with small accents of deep plum purple and silver (the Sima Jin). Faction frame: navy-blue and black lacquer heavy plating with cold steel-silver edges, angular command fins, a disciplined symmetrical frame, cold blue glow lines.\nSignature item: a black feather fan, rebuilt as a far-future high-tech version of the same kind of object with the same silhouette — hard-surface alloy plates with panel lines, mechanical joints, vents and emitter nodes, an energy edge, plasma blade or glowing core in her glow-line colour and small status lights, with any animal motif re-sculpted as sleek machined armour. She holds it at full scale: one whole object, drawn once, held in front of or beside her body; a long weapon keeps one straight, unbroken shaft with a single head or blade.\nExposure (bold): her mecha frame is cut open by design in only these places — a deep open chest window with natural cleavage framed by the chest plates, and bare upper thighs between the hip armor and thigh-high leg plates; everywhere else she stays fully plated. The plates stay on, fitted and symmetrical, with skin clearly showing in each opening. Intimate areas covered; keep the plate material and palette.\n\n4. SCENE\nWorld: year 2190, the Wei Federation in orbit: a navy-black orbital fortress and capital-ship fleet above a cold blue planet, starfields and a distant sun, hard white floodlights on armored hulls.\nPose: standing confidently, her body turned slightly while her face looks toward the viewer.\nLight: a soft key light with a strong rim light tracing her hair, shoulders and armour; bright, crisp specular highlights on metal and jewellery, and a clean, warm-neutral sheen on her skin.\nComposition: her whole figure from the top of her head or headpiece to both feet inside the frame with clear margins, about four-fifths of the image height; camera at chest height with natural portrait perspective.\n\n5. CONSTRAINTS\nOne figure only — no second character, horse or other creature. No readable text or numbers — emblems are abstract insignia shapes only, never letters or Chinese characters. No logo, watermark, speech bubble or frame border. A far-future setting only — space stations, starships and high-tech structures — with no traditional East-Asian architecture.\nAvoid: a blue or bruise-like tint on the skin around the eyes, glossy or shiny highlights on the face, sweaty, oily or plastic-looking skin.",
+ "date": "2026-11-12",
+ "record": "records/사마의/mecha.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "사마의",
+  "out": "world",
+  "world": "mecha",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {
+   "사마의|mecha": {}
+  },
+  "looks": {
+   "사마의|mecha": {
+    "params": {},
+    "faceDesignOn": true,
+    "silhouetteOn": true,
+    "exposure": "bold"
+   }
+  },
+  "shots": {
+   "사마의|mecha": {
+    "scene": "",
+    "time": "",
+    "pose": "",
+    "expr": "",
+    "frame": ""
+   }
+  },
+  "walked": {},
+  "casualN": 1,
+  "scenes": {}
+ },
+ "generation": {
+  "tool": "image_gen",
+  "endpoint": "images/generations",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "4c0fd8d3511e4e2023f4971c011344137102d9b53a3e2e9cd09870405134be9e",
+  "prompt_sha256": "b9a84e64c13ca8f7cb0464252eb8d45d28f9db723a18d533e9dee4f5176c8762",
+  "prompt_form": "en-prompt",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "selection": 3,
+  "design": "gpt_free",
+  "free_prompt": "Design brief — your own take on this character. A full-body vertical 2:3 (1024×1536) character card image of Sima Yi from the Romance of the Three Kingdoms, reimagined as an adult woman — the patient wolf of Wei, the strategist whose house would rise to found Jin. Age: late twenties — a graceful grown-up face with soft, smooth contours; no wrinkles, folds or under-eye bags. She is a woman — no beard, moustache or facial hair.\n\nYou design her yourself: invent her face, eye colour, hairstyle, makeup, expression, pose and setting as a fresh, original take — do not follow any earlier design of this character. Her hair colour, skin tone, costume and weapon are NOT free: take them from our designs below.\n\nStyle (fixed): Korean MMORPG character artwork. A recognisably drawn face with gently simplified anatomical structure. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\n\nInspiration only: cunning patience and endurance, the wolf-glance — able to look straight behind her over her shoulder, feigning illness to outwait rivals, cold calculation behind courtesy, dark ambition.\n\nWorld (fixed): year 2190, the Wei Federation in orbit: a navy-black orbital fortress and capital-ship fleet above a cold blue planet, starfields and a distant sun, hard white floodlights on armored hulls. Her costume, weapon and setting belong to this world.\n\nCostume (choose one of ours, then add your own idea): pick ONE of these costume shapes from our set and keep its overall silhouette — 1) a sleek armored bodysuit — thin, long plates on the shoulders, arms and legs that follow her curves closely; 2) large wing-shaped binder plates spread symmetrically behind her back as the main shape, with light body armor; 3) a long coat made of rigid plates from the shoulders to below the knees, open at the front to show the body armor, with an angular collar; 4) light body armor with several small shield and drone units floating symmetrically around her; 5) a large ring halo behind her head and a tall crown-like head unit, with long hanging shoulder plates — a ceremonial, elegant shape; 6) sparse outer plates over an exposed mechanical skeleton of metal struts, pistons and cables — light and precise; 7) ring-shaped armor bands floating free around her waist and ankles, with light body armor — the floating rings make the shape. Then add one signature idea of your own drawn from her legend, built into the construction of the outfit itself rather than as a print or a loose accessory — e.g. plates or cloth layered like feathers, scales or petals, a hem or sleeve cut into a motif from her story. Build it in this world's materials and our colours below.\n\nWeapon (fixed — ours): a black feather fan, rebuilt as a far-future high-tech version of the same kind of object with the same silhouette: hard-surface alloy plates with panel lines, mechanical joints, vents and emitter nodes, an energy edge, plasma blade or glowing core in her glow-line colour and small status lights, with any animal motif re-sculpted as sleek machined armour and no wood, silk tassels or forged-bronze fittings.\n\nHair colour (fixed — ours): glossy jet-black hair. Keep exactly this hair colour; only the hairstyle is yours.\n\nSkin tone (fixed — ours): porcelain-pale skin. Keep exactly this skin tone.\n\nCostume colours (ours): deep navy blue, black lacquer, cold steel silver, ivory white, with small accents of deep plum purple and silver (the Sima Jin).\n\nMecha (fixed): she is a female mecha personification — her whole body is covered in solid hard-surface mecha armour plates with visible thickness, joints, panel lines and glow lines, never cloth or a gown; no cloth robe, gown, skirt or long fabric over the plates — any cape, skirt or wing is rigid armoured plates. Her face and hair stay human.\n\nRank (fixed): she is a master strategist — her costume must read scholarly prestige at first glance: elegant, layered and finely ornamented, with flagship-card detail, never plain or sparse.\n\nExposure (fixed): bold — her outfit shows skin by design (a deep neckline, bare shoulders or arms, a high slit or short hem); intimate areas covered.\n\nFace proportions: a short midface and a soft, gently rounded jawline with a small soft chin — never a long face or a long, pointed or heavy jaw; any crown or headpiece sits above her hairline and never lengthens her face. Her eyes stay at a natural open size — never squeezed into narrow slits.\n\nComposition: vertical 2:3 full-body framing with modest headroom and clear space below the boots — the whole figure from the top of her crown or headpiece to both boots stays inside the frame, occupying about four-fifths of the image height, with the same camera distance in every genre; her hands and her signature item stay inside the frame. Camera at chest height with natural portrait perspective — no wide-angle distortion, no low angle, no close crop.\n\nIf you have already drawn a free design of her in this session, make this one clearly different — another face and hairstyle (the same hair colour and skin tone), another costume shape from the list with another signature idea, another pose and setting.\n\nWrite your own detailed image prompt from this brief, then draw it. One figure only, natural hands with five fingers; a far-future setting only — no traditional East-Asian architecture, pagodas or tiled roofs; no hanzi; no logo or watermark.\n\nOriginal design: Choose silhouette 3, the long rigid armored plate coat with angular collar, open front showing body armor. Compact adult soft oval face, open jade-green eyes, smooth arched brows, faint composed smile. Glossy jet-black hair in a high ponytail with blunt light fringe. Deep navy, black lacquer, cold steel silver and ivory armor with small plum accents. Articulated backward-pointing shoulder and coat segments form the wolf-glance as functional rearward sensor vanes integrated into the hard-surface construction, no animal head. Plate thickness, panel seams, joint bearings, vents, pale violet glow lines. Human face and hair; hard armor around torso and limbs; designed open collar and exposed shoulder/upper thigh areas with intimate areas covered. No cloth. She holds one black fan-shaped array of alloy feather plates on a single handle, emitter nodes and violet energy edges; other hand raised open beside a holographic strategic surface. Empty orbital fortress observation deck above a cold blue planet. Full figure inside frame, five fingers on both hands, chest-height view."
+ },
+ "execution": "sam-simayi-7580-20261113",
+ "imported": "2026-11-13",
+ "qa": {
+  "reviewer": "Codex",
+  "image_sha256": "4c0fd8d3511e4e2023f4971c011344137102d9b53a3e2e9cd09870405134be9e",
+  "passed": true,
+  "exposure": "match",
+  "observations": [
+   "1024x1536; full body inside frame",
+   "Selected by user: 1,4,3",
+   "Face, black hair, pale skin, fan, limbs and genre visually reviewed; no blocking anatomy defect observed"
+  ]
+ },
+ "review": {
+  "reviewed": true,
+  "by": "user",
+  "result": "selected"
+ }
+}
