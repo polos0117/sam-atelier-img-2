@@ -1,0 +1,119 @@
+{
+ "atelier": "samguk",
+ "card": "서서",
+ "faction": "shu",
+ "role": "strategist",
+ "world": "mecha",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v1",
+ "notes": {},
+ "look": {
+  "params": {},
+  "faceDesignOn": true,
+  "silhouetteOn": true,
+  "exposure": "bold"
+ },
+ "design": {
+  "face": {
+   "eye_color": "forest_green",
+   "impression": "melancholic",
+   "expr": "wistful",
+   "skin_tone": "fair",
+   "age": "mid_20s",
+   "eye_size": "small",
+   "eye_tilt": "down",
+   "mark": "mole_eye",
+   "brows": "low_heavy",
+   "nose": "broad_soft",
+   "lips": "small_bow",
+   "face_shape": "round",
+   "eyes": "droopy_soft"
+  },
+  "silhouette": {
+   "body": "curvy_athletic",
+   "hair_color": "dark_brown",
+   "hair": "braids",
+   "bangs": "parted"
+  }
+ },
+ "shot": {
+  "scene": "",
+  "time": "",
+  "pose": "",
+  "expr": "",
+  "frame": ""
+ },
+ "file": "서서_mecha_kr_drawn_rim_dewy_f.webp",
+ "prompt": "Design brief — your own take on this character. A full-body vertical 2:3 (1024×1536) character card image of Xu Shu from the Romance of the Three Kingdoms, reimagined as an adult woman — the wandering swordswoman turned strategist who left for her mother's letter. Age: mid-twenties — a clear adult face; no facial lines. She is a woman — no beard, moustache or facial hair.\n\nStyle (fixed): Korean MMORPG character artwork. A recognisably drawn face with gently simplified anatomical structure. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\n\nInspiration only: a former knight-errant in a scholar's robe over a swordswoman's belt, filial devotion, quiet melancholy, a vow never to devise a plan for the enemy, a folded letter tucked at her belt.\n\nWorld (fixed): year 2190, the Shu frontier colony on a jade-green moon: terraced garden cities under vast glass domes, a ringed gas giant filling the sky, an orbital elevator climbing into space, starship docks glowing green. Her costume, weapon and setting belong to this world.\n\nCostume (choose one of ours, then add your own idea): pick ONE of these costume shapes from our set and keep its overall silhouette — 1) a sleek armored bodysuit — thin, long plates on the shoulders, arms and legs that follow her curves closely; 2) large wing-shaped binder plates spread symmetrically behind her back as the main shape, with light body armor; 3) a long coat made of rigid plates from the shoulders to below the knees, open at the front to show the body armor, with an angular collar; 4) light body armor with several small shield and drone units floating symmetrically around her; 5) a large ring halo behind her head and a tall crown-like head unit, with long hanging shoulder plates — a ceremonial, elegant shape; 6) sparse outer plates over an exposed mechanical skeleton of metal struts, pistons and cables — light and precise; 7) ring-shaped armor bands floating free around her waist and ankles, with light body armor — the floating rings make the shape. Then add one signature idea of your own drawn from her legend, built into the construction of the outfit itself rather than as a print or a loose accessory — e.g. plates or cloth layered like feathers, scales or petals, a hem or sleeve cut into a motif from her story. Build it in this world's materials and our colours below.\n\nWeapon (fixed — ours): a slim scholar's sword, rebuilt as a far-future high-tech version of the same kind of object with the same silhouette: hard-surface alloy plates with panel lines, mechanical joints, vents and emitter nodes, an energy edge, plasma blade or glowing core in her glow-line colour and small status lights, with any animal motif re-sculpted as sleek machined armour and no wood, silk tassels or forged-bronze fittings.\n\nHair colour (fixed — ours): dark brown hair. Keep exactly this hair colour; only the hairstyle is yours.\n\nSkin tone (fixed — ours): fair skin. Keep exactly this skin tone.\n\nCostume colours (ours): jade green, imperial gold, earthen brown, white jade, with small accents of deep navy blue and black lacquer (Cao Wei).\n\nMecha (fixed): she is a female mecha personification — her whole body is covered in solid hard-surface mecha armour plates with visible thickness, joints, panel lines and glow lines, never cloth or a gown; no cloth robe, gown, skirt or long fabric over the plates — any cape, skirt or wing is rigid armoured plates. Her face and hair stay human.\n\nRank (fixed): she is a master strategist — her costume must read scholarly prestige at first glance: elegant, layered and finely ornamented, with flagship-card detail, never plain or sparse.\n\nExposure (fixed): bold — her outfit shows skin by design (a deep neckline, bare shoulders or arms, a high slit or short hem); intimate areas covered.\n\nFace proportions: a short midface and a soft, gently rounded jawline with a small soft chin — never a long face or a long, pointed or heavy jaw; any crown or headpiece sits above her hairline and never lengthens her face. Her eyes stay at a natural open size — never squeezed into narrow slits.\n\nComposition: vertical 2:3 full-body framing with modest headroom and clear space below the boots — the whole figure from the top of her crown or headpiece to both boots stays inside the frame, occupying about four-fifths of the image height, with the same camera distance in every genre; her hands and her signature item stay inside the frame. Camera at chest height with natural portrait perspective — no wide-angle distortion, no low angle, no close crop.\n\nChosen design: silhouette 3, a long coat entirely constructed from thick rigid armour plates with angular collar, open at the front to reveal body armour. Diagonal envelope-fold plate construction symbolises the letter, each plate joint articulated in gold. Jade-green and white-jade hard-surface armour with brown inset panels and small navy and black-lacquer accents; bare upper chest within a deep open neckline and exposed shoulders, intimate areas covered. Dark brown hair in a sleek chin-length asymmetrical bob, compact soft face, natural grey-green eyes, focused wistful expression. She stands on a starship docking platform beneath an orbital elevator and ringed planet. One complete slim high-tech scholar sword held beside her in one hand, the other hand touching an envelope-shaped armour seam over her sternum. Both hands visible; all coat panels rigid armour, no cloth.\n\nOne figure only, natural hands with five fingers. No readable text, logo or watermark.\n",
+ "date": "2026-11-12",
+ "record": "records/서서/mecha.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "서서",
+  "out": "world",
+  "world": "mecha",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {
+   "서서|mecha": {}
+  },
+  "looks": {
+   "서서|mecha": {
+    "params": {},
+    "faceDesignOn": true,
+    "silhouetteOn": true,
+    "exposure": "bold"
+   }
+  },
+  "shots": {
+   "서서|mecha": {
+    "scene": "",
+    "time": "",
+    "pose": "",
+    "expr": "",
+    "frame": ""
+   }
+  },
+  "walked": {},
+  "casualN": 1,
+  "scenes": {}
+ },
+ "execution": "sam-xushu-3ae256-20261113",
+ "imported": "2026-11-13",
+ "acceptance": "user_approval_2026-11-13 — selected world candidates 1,3,3; upload and main publication authorized",
+ "review": {
+  "reviewed": true,
+  "by": "user",
+  "result": "selected",
+  "candidate": 3
+ },
+ "generation": {
+  "tool": "image_gen",
+  "endpoint": "images/generations",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "f9bb21703f26eb904586d519c2f91818a79eb32e3b68b93a302b78452b426852",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "prompt_form": "en-prompt",
+  "prompt_sha256": "ed1861eccbe795e26dbe6e8f4c3a30eb141f7bcf98e0f031670345795a6b9626",
+  "selected_candidate": 3,
+  "design": "gpt_free",
+  "free_prompt": "Design brief — your own take on this character. A full-body vertical 2:3 (1024×1536) character card image of Xu Shu from the Romance of the Three Kingdoms, reimagined as an adult woman — the wandering swordswoman turned strategist who left for her mother's letter. Age: mid-twenties — a clear adult face; no facial lines. She is a woman — no beard, moustache or facial hair.\n\nStyle (fixed): Korean MMORPG character artwork. A recognisably drawn face with gently simplified anatomical structure. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\n\nInspiration only: a former knight-errant in a scholar's robe over a swordswoman's belt, filial devotion, quiet melancholy, a vow never to devise a plan for the enemy, a folded letter tucked at her belt.\n\nWorld (fixed): year 2190, the Shu frontier colony on a jade-green moon: terraced garden cities under vast glass domes, a ringed gas giant filling the sky, an orbital elevator climbing into space, starship docks glowing green. Her costume, weapon and setting belong to this world.\n\nCostume (choose one of ours, then add your own idea): pick ONE of these costume shapes from our set and keep its overall silhouette — 1) a sleek armored bodysuit — thin, long plates on the shoulders, arms and legs that follow her curves closely; 2) large wing-shaped binder plates spread symmetrically behind her back as the main shape, with light body armor; 3) a long coat made of rigid plates from the shoulders to below the knees, open at the front to show the body armor, with an angular collar; 4) light body armor with several small shield and drone units floating symmetrically around her; 5) a large ring halo behind her head and a tall crown-like head unit, with long hanging shoulder plates — a ceremonial, elegant shape; 6) sparse outer plates over an exposed mechanical skeleton of metal struts, pistons and cables — light and precise; 7) ring-shaped armor bands floating free around her waist and ankles, with light body armor — the floating rings make the shape. Then add one signature idea of your own drawn from her legend, built into the construction of the outfit itself rather than as a print or a loose accessory — e.g. plates or cloth layered like feathers, scales or petals, a hem or sleeve cut into a motif from her story. Build it in this world's materials and our colours below.\n\nWeapon (fixed — ours): a slim scholar's sword, rebuilt as a far-future high-tech version of the same kind of object with the same silhouette: hard-surface alloy plates with panel lines, mechanical joints, vents and emitter nodes, an energy edge, plasma blade or glowing core in her glow-line colour and small status lights, with any animal motif re-sculpted as sleek machined armour and no wood, silk tassels or forged-bronze fittings.\n\nHair colour (fixed — ours): dark brown hair. Keep exactly this hair colour; only the hairstyle is yours.\n\nSkin tone (fixed — ours): fair skin. Keep exactly this skin tone.\n\nCostume colours (ours): jade green, imperial gold, earthen brown, white jade, with small accents of deep navy blue and black lacquer (Cao Wei).\n\nMecha (fixed): she is a female mecha personification — her whole body is covered in solid hard-surface mecha armour plates with visible thickness, joints, panel lines and glow lines, never cloth or a gown; no cloth robe, gown, skirt or long fabric over the plates — any cape, skirt or wing is rigid armoured plates. Her face and hair stay human.\n\nRank (fixed): she is a master strategist — her costume must read scholarly prestige at first glance: elegant, layered and finely ornamented, with flagship-card detail, never plain or sparse.\n\nExposure (fixed): bold — her outfit shows skin by design (a deep neckline, bare shoulders or arms, a high slit or short hem); intimate areas covered.\n\nFace proportions: a short midface and a soft, gently rounded jawline with a small soft chin — never a long face or a long, pointed or heavy jaw; any crown or headpiece sits above her hairline and never lengthens her face. Her eyes stay at a natural open size — never squeezed into narrow slits.\n\nComposition: vertical 2:3 full-body framing with modest headroom and clear space below the boots — the whole figure from the top of her crown or headpiece to both boots stays inside the frame, occupying about four-fifths of the image height, with the same camera distance in every genre; her hands and her signature item stay inside the frame. Camera at chest height with natural portrait perspective — no wide-angle distortion, no low angle, no close crop.\n\nChosen design: silhouette 3, a long coat entirely constructed from thick rigid armour plates with angular collar, open at the front to reveal body armour. Diagonal envelope-fold plate construction symbolises the letter, each plate joint articulated in gold. Jade-green and white-jade hard-surface armour with brown inset panels and small navy and black-lacquer accents; bare upper chest within a deep open neckline and exposed shoulders, intimate areas covered. Dark brown hair in a sleek chin-length asymmetrical bob, compact soft face, natural grey-green eyes, focused wistful expression. She stands on a starship docking platform beneath an orbital elevator and ringed planet. One complete slim high-tech scholar sword held beside her in one hand, the other hand touching an envelope-shaped armour seam over her sternum. Both hands visible; all coat panels rigid armour, no cloth.\n\nOne figure only, natural hands with five fingers. No readable text, logo or watermark.\n"
+ },
+ "qa": {
+  "reviewer": "gpt-session",
+  "image_sha256": "f9bb21703f26eb904586d519c2f91818a79eb32e3b68b93a302b78452b426852",
+  "passed": true,
+  "exposure": "match",
+  "observations": [
+   "One adult female figure; whole figure and feet inside portrait frame.",
+   "Both arms and hands visibly connected; no obvious duplicated or missing limbs.",
+   "Genre-specific clothing and a single slim sword visible.",
+   "No obvious logo, watermark or unintended readable text.",
+   "User explicitly selected this candidate."
+  ]
+ }
+}

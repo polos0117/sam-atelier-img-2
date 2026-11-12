@@ -1,0 +1,117 @@
+{
+ "atelier": "samguk",
+ "card": "서서",
+ "faction": "shu",
+ "role": "strategist",
+ "world": "samguk",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v1",
+ "notes": {},
+ "look": {
+  "params": {},
+  "faceDesignOn": true,
+  "silhouetteOn": true,
+  "exposure": "bold"
+ },
+ "design": {
+  "face": {
+   "eye_color": "forest_green",
+   "impression": "melancholic",
+   "expr": "wistful",
+   "skin_tone": "fair",
+   "age": "mid_20s",
+   "eye_size": "small",
+   "eye_tilt": "down",
+   "mark": "mole_eye",
+   "brows": "low_heavy",
+   "nose": "broad_soft",
+   "lips": "small_bow",
+   "face_shape": "round",
+   "eyes": "monolid_long"
+  },
+  "silhouette": {
+   "body": "curvy_athletic",
+   "hair_color": "dark_brown",
+   "hair": "updo_bun",
+   "bangs": "choppy"
+  }
+ },
+ "shot": {
+  "scene": "",
+  "time": "",
+  "pose": "",
+  "expr": "",
+  "frame": ""
+ },
+ "file": "서서_samguk_kr_drawn_rim_dewy_f.webp",
+ "prompt": "A full-body character image, vertical 2:3 (1024×1536): Xu Shu of the Romance of the Three Kingdoms, reimagined as an adult woman — the wandering swordswoman turned strategist who left for her mother's letter.\n\n1. STYLE\nKorean MMORPG character artwork. A recognisably drawn face with gently simplified anatomical structure. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nHer face is small and soft: a short midface, a softly rounded jaw and a small chin, about 1.3 times as long as it is wide, with her eyes open at their natural size. Bangs, side locks and headpieces frame the face without lengthening it.\nSkin finish: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\n2. CHARACTER\nAge: mid-twenties — a clear adult face.\nFace — her own, recognisably this character, a woman's face with no beard or facial hair: a quiet melancholy; fair skin; round face; smaller, narrower eyes than usual anime proportion — long monolid eyes, outer eye corners drooping downward; low heavy brows; broad soft nose; small bow lips; forest-green eyes; a small beauty mark under one eye.\nBody and hair: toned athletic-curvy, full-busted with rounded hips build; an updo bun with choppy uneven bangs; dark brown hair.\nExpression: a faint wistful smile, soft eyes, subtle and relaxed.\nLegend, carried in her design and bearing: a former knight-errant in a scholar's robe over a swordswoman's belt, filial devotion, quiet melancholy, a vow never to devise a plan for the enemy, a folded letter tucked at her belt.\nAnatomy: one head, two arms and two legs, each joined at its natural joint; natural hands with five fingers.\n\n3. COSTUME AND EQUIPMENT — THREE KINGDOMS\nCostume: a strategist's scholar robes — flowing layered silk robes with wide sleeves, a scholar's guan cap or silk ribbon, a feather fan or bound bamboo scrolls, a jade pendant. Late-Han Chinese dress — cross-collared silk robes with wide sleeves and a broad sash, lamellar or scale armor laced with cords where armor is worn, bronze, jade and lacquer ornament, Han court hair ornaments; silk, lacquered leather, bronze and iron.\nSilhouette: a long silk shawl wrapping the shoulders and arms and floating in the air, light layered robes — an airy, celestial silhouette. This silhouette sets the overall shape of the costume above — keep its materials, ornaments and rank in this shape; the details are free.\nColours: jade green, imperial gold, earthen brown, white jade, with small accents of deep navy blue and black lacquer (Cao Wei).\nSignature item: a slim scholar's sword. She holds it at full scale: one whole object, drawn once, held in front of or beside her body; a long weapon keeps one straight, unbroken shaft with a single head or blade.\nExposure (bold): her robes open to show skin — the cross collar opened into a deep neckline with natural cleavage, bare upper arms above detached wide sleeves (and bare shoulders where no shoulder guard sits), a high slit in the skirt panels showing the thigh; any armor pieces stay on and symmetrical. Intimate areas covered; keep the costume material and palette.\n\n4. SCENE\nWorld: Shu Han in the Sichuan basin, around 208–263 AD: the city of Chengdu, cliffside plank roads over gorges, mist-wrapped mountains and bamboo forests, peach orchards, green-and-gold banners.\nPose: standing confidently, her body turned slightly while her face looks toward the viewer.\nLight: a soft key light with a strong rim light tracing her hair, shoulders and armour; bright, crisp specular highlights on metal and jewellery, and a clean, warm-neutral sheen on her skin.\nComposition: her whole figure from the top of her head or headpiece to both feet inside the frame with clear margins, about four-fifths of the image height; camera at chest height with natural portrait perspective.\n\n5. CONSTRAINTS\nOne figure only — no second character, horse or other creature. No readable text or numbers, except that a banner, seal or emblem may carry the single character 蜀 or 徐. No logo, watermark, speech bubble or frame border. Three Kingdoms-era Chinese dress, architecture and materials only.\nAvoid: a blue or bruise-like tint on the skin around the eyes, glossy or shiny highlights on the face, sweaty, oily or plastic-looking skin.",
+ "date": "2026-11-12",
+ "record": "records/서서/samguk.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "서서",
+  "out": "world",
+  "world": "samguk",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {
+   "서서|samguk": {}
+  },
+  "looks": {
+   "서서|samguk": {
+    "params": {},
+    "faceDesignOn": true,
+    "silhouetteOn": true,
+    "exposure": "bold"
+   }
+  },
+  "shots": {
+   "서서|samguk": {
+    "scene": "",
+    "time": "",
+    "pose": "",
+    "expr": "",
+    "frame": ""
+   }
+  },
+  "walked": {},
+  "casualN": 1,
+  "scenes": {}
+ },
+ "execution": "sam-xushu-3ae256-20261113",
+ "imported": "2026-11-13",
+ "acceptance": "user_approval_2026-11-13 — selected world candidates 1,3,3; upload and main publication authorized",
+ "review": {
+  "reviewed": true,
+  "by": "user",
+  "result": "selected",
+  "candidate": 1
+ },
+ "generation": {
+  "tool": "image_gen",
+  "endpoint": "images/generations",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "887b5ae4c0a1104a7350497e9162e4919886f5dad4d635e6cec7b71a512d8a2e",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "prompt_form": "en-prompt",
+  "prompt_sha256": "56fab48a20d444ab596983effe219b5fd5c7997ef411dda380fc413825d76c6c",
+  "selected_candidate": 1
+ },
+ "qa": {
+  "reviewer": "gpt-session",
+  "image_sha256": "887b5ae4c0a1104a7350497e9162e4919886f5dad4d635e6cec7b71a512d8a2e",
+  "passed": true,
+  "exposure": "match",
+  "observations": [
+   "One adult female figure; whole figure and feet inside portrait frame.",
+   "Both arms and hands visibly connected; no obvious duplicated or missing limbs.",
+   "Genre-specific clothing and a single slim sword visible.",
+   "No obvious logo, watermark or unintended readable text.",
+   "User explicitly selected this candidate."
+  ]
+ }
+}

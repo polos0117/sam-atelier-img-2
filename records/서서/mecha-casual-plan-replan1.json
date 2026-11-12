@@ -1,0 +1,43 @@
+{
+ "card": "서서",
+ "world": "mecha",
+ "seed": 519524844,
+ "tree": 2,
+ "style": "kr_drawn_rim_dewy",
+ "required": "nation · roleplay · situ:wind · free:swimwear+free",
+ "slots": [
+  1
+ ],
+ "fresh": false,
+ "cuts": [
+  {
+   "n": 1,
+   "era": "now",
+   "place": "sports_studio",
+   "ofam": "bridal",
+   "treeV": 2,
+   "prop": "",
+   "preset": "vsign_close",
+   "use": "",
+   "posture": "stand",
+   "support": "none",
+   "frame": "face_close",
+   "body": "front",
+   "head": "tilt",
+   "camera": "low",
+   "right": "v_sign",
+   "left": "out",
+   "legs": "",
+   "gaze": "camera",
+   "item": "sweetheart_veil",
+   "expr": "half_smile",
+   "axes": {
+    "overall_intensity": "strong",
+    "skin_exposure": "bold"
+   },
+   "aspect": "2:3",
+   "unlocked": [],
+   "color": "earth"
+  }
+ ]
+}
