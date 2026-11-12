@@ -1,0 +1,116 @@
+{
+ "atelier": "samguk",
+ "card": "소교",
+ "faction": "wu",
+ "role": "official",
+ "world": "fantasy",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v1",
+ "notes": {},
+ "look": {
+  "params": {},
+  "faceDesignOn": true,
+  "silhouetteOn": true,
+  "exposure": "bold"
+ },
+ "design": {
+  "face": {
+   "eye_color": "aqua",
+   "impression": "cute",
+   "expr": "playful",
+   "skin_tone": "porcelain",
+   "age": "mid_20s",
+   "eye_size": "small",
+   "eye_tilt": "down",
+   "mark": "dark_lip",
+   "brows": "angled_sharp",
+   "nose": "aquiline",
+   "lips": "thin_long",
+   "face_shape": "heart",
+   "eyes": "hooded"
+  },
+  "silhouette": {
+   "body": "busty_slender",
+   "hair_color": "platinum_blonde",
+   "hair": "side_braid",
+   "bangs": "swept_back"
+  }
+ },
+ "shot": {
+  "scene": "",
+  "time": "",
+  "pose": "",
+  "expr": "",
+  "frame": ""
+ },
+ "file": "소교_fantasy_kr_drawn_rim_dewy_f.webp",
+ "prompt": "A full-body character image, vertical 2:3 (1024×1536): Xiao Qiao of the Romance of the Three Kingdoms, reimagined as an adult woman — the younger Qiao, Zhou Yu's beloved, the spring of Jiangdong.\n\n1. STYLE\nKorean MMORPG character artwork. A recognisably drawn face with gently simplified anatomical structure. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nHer face is small and soft: a short midface, a softly rounded jaw and a small chin, about 1.3 times as long as it is wide, with her eyes open at their natural size. Bangs, side locks and headpieces frame the face without lengthening it.\nSkin finish: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\n2. CHARACTER\nAge: mid-twenties — a clear adult face.\nFace — her own, recognisably this character, a woman's face with no beard or facial hair: a cute, bright-eyed sweetness; porcelain-pale skin; delicate V-line face with a small, soft chin; smaller, narrower eyes than usual anime proportion — long monolid eyes, outer eye corners drooping downward; sharp angled brows; aquiline nose; thin long lips; clear aqua eyes; dark berry lipstick.\nBody and hair: slender-limbed yet full-busted with rounded hips and a narrow waist build; a low ponytail tied at the nape with short baby bangs; platinum-blonde hair.\nExpression: a light teasing smile, bright eyes, subtle and relaxed.\nLegend, carried in her design and bearing: lively beauty, music and dance, pastel silks and ribbons.\nAnatomy: one head, two arms and two legs, each joined at its natural joint; natural hands with five fingers.\n\n3. COSTUME AND EQUIPMENT — MEDIEVAL FANTASY\nCostume: a royal chancellor's or court scholar's dress — a long embroidered coat with a stole, a seal ring, ledgers and a quill. Western medieval high-fantasy dress — plate, mail and heraldic tabards, gowns and mantles, circlets and crowns; steel, leather, wool, velvet and gold, with a subtle magical glow along the patterns. Her Three Kingdoms origin shows through her signature item, her colours and her bearing.\nSilhouette: thin leaf-patterned armor plates and flowing light fabric panels with a slender circlet — a slender, graceful silhouette. This silhouette sets the overall shape of the costume above — keep its materials, ornaments and rank in this shape; the details are free.\nColours: crimson red, gold, river teal, black lacquer.\nSignature item: a pair of folding dance fans, reimagined as a Western high-fantasy version of the same kind of object with the same silhouette — polished steel and silvered mithril throughout, the shaft or hilt also forged metal with engraved runes (never plain wood), a faint magical glow running along the edge and the runes, a gem-set guard or socket, a leather-wrapped grip and heraldic or elven ornament, with any animal motif re-sculpted in Western heraldic style. She holds it at full scale: one whole object, drawn once, held in front of or beside her body; a long weapon keeps one straight, unbroken shaft with a single head or blade.\nExposure (bold): her regalia opens to show skin — bare shoulders and arms between pauldron and bracer, a deep open neckline under the gorget with natural cleavage, a high slit in the tabard or gown showing the thigh; armor pieces stay on and symmetrical. Intimate areas covered; no corset; keep the costume material and palette.\n\n4. SCENE\nWorld: a river-and-sea kingdom of medieval high fantasy: a vast river delta, crimson-sailed galleons and war galleys, harbor fortresses of red stone, fire magic dancing over dark water.\nPose: standing confidently, her body turned slightly while her face looks toward the viewer.\nLight: a soft key light with a strong rim light tracing her hair, shoulders and armour; bright, crisp specular highlights on metal and jewellery, and a clean, warm-neutral sheen on her skin.\nComposition: her whole figure from the top of her head or headpiece to both feet inside the frame with clear margins, about four-fifths of the image height; camera at chest height with natural portrait perspective.\n\n5. CONSTRAINTS\nOne figure only — no second character, horse or other creature. No readable text or numbers — banners and shields carry only heraldic devices (a beast or a crest), never letters or Chinese characters. No logo, watermark, speech bubble or frame border. A Western medieval setting and dress only — stone castles, Romanesque or Gothic architecture — with no Chinese architecture, robes or hanzi.\nAvoid: a blue or bruise-like tint on the skin around the eyes, glossy or shiny highlights on the face, sweaty, oily or plastic-looking skin.",
+ "date": "2026-11-12",
+ "record": "records/소교/fantasy.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "소교",
+  "out": "world",
+  "world": "fantasy",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {
+   "소교|fantasy": {}
+  },
+  "looks": {
+   "소교|fantasy": {
+    "params": {},
+    "faceDesignOn": true,
+    "silhouetteOn": true,
+    "exposure": "bold"
+   }
+  },
+  "shots": {
+   "소교|fantasy": {
+    "scene": "",
+    "time": "",
+    "pose": "",
+    "expr": "",
+    "frame": ""
+   }
+  },
+  "walked": {},
+  "casualN": 1,
+  "scenes": {}
+ },
+ "execution": "sam-xiaoqiao-5a7133",
+ "imported": "2026-11-13",
+ "acceptance": "user selected world candidates 3,3,1 and authorized commit and ordinary main push",
+ "review": {
+  "reviewed": true,
+  "by": "user",
+  "result": "selected",
+  "candidate": 3
+ },
+ "generation": {
+  "tool": "image_gen",
+  "endpoint": "images/generations",
+  "design": "gpt_free",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "c482c32625100ea8a89515128f763ac1331bd0a872fad67ba6347ba251414437",
+  "prompt_form": "en-prompt",
+  "prompt_sha256": "958b4bd0b967a7b34b02cea6bde4276064c0868b48f912f18873163c92df2d92",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "retries": [],
+  "free_prompt": "Design brief — your own take on this character. A full-body vertical 2:3 (1024×1536) character card image of Xiao Qiao from the Romance of the Three Kingdoms, reimagined as an adult woman — the younger Qiao, Zhou Yu's beloved, the spring of Jiangdong. Age: mid-twenties — a clear adult face; no facial lines. She is a woman — no beard, moustache or facial hair.\n\nYou design her yourself: invent her face, eye colour, hairstyle, makeup, expression, pose and setting as a fresh, original take — do not follow any earlier design of this character. Her hair colour, skin tone, costume and weapon are NOT free: take them from our designs below.\n\nStyle (fixed): Korean MMORPG character artwork. A recognisably drawn face with gently simplified anatomical structure. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\n\nInspiration only: lively beauty, music and dance, pastel silks and ribbons.\n\nWorld (fixed): a river-and-sea kingdom of medieval high fantasy: a vast river delta, crimson-sailed galleons and war galleys, harbor fortresses of red stone, fire magic dancing over dark water. Her costume, weapon and setting belong to this world.\n\nCostume (choose one of ours, then add your own idea): pick ONE of these costume shapes from our set and keep its overall silhouette — 1) leather armor with a short cloak, a lowered hood, bracers and boots — a light, agile ranger's silhouette; 2) a long floor-length robe with a high collar, wide sleeves and a shoulder mantle — a tall, mysterious mage's silhouette; 3) a fitted breastplate and pauldrons above a gown skirt flaring to the floor — an elegant lady-knight silhouette; 4) a light breastplate and bracers with robe panels split from the waist — half armor, half robe; 5) thin leaf-patterned armor plates and flowing light fabric panels with a slender circlet — a slender, graceful silhouette; 6) a long coat below the knees with epaulettes, a belt, gloves and tall boots — a crisp, commanding officer's silhouette; 7) a floor-length priestly vestment with gold-trimmed stoles and a tall head ornament — a long, devout silhouette. Then add one signature idea of your own drawn from her legend, built into the construction of the outfit itself rather than as a print or a loose accessory — e.g. plates or cloth layered like feathers, scales or petals, a hem or sleeve cut into a motif from her story. Build it in this world's materials and our colours below.\n\nWeapon (fixed — ours): a pair of folding dance fans, reimagined as a Western high-fantasy version of the same kind of object with the same silhouette: polished steel and silvered mithril throughout, the shaft or hilt also forged metal with engraved runes (never plain wood), a faint magical glow running along the edge and the runes, a gem-set guard or socket, a leather-wrapped grip and heraldic or elven ornament, with any animal motif re-sculpted in Western heraldic style and no Chinese fittings, silk tassels or hanzi.\n\nHair colour (fixed — ours): platinum-blonde hair. Keep exactly this hair colour; only the hairstyle is yours.\n\nSkin tone (fixed — ours): porcelain-pale skin. Keep exactly this skin tone.\n\nCostume colours (ours): crimson red, gold, river teal, black lacquer.\n\nRank (fixed): she is a high court official — her costume must read dignified office at first glance: refined, layered and finely ornamented, with flagship-card detail, never plain or sparse.\n\nExposure (fixed): bold — her outfit shows skin by design (a deep neckline, bare shoulders or arms, a high slit or short hem); intimate areas covered.\n\nFace proportions: a short midface and a soft, gently rounded jawline with a small soft chin — never a long face or a long, pointed or heavy jaw; any crown or headpiece sits above her hairline and never lengthens her face. Her eyes stay at a natural open size — never squeezed into narrow slits.\n\nComposition: vertical 2:3 full-body framing with modest headroom and clear space below the boots — the whole figure from the top of her crown or headpiece to both boots stays inside the frame, occupying about four-fifths of the image height, with the same camera distance in every genre; her hands and her signature item stay inside the frame. Camera at chest height with natural portrait perspective — no wide-angle distortion, no low angle, no close crop.\n\nIf you have already drawn a free design of her in this session, make this one clearly different — another face and hairstyle (the same hair colour and skin tone), another costume shape from the list with another signature idea, another pose and setting.\n\nWrite your own detailed image prompt from this brief, then draw it. One figure only, natural hands with five fingers; Western medieval setting and dress only — no Chinese architecture, robes, junks or hanzi; no logo or watermark.\n\nDETAILED DESIGN FOR THIS IMAGE:\nChoose silhouette 3, fitted breastplate and pauldrons above a floor-flaring gown, Western lady-knight silhouette. Make the lower crimson gown panels unfold into graduated pleated arcs like a dance fan, dark lacquered steel ribs and gold hinges, river-teal velvet linings. A high-court river chancellor with refined rank medallions and gold filigree. Platinum-blonde long spiral curls half-up with a slender crown, porcelain-pale skin, emerald eyes, soft heart adult face and warm confident smile. Deep open neckline, exposed arms between pauldrons and bracers, high slit showing one thigh. Two visible hands hold the pair of rune-engraved mithril folding fans with gem hinges, one open and one half-open. Standing on a Romanesque harbor balcony above crimson-sailed Western galleons in golden daylight. Whole figure and feet fully inside 2:3 frame, natural perspective.\n"
+ },
+ "qa": {
+  "reviewer": "gpt-session",
+  "image_sha256": "c482c32625100ea8a89515128f763ac1331bd0a872fad67ba6347ba251414437",
+  "passed": false,
+  "exposure": "match",
+  "observations": [
+   "Whole adult figure, two connected arms and two legs, two visible fan props; selected by user.",
+   "Decorative runic marks appear along fan rims; retained as generated."
+  ]
+ }
+}
