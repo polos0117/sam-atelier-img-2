@@ -1,0 +1,129 @@
+{
+  "atelier": "samguk",
+  "card": "정봉",
+  "faction": "wu",
+  "slot": "casual5",
+  "treeV": 2,
+  "world": "samguk",
+  "style": "kr_drawn_rim_dewy",
+  "styleVersion": "v1",
+  "ref": "정봉_samguk_kr_drawn_rim_dewy_f.webp",
+  "scene": {
+    "treeV": 2,
+    "era": "now",
+    "place": "stage_dance",
+    "ofam": "drape",
+    "item": "roman_stola",
+    "posture": "lean_wall",
+    "support": "back_wall",
+    "frame": "chest_up",
+    "body": "front_3q",
+    "head": "with_body",
+    "camera": "eye",
+    "right": "arms_crossed",
+    "left": "arms_crossed",
+    "use": "",
+    "legs": "",
+    "gaze": "camera",
+    "ofree": true,
+    "ofreeRecent": "a sunny beach with wet sand and shallow surf — carries a camera by its grip at her side; a narrow path through a tall bamboo grove — seated sideways on a stool or bench; a Three Kingdoms festival street — shakes a gourd-shaped wine flask on a red cord by her ear to hear how much wine is left; a stage under a painted night sky of crystal stars — standing; an old stone chapel lit by candles — standing",
+    "expr": "amused",
+    "preset": "crossed_wall",
+    "prop": "",
+    "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    },
+    "unlocked": [],
+    "aspect": "2:3"
+  },
+  "file": "정봉_samguk_kr_drawn_rim_dewy_f_casual5.webp",
+  "prompt": "INPUT: the attached image is the approved character — her Three kingdoms card; keep her. Do not reuse earlier conversation images.\n\nCHARACTER: the same woman as the attached image — the female personification of Ding Feng of the Three Kingdoms, seen in her everyday life. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change, and her hair may be worn differently only as SCENE's Hair line says. Her Three Kingdoms identity shows ONLY as a small accessory, an object around her, or the object PROP says she holds — never in the outfit's colours, patterns or cut, never as armor, regalia or a costume.\n\nDESIGN (accessory hints only): her legend — bold, short-blade fighting, snowfall and sweat — may inform at most one small accessory, a hair ornament or an object beside her, in its palette (crimson red, gold, river teal, black lacquer). The clothes keep the chosen outfit's own colours; her skin, hair and eyes stay as in the attached image.\n\nSIGNATURE ACCESSORY: off duty she carries no weapon — no sword, saber, spear, glaive, halberd, bow, axe, shield or any blade in her hands, on her back or anywhere in the scene. Her signature weapon (a pair of short swords) appears only as one small worn accessory modelled on its shape and colours — a hair ornament, pendant, earring, brooch or belt charm a few centimetres long, clearly jewellery and not a usable weapon.\n\nSTYLE: Korean MMORPG character artwork. A recognisably drawn face with gently simplified anatomical structure. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\n\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nAGE: the same adult woman as in the attached image — keep her own face shape, cheekbones, eye proportions and skin tone exactly; minimal facial lines (no nasolabial folds, crow's feet, under-eye bags or cheek creases). Keep her face soft, feminine and attractive in every framing — never elongated, gaunt, mannish or heavy-jawed, even in close-ups, profiles or low angles.\n\nOUTPUT: one standalone off-duty scene of her in the outfit chosen in SCENE; her legend shows only through accessories and objects around her — never in the outfit's colours, patterns or cut, never as armor, regalia or a costume. Everything else follows SCENE (chosen).\n\nFRAME: a vertical 2:3 (1024×1536) image. Compose the image for this frame; COMPOSITION in SCENE sets how much of her shows.\n\nSCENE (chosen):\nFREE DESIGN: design the place, activity, pose, framing and outfit yourself. Start from who she is — her legend, traits and personality — and show an everyday moment that is unexpected yet feels natural for her. Make it fresh through the situation and what she is doing, not through more decoration. Avoid scenes like the recent ones listed below. Keep her face, the art style and the body and anatomy rules exactly as stated. Before drawing, write your design into the lines below, then draw it. In your pose, give each hand one job only and say plainly where each arm goes; avoid poses where it is unclear which shoulder an arm comes from — an arm behind her back, behind her head or pinned under her body — and never state where a foot sits under water. Do not make it another small repair, adjusting, measuring or sorting task at a workbench, repair stall, equipment room or locker room — those scenes are already in our own list; choose another kind of everyday moment (rest, play, a meal, travel, weather, getting ready, simply being in the place).\nRecent scenes to avoid: a sunny beach with wet sand and shallow surf — carries a camera by its grip at her side; a narrow path through a tall bamboo grove — seated sideways on a stool or bench; a Three Kingdoms festival street — shakes a gourd-shaped wine flask on a red cord by her ear to hear how much wine is left; a stage under a painted night sky of crystal stars — standing; an old stone chapel lit by candles — standing.\nPlace: …\nActivity: …\nPose: …\nFraming: …\nOutfit: … (a revealing, fashionable outfit that is not in our outfit catalog — outfit-catalog.md in this pack)\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing; nothing slipped off; intimate areas covered\n\nWARDROBE: change her clothes completely. From the attached image take only her face, hair and body — not its garment, armor, regalia, ornaments, mecha plates or background. Dress her exactly as SCENE describes; that outfit must read at first glance, keeping its own recognisable colours and parts. Do not carry the attached image's palette, patterns or trim into the outfit; her Three Kingdoms identity belongs in accessories and props, never in the clothes — never restyle the chosen outfit into her faction's palette, armor, robes or regalia.\n\nANGLE: the attached image fixes who she is, not how she is posed or shot. Do not copy its head angle, head tilt, gaze direction, face size in frame, camera height or crop — turn her head, set her gaze and place the camera exactly as SCENE describes, and let her face read naturally from that new angle (profile, three-quarter, looking down or away), with her features staying the same. No default card pose, no default front-facing portrait.\n\nONE MAIN FIGURE: she is the only character in focus. Where the place is busy, other people may appear only as small, soft-focus background extras — never posed with her. No logo, no watermark, no speech bubble, no frame border. No readable text or numbers.\n\nANATOMY: natural adult proportions, about 7.5 heads tall — height from the legs, never a smaller head or a longer neck. The neck is a natural length and the head sits close to the shoulders. No body-part enlargement, no extra limbs.\n\nBODY: a normal human body — one head, two arms and two legs, each joined at its natural joint; elbows, knees and wrists bend the human way. Hands and feet may be partly hidden by the pose, what she holds or the frame. Right and left mean her own right and left, not the viewer's.\n\nHANDS: natural human hands, no extra or duplicated limbs; each visible hand joins through its wrist and forearm to the matching shoulder. A hand may stay outside the crop, and fingers may be partly hidden by a grip.\n\nAVOID: a blue or bruise-like tint on the skin around the eyes, glossy or shiny highlights on the face, sweaty, oily or plastic-looking skin.",
+  "date": "2026-11-13",
+  "record": "records/정봉/samguk-casual5.kr_drawn_rim_dewy-ui.json",
+  "storage": {
+    "card": "정봉",
+    "out": "casual",
+    "world": "samguk",
+    "style": "kr_drawn_rim_dewy",
+    "notes": {},
+    "looks": {},
+    "shots": {},
+    "walked": {},
+    "casualN": 5,
+    "scenes": {
+      "정봉": {
+        "era": "now",
+        "place": "stage_dance",
+        "ofam": "drape",
+        "treeV": 2,
+        "prop": "",
+        "preset": "crossed_wall",
+        "use": "",
+        "posture": "lean_wall",
+        "support": "back_wall",
+        "frame": "chest_up",
+        "body": "front_3q",
+        "head": "with_body",
+        "camera": "eye",
+        "right": "arms_crossed",
+        "left": "arms_crossed",
+        "legs": "",
+        "gaze": "camera",
+        "item": "roman_stola",
+        "expr": "amused",
+        "axes": {
+          "overall_intensity": "strong",
+          "skin_exposure": "bold"
+        },
+        "aspect": "2:3",
+        "unlocked": [],
+        "ofree": true,
+        "ofreeRecent": "a sunny beach with wet sand and shallow surf — carries a camera by its grip at her side; a narrow path through a tall bamboo grove — seated sideways on a stool or bench; a Three Kingdoms festival street — shakes a gourd-shaped wine flask on a red cord by her ear to hear how much wine is left; a stage under a painted night sky of crystal stars — standing; an old stone chapel lit by candles — standing"
+      }
+    }
+  },
+  "generation": {
+    "tool": "image_gen",
+    "endpoint": "images/edits",
+    "ref_sha256": "cee4bb364877b55fb28f831072e256dea8f83f5a9108b78efcc8ca50df6d1d9a",
+    "size": [
+      1024,
+      1536
+    ],
+    "png_sha256": "76c80b58b18f2c463a577e11e624d07002985c816e3bf2d6733180486553c2a6",
+    "webp": {
+      "quality": 90,
+      "method": 6
+    },
+    "prompt_form": "en-prompt",
+    "prompt_sha256": "b3b37c5bb4a5c1c7e1267beab58e51ec222510815e796ba5e40251814e1b0524",
+    "source_path": "/workspace/scratch/9a0c6cd16901/generated_images/exec-a6a53503-51f0-4373-8140-f0db71ad656a.png",
+    "free_design": {
+      "Place": "a quiet mountain cable-car cabin passing above the first snow, daylight through the large windows",
+      "Activity": "she warms her fingers around a takeaway cup while watching a single snowflake melt against the glass",
+      "Pose": "sitting on the padded cabin seat, her own right forearm extends forward with one index finger lightly touching the window, her own left hand holds the cup at her waist; her knees comfortably together, head turned toward the snowflake",
+      "Framing": "waist-up three-quarter side view with the window and snowy landscape visible, natural seated eye-level camera",
+      "Outfit": "a fitted cream boucle halter romper with a deep squared neckline, open shoulders and a short tailored hem, a detached soft knit shoulder wrap laid on the adjacent seat, tall cocoa suede boots; the outfit is fully opaque and securely fitted"
+    },
+    "free_prompt": "INPUT: the attached image is the approved character — her Three kingdoms card; keep her. Do not reuse earlier conversation images.\n\nCHARACTER: the same woman as the attached image — the female personification of Ding Feng of the Three Kingdoms, seen in her everyday life. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change, and her hair may be worn differently only as SCENE's Hair line says. Her Three Kingdoms identity shows ONLY as a small accessory, an object around her, or the object PROP says she holds — never in the outfit's colours, patterns or cut, never as armor, regalia or a costume.\n\nDESIGN (accessory hints only): her legend — bold, short-blade fighting, snowfall and sweat — may inform at most one small accessory, a hair ornament or an object beside her, in its palette (crimson red, gold, river teal, black lacquer). The clothes keep the chosen outfit's own colours; her skin, hair and eyes stay as in the attached image.\n\nSIGNATURE ACCESSORY: off duty she carries no weapon — no sword, saber, spear, glaive, halberd, bow, axe, shield or any blade in her hands, on her back or anywhere in the scene. Her signature weapon (a pair of short swords) appears only as one small worn accessory modelled on its shape and colours — a hair ornament, pendant, earring, brooch or belt charm a few centimetres long, clearly jewellery and not a usable weapon.\n\nSTYLE: Korean MMORPG character artwork. A recognisably drawn face with gently simplified anatomical structure. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\n\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nAGE: the same adult woman as in the attached image — keep her own face shape, cheekbones, eye proportions and skin tone exactly; minimal facial lines (no nasolabial folds, crow's feet, under-eye bags or cheek creases). Keep her face soft, feminine and attractive in every framing — never elongated, gaunt, mannish or heavy-jawed, even in close-ups, profiles or low angles.\n\nOUTPUT: one standalone off-duty scene of her in the outfit chosen in SCENE; her legend shows only through accessories and objects around her — never in the outfit's colours, patterns or cut, never as armor, regalia or a costume. Everything else follows SCENE (chosen).\n\nFRAME: a vertical 2:3 (1024×1536) image. Compose the image for this frame; COMPOSITION in SCENE sets how much of her shows.\n\nSCENE (chosen):\nFREE DESIGN: design the place, activity, pose, framing and outfit yourself. Start from who she is — her legend, traits and personality — and show an everyday moment that is unexpected yet feels natural for her. Make it fresh through the situation and what she is doing, not through more decoration. Avoid scenes like the recent ones listed below. Keep her face, the art style and the body and anatomy rules exactly as stated. Before drawing, write your design into the lines below, then draw it. In your pose, give each hand one job only and say plainly where each arm goes; avoid poses where it is unclear which shoulder an arm comes from — an arm behind her back, behind her head or pinned under her body — and never state where a foot sits under water. Do not make it another small repair, adjusting, measuring or sorting task at a workbench, repair stall, equipment room or locker room — those scenes are already in our own list; choose another kind of everyday moment (rest, play, a meal, travel, weather, getting ready, simply being in the place).\nRecent scenes to avoid: a sunny beach with wet sand and shallow surf — carries a camera by its grip at her side; a narrow path through a tall bamboo grove — seated sideways on a stool or bench; a Three Kingdoms festival street — shakes a gourd-shaped wine flask on a red cord by her ear to hear how much wine is left; a stage under a painted night sky of crystal stars — standing; an old stone chapel lit by candles — standing.\nPlace: a quiet mountain cable-car cabin passing above the first snow, daylight through the large windows\nActivity: she warms her fingers around a takeaway cup while watching a single snowflake melt against the glass\nPose: sitting on the padded cabin seat, her own right forearm extends forward with one index finger lightly touching the window, her own left hand holds the cup at her waist; her knees comfortably together, head turned toward the snowflake\nFraming: waist-up three-quarter side view with the window and snowy landscape visible, natural seated eye-level camera\nOutfit: a fitted cream boucle halter romper with a deep squared neckline, open shoulders and a short tailored hem, a detached soft knit shoulder wrap laid on the adjacent seat, tall cocoa suede boots; the outfit is fully opaque and securely fitted (a revealing, fashionable outfit that is not in our outfit catalog — outfit-catalog.md in this pack)\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing; nothing slipped off; intimate areas covered\n\nWARDROBE: change her clothes completely. From the attached image take only her face, hair and body — not its garment, armor, regalia, ornaments, mecha plates or background. Dress her exactly as SCENE describes; that outfit must read at first glance, keeping its own recognisable colours and parts. Do not carry the attached image's palette, patterns or trim into the outfit; her Three Kingdoms identity belongs in accessories and props, never in the clothes — never restyle the chosen outfit into her faction's palette, armor, robes or regalia.\n\nANGLE: the attached image fixes who she is, not how she is posed or shot. Do not copy its head angle, head tilt, gaze direction, face size in frame, camera height or crop — turn her head, set her gaze and place the camera exactly as SCENE describes, and let her face read naturally from that new angle (profile, three-quarter, looking down or away), with her features staying the same. No default card pose, no default front-facing portrait.\n\nONE MAIN FIGURE: she is the only character in focus. Where the place is busy, other people may appear only as small, soft-focus background extras — never posed with her. No logo, no watermark, no speech bubble, no frame border. No readable text or numbers.\n\nANATOMY: natural adult proportions, about 7.5 heads tall — height from the legs, never a smaller head or a longer neck. The neck is a natural length and the head sits close to the shoulders. No body-part enlargement, no extra limbs.\n\nBODY: a normal human body — one head, two arms and two legs, each joined at its natural joint; elbows, knees and wrists bend the human way. Hands and feet may be partly hidden by the pose, what she holds or the frame. Right and left mean her own right and left, not the viewer's.\n\nHANDS: natural human hands, no extra or duplicated limbs; each visible hand joins through its wrist and forearm to the matching shoulder. A hand may stay outside the crop, and fingers may be partly hidden by a grip.\n\nAVOID: a blue or bruise-like tint on the skin around the eyes, glossy or shiny highlights on the face, sweaty, oily or plastic-looking skin."
+  },
+  "execution": "sam-dingfeng-9a0c6cd1",
+  "imported": "2026-11-13",
+  "qa": {
+    "reviewer": "gpt",
+    "image_sha256": "76c80b58b18f2c463a577e11e624d07002985c816e3bf2d6733180486553c2a6",
+    "passed": true,
+    "anatomy": "ok",
+    "exposure": "match",
+    "observations": [
+      "Cable-car free design with right fingertip at glass and left hand around cup; natural connected arms and retained face."
+    ]
+  },
+  "acceptance": "user_approval_2026-11-13 — commit and main push authorised",
+  "review": {
+    "reviewed": false,
+    "by": "user",
+    "result": "pending"
+  }
+}
