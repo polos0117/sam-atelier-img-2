@@ -41,10 +41,16 @@
    "skin_exposure": "bold"
   },
   "unlocked": [],
-  "aspect": "2:3"
+  "aspect": "2:3",
+  "userCompositionOverride": {
+   "why": "사용자 요청으로 전체 구도 재설계",
+   "pose": "seated front three-quarter at desk; own right elbow on desk, holding folded letter at chest height; own left forearm and hand rest on desk",
+   "frame": "head to mid-thigh",
+   "replaces": "over-shoulder raised letter close portrait"
+  }
  },
  "file": "서서_fantasy_kr_drawn_rim_dewy_f_casual90.webp",
- "prompt": "Edit only the raised letter-holding hand and its wrist/forearm orientation in this image. The user specifically requests that the PALM of the hand holding the letter faces the camera. Show the palm side clearly to the viewer, including the natural palm surface and thumb pad, rather than the back of the hand or fingernails. The envelope rests against the palm; naturally curled fingers grip its lower side edges, and the thumb opposes them. Keep five anatomically correct fingers, a natural unbroken wrist, and anatomically correct forearm rotation connected to the existing bent elbow. Keep the letter beside her face. Keep exactly two arms, with the other hand resting at her waist as it is. Preserve her face, expression, hairstyle, accessories, clothing, body, lighting, background, camera and framing exactly. Do not change anything else. Vertical 2:3, 1024x1536.",
+ "prompt": "Create a NEW COMPOSITION of this same adult woman in her medieval letter-writer's room. Use the attached image ONLY for her identity, face, brown bob hairstyle, accessories, the same clothing design, skin tone and painting style. Completely replace its over-the-shoulder body pose and close crop. Design the entire seated pose from the shoulders through both elbows and both wrists before rendering.\n\nNEW SCENE: she sits on a chair behind a small writing desk, her chest and shoulders facing the camera, torso only slightly angled in a gentle three-quarter FRONT view. She looks softly toward the viewer. The camera is at seated eye height. Frame from her head to mid-thigh, with both shoulders, both complete arms, both elbows and both hands visible. Place the desk low enough to keep her arms readable.\n\nHer OWN RIGHT ARM is on the VIEWER'S LEFT: the right upper arm descends from its clearly visible shoulder beside her torso; the right elbow rests on the desktop; the right forearm rises naturally toward her chest. In that RIGHT hand she holds one folded sealed letter upright at chest height, away from her face. The PALM side of this right hand faces the camera, thumb pad visible beneath the letter. Four fingers curl naturally around the letter's outer edge and the thumb opposes them. It is a real right hand attached to her right arm, not a left hand placed there. The envelope obscures part of the palm naturally; keep the wrist neutral and forearm untwisted. The elbow, forearm and hand must form one uninterrupted anatomically plausible chain.\n\nHer OWN LEFT ARM is on the VIEWER'S RIGHT: it descends from its shoulder, bends naturally at an elbow resting on the desk, and its forearm lies on the tabletop. Her left hand rests relaxed beside a closed ink pot, fingers naturally separated. Exactly one head, two shoulders, two arms, two hands, five digits per hand. No crossed or overlapping arm chains.\n\nRetain her same adult face, same expression, same outfit and its cut, same hair and skin finish. The new pose is the requested change. Medieval room with shelves, folded papers, ink pot, brushes, a candle and a leaded-glass window; no second person, no weapon, no readable writing, no watermark or border. Preserve the reference's Korean game illustration rendering and warm/cool room lighting. Vertical 2:3, 1024x1536.",
  "date": "2026-11-13",
  "record": "records/서서/fantasy-casual90.kr_drawn_rim_dewy-ui.json",
  "own": {
@@ -55,81 +61,109 @@
  "generation": {
   "tool": "image_gen",
   "endpoint": "images/edits",
-  "ref_sha256": "dafc1880da3a8a709c95e8a6d82f65b082ed66bc528ca1041bb5c06ec9d20131",
+  "ref_sha256": "93920fb85e88c0231b8480f241ea618c361ebd0b1dfb59215c743b86d1aa1014",
   "size": [
    1024,
    1536
   ],
-  "png_sha256": "93920fb85e88c0231b8480f241ea618c361ebd0b1dfb59215c743b86d1aa1014",
+  "png_sha256": "6a37d9dcdee82ddd570ab2fd2c7348cfe380c33ce13d704c1b8be11c62654b8b",
   "webp": {
    "quality": 90,
    "method": 6
   },
   "retries": [],
-  "prompt_form": "user-requested-anatomy-edit",
-  "prompt_sha256": "fcfabc27ccf689cab4b42cd703f87335fcb7bec4253bcba207b23bad4fb5b840",
+  "prompt_form": "user-requested-composition-redesign",
+  "prompt_sha256": "d47db71ff984f798ff4eb34fe39c3ff3a1708f986dfff70867e6143ee52bb6dc",
   "own": {
    "level": "bold",
    "tries": 1,
    "blocked": []
   },
   "redo": {
-   "previous_sha256": "dafc1880da3a8a709c95e8a6d82f65b082ed66bc528ca1041bb5c06ec9d20131",
-   "previous_webp_sha256": "b717919be4e65c541dc57b43e4777541ea4f5a56be46c8ab5a08514a9755f0cc",
-   "why": "사용자 요청: 편지를 든 손바닥이 화면쪽을 향하도록 손·손목 방향 수정",
+   "previous_sha256": "93920fb85e88c0231b8480f241ea618c361ebd0b1dfb59215c743b86d1aa1014",
+   "previous_webp_sha256": "8678b4e47a22ba6894486103a87924c44a30a1f6fcdd79b79e4c64e8831dce5b",
+   "why": "사용자 요청: 다시 구도 설계해서 그려줘 — 책상 앞 정면에 가까운 앉은 구도, 두 팔꿈치 받침 및 팔 연결 재설계",
    "previous_generation": {
     "tool": "image_gen",
     "endpoint": "images/edits",
-    "ref_sha256": "4f2f3fde20b8d052585f042c1c62612b92cce58c78b8b28345255a064019caed",
+    "ref_sha256": "dafc1880da3a8a709c95e8a6d82f65b082ed66bc528ca1041bb5c06ec9d20131",
     "size": [
      1024,
      1536
     ],
-    "png_sha256": "dafc1880da3a8a709c95e8a6d82f65b082ed66bc528ca1041bb5c06ec9d20131",
+    "png_sha256": "93920fb85e88c0231b8480f241ea618c361ebd0b1dfb59215c743b86d1aa1014",
     "webp": {
      "quality": 90,
      "method": 6
     },
-    "retries": [
-     {
-      "n": 1,
-      "status": "moderation_blocked",
-      "request_id": "b6544bc3-fc3b-4cd2-b346-daa90992930d",
-      "note": "No image returned; exact same repair prompt retried once."
-     }
-    ],
+    "retries": [],
     "prompt_form": "user-requested-anatomy-edit",
-    "prompt_sha256": "3aac9e1e6ad25e650a9d3979e21c3fbff0c2322744accff519fab3e5dd4f8b2d",
+    "prompt_sha256": "fcfabc27ccf689cab4b42cd703f87335fcb7bec4253bcba207b23bad4fb5b840",
     "own": {
      "level": "bold",
      "tries": 1,
      "blocked": []
     },
     "redo": {
-     "previous_sha256": "4f2f3fde20b8d052585f042c1c62612b92cce58c78b8b28345255a064019caed",
-     "previous_webp_sha256": "cb48aa525be2962647bc4964cd11c12f0015227ada98a4cf05c4a684beb8610c",
-     "why": "사용자: 중세컷 팔이 잘렸어 — 편지를 든 팔 연결 복구 및 두 팔·두 손이 보이게 구도 확장",
+     "previous_sha256": "dafc1880da3a8a709c95e8a6d82f65b082ed66bc528ca1041bb5c06ec9d20131",
+     "previous_webp_sha256": "b717919be4e65c541dc57b43e4777541ea4f5a56be46c8ab5a08514a9755f0cc",
+     "why": "사용자 요청: 편지를 든 손바닥이 화면쪽을 향하도록 손·손목 방향 수정",
      "previous_generation": {
       "tool": "image_gen",
       "endpoint": "images/edits",
-      "ref_sha256": "c8eaa11629d648952f955a939e6ef18be03175bfb7be27fe6f9e6952ae75f28d",
+      "ref_sha256": "4f2f3fde20b8d052585f042c1c62612b92cce58c78b8b28345255a064019caed",
       "size": [
        1024,
        1536
       ],
-      "png_sha256": "4f2f3fde20b8d052585f042c1c62612b92cce58c78b8b28345255a064019caed",
+      "png_sha256": "dafc1880da3a8a709c95e8a6d82f65b082ed66bc528ca1041bb5c06ec9d20131",
       "webp": {
        "quality": 90,
        "method": 6
       },
-      "retries": [],
-      "prompt_form": "en-prompt",
-      "prompt_sha256": "c140e038a2084b5b60398d2a0aa7c688501d32855ef586756e27af5fee944928",
+      "retries": [
+       {
+        "n": 1,
+        "status": "moderation_blocked",
+        "request_id": "b6544bc3-fc3b-4cd2-b346-daa90992930d",
+        "note": "No image returned; exact same repair prompt retried once."
+       }
+      ],
+      "prompt_form": "user-requested-anatomy-edit",
+      "prompt_sha256": "3aac9e1e6ad25e650a9d3979e21c3fbff0c2322744accff519fab3e5dd4f8b2d",
       "own": {
        "level": "bold",
        "tries": 1,
        "blocked": []
-      }
+      },
+      "redo": {
+       "previous_sha256": "4f2f3fde20b8d052585f042c1c62612b92cce58c78b8b28345255a064019caed",
+       "previous_webp_sha256": "cb48aa525be2962647bc4964cd11c12f0015227ada98a4cf05c4a684beb8610c",
+       "why": "사용자: 중세컷 팔이 잘렸어 — 편지를 든 팔 연결 복구 및 두 팔·두 손이 보이게 구도 확장",
+       "previous_generation": {
+        "tool": "image_gen",
+        "endpoint": "images/edits",
+        "ref_sha256": "c8eaa11629d648952f955a939e6ef18be03175bfb7be27fe6f9e6952ae75f28d",
+        "size": [
+         1024,
+         1536
+        ],
+        "png_sha256": "4f2f3fde20b8d052585f042c1c62612b92cce58c78b8b28345255a064019caed",
+        "webp": {
+         "quality": 90,
+         "method": 6
+        },
+        "retries": [],
+        "prompt_form": "en-prompt",
+        "prompt_sha256": "c140e038a2084b5b60398d2a0aa7c688501d32855ef586756e27af5fee944928",
+        "own": {
+         "level": "bold",
+         "tries": 1,
+         "blocked": []
+        }
+       }
+      },
+      "original_prompt": "INPUT: the attached image is the approved character — her Medieval fantasy card; keep her. Do not reuse earlier conversation images.\n\nCHARACTER: the same woman as the attached image — the female personification of Xu Shu of the Three Kingdoms, seen in her everyday life. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change, and her hair may be worn differently only as SCENE's Hair line says. Her Three Kingdoms identity shows ONLY as a small accessory, an object around her, or the object PROP says she holds — never in the outfit's colours, patterns or cut, never as armor, regalia or a costume.\n\nDESIGN (accessory hints only): her legend — a former knight-errant in a scholar's robe over a swordswoman's belt, filial devotion, quiet melancholy, a vow never to devise a plan for the enemy, a folded letter tucked at her belt — may inform at most one small accessory, a hair ornament or an object beside her, in its palette (jade green, imperial gold, earthen brown, white jade, with small accents of deep navy blue and black lacquer (Cao Wei)). The clothes keep the chosen outfit's own colours; her skin, hair and eyes stay as in the attached image.\n\nSIGNATURE ACCESSORY: off duty she carries no weapon — no sword, saber, spear, glaive, halberd, bow, axe, shield or any blade in her hands, on her back or anywhere in the scene. Her signature weapon (a slim scholar's sword) appears only as one small worn accessory modelled on its shape and colours — a hair ornament, pendant, earring, brooch or belt charm a few centimetres long, clearly jewellery and not a usable weapon.\n\nSTYLE: Korean MMORPG character artwork. A recognisably drawn face with gently simplified anatomical structure. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\n\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nAGE: the same adult woman as in the attached image — keep her own face shape, cheekbones, eye proportions and skin tone exactly; minimal facial lines (no nasolabial folds, crow's feet, under-eye bags or cheek creases). Keep her face soft, feminine and attractive in every framing — never elongated, gaunt, mannish or heavy-jawed, even in close-ups, profiles or low angles.\n\nOUTPUT: one standalone off-duty scene of her in the outfit chosen in SCENE; her legend shows only through accessories and objects around her — never in the outfit's colours, patterns or cut, never as armor, regalia or a costume. Everything else follows SCENE (chosen).\n\nFRAME: a vertical 2:3 (1024×1536) image. Compose the image for this frame; COMPOSITION in SCENE sets how much of her shows.\n\nCROP: a chest-up shot — the bottom edge crosses just below her bust; waist, hips and legs are out of frame. This crop wins over every other line: details apply only to the part that shows, and the outfit reads through its visible neckline, straps, fabric and colour. Never widen the framing to show a hidden support, hand or leg; a limb crossing the edge runs naturally on past it, never cut off or fading out inside the image.\n\nWORLD: this scene happens inside her own world — the world of the attached image — as if she simply lives there: a righteous highland kingdom of Western medieval high fantasy: grey-stone castles and fortified abbeys on green mountain ridges, alpine meadows, waterfalls and oak forests, heraldic banners of green and gold bearing a dragon device, oaths sworn under an ancient oak, gentle green nature-magic. Its architecture, props, light and weather show the world; no creatures, no second character, no readable text other than abstract heraldic or insignia shapes — never letters or Chinese characters. Her clothes stay the everyday outfit SCENE describes, not regalia or armor.\n\nSCENE (chosen):\nPlace: a high-fantasy letter-writer's room — a small desk with brushes, an ink stone and sealing wax, a shelf of folded paper and a window with a soft light\nTime of day: warm lamplight or candlelight indoors, the rest in shadow.\nLight direction: side light — the light falls from one side, the far side of her face in soft shadow.\nOutfit: a letter writer look fitted to her body — a short sleeveless wrap robe tied with a sash, a short skirt, bare shoulders and a brush tucked in her hair, all styled as high-fantasy dress — laced leather, embroidered cloth and metal clasps\nPOSTURE: standing.\nCOMPOSITION: a chest-up shot of her face, shoulders and expression; body in side profile, facing the right of the frame, so her own right side is toward the camera; head turned back over her shoulder; camera at her eye level; a wall or backdrop of the place close behind her; she is seen through window glass with faint reflections on it.\nLens / perspective: 85mm-equivalent short-telephoto perspective from a suitable distance, with gentle background compression.\nRIGHT HAND: her own right hand is in PROP — her near arm, on the camera side.\nLEFT HAND: her own left hand stays outside the frame — her far arm, on the side away from the camera.\nPROP: with her own right hand she holds a folded letter up beside her face; it is all she holds.\nGAZE: she looks into the camera.\nEXPRESSION: a relaxed, unforced face, lips gently closed. Keep it subtle and natural, a light touch rather than acting: no sneer, glare, smirk-pulled cheek or chin lifted to look down at the viewer; her face stays relaxed and attractive. Her eyes are naturally open and clear, not heavy-lidded or half-closed; brows relaxed and even, neither raised on one side nor furrowed; lips softly closed or only just parted.\nScene note: she is a letter-writer glancing back over her shoulder, a folded letter held beside her face\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — inside the crop, the chosen outfit is worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders and collarbones, skin clearly showing; the crop stays exactly where CROP sets it and never moves down to show more; intimate areas covered\n\nWARDROBE: change her clothes completely. From the attached image take only her face, hair and body — not its garment, armor, regalia, ornaments, mecha plates or background. Dress her exactly as SCENE describes; the part of that outfit inside the crop must read at first glance in its own colours. Do not carry the attached image's palette, patterns or trim into the outfit; her Three Kingdoms identity belongs in accessories and props, never in the clothes — never restyle the chosen outfit into her faction's palette, armor, robes or regalia.\n\nANGLE: the attached image fixes who she is, not how she is posed or shot. Do not copy its head angle, head tilt, gaze direction, face size in frame, camera height or crop — turn her head, set her gaze and place the camera exactly as SCENE describes, and let her face read naturally from that new angle (profile, three-quarter, looking down or away), with her features staying the same. No default card pose, no default front-facing portrait.\n\nONE MAIN FIGURE: she is the only character in focus. Where the place is busy, other people may appear only as small, soft-focus background extras — never posed with her. No logo, no watermark, no speech bubble, no frame border. No readable text or numbers.\n\nANATOMY: natural adult proportions, never a smaller head or a longer neck. The neck is a natural length and the head sits close to the shoulders. No body-part enlargement, no extra limbs.\n\nBODY: a normal human body — one head, two arms and two legs, each joined at its natural joint; elbows, knees and wrists bend the human way. Hands and feet may be partly hidden by the pose, what she holds or the frame. Right and left mean her own right and left, not the viewer's.\n\nHANDS: natural human hands, no extra or duplicated limbs; each visible hand joins through its wrist and forearm to the matching shoulder. A hand may stay outside the crop, and fingers may be partly hidden by a grip.\n\nAVOID: a blue or bruise-like tint on the skin around the eyes, glossy or shiny highlights on the face, sweaty, oily or plastic-looking skin."
      }
     },
     "original_prompt": "INPUT: the attached image is the approved character — her Medieval fantasy card; keep her. Do not reuse earlier conversation images.\n\nCHARACTER: the same woman as the attached image — the female personification of Xu Shu of the Three Kingdoms, seen in her everyday life. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change, and her hair may be worn differently only as SCENE's Hair line says. Her Three Kingdoms identity shows ONLY as a small accessory, an object around her, or the object PROP says she holds — never in the outfit's colours, patterns or cut, never as armor, regalia or a costume.\n\nDESIGN (accessory hints only): her legend — a former knight-errant in a scholar's robe over a swordswoman's belt, filial devotion, quiet melancholy, a vow never to devise a plan for the enemy, a folded letter tucked at her belt — may inform at most one small accessory, a hair ornament or an object beside her, in its palette (jade green, imperial gold, earthen brown, white jade, with small accents of deep navy blue and black lacquer (Cao Wei)). The clothes keep the chosen outfit's own colours; her skin, hair and eyes stay as in the attached image.\n\nSIGNATURE ACCESSORY: off duty she carries no weapon — no sword, saber, spear, glaive, halberd, bow, axe, shield or any blade in her hands, on her back or anywhere in the scene. Her signature weapon (a slim scholar's sword) appears only as one small worn accessory modelled on its shape and colours — a hair ornament, pendant, earring, brooch or belt charm a few centimetres long, clearly jewellery and not a usable weapon.\n\nSTYLE: Korean MMORPG character artwork. A recognisably drawn face with gently simplified anatomical structure. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\n\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nAGE: the same adult woman as in the attached image — keep her own face shape, cheekbones, eye proportions and skin tone exactly; minimal facial lines (no nasolabial folds, crow's feet, under-eye bags or cheek creases). Keep her face soft, feminine and attractive in every framing — never elongated, gaunt, mannish or heavy-jawed, even in close-ups, profiles or low angles.\n\nOUTPUT: one standalone off-duty scene of her in the outfit chosen in SCENE; her legend shows only through accessories and objects around her — never in the outfit's colours, patterns or cut, never as armor, regalia or a costume. Everything else follows SCENE (chosen).\n\nFRAME: a vertical 2:3 (1024×1536) image. Compose the image for this frame; COMPOSITION in SCENE sets how much of her shows.\n\nCROP: a chest-up shot — the bottom edge crosses just below her bust; waist, hips and legs are out of frame. This crop wins over every other line: details apply only to the part that shows, and the outfit reads through its visible neckline, straps, fabric and colour. Never widen the framing to show a hidden support, hand or leg; a limb crossing the edge runs naturally on past it, never cut off or fading out inside the image.\n\nWORLD: this scene happens inside her own world — the world of the attached image — as if she simply lives there: a righteous highland kingdom of Western medieval high fantasy: grey-stone castles and fortified abbeys on green mountain ridges, alpine meadows, waterfalls and oak forests, heraldic banners of green and gold bearing a dragon device, oaths sworn under an ancient oak, gentle green nature-magic. Its architecture, props, light and weather show the world; no creatures, no second character, no readable text other than abstract heraldic or insignia shapes — never letters or Chinese characters. Her clothes stay the everyday outfit SCENE describes, not regalia or armor.\n\nSCENE (chosen):\nPlace: a high-fantasy letter-writer's room — a small desk with brushes, an ink stone and sealing wax, a shelf of folded paper and a window with a soft light\nTime of day: warm lamplight or candlelight indoors, the rest in shadow.\nLight direction: side light — the light falls from one side, the far side of her face in soft shadow.\nOutfit: a letter writer look fitted to her body — a short sleeveless wrap robe tied with a sash, a short skirt, bare shoulders and a brush tucked in her hair, all styled as high-fantasy dress — laced leather, embroidered cloth and metal clasps\nPOSTURE: standing.\nCOMPOSITION: a chest-up shot of her face, shoulders and expression; body in side profile, facing the right of the frame, so her own right side is toward the camera; head turned back over her shoulder; camera at her eye level; a wall or backdrop of the place close behind her; she is seen through window glass with faint reflections on it.\nLens / perspective: 85mm-equivalent short-telephoto perspective from a suitable distance, with gentle background compression.\nRIGHT HAND: her own right hand is in PROP — her near arm, on the camera side.\nLEFT HAND: her own left hand stays outside the frame — her far arm, on the side away from the camera.\nPROP: with her own right hand she holds a folded letter up beside her face; it is all she holds.\nGAZE: she looks into the camera.\nEXPRESSION: a relaxed, unforced face, lips gently closed. Keep it subtle and natural, a light touch rather than acting: no sneer, glare, smirk-pulled cheek or chin lifted to look down at the viewer; her face stays relaxed and attractive. Her eyes are naturally open and clear, not heavy-lidded or half-closed; brows relaxed and even, neither raised on one side nor furrowed; lips softly closed or only just parted.\nScene note: she is a letter-writer glancing back over her shoulder, a folded letter held beside her face\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — inside the crop, the chosen outfit is worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders and collarbones, skin clearly showing; the crop stays exactly where CROP sets it and never moves down to show more; intimate areas covered\n\nWARDROBE: change her clothes completely. From the attached image take only her face, hair and body — not its garment, armor, regalia, ornaments, mecha plates or background. Dress her exactly as SCENE describes; the part of that outfit inside the crop must read at first glance in its own colours. Do not carry the attached image's palette, patterns or trim into the outfit; her Three Kingdoms identity belongs in accessories and props, never in the clothes — never restyle the chosen outfit into her faction's palette, armor, robes or regalia.\n\nANGLE: the attached image fixes who she is, not how she is posed or shot. Do not copy its head angle, head tilt, gaze direction, face size in frame, camera height or crop — turn her head, set her gaze and place the camera exactly as SCENE describes, and let her face read naturally from that new angle (profile, three-quarter, looking down or away), with her features staying the same. No default card pose, no default front-facing portrait.\n\nONE MAIN FIGURE: she is the only character in focus. Where the place is busy, other people may appear only as small, soft-focus background extras — never posed with her. No logo, no watermark, no speech bubble, no frame border. No readable text or numbers.\n\nANATOMY: natural adult proportions, never a smaller head or a longer neck. The neck is a natural length and the head sits close to the shoulders. No body-part enlargement, no extra limbs.\n\nBODY: a normal human body — one head, two arms and two legs, each joined at its natural joint; elbows, knees and wrists bend the human way. Hands and feet may be partly hidden by the pose, what she holds or the frame. Right and left mean her own right and left, not the viewer's.\n\nHANDS: natural human hands, no extra or duplicated limbs; each visible hand joins through its wrist and forearm to the matching shoulder. A hand may stay outside the crop, and fingers may be partly hidden by a grip.\n\nAVOID: a blue or bruise-like tint on the skin around the eyes, glossy or shiny highlights on the face, sweaty, oily or plastic-looking skin."
@@ -141,15 +175,16 @@
  "imported": "2026-11-13",
  "qa": {
   "reviewer": "gpt-session",
-  "image_sha256": "93920fb85e88c0231b8480f241ea618c361ebd0b1dfb59215c743b86d1aa1014",
+  "image_sha256": "6a37d9dcdee82ddd570ab2fd2c7348cfe380c33ce13d704c1b8be11c62654b8b",
   "passed": true,
   "anatomy": "ok",
   "exposure": "match",
   "observations": [
-   "Letter-holding palm and thumb pad visibly face the camera.",
-   "Four curled fingers grip one edge of letter, opposing thumb grips other edge; five digits total.",
-   "Wrist and forearm continue naturally into bent elbow; other hand remains at waist.",
-   "Face, outfit, background and framing retained."
+   "New frontal seated composition replaces over-shoulder pose.",
+   "Own right arm on viewer left: continuous shoulder, upper arm, supported elbow, rising forearm and letter-holding hand.",
+   "Opposite arm rests continuously on desk with visible hand; exactly two arms and hands.",
+   "Letter partly occludes palm and fingers; thumb and four fingers form a natural grip.",
+   "Identity, medieval setting and costume retained."
   ]
  },
  "acceptance": "user_approval_current — 서서 신규 필수갈래 생성 및 main 반영 승인",
