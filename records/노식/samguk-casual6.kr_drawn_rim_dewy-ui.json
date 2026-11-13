@@ -1,0 +1,128 @@
+{
+ "atelier": "samguk",
+ "card": "노식",
+ "faction": "qun",
+ "slot": "casual6",
+ "treeV": 2,
+ "world": "samguk",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v1",
+ "ref": "노식_samguk_kr_drawn_rim_dewy_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "heritage",
+  "place": "heritage_festival",
+  "ofam": "workwear",
+  "item": "lab_coat_crop",
+  "posture": "stand",
+  "support": "none",
+  "frame": "face_close",
+  "body": "front",
+  "head": "with_body",
+  "camera": "eye",
+  "right": "shush",
+  "left": "out",
+  "use": "",
+  "legs": "",
+  "gaze": "camera",
+  "ofree": true,
+  "ofreeRecent": "the moat path beneath the old Jingzhou city wall at dusk — perched on a ledge or edge; inside a general's command tent — holds a folding fan open near her chest; a bright bathroom with a mirror — holds a folded cleaning cloth at chest height; a festival street of lanterns — standing close to a high shelf or line; a chandelier ballroom at a masquerade — standing",
+  "expr": "gentle",
+  "preset": "shush_close",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "노식_samguk_kr_drawn_rim_dewy_f_casual6.webp",
+ "prompt": "INPUT: the attached image is the approved character — her Three kingdoms card; keep her. Do not reuse earlier conversation images.\n\nCHARACTER: the same woman as the attached image — the female personification of Lu Zhi of the Three Kingdoms, seen in her everyday life. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change, and her hair may be worn differently only as SCENE's Hair line says. Her Three Kingdoms identity shows ONLY as a small accessory, an object around her, or the object PROP says she holds — never in the outfit's colours, patterns or cut, never as armor, regalia or a costume.\n\nDESIGN (accessory hints only): her legend — Confucian dignity and military skill, scholar's robe over armor — may inform at most one small accessory, a hair ornament or an object beside her, in its palette (Han black and vermilion, gold and jade). The clothes keep the chosen outfit's own colours; her skin, hair and eyes stay as in the attached image.\n\nSIGNATURE ACCESSORY: off duty she carries no weapon — no sword, saber, spear, glaive, halberd, bow, axe, shield or any blade in her hands, on her back or anywhere in the scene. Her signature weapon (a classic text and sword) appears only as one small worn accessory modelled on its shape and colours — a hair ornament, pendant, earring, brooch or belt charm a few centimetres long, clearly jewellery and not a usable weapon.\n\nSTYLE: Korean MMORPG character artwork. A recognisably drawn face with gently simplified anatomical structure. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\n\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nAGE: the same adult woman as in the attached image — keep her own face shape, cheekbones, eye proportions and skin tone exactly; minimal facial lines (no nasolabial folds, crow's feet, under-eye bags or cheek creases). Keep her face soft, feminine and attractive in every framing — never elongated, gaunt, mannish or heavy-jawed, even in close-ups, profiles or low angles.\n\nOUTPUT: one standalone off-duty scene of her in the outfit chosen in SCENE; her legend shows only through accessories and objects around her — never in the outfit's colours, patterns or cut, never as armor, regalia or a costume. Everything else follows SCENE (chosen).\n\nFRAME: a vertical 2:3 (1024×1536) image. Compose the image for this frame; COMPOSITION in SCENE sets how much of her shows.\n\nSCENE (chosen):\nFREE DESIGN: design the place, activity, pose, framing and outfit yourself. Start from who she is — her legend, traits and personality — and show an everyday moment that is unexpected yet feels natural for her. Make it fresh through the situation and what she is doing, not through more decoration. Avoid scenes like the recent ones listed below. Keep her face, the art style and the body and anatomy rules exactly as stated. Before drawing, write your design into the lines below, then draw it. In your pose, give each hand one job only and say plainly where each arm goes; avoid poses where it is unclear which shoulder an arm comes from — an arm behind her back, behind her head or pinned under her body — and never state where a foot sits under water. Do not make it another small repair, adjusting, measuring or sorting task at a workbench, repair stall, equipment room or locker room — those scenes are already in our own list; choose another kind of everyday moment (rest, play, a meal, travel, weather, getting ready, simply being in the place).\nRecent scenes to avoid: the moat path beneath the old Jingzhou city wall at dusk — perched on a ledge or edge; inside a general's command tent — holds a folding fan open near her chest; a bright bathroom with a mirror — holds a folded cleaning cloth at chest height; a festival street of lanterns — standing close to a high shelf or line; a chandelier ballroom at a masquerade — standing.\nPlace: a present-day overnight train dining booth, a rain-streaked dark window beside the seat and warm pendant lights\nActivity: on a journey between lectures she tastes a bowl of steaming noodles, pausing with a delighted quiet smile as she judges the unfamiliar flavor\nPose: sitting facing diagonally toward the camera at the booth; her own right arm bends naturally forward from the visible right shoulder and her right hand holds a pair of chopsticks above the bowl; her own left forearm extends forward from the left shoulder, left hand supporting the bowl near the tabletop; each hand has just that one job\nFraming: waist-up three-quarter frontal scene at seated eye level, her face, both elbows and both hands within frame, the table occupying the lower foreground\nOutfit: a petrol-blue sleeveless tailored short tunic with a square plunging neckline, asymmetric white bib collar attached only at the neckline and an open side-waist seam above opaque fitted black tap shorts; polished travel sandals and one small classic-book pendant; fashionable, revealing but fully opaque at intimate areas, a new outfit outside the catalog\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing; nothing slipped off; intimate areas covered\n\nWARDROBE: change her clothes completely. From the attached image take only her face, hair and body — not its garment, armor, regalia, ornaments, mecha plates or background. Dress her exactly as SCENE describes; that outfit must read at first glance, keeping its own recognisable colours and parts. Do not carry the attached image's palette, patterns or trim into the outfit; her Three Kingdoms identity belongs in accessories and props, never in the clothes — never restyle the chosen outfit into her faction's palette, armor, robes or regalia.\n\nANGLE: the attached image fixes who she is, not how she is posed or shot. Do not copy its head angle, head tilt, gaze direction, face size in frame, camera height or crop — turn her head, set her gaze and place the camera exactly as SCENE describes, and let her face read naturally from that new angle (profile, three-quarter, looking down or away), with her features staying the same. No default card pose, no default front-facing portrait.\n\nONE MAIN FIGURE: she is the only character in focus. Where the place is busy, other people may appear only as small, soft-focus background extras — never posed with her. No logo, no watermark, no speech bubble, no frame border. No readable text or numbers.\n\nANATOMY: natural adult proportions, about 7.5 heads tall — height from the legs, never a smaller head or a longer neck. The neck is a natural length and the head sits close to the shoulders. No body-part enlargement, no extra limbs.\n\nBODY: a normal human body — one head, two arms and two legs, each joined at its natural joint; elbows, knees and wrists bend the human way. Hands and feet may be partly hidden by the pose, what she holds or the frame. Right and left mean her own right and left, not the viewer's.\n\nHANDS: natural human hands, no extra or duplicated limbs; each visible hand joins through its wrist and forearm to the matching shoulder. A hand may stay outside the crop, and fingers may be partly hidden by a grip.\n\nAVOID: a blue or bruise-like tint on the skin around the eyes, glossy or shiny highlights on the face, sweaty, oily or plastic-looking skin.",
+ "date": "2026-11-13",
+ "record": "records/노식/samguk-casual6.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "노식",
+  "out": "casual",
+  "world": "samguk",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 6,
+  "scenes": {
+   "노식": {
+    "era": "heritage",
+    "place": "heritage_festival",
+    "ofam": "workwear",
+    "treeV": 2,
+    "prop": "",
+    "preset": "shush_close",
+    "use": "",
+    "posture": "stand",
+    "support": "none",
+    "frame": "face_close",
+    "body": "front",
+    "head": "with_body",
+    "camera": "eye",
+    "right": "shush",
+    "left": "out",
+    "legs": "",
+    "gaze": "camera",
+    "item": "lab_coat_crop",
+    "expr": "gentle",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "ofree": true,
+    "ofreeRecent": "the moat path beneath the old Jingzhou city wall at dusk — perched on a ledge or edge; inside a general's command tent — holds a folding fan open near her chest; a bright bathroom with a mirror — holds a folded cleaning cloth at chest height; a festival street of lanterns — standing close to a high shelf or line; a chandelier ballroom at a masquerade — standing"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen",
+  "endpoint": "images/edits",
+  "ref_sha256": "2a341d98661dd12239d74615a04475827d5613656927c9319792527c7d37b173",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "881fb74717affee8bd6b7c1ad67fccc54c00345c57beb183c24cd8263c60f0d8",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "prompt_form": "en-prompt",
+  "prompt_sha256": "2ede3b346c4b5a4ab96a3f0f88f75ff5c015ff16abdfd76692daaa2e50eace1a",
+  "free_design": {
+   "Place": "a present-day overnight train dining booth, a rain-streaked dark window beside the seat and warm pendant lights",
+   "Activity": "on a journey between lectures she tastes a bowl of steaming noodles, pausing with a delighted quiet smile as she judges the unfamiliar flavor",
+   "Pose": "sitting facing diagonally toward the camera at the booth; her own right arm bends naturally forward from the visible right shoulder and her right hand holds a pair of chopsticks above the bowl; her own left forearm extends forward from the left shoulder, left hand supporting the bowl near the tabletop; each hand has just that one job",
+   "Framing": "waist-up three-quarter frontal scene at seated eye level, her face, both elbows and both hands within frame, the table occupying the lower foreground",
+   "Outfit": "a petrol-blue sleeveless tailored short tunic with a square plunging neckline, asymmetric white bib collar attached only at the neckline and an open side-waist seam above opaque fitted black tap shorts; polished travel sandals and one small classic-book pendant; fashionable, revealing but fully opaque at intimate areas, a new outfit outside the catalog"
+  },
+  "free_prompt": "INPUT: the attached image is the approved character — her Three kingdoms card; keep her. Do not reuse earlier conversation images.\n\nCHARACTER: the same woman as the attached image — the female personification of Lu Zhi of the Three Kingdoms, seen in her everyday life. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change, and her hair may be worn differently only as SCENE's Hair line says. Her Three Kingdoms identity shows ONLY as a small accessory, an object around her, or the object PROP says she holds — never in the outfit's colours, patterns or cut, never as armor, regalia or a costume.\n\nDESIGN (accessory hints only): her legend — Confucian dignity and military skill, scholar's robe over armor — may inform at most one small accessory, a hair ornament or an object beside her, in its palette (Han black and vermilion, gold and jade). The clothes keep the chosen outfit's own colours; her skin, hair and eyes stay as in the attached image.\n\nSIGNATURE ACCESSORY: off duty she carries no weapon — no sword, saber, spear, glaive, halberd, bow, axe, shield or any blade in her hands, on her back or anywhere in the scene. Her signature weapon (a classic text and sword) appears only as one small worn accessory modelled on its shape and colours — a hair ornament, pendant, earring, brooch or belt charm a few centimetres long, clearly jewellery and not a usable weapon.\n\nSTYLE: Korean MMORPG character artwork. A recognisably drawn face with gently simplified anatomical structure. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\n\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nAGE: the same adult woman as in the attached image — keep her own face shape, cheekbones, eye proportions and skin tone exactly; minimal facial lines (no nasolabial folds, crow's feet, under-eye bags or cheek creases). Keep her face soft, feminine and attractive in every framing — never elongated, gaunt, mannish or heavy-jawed, even in close-ups, profiles or low angles.\n\nOUTPUT: one standalone off-duty scene of her in the outfit chosen in SCENE; her legend shows only through accessories and objects around her — never in the outfit's colours, patterns or cut, never as armor, regalia or a costume. Everything else follows SCENE (chosen).\n\nFRAME: a vertical 2:3 (1024×1536) image. Compose the image for this frame; COMPOSITION in SCENE sets how much of her shows.\n\nSCENE (chosen):\nFREE DESIGN: design the place, activity, pose, framing and outfit yourself. Start from who she is — her legend, traits and personality — and show an everyday moment that is unexpected yet feels natural for her. Make it fresh through the situation and what she is doing, not through more decoration. Avoid scenes like the recent ones listed below. Keep her face, the art style and the body and anatomy rules exactly as stated. Before drawing, write your design into the lines below, then draw it. In your pose, give each hand one job only and say plainly where each arm goes; avoid poses where it is unclear which shoulder an arm comes from — an arm behind her back, behind her head or pinned under her body — and never state where a foot sits under water. Do not make it another small repair, adjusting, measuring or sorting task at a workbench, repair stall, equipment room or locker room — those scenes are already in our own list; choose another kind of everyday moment (rest, play, a meal, travel, weather, getting ready, simply being in the place).\nRecent scenes to avoid: the moat path beneath the old Jingzhou city wall at dusk — perched on a ledge or edge; inside a general's command tent — holds a folding fan open near her chest; a bright bathroom with a mirror — holds a folded cleaning cloth at chest height; a festival street of lanterns — standing close to a high shelf or line; a chandelier ballroom at a masquerade — standing.\nPlace: a present-day overnight train dining booth, a rain-streaked dark window beside the seat and warm pendant lights\nActivity: on a journey between lectures she tastes a bowl of steaming noodles, pausing with a delighted quiet smile as she judges the unfamiliar flavor\nPose: sitting facing diagonally toward the camera at the booth; her own right arm bends naturally forward from the visible right shoulder and her right hand holds a pair of chopsticks above the bowl; her own left forearm extends forward from the left shoulder, left hand supporting the bowl near the tabletop; each hand has just that one job\nFraming: waist-up three-quarter frontal scene at seated eye level, her face, both elbows and both hands within frame, the table occupying the lower foreground\nOutfit: a petrol-blue sleeveless tailored short tunic with a square plunging neckline, asymmetric white bib collar attached only at the neckline and an open side-waist seam above opaque fitted black tap shorts; polished travel sandals and one small classic-book pendant; fashionable, revealing but fully opaque at intimate areas, a new outfit outside the catalog\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing; nothing slipped off; intimate areas covered\n\nWARDROBE: change her clothes completely. From the attached image take only her face, hair and body — not its garment, armor, regalia, ornaments, mecha plates or background. Dress her exactly as SCENE describes; that outfit must read at first glance, keeping its own recognisable colours and parts. Do not carry the attached image's palette, patterns or trim into the outfit; her Three Kingdoms identity belongs in accessories and props, never in the clothes — never restyle the chosen outfit into her faction's palette, armor, robes or regalia.\n\nANGLE: the attached image fixes who she is, not how she is posed or shot. Do not copy its head angle, head tilt, gaze direction, face size in frame, camera height or crop — turn her head, set her gaze and place the camera exactly as SCENE describes, and let her face read naturally from that new angle (profile, three-quarter, looking down or away), with her features staying the same. No default card pose, no default front-facing portrait.\n\nONE MAIN FIGURE: she is the only character in focus. Where the place is busy, other people may appear only as small, soft-focus background extras — never posed with her. No logo, no watermark, no speech bubble, no frame border. No readable text or numbers.\n\nANATOMY: natural adult proportions, about 7.5 heads tall — height from the legs, never a smaller head or a longer neck. The neck is a natural length and the head sits close to the shoulders. No body-part enlargement, no extra limbs.\n\nBODY: a normal human body — one head, two arms and two legs, each joined at its natural joint; elbows, knees and wrists bend the human way. Hands and feet may be partly hidden by the pose, what she holds or the frame. Right and left mean her own right and left, not the viewer's.\n\nHANDS: natural human hands, no extra or duplicated limbs; each visible hand joins through its wrist and forearm to the matching shoulder. A hand may stay outside the crop, and fingers may be partly hidden by a grip.\n\nAVOID: a blue or bruise-like tint on the skin around the eyes, glossy or shiny highlights on the face, sweaty, oily or plastic-looking skin."
+ },
+ "execution": "sam-luzhi-40911d",
+ "imported": "2026-11-13",
+ "qa": {
+  "reviewer": "gpt-session",
+  "image_sha256": "881fb74717affee8bd6b7c1ad67fccc54c00345c57beb183c24cd8263c60f0d8",
+  "passed": true,
+  "anatomy": "ok",
+  "exposure": "match",
+  "observations": [
+   "One hand holds a pair of chopsticks and the other supports the noodle bowl; both arms connect naturally to the shoulders; train booth and rain window visible."
+  ]
+ },
+ "acceptance": "user_approval_2026-11-13 — generate, QA, commit and ordinary main update without additional confirmation",
+ "review": {
+  "reviewed": false,
+  "by": "user",
+  "result": "pending"
+ }
+}
