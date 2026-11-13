@@ -13,28 +13,29 @@
   "era": "nation",
   "place": "nation_square",
   "ofam": "everyday",
-  "posture": "squat",
+  "posture": "stand",
   "support": "none",
-  "frame": "full_body",
-  "body": "front",
+  "frame": "waist_up",
+  "body": "front_3q",
   "head": "tilt",
-  "camera": "high",
+  "camera": "eye",
   "right": "prop",
-  "left": "lap",
+  "left": "",
   "use": "sig_hold",
-  "legs": "squat_heels",
+  "legs": "",
   "gaze": "at_prop",
-  "weather": "rain",
   "time": "dusk",
   "own": "fantasy",
   "placeText": "a high-fantasy excavation pit — scorched stones and ash, a string grid on the ground, a sieve and a wheelbarrow",
   "ownProp": "a small brush",
   "light": "back",
-  "expr": "candid",
-  "preset": "squat_prop",
+  "spot": "left_third",
+  "depth": "deep",
+  "expr": "relieved",
+  "preset": "pocket_look",
   "prop": "0",
   "outfit": "an archaeologist look fitted to her body — a cropped explorer vest open over a bandeau top, short shorts with a belt, gloves and boots, all styled as high-fantasy dress — laced leather, embroidered cloth and metal clasps",
-  "scene": "she is an archaeologist brushing ash from a buried find",
+  "scene": "she is an archaeologist looking down at a small brush in her hand beside the string grid",
   "axes": {
    "overall_intensity": "strong",
    "skin_exposure": "bold"
@@ -42,8 +43,8 @@
   "unlocked": [],
   "aspect": "2:3"
  },
+ "prompt": "INPUT: the attached image is the approved character — her Medieval fantasy card; keep her. Do not reuse earlier conversation images.\n\nCHARACTER: the same woman as the attached image — the female personification of Sun Jian of the Three Kingdoms, seen in her everyday life. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change, and her hair may be worn differently only as SCENE's Hair line says. Her Three Kingdoms identity shows ONLY as a small accessory, an object around her, or the object PROP says she holds — never in the outfit's colours, patterns or cut, never as armor, regalia or a costume.\n\nDESIGN (accessory hints only): her legend — fierce valor and ambition, a red headscarf, crimson-lacquered armor, the imperial jade seal glimpsed at her belt — may inform at most one small accessory, a hair ornament or an object beside her, in its palette (crimson red, gold, river teal, black lacquer). The clothes keep the chosen outfit's own colours; her skin, hair and eyes stay as in the attached image.\n\nSIGNATURE ACCESSORY: off duty she carries no weapon — no sword, saber, spear, glaive, halberd, bow, axe, shield or any blade in her hands, on her back or anywhere in the scene. Her signature weapon (an ancient bronze sword (the Sword of Gu Ding)) appears only as one small worn accessory modelled on its shape and colours — a hair ornament, pendant, earring, brooch or belt charm a few centimetres long, clearly jewellery and not a usable weapon.\n\nSTYLE: Korean MMORPG character artwork. A recognisably drawn face with gently simplified anatomical structure. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\n\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nAGE: the same adult woman as in the attached image — keep her own face shape, cheekbones, eye proportions and skin tone exactly; minimal facial lines (no nasolabial folds, crow's feet, under-eye bags or cheek creases). Keep her face soft, feminine and attractive in every framing — never elongated, gaunt, mannish or heavy-jawed, even in close-ups, profiles or low angles.\n\nOUTPUT: one standalone off-duty scene of her in the outfit chosen in SCENE; her legend shows only through accessories and objects around her — never in the outfit's colours, patterns or cut, never as armor, regalia or a costume. Everything else follows SCENE (chosen).\n\nFRAME: a vertical 2:3 (1024×1536) image. Compose the image for this frame; COMPOSITION in SCENE sets how much of her shows.\n\nCROP: a waist-up shot — the bottom edge crosses her waist; hips, legs and feet are out of frame. This crop wins over every other line: details apply only to the part that shows, and the outfit reads through its visible neckline, straps, fabric and colour. Never widen the framing to show a hidden support, hand or leg; a limb crossing the edge runs naturally on past it, never cut off or fading out inside the image.\n\nWORLD: this scene happens inside her own world — the world of the attached image — as if she simply lives there: a river-and-sea kingdom of medieval high fantasy: a vast river delta, crimson-sailed galleons and war galleys, harbor fortresses of red stone, fire magic dancing over dark water. Its architecture, props, light and weather show the world; no creatures, no second character, no readable text other than abstract heraldic or insignia shapes — never letters or Chinese characters. Her clothes stay the everyday outfit SCENE describes, not regalia or armor.\n\nSCENE (chosen):\nPlace: a high-fantasy excavation pit — scorched stones and ash, a string grid on the ground, a sieve and a wheelbarrow\nTime of day: dusk — blue hour, lights coming on.\nLight direction: backlit — the main light comes from behind her, a bright rim along her hair and shoulders.\nOutfit: an archaeologist look fitted to her body — a cropped explorer vest open over a bandeau top, short shorts with a belt, gloves and boots, all styled as high-fantasy dress — laced leather, embroidered cloth and metal clasps\nPOSTURE: standing.\nCOMPOSITION: a waist-up shot of her head, torso and hands; body turned three-quarters toward the camera; head tilted slightly; camera at her eye level; she is placed in the left third of the frame, open space of the place to her right; the space runs far back behind her, its lines receding into the distance.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand is in PROP.\nPROP: with her own right hand she holds a small brush at chest height; it is all she holds.\nGAZE: her eyes rest on what she holds.\nEXPRESSION: a relaxed, relieved look. Keep it subtle and natural, a light touch rather than acting: no sneer, glare, smirk-pulled cheek or chin lifted to look down at the viewer; her face stays relaxed and attractive. Her eyes are naturally open and clear, not heavy-lidded or half-closed; brows relaxed and even, neither raised on one side nor furrowed; lips softly closed or only just parted.\nScene note: she is an archaeologist looking down at a small brush in her hand beside the string grid\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — inside the crop, the chosen outfit is worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders and collarbones, skin clearly showing; the crop stays exactly where CROP sets it and never moves down to show more; intimate areas covered\n\nWARDROBE: change her clothes completely. From the attached image take only her face, hair and body — not its garment, armor, regalia, ornaments, mecha plates or background. Dress her exactly as SCENE describes; the part of that outfit inside the crop must read at first glance in its own colours. Do not carry the attached image's palette, patterns or trim into the outfit; her Three Kingdoms identity belongs in accessories and props, never in the clothes — never restyle the chosen outfit into her faction's palette, armor, robes or regalia.\n\nANGLE: the attached image fixes who she is, not how she is posed or shot. Do not copy its head angle, head tilt, gaze direction, face size in frame, camera height or crop — turn her head, set her gaze and place the camera exactly as SCENE describes, and let her face read naturally from that new angle (profile, three-quarter, looking down or away), with her features staying the same. No default card pose, no default front-facing portrait.\n\nONE MAIN FIGURE: she is the only character in focus. Where the place is busy, other people may appear only as small, soft-focus background extras — never posed with her. No logo, no watermark, no speech bubble, no frame border. No readable text or numbers.\n\nANATOMY: natural adult proportions, never a smaller head or a longer neck. The neck is a natural length and the head sits close to the shoulders. No body-part enlargement, no extra limbs.\n\nBODY: a normal human body — one head, two arms and two legs, each joined at its natural joint; elbows, knees and wrists bend the human way. Hands and feet may be partly hidden by the pose, what she holds or the frame. Right and left mean her own right and left, not the viewer's.\n\nHANDS: natural human hands, no extra or duplicated limbs; each visible hand joins through its wrist and forearm to the matching shoulder. A hand may stay outside the crop, and fingers may be partly hidden by a grip.\n\nAVOID: a blue or bruise-like tint on the skin around the eyes, glossy or shiny highlights on the face, sweaty, oily or plastic-looking skin.",
  "file": "손견_fantasy_kr_drawn_rim_dewy_f_casual90.webp",
- "prompt": "INPUT: the attached image is the approved character — her Medieval fantasy card; keep her. Do not reuse earlier conversation images.\n\nCHARACTER: the same woman as the attached image — the female personification of Sun Jian of the Three Kingdoms, seen in her everyday life. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change, and her hair may be worn differently only as SCENE's Hair line says. Her Three Kingdoms identity shows ONLY as a small accessory, an object around her, or the object PROP says she holds — never in the outfit's colours, patterns or cut, never as armor, regalia or a costume.\n\nDESIGN (accessory hints only): her legend — fierce valor and ambition, a red headscarf, crimson-lacquered armor, the imperial jade seal glimpsed at her belt — may inform at most one small accessory, a hair ornament or an object beside her, in its palette (crimson red, gold, river teal, black lacquer). The clothes keep the chosen outfit's own colours; her skin, hair and eyes stay as in the attached image.\n\nSIGNATURE ACCESSORY: off duty she carries no weapon — no sword, saber, spear, glaive, halberd, bow, axe, shield or any blade in her hands, on her back or anywhere in the scene. Her signature weapon (an ancient bronze sword (the Sword of Gu Ding)) appears only as one small worn accessory modelled on its shape and colours — a hair ornament, pendant, earring, brooch or belt charm a few centimetres long, clearly jewellery and not a usable weapon.\n\nSTYLE: Korean MMORPG character artwork. A recognisably drawn face with gently simplified anatomical structure. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\n\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nAGE: the same adult woman as in the attached image — keep her own face shape, cheekbones, eye proportions and skin tone exactly; minimal facial lines (no nasolabial folds, crow's feet, under-eye bags or cheek creases). Keep her face soft, feminine and attractive in every framing — never elongated, gaunt, mannish or heavy-jawed, even in close-ups, profiles or low angles.\n\nOUTPUT: one standalone off-duty scene of her in the outfit chosen in SCENE; her legend shows only through accessories and objects around her — never in the outfit's colours, patterns or cut, never as armor, regalia or a costume. Everything else follows SCENE (chosen).\n\nFRAME: a vertical 2:3 (1024×1536) image. Compose the image for this frame; COMPOSITION in SCENE sets how much of her shows.\n\nWORLD: this scene happens inside her own world — the world of the attached image — as if she simply lives there: a river-and-sea kingdom of medieval high fantasy: a vast river delta, crimson-sailed galleons and war galleys, harbor fortresses of red stone, fire magic dancing over dark water. Its architecture, props, light and weather show the world; no creatures, no second character, no readable text other than abstract heraldic or insignia shapes — never letters or Chinese characters. Her clothes stay the everyday outfit SCENE describes, not regalia or armor.\n\nSCENE (chosen):\nPlace: a high-fantasy excavation pit — scorched stones and ash, a string grid on the ground, a sieve and a wheelbarrow\nWeather / season: a rainy day — rain falls outside and streaks any window; surfaces are wet where she is outdoors.\nTime of day: dusk — blue hour, lights coming on.\nLight direction: backlit — the main light comes from behind her, a bright rim along her hair and shoulders.\nOutfit: an archaeologist look fitted to her body — a cropped explorer vest open over a bandeau top, short shorts with a belt, gloves and boots, all styled as high-fantasy dress — laced leather, embroidered cloth and metal clasps\nPOSTURE: crouching low on her heels.\nCOMPOSITION: a full-body shot, her complete head, hands and feet inside the frame with restrained margins; body facing the camera; head tilted slightly; camera slightly above, looking down at her.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left hand rests on her knee.\nPROP: with her own right hand she holds a small brush at chest height; it is all she holds.\nLEGS: crouched on the balls of her feet, knees bent.\nGAZE: her eyes rest on what she holds.\nEXPRESSION: a natural, unposed in-between expression. Keep it subtle and natural, a light touch rather than acting: no sneer, glare, smirk-pulled cheek or chin lifted to look down at the viewer; her face stays relaxed and attractive. Her eyes are naturally open and clear, not heavy-lidded or half-closed; brows relaxed and even, neither raised on one side nor furrowed; lips softly closed or only just parted.\nScene note: she is an archaeologist brushing ash from a buried find\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing; nothing slipped off; intimate areas covered\n\nWARDROBE: change her clothes completely. From the attached image take only her face, hair and body — not its garment, armor, regalia, ornaments, mecha plates or background. Dress her exactly as SCENE describes; that outfit must read at first glance, keeping its own recognisable colours and parts. Do not carry the attached image's palette, patterns or trim into the outfit; her Three Kingdoms identity belongs in accessories and props, never in the clothes — never restyle the chosen outfit into her faction's palette, armor, robes or regalia.\n\nANGLE: the attached image fixes who she is, not how she is posed or shot. Do not copy its head angle, head tilt, gaze direction, face size in frame, camera height or crop — turn her head, set her gaze and place the camera exactly as SCENE describes, and let her face read naturally from that new angle (profile, three-quarter, looking down or away), with her features staying the same. No default card pose, no default front-facing portrait.\n\nONE MAIN FIGURE: she is the only character in focus. Where the place is busy, other people may appear only as small, soft-focus background extras — never posed with her. No logo, no watermark, no speech bubble, no frame border. No readable text or numbers.\n\nANATOMY: natural adult proportions, about 7.5 heads tall — height from the legs, never a smaller head or a longer neck. The neck is a natural length and the head sits close to the shoulders. No body-part enlargement, no extra limbs.\n\nBODY: a normal human body — one head, two arms and two legs, each joined at its natural joint; elbows, knees and wrists bend the human way. Hands and feet may be partly hidden by the pose, what she holds or the frame. Right and left mean her own right and left, not the viewer's.\n\nHANDS: natural human hands, no extra or duplicated limbs; each visible hand joins through its wrist and forearm to the matching shoulder. A hand may stay outside the crop, and fingers may be partly hidden by a grip.\n\nAVOID: a blue or bruise-like tint on the skin around the eyes, glossy or shiny highlights on the face, sweaty, oily or plastic-looking skin.",
  "date": "2026-11-13",
  "record": "records/손견/fantasy-casual90.kr_drawn_rim_dewy-ui.json",
  "own": {
@@ -51,42 +52,70 @@
   "level": "bold",
   "example": false
  },
- "execution": "sam-own-five-713ea4",
+ "execution": "sam-own-redo-poses-1113",
  "imported": "2026-11-13",
- "acceptance": "user_approval_2026-11-13",
+ "acceptance": "user_approval_2026-11-13 — 「13명도 다시 생성」 · 「우연일거야」(같은 지시문으로 다시)",
  "review": {
   "reviewed": false,
   "by": "user",
   "result": "pending"
  },
  "generation": {
-  "tool": "image_gen",
+  "tool": "scratch draw.cjs (images API)",
+  "model": "gpt-image-2.6-flare",
   "endpoint": "images/edits",
-  "ref_sha256": "ab0af26d41a3f3f6bfea592e8e9acb04c36f9d986de4a281ac929bd8561396d1",
   "size": [
    1024,
    1536
   ],
-  "png_sha256": "b8f9208f3fe99d04e5f49671451cca7ec4016c682c963b86b4e854ba09a8a502",
-  "webp": {
-   "quality": 90,
-   "method": 6
+  "quality": "medium",
+  "usage": {
+   "input_tokens": 2622,
+   "input_tokens_details": {
+    "image_tokens": 864,
+    "text_tokens": 1758
+   },
+   "output_tokens": 1132,
+   "output_tokens_details": {
+    "image_tokens": 1132,
+    "text_tokens": 0
+   },
+   "total_tokens": 3754
   },
+  "seconds": 18.522,
+  "png_sha256": "9f6674885586d8a5e2614f346705af22ce56232846615072215959955d94ff27",
   "prompt_form": "en-prompt",
-  "prompt_sha256": "85ddf422d0c6c2c61377ead59c44eb700cbaa1012a1724c80257f51481681b65",
+  "prompt_sha256": "63ccef16ee249fb5deceeaffe9c0dae4c6ac47ebd91f314bc748ae3fa8db6008",
+  "ref_sha256": "ab0af26d41a3f3f6bfea592e8e9acb04c36f9d986de4a281ac929bd8561396d1",
+  "ref_sent": {
+   "size": [
+    768,
+    1152
+   ],
+   "sha256": "c4c1a6af7ddd67fbebf769ac4018b12b7f5b57ac2efad7712c6188ca9a599d08"
+  },
   "own": {
    "level": "bold",
    "tries": 1,
    "blocked": []
+  },
+  "date": "2026-11-13T06:34:18.362Z",
+  "webp": {
+   "quality": 90,
+   "method": 6
   }
  },
  "qa": {
-  "reviewer": "gpt-session",
-  "image_sha256": "b8f9208f3fe99d04e5f49671451cca7ec4016c682c963b86b4e854ba09a8a502",
+  "reviewer": "claude",
+  "image_sha256": "9f6674885586d8a5e2614f346705af22ce56232846615072215959955d94ff27",
   "passed": true,
   "exposure": "match",
   "observations": [
-   "1024×1536 portrait; reference face and hair colour retained; both arms connected, hands visible; role and outfit match planned scene; no usable weapon."
+   "Contact-sheet review at 400x600: single figure; reference face and hair kept; both arms and hands connected; intimate areas covered; pose matches the planned preset pocket_look; outfit reads as the job."
   ]
+ },
+ "replaces": {
+  "sha256": "3c8bd07d64ad8d6bd8e019781321ca46482e8bb7a2448d19607d0becf8a431e5",
+  "png_sha256": "b8f9208f3fe99d04e5f49671451cca7ec4016c682c963b86b4e854ba09a8a502"
  }
 }

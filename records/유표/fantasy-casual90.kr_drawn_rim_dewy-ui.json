@@ -11,27 +11,29 @@
  "scene": {
   "treeV": 2,
   "era": "nation",
-  "place": "nation_inn",
+  "place": "nation_workshop",
   "ofam": "everyday",
-  "posture": "sit_chair",
-  "support": "back_seat",
-  "frame": "full_body",
+  "posture": "stand",
+  "support": "none",
+  "frame": "waist_up",
   "body": "front_3q",
-  "head": "with_body",
+  "head": "tilt",
   "camera": "eye",
-  "right": "lap",
-  "left": "natural",
-  "use": "",
-  "legs": "ankles_crossed",
-  "gaze": "camera",
+  "right": "prop",
+  "left": "",
+  "use": "sig_hold",
+  "legs": "",
+  "gaze": "at_prop",
+  "time": "lamplight",
   "own": "fantasy",
   "placeText": "a high-fantasy chair workshop — a rocking chair in the middle, a bench of wooden parts, a lathe and wood shavings",
-  "spot": "right_third",
-  "expr": "focused",
-  "preset": "ankles_sit",
-  "prop": "",
+  "ownProp": "a carved wooden part",
+  "light": "side",
+  "expr": "wink",
+  "preset": "pocket_look",
+  "prop": "0",
   "outfit": "a chair maker look fitted to her body — a fitted sleeveless top with a short skirt, a leather apron and soft shoes, all styled as high-fantasy dress — laced leather, embroidered cloth and metal clasps",
-  "scene": "she is a chair maker resting in her own rocking chair",
+  "scene": "she is a chair maker looking down at a carved wooden part in her hand",
   "axes": {
    "overall_intensity": "strong",
    "skin_exposure": "bold"
@@ -39,8 +41,8 @@
   "unlocked": [],
   "aspect": "2:3"
  },
+ "prompt": "INPUT: the attached image is the approved character — her Medieval fantasy card; keep her. Do not reuse earlier conversation images.\n\nCHARACTER: the same woman as the attached image — the female personification of Liu Biao of the Three Kingdoms, seen in her everyday life. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change, and her hair may be worn differently only as SCENE's Hair line says. Her Three Kingdoms identity shows ONLY as a small accessory, an object around her, or the object PROP says she holds — never in the outfit's colours, patterns or cut, never as armor, regalia or a costume.\n\nDESIGN (accessory hints only): her legend — cultured caution, scholar's robes, a well-kept library behind her — may inform at most one small accessory, a hair ornament or an object beside her, in its palette (teal green, river blue, silver and ivory). The clothes keep the chosen outfit's own colours; her skin, hair and eyes stay as in the attached image.\n\nSTYLE: Korean MMORPG character artwork. A recognisably drawn face with gently simplified anatomical structure. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\n\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nAGE: the same adult woman as in the attached image — keep her own face shape, cheekbones, eye proportions and skin tone exactly; minimal facial lines (no nasolabial folds, crow's feet, under-eye bags or cheek creases). Keep her face soft, feminine and attractive in every framing — never elongated, gaunt, mannish or heavy-jawed, even in close-ups, profiles or low angles.\n\nOUTPUT: one standalone off-duty scene of her in the outfit chosen in SCENE; her legend shows only through accessories and objects around her — never in the outfit's colours, patterns or cut, never as armor, regalia or a costume. Everything else follows SCENE (chosen).\n\nFRAME: a vertical 2:3 (1024×1536) image. Compose the image for this frame; COMPOSITION in SCENE sets how much of her shows.\n\nCROP: a waist-up shot — the bottom edge crosses her waist; hips, legs and feet are out of frame. This crop wins over every other line: details apply only to the part that shows, and the outfit reads through its visible neckline, straps, fabric and colour. Never widen the framing to show a hidden support, hand or leg; a limb crossing the edge runs naturally on past it, never cut off or fading out inside the image.\n\nWORLD: this scene happens inside her own world — the world of the attached image — as if she simply lives there: the shattered realms of medieval high fantasy, an age of rival warlords after a fallen empire: a ruined imperial capital, mercenary camps, border keeps, outlaw marches and wild southern jungles, dark violet battle-magic. Its architecture, props, light and weather show the world; no creatures, no second character, no readable text other than abstract heraldic or insignia shapes — never letters or Chinese characters. Her clothes stay the everyday outfit SCENE describes, not regalia or armor.\n\nSCENE (chosen):\nPlace: a high-fantasy chair workshop — a rocking chair in the middle, a bench of wooden parts, a lathe and wood shavings\nTime of day: warm lamplight or candlelight indoors, the rest in shadow.\nLight direction: side light — the light falls from one side, the far side of her face in soft shadow.\nOutfit: a chair maker look fitted to her body — a fitted sleeveless top with a short skirt, a leather apron and soft shoes, all styled as high-fantasy dress — laced leather, embroidered cloth and metal clasps\nPOSTURE: standing.\nCOMPOSITION: a waist-up shot of her head, torso and hands; body turned three-quarters toward the camera; head tilted slightly; camera at her eye level.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand is in PROP.\nPROP: with her own right hand she holds a carved wooden part at chest height; it is all she holds.\nGAZE: her eyes rest on what she holds.\nEXPRESSION: a playful wink with a small smile. Keep it subtle and natural, a light touch rather than acting: no sneer, glare, smirk-pulled cheek or chin lifted to look down at the viewer; her face stays relaxed and attractive. Brows relaxed and even, neither raised on one side nor furrowed; lips softly closed or only just parted.\nScene note: she is a chair maker looking down at a carved wooden part in her hand\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — inside the crop, the chosen outfit is worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders and collarbones, skin clearly showing; the crop stays exactly where CROP sets it and never moves down to show more; intimate areas covered\n\nWARDROBE: change her clothes completely. From the attached image take only her face, hair and body — not its garment, armor, regalia, ornaments, mecha plates or background. Dress her exactly as SCENE describes; the part of that outfit inside the crop must read at first glance in its own colours. Do not carry the attached image's palette, patterns or trim into the outfit; her Three Kingdoms identity belongs in accessories and props, never in the clothes — never restyle the chosen outfit into her faction's palette, armor, robes or regalia.\n\nANGLE: the attached image fixes who she is, not how she is posed or shot. Do not copy its head angle, head tilt, gaze direction, face size in frame, camera height or crop — turn her head, set her gaze and place the camera exactly as SCENE describes, and let her face read naturally from that new angle (profile, three-quarter, looking down or away), with her features staying the same. No default card pose, no default front-facing portrait.\n\nONE MAIN FIGURE: she is the only character in focus. Where the place is busy, other people may appear only as small, soft-focus background extras — never posed with her. No logo, no watermark, no speech bubble, no frame border. No readable text or numbers.\n\nANATOMY: natural adult proportions, never a smaller head or a longer neck. The neck is a natural length and the head sits close to the shoulders. No body-part enlargement, no extra limbs.\n\nBODY: a normal human body — one head, two arms and two legs, each joined at its natural joint; elbows, knees and wrists bend the human way. Hands and feet may be partly hidden by the pose, what she holds or the frame. Right and left mean her own right and left, not the viewer's.\n\nHANDS: natural human hands, no extra or duplicated limbs; each visible hand joins through its wrist and forearm to the matching shoulder. A hand may stay outside the crop, and fingers may be partly hidden by a grip.\n\nAVOID: a blue or bruise-like tint on the skin around the eyes, glossy or shiny highlights on the face, sweaty, oily or plastic-looking skin.",
  "file": "유표_fantasy_kr_drawn_rim_dewy_f_casual90.webp",
- "prompt": "INPUT: the attached image is the approved character — her Medieval fantasy card; keep her. Do not reuse earlier conversation images.\n\nCHARACTER: the same woman as the attached image — the female personification of Liu Biao of the Three Kingdoms, seen in her everyday life. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change, and her hair may be worn differently only as SCENE's Hair line says. Her Three Kingdoms identity shows ONLY as a small accessory, an object around her, or the object PROP says she holds — never in the outfit's colours, patterns or cut, never as armor, regalia or a costume.\n\nDESIGN (accessory hints only): her legend — cultured caution, scholar's robes, a well-kept library behind her — may inform at most one small accessory, a hair ornament or an object beside her, in its palette (teal green, river blue, silver and ivory). The clothes keep the chosen outfit's own colours; her skin, hair and eyes stay as in the attached image.\n\nSTYLE: Korean MMORPG character artwork. A recognisably drawn face with gently simplified anatomical structure. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\n\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nAGE: the same adult woman as in the attached image — keep her own face shape, cheekbones, eye proportions and skin tone exactly; minimal facial lines (no nasolabial folds, crow's feet, under-eye bags or cheek creases). Keep her face soft, feminine and attractive in every framing — never elongated, gaunt, mannish or heavy-jawed, even in close-ups, profiles or low angles.\n\nOUTPUT: one standalone off-duty scene of her in the outfit chosen in SCENE; her legend shows only through accessories and objects around her — never in the outfit's colours, patterns or cut, never as armor, regalia or a costume. Everything else follows SCENE (chosen).\n\nFRAME: a vertical 2:3 (1024×1536) image. Compose the image for this frame; COMPOSITION in SCENE sets how much of her shows.\n\nWORLD: this scene happens inside her own world — the world of the attached image — as if she simply lives there: the shattered realms of medieval high fantasy, an age of rival warlords after a fallen empire: a ruined imperial capital, mercenary camps, border keeps, outlaw marches and wild southern jungles, dark violet battle-magic. Its architecture, props, light and weather show the world; no creatures, no second character, no readable text other than abstract heraldic or insignia shapes — never letters or Chinese characters. Her clothes stay the everyday outfit SCENE describes, not regalia or armor.\n\nSCENE (chosen):\nPlace: a high-fantasy chair workshop — a rocking chair in the middle, a bench of wooden parts, a lathe and wood shavings\nOutfit: a chair maker look fitted to her body — a fitted sleeveless top with a short skirt, a leather apron and soft shoes, all styled as high-fantasy dress — laced leather, embroidered cloth and metal clasps\nPOSTURE: seated on a chair.\nSUPPORT: her back rests against the seat back.\nCOMPOSITION: a full-body shot, her complete head, hands and feet inside the frame with restrained margins; body turned three-quarters toward the camera; camera at her eye level; she is placed in the right third of the frame, open space of the place to her left.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand rests on her knee.\nLEFT HAND: her own left hand rests naturally for the posture, relaxed and empty.\nLEGS: both legs held close together, one ankle crossed over the other at the feet.\nGAZE: she looks into the camera.\nEXPRESSION: attentive, steady eyes, mouth closed. Keep it subtle and natural, a light touch rather than acting: no sneer, glare, smirk-pulled cheek or chin lifted to look down at the viewer; her face stays relaxed and attractive. Her eyes are naturally open and clear, not heavy-lidded or half-closed; brows relaxed and even, neither raised on one side nor furrowed; lips softly closed or only just parted.\nScene note: she is a chair maker resting in her own rocking chair\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing; nothing slipped off; intimate areas covered\n\nWARDROBE: change her clothes completely. From the attached image take only her face, hair and body — not its garment, armor, regalia, ornaments, mecha plates or background. Dress her exactly as SCENE describes; that outfit must read at first glance, keeping its own recognisable colours and parts. Do not carry the attached image's palette, patterns or trim into the outfit; her Three Kingdoms identity belongs in accessories and props, never in the clothes — never restyle the chosen outfit into her faction's palette, armor, robes or regalia.\n\nANGLE: the attached image fixes who she is, not how she is posed or shot. Do not copy its head angle, head tilt, gaze direction, face size in frame, camera height or crop — turn her head, set her gaze and place the camera exactly as SCENE describes, and let her face read naturally from that new angle (profile, three-quarter, looking down or away), with her features staying the same. No default card pose, no default front-facing portrait.\n\nONE MAIN FIGURE: she is the only character in focus. Where the place is busy, other people may appear only as small, soft-focus background extras — never posed with her. No logo, no watermark, no speech bubble, no frame border. No readable text or numbers.\n\nANATOMY: natural adult proportions, about 7.5 heads tall — height from the legs, never a smaller head or a longer neck. The neck is a natural length and the head sits close to the shoulders. No body-part enlargement, no extra limbs.\n\nBODY: a normal human body — one head, two arms and two legs, each joined at its natural joint; elbows, knees and wrists bend the human way. Hands and feet may be partly hidden by the pose, what she holds or the frame. Right and left mean her own right and left, not the viewer's.\n\nHANDS: natural human hands, no extra or duplicated limbs; each visible hand joins through its wrist and forearm to the matching shoulder. A hand may stay outside the crop, and fingers may be partly hidden by a grip.\n\nAVOID: a blue or bruise-like tint on the skin around the eyes, glossy or shiny highlights on the face, sweaty, oily or plastic-looking skin.",
  "date": "2026-11-13",
  "record": "records/유표/fantasy-casual90.kr_drawn_rim_dewy-ui.json",
  "own": {
@@ -48,45 +50,70 @@
   "level": "bold",
   "example": false
  },
- "generation": {
-  "tool": "image_gen",
-  "endpoint": "images/edits",
-  "ref_sha256": "a435e73d46d6bc0e0cde323b90dfc2a2965409425c1b7575562fa4ba99c95256",
-  "size": [
-   1024,
-   1536
-  ],
-  "png_sha256": "47c6d340cd3dd33205c1087d54fdbbccba67c702ce0836b5fe02d88d8744a066",
-  "webp": {
-   "quality": 90,
-   "method": 6
-  },
-  "prompt_form": "en-prompt",
-  "prompt_sha256": "da33f3727141b2cfde6d2c7ad0d6f393ff5ba55b3c67bac5010d8368350e87e5",
-  "own": {
-   "level": "bold",
-   "tries": 1,
-   "blocked": []
-  }
- },
- "execution": "sam-own-five-c06664",
+ "execution": "sam-own-redo-poses-1113",
  "imported": "2026-11-13",
- "qa": {
-  "reviewer": "gpt-session",
-  "image_sha256": "47c6d340cd3dd33205c1087d54fdbbccba67c702ce0836b5fe02d88d8744a066",
-  "passed": false,
-  "anatomy": "ok",
-  "exposure": "match",
-  "observations": [
-   "Reference face, hair and adult proportions retained; requested career scene and bold outfit present. Visible arms and hands connect naturally; no extra limbs observed.",
-   "Rocking chair and woodworking workshop visible, both hands and feet in frame.",
-   "Workshop clothing takes some trim and colours from reference despite wardrobe instruction."
-  ]
- },
- "acceptance": "User authorized image generation, registration and ordinary main updates; no regeneration for exposure censorship.",
+ "acceptance": "user_approval_2026-11-13 — 「13명도 다시 생성」 · 「우연일거야」(같은 지시문으로 다시)",
  "review": {
   "reviewed": false,
   "by": "user",
   "result": "pending"
+ },
+ "generation": {
+  "tool": "scratch draw.cjs (images API)",
+  "model": "gpt-image-2.6-flare",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "quality": "medium",
+  "usage": {
+   "input_tokens": 2454,
+   "input_tokens_details": {
+    "image_tokens": 864,
+    "text_tokens": 1590
+   },
+   "output_tokens": 1132,
+   "output_tokens_details": {
+    "image_tokens": 1132,
+    "text_tokens": 0
+   },
+   "total_tokens": 3586
+  },
+  "seconds": 11.402,
+  "png_sha256": "1f31b08f26631f41d8ed3203d1ea8b0007ca7795daed3871785b9d5305ecbd92",
+  "prompt_form": "en-prompt",
+  "prompt_sha256": "7f5439f98724a90018e84e0bdf95603ea041b744da7cafa9eb4b376584013bbc",
+  "ref_sha256": "a435e73d46d6bc0e0cde323b90dfc2a2965409425c1b7575562fa4ba99c95256",
+  "ref_sent": {
+   "size": [
+    768,
+    1152
+   ],
+   "sha256": "10783cb50c3cd52a6cb790a421c356e62884c470f2024853d3c64add1ba24497"
+  },
+  "own": {
+   "level": "bold",
+   "tries": 1,
+   "blocked": []
+  },
+  "date": "2026-11-13T06:34:45.858Z",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  }
+ },
+ "qa": {
+  "reviewer": "claude",
+  "image_sha256": "1f31b08f26631f41d8ed3203d1ea8b0007ca7795daed3871785b9d5305ecbd92",
+  "passed": true,
+  "exposure": "match",
+  "observations": [
+   "Contact-sheet review at 400x600: single figure; reference face and hair kept; both arms and hands connected; intimate areas covered; pose matches the planned preset pocket_look; outfit reads as the job."
+  ]
+ },
+ "replaces": {
+  "sha256": "64efd76445dea7eb8ca15947511cd1cef813cbe9978386a888666d0e6ad21c9e",
+  "png_sha256": "47c6d340cd3dd33205c1087d54fdbbccba67c702ce0836b5fe02d88d8744a066"
  }
 }
