@@ -1,0 +1,117 @@
+{
+ "atelier": "samguk",
+ "card": "손건",
+ "faction": "shu",
+ "role": "official",
+ "world": "mecha",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v1",
+ "notes": {},
+ "look": {
+  "params": {},
+  "faceDesignOn": true,
+  "silhouetteOn": true,
+  "exposure": "bold"
+ },
+ "design": {
+  "face": {
+   "eye_color": "leaf_green",
+   "impression": "cheerful",
+   "expr": "confident",
+   "skin_tone": "warm_beige",
+   "age": "mid_20s",
+   "eye_size": "small",
+   "eye_tilt": "up",
+   "mark": "red_lip",
+   "brows": "high_arched",
+   "nose": "petite_straight",
+   "lips": "soft_medium",
+   "face_shape": "heart",
+   "eyes": "cat"
+  },
+  "silhouette": {
+   "body": "tall_curvy",
+   "hair_color": "grass_green",
+   "hair": "braided_crown",
+   "bangs": "side_locks"
+  }
+ },
+ "shot": {
+  "scene": "",
+  "time": "",
+  "pose": "",
+  "expr": "",
+  "frame": ""
+ },
+ "file": "손건_mecha_kr_drawn_rim_dewy_f.webp",
+ "prompt": "Design brief — your own take on this character. A full-body vertical 2:3 (1024×1536) character card image of Sun Qian from the Romance of the Three Kingdoms, reimagined as an adult woman — Liu Bei's tireless envoy who ran between warlords. Age: mid-twenties — a clear adult face; no facial lines. She is a woman — no beard, moustache or facial hair.\n\nYou design her yourself: invent her face, eye colour, hairstyle, makeup, expression, pose and setting as a fresh, original take — do not follow any earlier design of this character. Her hair colour, skin tone, costume and weapon are NOT free: take them from our designs below.\n\nStyle (fixed): Korean MMORPG character artwork. A recognisably drawn face with gently simplified anatomical structure. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\n\nInspiration only: travel-worn robes, a messenger's satchel, bright stamina.\n\nWorld (fixed): year 2190, the Shu frontier colony on a jade-green moon: terraced garden cities under vast glass domes, a ringed gas giant filling the sky, an orbital elevator climbing into space, starship docks glowing green. Her costume, weapon and setting belong to this world.\n\nCostume (choose one of ours, then add your own idea): pick ONE of these costume shapes from our set and keep its overall silhouette — 1) a long coat made of rigid plates from the shoulders to below the knees, open at the front to show the body armor, with an angular collar; 2) light body armor with several small shield and drone units floating symmetrically around her; 3) a symmetrical pair of mechanical sub-arms reaching out from her back, ending in shields or tools — her own two human arms stay as they are; 4) a large equipment unit worn on the back (tanks, a cannon barrel or antennae) rising above her head as the main shape, with medium body armor; 5) separate armor pieces rather than one shell — plates on the shoulders, forearms, chest, waist, thighs and shins, with a dark fitted inner suit showing between them; 6) sparse outer plates over an exposed mechanical skeleton of metal struts, pistons and cables — light and precise; 7) ring-shaped armor bands floating free around her waist and ankles, with light body armor — the floating rings make the shape. Then add one signature idea of your own drawn from her legend, built into the construction of the outfit itself rather than as a print or a loose accessory — e.g. plates or cloth layered like feathers, scales or petals, a hem or sleeve cut into a motif from her story. Build it in this world's materials and our colours below.\n\nWeapon (fixed — ours): a bamboo message tube, rebuilt as a far-future high-tech version of the same kind of object with the same silhouette: hard-surface alloy plates with panel lines, mechanical joints, vents and emitter nodes, an energy edge, plasma blade or glowing core in her glow-line colour and small status lights, with any animal motif re-sculpted as sleek machined armour and no wood, silk tassels or forged-bronze fittings.\n\nHair colour (fixed — ours): grass-green hair. Keep exactly this hair colour; only the hairstyle is yours.\n\nSkin tone (fixed — ours): warm beige skin. Keep exactly this skin tone.\n\nCostume colours (ours): jade green, imperial gold, earthen brown, white jade.\n\nMecha (fixed): she is a female mecha personification — her whole body is covered in solid hard-surface mecha armour plates with visible thickness, joints, panel lines and glow lines, never cloth or a gown; no cloth robe, gown, skirt or long fabric over the plates — any cape, skirt or wing is rigid armoured plates. Her face and hair stay human.\n\nRank (fixed): she is a high court official — her costume must read dignified office at first glance: refined, layered and finely ornamented, with flagship-card detail, never plain or sparse.\n\nExposure (fixed): bold — her outfit shows skin by design (a deep neckline, bare shoulders or arms, a high slit or short hem); intimate areas covered.\n\nFace proportions: a short midface and a soft, gently rounded jawline with a small soft chin — never a long face or a long, pointed or heavy jaw; any crown or headpiece sits above her hairline and never lengthens her face. Her eyes stay at a natural open size — never squeezed into narrow slits.\n\nComposition: vertical 2:3 full-body framing with modest headroom and clear space below the boots — the whole figure from the top of her crown or headpiece to both boots stays inside the frame, occupying about four-fifths of the image height, with the same camera distance in every genre; her hands and her signature item stay inside the frame. Camera at chest height with natural portrait perspective — no wide-angle distortion, no low angle, no close crop.\n\nIf you have already drawn a free design of her in this session, make this one clearly different — another face and hairstyle (the same hair colour and skin tone), another costume shape from the list with another signature idea, another pose and setting.\n\nWrite your own detailed image prompt from this brief, then draw it. One figure only, natural hands with five fingers; a far-future setting only — no traditional East-Asian architecture, pagodas or tiled roofs; no hanzi; no logo or watermark.\n\nDesign realization: choose silhouette 7, rigid armor bands floating around the waist and ankles over a light hard-surface armor body. Her human face has softly rounded cheeks, short midface and small chin, bright teal eyes, soft arched brows and a cheerful self-assured smile. Her grass-green hair is a neatly cut chin-length asymmetric bob with parted bangs. Build a secure relay-network idea into the armor geometry: concentric segmented capsule-shell armor rings incorporate nested interlocking dispatch-container joints, gold hinge brackets and tiny green emitter nodes, repeated as structural seams along the forearm gauntlets and hip plates. All solid jade-green and white-jade hard-surface armor with imperial-gold rims and earthen-brown inset panels; no cloth robes or skirt. Her high office reads through layered precision armor, elaborate collar plates and an abstract gold seal device. Upper arms below pauldrons and upper thighs above leg armor remain bare, intimate areas covered and torso armored. One intact cylindrical message tube rebuilt as a glowing green-core alloy data capsule is held vertically in her left hand beside her body; right hand rests visibly at waist height with relaxed natural fingers. No extra humanoid figure or arms. Stand in a futuristic terraced garden transit terminal under a glass dome, starship windows and green orbital-elevator lights behind, ringed planet visible in the sky. Front-facing full-body with both feet in frame, chest-height perspective and generous margins. Korean MMORPG drawn-face 2D brushwork with soft key light and crisp rim light.",
+ "date": "2026-11-13",
+ "record": "records/손건/mecha.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "손건",
+  "out": "world",
+  "world": "mecha",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {
+   "손건|mecha": {}
+  },
+  "looks": {
+   "손건|mecha": {
+    "params": {},
+    "faceDesignOn": true,
+    "silhouetteOn": true,
+    "exposure": "bold"
+   }
+  },
+  "shots": {
+   "손건|mecha": {
+    "scene": "",
+    "time": "",
+    "pose": "",
+    "expr": "",
+    "frame": ""
+   }
+  },
+  "walked": {},
+  "casualN": 1,
+  "scenes": {}
+ },
+ "generation": {
+  "tool": "image_gen",
+  "endpoint": "images/generations",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "fc46d96850c0a33642847e9d3371602761e76cbafd2bc8a46afae07848f58d1e",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "design": "gpt_free",
+  "free_prompt": "Design brief — your own take on this character. A full-body vertical 2:3 (1024×1536) character card image of Sun Qian from the Romance of the Three Kingdoms, reimagined as an adult woman — Liu Bei's tireless envoy who ran between warlords. Age: mid-twenties — a clear adult face; no facial lines. She is a woman — no beard, moustache or facial hair.\n\nYou design her yourself: invent her face, eye colour, hairstyle, makeup, expression, pose and setting as a fresh, original take — do not follow any earlier design of this character. Her hair colour, skin tone, costume and weapon are NOT free: take them from our designs below.\n\nStyle (fixed): Korean MMORPG character artwork. A recognisably drawn face with gently simplified anatomical structure. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\n\nInspiration only: travel-worn robes, a messenger's satchel, bright stamina.\n\nWorld (fixed): year 2190, the Shu frontier colony on a jade-green moon: terraced garden cities under vast glass domes, a ringed gas giant filling the sky, an orbital elevator climbing into space, starship docks glowing green. Her costume, weapon and setting belong to this world.\n\nCostume (choose one of ours, then add your own idea): pick ONE of these costume shapes from our set and keep its overall silhouette — 1) a long coat made of rigid plates from the shoulders to below the knees, open at the front to show the body armor, with an angular collar; 2) light body armor with several small shield and drone units floating symmetrically around her; 3) a symmetrical pair of mechanical sub-arms reaching out from her back, ending in shields or tools — her own two human arms stay as they are; 4) a large equipment unit worn on the back (tanks, a cannon barrel or antennae) rising above her head as the main shape, with medium body armor; 5) separate armor pieces rather than one shell — plates on the shoulders, forearms, chest, waist, thighs and shins, with a dark fitted inner suit showing between them; 6) sparse outer plates over an exposed mechanical skeleton of metal struts, pistons and cables — light and precise; 7) ring-shaped armor bands floating free around her waist and ankles, with light body armor — the floating rings make the shape. Then add one signature idea of your own drawn from her legend, built into the construction of the outfit itself rather than as a print or a loose accessory — e.g. plates or cloth layered like feathers, scales or petals, a hem or sleeve cut into a motif from her story. Build it in this world's materials and our colours below.\n\nWeapon (fixed — ours): a bamboo message tube, rebuilt as a far-future high-tech version of the same kind of object with the same silhouette: hard-surface alloy plates with panel lines, mechanical joints, vents and emitter nodes, an energy edge, plasma blade or glowing core in her glow-line colour and small status lights, with any animal motif re-sculpted as sleek machined armour and no wood, silk tassels or forged-bronze fittings.\n\nHair colour (fixed — ours): grass-green hair. Keep exactly this hair colour; only the hairstyle is yours.\n\nSkin tone (fixed — ours): warm beige skin. Keep exactly this skin tone.\n\nCostume colours (ours): jade green, imperial gold, earthen brown, white jade.\n\nMecha (fixed): she is a female mecha personification — her whole body is covered in solid hard-surface mecha armour plates with visible thickness, joints, panel lines and glow lines, never cloth or a gown; no cloth robe, gown, skirt or long fabric over the plates — any cape, skirt or wing is rigid armoured plates. Her face and hair stay human.\n\nRank (fixed): she is a high court official — her costume must read dignified office at first glance: refined, layered and finely ornamented, with flagship-card detail, never plain or sparse.\n\nExposure (fixed): bold — her outfit shows skin by design (a deep neckline, bare shoulders or arms, a high slit or short hem); intimate areas covered.\n\nFace proportions: a short midface and a soft, gently rounded jawline with a small soft chin — never a long face or a long, pointed or heavy jaw; any crown or headpiece sits above her hairline and never lengthens her face. Her eyes stay at a natural open size — never squeezed into narrow slits.\n\nComposition: vertical 2:3 full-body framing with modest headroom and clear space below the boots — the whole figure from the top of her crown or headpiece to both boots stays inside the frame, occupying about four-fifths of the image height, with the same camera distance in every genre; her hands and her signature item stay inside the frame. Camera at chest height with natural portrait perspective — no wide-angle distortion, no low angle, no close crop.\n\nIf you have already drawn a free design of her in this session, make this one clearly different — another face and hairstyle (the same hair colour and skin tone), another costume shape from the list with another signature idea, another pose and setting.\n\nWrite your own detailed image prompt from this brief, then draw it. One figure only, natural hands with five fingers; a far-future setting only — no traditional East-Asian architecture, pagodas or tiled roofs; no hanzi; no logo or watermark.\n\nDesign realization: choose silhouette 7, rigid armor bands floating around the waist and ankles over a light hard-surface armor body. Her human face has softly rounded cheeks, short midface and small chin, bright teal eyes, soft arched brows and a cheerful self-assured smile. Her grass-green hair is a neatly cut chin-length asymmetric bob with parted bangs. Build a secure relay-network idea into the armor geometry: concentric segmented capsule-shell armor rings incorporate nested interlocking dispatch-container joints, gold hinge brackets and tiny green emitter nodes, repeated as structural seams along the forearm gauntlets and hip plates. All solid jade-green and white-jade hard-surface armor with imperial-gold rims and earthen-brown inset panels; no cloth robes or skirt. Her high office reads through layered precision armor, elaborate collar plates and an abstract gold seal device. Upper arms below pauldrons and upper thighs above leg armor remain bare, intimate areas covered and torso armored. One intact cylindrical message tube rebuilt as a glowing green-core alloy data capsule is held vertically in her left hand beside her body; right hand rests visibly at waist height with relaxed natural fingers. No extra humanoid figure or arms. Stand in a futuristic terraced garden transit terminal under a glass dome, starship windows and green orbital-elevator lights behind, ringed planet visible in the sky. Front-facing full-body with both feet in frame, chest-height perspective and generous margins. Korean MMORPG drawn-face 2D brushwork with soft key light and crisp rim light.",
+  "prompt_form": "en-prompt",
+  "prompt_sha256": "3f9cded57303b4722e8c588a4af115c54b8997fed11b4ccc8677ff1e98309c62",
+  "selection": 4
+ },
+ "execution": "sam-sunqian-b2691f",
+ "imported": "2026-11-13",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "fc46d96850c0a33642847e9d3371602761e76cbafd2bc8a46afae07848f58d1e",
+  "passed": true,
+  "anatomy": "ok",
+  "exposure": "match",
+  "observations": [
+   "One adult woman; two connected arms and legs, natural visible hands.",
+   "Signature message cylinder intact; full figure and feet inside frame.",
+   "Correct world architecture and costume."
+  ]
+ },
+ "acceptance": "user selected 4,4,4; upload authorized",
+ "review": {
+  "reviewed": true,
+  "by": "user",
+  "result": "selected"
+ }
+}

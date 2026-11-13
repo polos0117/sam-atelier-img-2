@@ -1,0 +1,117 @@
+{
+ "atelier": "samguk",
+ "card": "손건",
+ "faction": "shu",
+ "role": "official",
+ "world": "samguk",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v1",
+ "notes": {},
+ "look": {
+  "params": {},
+  "faceDesignOn": true,
+  "silhouetteOn": true,
+  "exposure": "bold"
+ },
+ "design": {
+  "face": {
+   "eye_color": "leaf_green",
+   "impression": "cheerful",
+   "expr": "confident",
+   "skin_tone": "warm_beige",
+   "age": "mid_20s",
+   "eye_size": "small",
+   "eye_tilt": "down",
+   "mark": "red_lip",
+   "brows": "high_arched",
+   "nose": "petite_straight",
+   "lips": "soft_medium",
+   "face_shape": "inverted_triangle",
+   "eyes": "peach_blossom"
+  },
+  "silhouette": {
+   "body": "tall_curvy",
+   "hair_color": "grass_green",
+   "hair": "long_layered",
+   "bangs": "straight"
+  }
+ },
+ "shot": {
+  "scene": "",
+  "time": "",
+  "pose": "",
+  "expr": "",
+  "frame": ""
+ },
+ "file": "손건_samguk_kr_drawn_rim_dewy_f.webp",
+ "prompt": "Design brief — your own take on this character. A full-body vertical 2:3 (1024×1536) character card image of Sun Qian from the Romance of the Three Kingdoms, reimagined as an adult woman — Liu Bei's tireless envoy who ran between warlords. Age: mid-twenties — a clear adult face; no facial lines. She is a woman — no beard, moustache or facial hair.\n\nYou design her yourself: invent her face, eye colour, hairstyle, makeup, expression, pose and setting as a fresh, original take — do not follow any earlier design of this character. Her hair colour, skin tone, costume and weapon are NOT free: take them from our designs below.\n\nStyle (fixed): Korean MMORPG character artwork. A recognisably drawn face with gently simplified anatomical structure. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\n\nInspiration only: travel-worn robes, a messenger's satchel, bright stamina.\n\nWorld (fixed): Shu Han in the Sichuan basin, around 208–263 AD: the city of Chengdu, cliffside plank roads over gorges, mist-wrapped mountains and bamboo forests, peach orchards, green-and-gold banners. Her costume, weapon and setting belong to this world.\n\nCostume (choose one of ours, then add your own idea): pick ONE of these costume shapes from our set and keep its overall silhouette — 1) light armor pieces over a fitted silk martial dress, long silk sashes and a light skirt flowing from the waist and shoulders — a light, dancing silhouette; 2) no armor — a long floor-length robe with wide sleeves and a broad sash, a long elegant falling silhouette; 3) layered trailing court regalia with a tall crown, long hanging sashes and jade pendants — a ceremonial, stately silhouette; 4) a long silk shawl wrapping the shoulders and arms and floating in the air, light layered robes — an airy, celestial silhouette; 5) very long flowing water sleeves trailing past the hands through the air over a fitted dancer's dress — the sleeves make the shape; 6) a dark close-fitting light outfit with minimal ornament and wrapped arms and legs — a sleek silhouette, face uncovered; 7) a large phoenix crown with hanging bead strands and a weighty ceremonial robe — the headdress is the main shape; 8) a chest guard, a quiver, a fitted short robe and leg wraps — a light, upright archer's silhouette. Then add one signature idea of your own drawn from her legend, built into the construction of the outfit itself rather than as a print or a loose accessory — e.g. plates or cloth layered like feathers, scales or petals, a hem or sleeve cut into a motif from her story. Build it in this world's materials and our colours below.\n\nWeapon (fixed — ours): a bamboo message tube.\n\nHair colour (fixed — ours): grass-green hair. Keep exactly this hair colour; only the hairstyle is yours.\n\nSkin tone (fixed — ours): warm beige skin. Keep exactly this skin tone.\n\nCostume colours (ours): jade green, imperial gold, earthen brown, white jade.\n\nRank (fixed): she is a high court official — her costume must read dignified office at first glance: refined, layered and finely ornamented, with flagship-card detail, never plain or sparse.\n\nExposure (fixed): bold — her outfit shows skin by design (a deep neckline, bare shoulders or arms, a high slit or short hem); intimate areas covered.\n\nFace proportions: a short midface and a soft, gently rounded jawline with a small soft chin — never a long face or a long, pointed or heavy jaw; any crown or headpiece sits above her hairline and never lengthens her face. Her eyes stay at a natural open size — never squeezed into narrow slits.\n\nComposition: vertical 2:3 full-body framing with modest headroom and clear space below the boots — the whole figure from the top of her crown or headpiece to both boots stays inside the frame, occupying about four-fifths of the image height, with the same camera distance in every genre; her hands and her signature item stay inside the frame. Camera at chest height with natural portrait perspective — no wide-angle distortion, no low angle, no close crop.\n\nIf you have already drawn a free design of her in this session, make this one clearly different — another face and hairstyle (the same hair colour and skin tone), another costume shape from the list with another signature idea, another pose and setting.\n\nWrite your own detailed image prompt from this brief, then draw it. One figure only, natural hands with five fingers; a banner or seal may carry a single faction character, no other text; no logo or watermark.\n\nDesign realization: choose silhouette 4, the long silk shawl wrapping the shoulders and arms, light layered robes in an airy celestial silhouette. Her face is round-heart shaped with a short midface and a small soft chin, open sapphire-blue eyes, softly straight brows and a quietly delighted smile. Her grass-green hair is a shoulder-length wavy bob with a side braid and gold leaf-shaped Han comb. Build the tireless envoy's travel motif into the garment cut: several long narrow pleated panels unfold from a diagonal shoulder yoke like a dispatch being opened, alternating jade-green silk and white-jade silk with imperial-gold binding; an earthen-brown fitted belt joins the pleats into a dignified, richly layered Han official's robe. A deep secure cross neckline, bare shoulders, detached upper sleeve drapes and a full-length high side slit preserve bold exposure with intimate areas covered. Her right arm holds one intact bamboo message tube diagonally beside her torso, left hand lightly lifts the shawl below waist height without hiding either hand. She stands squarely with her weight evenly supported, whole figure facing three-quarter front and face toward the viewer, on a quiet late-Han river landing outside Chengdu; peach trees, stone steps and green-and-gold banners in the distance. No other figures. Strong rim light through bright morning haze, drawn face, layered visible brush strokes; full body with both feet and modest margins.",
+ "date": "2026-11-13",
+ "record": "records/손건/samguk.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "손건",
+  "out": "world",
+  "world": "samguk",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {
+   "손건|samguk": {}
+  },
+  "looks": {
+   "손건|samguk": {
+    "params": {},
+    "faceDesignOn": true,
+    "silhouetteOn": true,
+    "exposure": "bold"
+   }
+  },
+  "shots": {
+   "손건|samguk": {
+    "scene": "",
+    "time": "",
+    "pose": "",
+    "expr": "",
+    "frame": ""
+   }
+  },
+  "walked": {},
+  "casualN": 1,
+  "scenes": {}
+ },
+ "generation": {
+  "tool": "image_gen",
+  "endpoint": "images/generations",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "7a06a4f633aa9f8400cca2cea77b78fa810c0017c822c0073ccc3fb95d2b65b2",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "design": "gpt_free",
+  "free_prompt": "Design brief — your own take on this character. A full-body vertical 2:3 (1024×1536) character card image of Sun Qian from the Romance of the Three Kingdoms, reimagined as an adult woman — Liu Bei's tireless envoy who ran between warlords. Age: mid-twenties — a clear adult face; no facial lines. She is a woman — no beard, moustache or facial hair.\n\nYou design her yourself: invent her face, eye colour, hairstyle, makeup, expression, pose and setting as a fresh, original take — do not follow any earlier design of this character. Her hair colour, skin tone, costume and weapon are NOT free: take them from our designs below.\n\nStyle (fixed): Korean MMORPG character artwork. A recognisably drawn face with gently simplified anatomical structure. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\n\nInspiration only: travel-worn robes, a messenger's satchel, bright stamina.\n\nWorld (fixed): Shu Han in the Sichuan basin, around 208–263 AD: the city of Chengdu, cliffside plank roads over gorges, mist-wrapped mountains and bamboo forests, peach orchards, green-and-gold banners. Her costume, weapon and setting belong to this world.\n\nCostume (choose one of ours, then add your own idea): pick ONE of these costume shapes from our set and keep its overall silhouette — 1) light armor pieces over a fitted silk martial dress, long silk sashes and a light skirt flowing from the waist and shoulders — a light, dancing silhouette; 2) no armor — a long floor-length robe with wide sleeves and a broad sash, a long elegant falling silhouette; 3) layered trailing court regalia with a tall crown, long hanging sashes and jade pendants — a ceremonial, stately silhouette; 4) a long silk shawl wrapping the shoulders and arms and floating in the air, light layered robes — an airy, celestial silhouette; 5) very long flowing water sleeves trailing past the hands through the air over a fitted dancer's dress — the sleeves make the shape; 6) a dark close-fitting light outfit with minimal ornament and wrapped arms and legs — a sleek silhouette, face uncovered; 7) a large phoenix crown with hanging bead strands and a weighty ceremonial robe — the headdress is the main shape; 8) a chest guard, a quiver, a fitted short robe and leg wraps — a light, upright archer's silhouette. Then add one signature idea of your own drawn from her legend, built into the construction of the outfit itself rather than as a print or a loose accessory — e.g. plates or cloth layered like feathers, scales or petals, a hem or sleeve cut into a motif from her story. Build it in this world's materials and our colours below.\n\nWeapon (fixed — ours): a bamboo message tube.\n\nHair colour (fixed — ours): grass-green hair. Keep exactly this hair colour; only the hairstyle is yours.\n\nSkin tone (fixed — ours): warm beige skin. Keep exactly this skin tone.\n\nCostume colours (ours): jade green, imperial gold, earthen brown, white jade.\n\nRank (fixed): she is a high court official — her costume must read dignified office at first glance: refined, layered and finely ornamented, with flagship-card detail, never plain or sparse.\n\nExposure (fixed): bold — her outfit shows skin by design (a deep neckline, bare shoulders or arms, a high slit or short hem); intimate areas covered.\n\nFace proportions: a short midface and a soft, gently rounded jawline with a small soft chin — never a long face or a long, pointed or heavy jaw; any crown or headpiece sits above her hairline and never lengthens her face. Her eyes stay at a natural open size — never squeezed into narrow slits.\n\nComposition: vertical 2:3 full-body framing with modest headroom and clear space below the boots — the whole figure from the top of her crown or headpiece to both boots stays inside the frame, occupying about four-fifths of the image height, with the same camera distance in every genre; her hands and her signature item stay inside the frame. Camera at chest height with natural portrait perspective — no wide-angle distortion, no low angle, no close crop.\n\nIf you have already drawn a free design of her in this session, make this one clearly different — another face and hairstyle (the same hair colour and skin tone), another costume shape from the list with another signature idea, another pose and setting.\n\nWrite your own detailed image prompt from this brief, then draw it. One figure only, natural hands with five fingers; a banner or seal may carry a single faction character, no other text; no logo or watermark.\n\nDesign realization: choose silhouette 4, the long silk shawl wrapping the shoulders and arms, light layered robes in an airy celestial silhouette. Her face is round-heart shaped with a short midface and a small soft chin, open sapphire-blue eyes, softly straight brows and a quietly delighted smile. Her grass-green hair is a shoulder-length wavy bob with a side braid and gold leaf-shaped Han comb. Build the tireless envoy's travel motif into the garment cut: several long narrow pleated panels unfold from a diagonal shoulder yoke like a dispatch being opened, alternating jade-green silk and white-jade silk with imperial-gold binding; an earthen-brown fitted belt joins the pleats into a dignified, richly layered Han official's robe. A deep secure cross neckline, bare shoulders, detached upper sleeve drapes and a full-length high side slit preserve bold exposure with intimate areas covered. Her right arm holds one intact bamboo message tube diagonally beside her torso, left hand lightly lifts the shawl below waist height without hiding either hand. She stands squarely with her weight evenly supported, whole figure facing three-quarter front and face toward the viewer, on a quiet late-Han river landing outside Chengdu; peach trees, stone steps and green-and-gold banners in the distance. No other figures. Strong rim light through bright morning haze, drawn face, layered visible brush strokes; full body with both feet and modest margins.",
+  "prompt_form": "en-prompt",
+  "prompt_sha256": "b7a0734c8479c2d3a3f55c2b1b9d2d3feb11ee845029abccc7c0ad388a7bd64d",
+  "selection": 4
+ },
+ "execution": "sam-sunqian-b2691f",
+ "imported": "2026-11-13",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "7a06a4f633aa9f8400cca2cea77b78fa810c0017c822c0073ccc3fb95d2b65b2",
+  "passed": true,
+  "anatomy": "ok",
+  "exposure": "match",
+  "observations": [
+   "One adult woman; two connected arms and legs, natural visible hands.",
+   "Signature message cylinder intact; full figure and feet inside frame.",
+   "Correct world architecture and costume."
+  ]
+ },
+ "acceptance": "user selected 4,4,4; upload authorized",
+ "review": {
+  "reviewed": true,
+  "by": "user",
+  "result": "selected"
+ }
+}
