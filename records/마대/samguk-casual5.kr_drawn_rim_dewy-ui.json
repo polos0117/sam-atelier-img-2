@@ -1,0 +1,133 @@
+{
+ "atelier": "samguk",
+ "card": "마대",
+ "faction": "shu",
+ "slot": "casual5",
+ "treeV": 2,
+ "world": "samguk",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v1",
+ "ref": "마대_samguk_kr_drawn_rim_dewy_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "now",
+  "place": "sports_court",
+  "ofam": "active",
+  "item": "cycling_kit",
+  "posture": "half_kneel",
+  "support": "none",
+  "frame": "full_body",
+  "body": "front_3q",
+  "head": "tilt",
+  "camera": "high",
+  "right": "prop",
+  "left": "floor_brace",
+  "use": "towel_hold",
+  "legs": "",
+  "gaze": "at_prop",
+  "ofree": true,
+  "ofreeFamily": "roleplay",
+  "ofreeSitu": "free",
+  "ofreeRecent": "a starship galley and mess hall — holds a folded cleaning cloth at chest height; the stone stairway up to an old city gate tower — standing with one foot up on a step; her private orbital sleeper-train cabin — the train briefly enters zero gravity during her quiet wake-up; a futuristic spa of white curves and soft light — standing; an empty orbital recreation dome with a shallow indoor putting green and a star-filled panoramic window — she watches a small white practice ball complete a very slow curve toward the hole and leans forward in amused suspense; a neighbourhood grocery or convenience store with bright aisles — carries a paper shopping bag at her side; the central atrium of a space station — holds her keepsake in both hands in front of her; terraced tea fields on a misty Sichuan hillside — checks the photo on the back screen of a camera at chest height; an indoor lap pool with lane ropes — dries her hair with a towel; a narrow path through a tall bamboo grove — standing; a misty enchanted garden of moss — brings a small bouquet up to her face to smell the flowers; the open deck of a wooden sightseeing boat on the Yangtze — carries a camera by its grip at her side; a stairwell landing with a tall window — standing",
+  "expr": "proud",
+  "preset": "half_kneel_use",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "마대_samguk_kr_drawn_rim_dewy_f_casual5.webp",
+ "prompt": "INPUT: the attached image is the approved character — her Three kingdoms card; keep her. Do not reuse earlier conversation images.\n\nCHARACTER: the same woman as the attached image — the female personification of Ma Dai of the Three Kingdoms, seen in her everyday life. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change, and her hair may be worn differently only as SCENE's Hair line says. Her Three Kingdoms identity shows ONLY as a small accessory, an object around her, or the object PROP says she holds — never in the outfit's colours, patterns or cut, never as armor, regalia or a costume.\n\nDESIGN (accessory hints only): her legend — a quiet, steady Xiliang warrior in brocade-trimmed armor, the blade that struck down the rebel Wei Yan — may inform at most one small accessory, a hair ornament or an object beside her, in its palette (jade green, imperial gold, earthen brown, white jade, with small accents of desert sand and rust orange (the Liang frontier)). The clothes keep the chosen outfit's own colours; her skin, hair and eyes stay as in the attached image.\n\nSIGNATURE ACCESSORY: off duty she carries no weapon — no sword, saber, spear, glaive, halberd, bow, axe, shield or any blade in her hands, on her back or anywhere in the scene. Her signature weapon (a curved Xiliang saber) appears only as one small worn accessory modelled on its shape and colours — a hair ornament, pendant, earring, brooch or belt charm a few centimetres long, clearly jewellery and not a usable weapon.\n\nSTYLE: Korean MMORPG character artwork. A recognisably drawn face with gently simplified anatomical structure. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\n\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nAGE: the same adult woman as in the attached image — keep her own face shape, cheekbones, eye proportions and skin tone exactly; minimal facial lines (no nasolabial folds, crow's feet, under-eye bags or cheek creases). Keep her face soft, feminine and attractive in every framing — never elongated, gaunt, mannish or heavy-jawed, even in close-ups, profiles or low angles.\n\nOUTPUT: one standalone off-duty scene of her in the outfit chosen in SCENE; her legend shows only through accessories and objects around her — never in the outfit's colours, patterns or cut, never as armor, regalia or a costume. Everything else follows SCENE (chosen).\n\nFRAME: a vertical 2:3 (1024×1536) image. Compose the image for this frame; COMPOSITION in SCENE sets how much of her shows.\n\nSCENE (chosen):\nFREE DESIGN: design the place, activity, pose, framing and outfit yourself. Start from who she is — her legend, traits and personality — and show an everyday moment that is unexpected yet feels natural for her. Make it fresh through the situation and what she is doing, not through more decoration. Avoid scenes like the recent ones listed below. Keep her face, the art style and the body and anatomy rules exactly as stated. Before drawing, write your design into the lines below, then draw it. In your pose, give each hand one job only and say plainly where each arm goes; avoid poses where it is unclear which shoulder an arm comes from — an arm behind her back, behind her head or pinned under her body — and never state where a foot sits under water. Do not make it another small repair, adjusting, measuring or sorting task at a workbench, repair stall, equipment room or locker room — those scenes are already in our own list; choose another kind of everyday moment (rest, play, a meal, travel, weather, getting ready, simply being in the place).\nRecent scenes to avoid: a starship galley and mess hall — holds a folded cleaning cloth at chest height; the stone stairway up to an old city gate tower — standing with one foot up on a step; her private orbital sleeper-train cabin — the train briefly enters zero gravity during her quiet wake-up; a futuristic spa of white curves and soft light — standing; an empty orbital recreation dome with a shallow indoor putting green and a star-filled panoramic window — she watches a small white practice ball complete a very slow curve toward the hole and leans forward in amused suspense; a neighbourhood grocery or convenience store with bright aisles — carries a paper shopping bag at her side; the central atrium of a space station — holds her keepsake in both hands in front of her; terraced tea fields on a misty Sichuan hillside — checks the photo on the back screen of a camera at chest height; an indoor lap pool with lane ropes — dries her hair with a towel; a narrow path through a tall bamboo grove — standing; a misty enchanted garden of moss — brings a small bouquet up to her face to smell the flowers; the open deck of a wooden sightseeing boat on the Yangtze — carries a camera by its grip at her side; a stairwell landing with a tall window — standing.\nPlace: a quiet retro roller-rink party, with a low padded rail and an empty polished floor\nActivity: in an original delivery-courier party costume she coasts to a gentle stop, laughing when the detachable side flap of her skirt catches on the rail and opens to show the fitted opaque shorts underneath; all intimate areas remain covered\nPose: standing balanced on two roller skates, knees softly flexed; her right arm extends to the side with her right palm on the padded rail, her left elbow bends forward and her left hand holds a small plain takeaway carton at waist height\nFraming: full body at chest-height camera, frontal three-quarter view, both hands and both skates visible with margins\nOutfit family (required): role-play costume — any role-play costume outfit; you may pick one from our outfit catalog (outfit-catalog.md in this pack) or design your own, but prefer one that is not in it.\nSituation (required): a situational exposure moment of your own design that fits the scene — prefer one that is not among ours: clothes soaked by rain or a splash, clothes caught by a strong gust of wind, a top worn half undone, a strap slipped off the shoulder, a hem knotted up under the bust, an outer layer tied around the waist, a sheen of sweat from heat, a backlit silhouette through thin fabric, a skirt slit fallen open, sleeves pushed up with one more button undone, a tie or scarf pulled loose.\nOutfit: an original orange-and-cobalt roller courier costume: cropped zip-front halter vest with deep neckline, short detachable side-flap skirt over opaque fitted shorts, bare shoulders and waist, striped knee socks and quad skates, no logos or real uniform insignia\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing; intimate areas covered\n\nWARDROBE: change her clothes completely. From the attached image take only her face, hair and body — not its garment, armor, regalia, ornaments, mecha plates or background. Dress her exactly as SCENE describes; that outfit must read at first glance, keeping its own recognisable colours and parts. Do not carry the attached image's palette, patterns or trim into the outfit; her Three Kingdoms identity belongs in accessories and props, never in the clothes — never restyle the chosen outfit into her faction's palette, armor, robes or regalia.\n\nANGLE: the attached image fixes who she is, not how she is posed or shot. Do not copy its head angle, head tilt, gaze direction, face size in frame, camera height or crop — turn her head, set her gaze and place the camera exactly as SCENE describes, and let her face read naturally from that new angle (profile, three-quarter, looking down or away), with her features staying the same. No default card pose, no default front-facing portrait.\n\nONE MAIN FIGURE: she is the only character in focus. Where the place is busy, other people may appear only as small, soft-focus background extras — never posed with her. No logo, no watermark, no speech bubble, no frame border. No readable text or numbers.\n\nANATOMY: natural adult proportions, about 7.5 heads tall — height from the legs, never a smaller head or a longer neck. The neck is a natural length and the head sits close to the shoulders. No body-part enlargement, no extra limbs.\n\nBODY: a normal human body — one head, two arms and two legs, each joined at its natural joint; elbows, knees and wrists bend the human way. Hands and feet may be partly hidden by the pose, what she holds or the frame. Right and left mean her own right and left, not the viewer's.\n\nHANDS: natural human hands, no extra or duplicated limbs; each visible hand joins through its wrist and forearm to the matching shoulder. A hand may stay outside the crop, and fingers may be partly hidden by a grip.\n\nAVOID: a blue or bruise-like tint on the skin around the eyes, glossy or shiny highlights on the face, sweaty, oily or plastic-looking skin.",
+ "date": "2026-11-13",
+ "record": "records/마대/samguk-casual5.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "마대",
+  "out": "casual",
+  "world": "samguk",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 5,
+  "scenes": {
+   "마대": {
+    "era": "now",
+    "place": "sports_court",
+    "ofam": "active",
+    "treeV": 2,
+    "prop": "",
+    "preset": "half_kneel_use",
+    "use": "towel_hold",
+    "posture": "half_kneel",
+    "support": "none",
+    "frame": "full_body",
+    "body": "front_3q",
+    "head": "tilt",
+    "camera": "high",
+    "right": "prop",
+    "left": "floor_brace",
+    "legs": "",
+    "gaze": "at_prop",
+    "item": "cycling_kit",
+    "expr": "proud",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "ofree": true,
+    "ofreeFamily": "roleplay",
+    "ofreeSitu": "free",
+    "ofreeRecent": "a starship galley and mess hall — holds a folded cleaning cloth at chest height; the stone stairway up to an old city gate tower — standing with one foot up on a step; her private orbital sleeper-train cabin — the train briefly enters zero gravity during her quiet wake-up; a futuristic spa of white curves and soft light — standing; an empty orbital recreation dome with a shallow indoor putting green and a star-filled panoramic window — she watches a small white practice ball complete a very slow curve toward the hole and leans forward in amused suspense; a neighbourhood grocery or convenience store with bright aisles — carries a paper shopping bag at her side; the central atrium of a space station — holds her keepsake in both hands in front of her; terraced tea fields on a misty Sichuan hillside — checks the photo on the back screen of a camera at chest height; an indoor lap pool with lane ropes — dries her hair with a towel; a narrow path through a tall bamboo grove — standing; a misty enchanted garden of moss — brings a small bouquet up to her face to smell the flowers; the open deck of a wooden sightseeing boat on the Yangtze — carries a camera by its grip at her side; a stairwell landing with a tall window — standing"
+   }
+  }
+ },
+ "generation": {
+  "free_design": {
+   "Place": "a quiet retro roller-rink party, with a low padded rail and an empty polished floor",
+   "Activity": "in an original delivery-courier party costume she coasts to a gentle stop, laughing when the detachable side flap of her skirt catches on the rail and opens to show the fitted opaque shorts underneath; all intimate areas remain covered",
+   "Pose": "standing balanced on two roller skates, knees softly flexed; her right arm extends to the side with her right palm on the padded rail, her left elbow bends forward and her left hand holds a small plain takeaway carton at waist height",
+   "Framing": "full body at chest-height camera, frontal three-quarter view, both hands and both skates visible with margins",
+   "Outfit": "an original orange-and-cobalt roller courier costume: cropped zip-front halter vest with deep neckline, short detachable side-flap skirt over opaque fitted shorts, bare shoulders and waist, striped knee socks and quad skates, no logos or real uniform insignia"
+  },
+  "free_prompt": "INPUT: the attached image is the approved character — her Three kingdoms card; keep her. Do not reuse earlier conversation images.\n\nCHARACTER: the same woman as the attached image — the female personification of Ma Dai of the Three Kingdoms, seen in her everyday life. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change, and her hair may be worn differently only as SCENE's Hair line says. Her Three Kingdoms identity shows ONLY as a small accessory, an object around her, or the object PROP says she holds — never in the outfit's colours, patterns or cut, never as armor, regalia or a costume.\n\nDESIGN (accessory hints only): her legend — a quiet, steady Xiliang warrior in brocade-trimmed armor, the blade that struck down the rebel Wei Yan — may inform at most one small accessory, a hair ornament or an object beside her, in its palette (jade green, imperial gold, earthen brown, white jade, with small accents of desert sand and rust orange (the Liang frontier)). The clothes keep the chosen outfit's own colours; her skin, hair and eyes stay as in the attached image.\n\nSIGNATURE ACCESSORY: off duty she carries no weapon — no sword, saber, spear, glaive, halberd, bow, axe, shield or any blade in her hands, on her back or anywhere in the scene. Her signature weapon (a curved Xiliang saber) appears only as one small worn accessory modelled on its shape and colours — a hair ornament, pendant, earring, brooch or belt charm a few centimetres long, clearly jewellery and not a usable weapon.\n\nSTYLE: Korean MMORPG character artwork. A recognisably drawn face with gently simplified anatomical structure. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\n\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nAGE: the same adult woman as in the attached image — keep her own face shape, cheekbones, eye proportions and skin tone exactly; minimal facial lines (no nasolabial folds, crow's feet, under-eye bags or cheek creases). Keep her face soft, feminine and attractive in every framing — never elongated, gaunt, mannish or heavy-jawed, even in close-ups, profiles or low angles.\n\nOUTPUT: one standalone off-duty scene of her in the outfit chosen in SCENE; her legend shows only through accessories and objects around her — never in the outfit's colours, patterns or cut, never as armor, regalia or a costume. Everything else follows SCENE (chosen).\n\nFRAME: a vertical 2:3 (1024×1536) image. Compose the image for this frame; COMPOSITION in SCENE sets how much of her shows.\n\nSCENE (chosen):\nFREE DESIGN: design the place, activity, pose, framing and outfit yourself. Start from who she is — her legend, traits and personality — and show an everyday moment that is unexpected yet feels natural for her. Make it fresh through the situation and what she is doing, not through more decoration. Avoid scenes like the recent ones listed below. Keep her face, the art style and the body and anatomy rules exactly as stated. Before drawing, write your design into the lines below, then draw it. In your pose, give each hand one job only and say plainly where each arm goes; avoid poses where it is unclear which shoulder an arm comes from — an arm behind her back, behind her head or pinned under her body — and never state where a foot sits under water. Do not make it another small repair, adjusting, measuring or sorting task at a workbench, repair stall, equipment room or locker room — those scenes are already in our own list; choose another kind of everyday moment (rest, play, a meal, travel, weather, getting ready, simply being in the place).\nRecent scenes to avoid: a starship galley and mess hall — holds a folded cleaning cloth at chest height; the stone stairway up to an old city gate tower — standing with one foot up on a step; her private orbital sleeper-train cabin — the train briefly enters zero gravity during her quiet wake-up; a futuristic spa of white curves and soft light — standing; an empty orbital recreation dome with a shallow indoor putting green and a star-filled panoramic window — she watches a small white practice ball complete a very slow curve toward the hole and leans forward in amused suspense; a neighbourhood grocery or convenience store with bright aisles — carries a paper shopping bag at her side; the central atrium of a space station — holds her keepsake in both hands in front of her; terraced tea fields on a misty Sichuan hillside — checks the photo on the back screen of a camera at chest height; an indoor lap pool with lane ropes — dries her hair with a towel; a narrow path through a tall bamboo grove — standing; a misty enchanted garden of moss — brings a small bouquet up to her face to smell the flowers; the open deck of a wooden sightseeing boat on the Yangtze — carries a camera by its grip at her side; a stairwell landing with a tall window — standing.\nPlace: a quiet retro roller-rink party, with a low padded rail and an empty polished floor\nActivity: in an original delivery-courier party costume she coasts to a gentle stop, laughing when the detachable side flap of her skirt catches on the rail and opens to show the fitted opaque shorts underneath; all intimate areas remain covered\nPose: standing balanced on two roller skates, knees softly flexed; her right arm extends to the side with her right palm on the padded rail, her left elbow bends forward and her left hand holds a small plain takeaway carton at waist height\nFraming: full body at chest-height camera, frontal three-quarter view, both hands and both skates visible with margins\nOutfit family (required): role-play costume — any role-play costume outfit; you may pick one from our outfit catalog (outfit-catalog.md in this pack) or design your own, but prefer one that is not in it.\nSituation (required): a situational exposure moment of your own design that fits the scene — prefer one that is not among ours: clothes soaked by rain or a splash, clothes caught by a strong gust of wind, a top worn half undone, a strap slipped off the shoulder, a hem knotted up under the bust, an outer layer tied around the waist, a sheen of sweat from heat, a backlit silhouette through thin fabric, a skirt slit fallen open, sleeves pushed up with one more button undone, a tie or scarf pulled loose.\nOutfit: an original orange-and-cobalt roller courier costume: cropped zip-front halter vest with deep neckline, short detachable side-flap skirt over opaque fitted shorts, bare shoulders and waist, striped knee socks and quad skates, no logos or real uniform insignia\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing; intimate areas covered\n\nWARDROBE: change her clothes completely. From the attached image take only her face, hair and body — not its garment, armor, regalia, ornaments, mecha plates or background. Dress her exactly as SCENE describes; that outfit must read at first glance, keeping its own recognisable colours and parts. Do not carry the attached image's palette, patterns or trim into the outfit; her Three Kingdoms identity belongs in accessories and props, never in the clothes — never restyle the chosen outfit into her faction's palette, armor, robes or regalia.\n\nANGLE: the attached image fixes who she is, not how she is posed or shot. Do not copy its head angle, head tilt, gaze direction, face size in frame, camera height or crop — turn her head, set her gaze and place the camera exactly as SCENE describes, and let her face read naturally from that new angle (profile, three-quarter, looking down or away), with her features staying the same. No default card pose, no default front-facing portrait.\n\nONE MAIN FIGURE: she is the only character in focus. Where the place is busy, other people may appear only as small, soft-focus background extras — never posed with her. No logo, no watermark, no speech bubble, no frame border. No readable text or numbers.\n\nANATOMY: natural adult proportions, about 7.5 heads tall — height from the legs, never a smaller head or a longer neck. The neck is a natural length and the head sits close to the shoulders. No body-part enlargement, no extra limbs.\n\nBODY: a normal human body — one head, two arms and two legs, each joined at its natural joint; elbows, knees and wrists bend the human way. Hands and feet may be partly hidden by the pose, what she holds or the frame. Right and left mean her own right and left, not the viewer's.\n\nHANDS: natural human hands, no extra or duplicated limbs; each visible hand joins through its wrist and forearm to the matching shoulder. A hand may stay outside the crop, and fingers may be partly hidden by a grip.\n\nAVOID: a blue or bruise-like tint on the skin around the eyes, glossy or shiny highlights on the face, sweaty, oily or plastic-looking skin.",
+  "tool": "image_gen",
+  "endpoint": "images/edits",
+  "ref_sha256": "4b02cd0c5ee4d799358b3042f1f3de25fed59e66439ef59ca6b79da79952184f",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "82c024f2919195e1f8028c51ff441810c6644dcb528ce759730c8dfd49ce6ec1",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "prompt_form": "en-prompt",
+  "prompt_sha256": "dbc71a466945482c3c7110dc4dbac559531bc77c05af4bf621dd820ac6113c4b",
+  "retries": []
+ },
+ "execution": "sam-madai-8e0692",
+ "imported": "2026-11-13",
+ "qa": {
+  "reviewer": "gpt-session",
+  "image_sha256": "82c024f2919195e1f8028c51ff441810c6644dcb528ce759730c8dfd49ce6ec1",
+  "passed": true,
+  "anatomy": "ok",
+  "exposure": "match",
+  "observations": [
+   "롤러장 레일에 오른손을 짚고 왼손에 상자를 듦. 옆 덮개가 열려 불투명 반바지가 보임."
+  ]
+ },
+ "acceptance": "user_authorized_2026-11-13 — generate, review and publish without further confirmation",
+ "review": {
+  "reviewed": false,
+  "by": "user",
+  "result": "pending"
+ }
+}
