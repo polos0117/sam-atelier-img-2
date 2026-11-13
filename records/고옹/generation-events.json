@@ -1,0 +1,21 @@
+{
+ "execution": "sam-guyong-4a55324",
+ "selected": {
+  "samguk": 1,
+  "fantasy": 3,
+  "mecha": 1
+ },
+ "events": [
+  {
+   "candidates": [
+    "samguk-casual7",
+    "fantasy-casual7"
+   ],
+   "status": "batch_interrupted",
+   "error": "moderation_blocked at output; sexual",
+   "request_id": "4f3afa47-d454-4b2a-97a9-d88704f4be31",
+   "slot_attribution": "not provided by tool",
+   "action": "No image received for either pending slot; repeated original prompts unchanged. Both completed."
+  }
+ ]
+}
