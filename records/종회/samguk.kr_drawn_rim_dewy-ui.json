@@ -1,0 +1,116 @@
+{
+ "atelier": "samguk",
+ "card": "종회",
+ "faction": "wei",
+ "role": "strategist",
+ "world": "samguk",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v1",
+ "notes": {},
+ "look": {
+  "params": {},
+  "faceDesignOn": true,
+  "silhouetteOn": true,
+  "exposure": "bold"
+ },
+ "design": {
+  "face": {
+   "eye_color": "ice_blue",
+   "impression": "glamorous",
+   "expr": "smug",
+   "skin_tone": "fair",
+   "age": "early_20s",
+   "eye_size": "medium",
+   "eye_tilt": "level",
+   "mark": "bare",
+   "brows": "feathered",
+   "nose": "broad_soft",
+   "lips": "plush_pout",
+   "face_shape": "v_line",
+   "eyes": "phoenix"
+  },
+  "silhouette": {
+   "body": "hourglass",
+   "hair_color": "navy",
+   "hair": "pixie",
+   "bangs": "side_locks"
+  }
+ },
+ "shot": {
+  "scene": "",
+  "time": "",
+  "pose": "",
+  "expr": "",
+  "frame": ""
+ },
+ "file": "종회_samguk_kr_drawn_rim_dewy_f.webp",
+ "prompt": "A full-body character image, vertical 2:3 (1024×1536): Zhong Hui of the Romance of the Three Kingdoms, reimagined as an adult woman — the dazzling prodigy whose ambition tripped over itself.\n\n1. STYLE\nKorean MMORPG character artwork. A recognisably drawn face with gently simplified anatomical structure. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nHer face is small and soft: a short midface, a softly rounded jaw and a small chin, about 1.3 times as long as it is wide, with her eyes open at their natural size. Bangs, side locks and headpieces frame the face without lengthening it.\nSkin finish: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\n2. CHARACTER\nAge: about twenty — a fresh young-adult face.\nFace — her own, recognisably this character, a woman's face with no beard or facial hair: a glamorous, sultry allure; fair skin; delicate V-line face with a small, soft chin; medium-sized eyes — long phoenix eyes with lifted outer corners, level outer eye corners; soft feathered brows; broad soft nose; soft, full lips; ice-blue eyes; a bare, makeup-free face.\nBody and hair: hourglass-figured — full bust and hips, distinctly narrow-waisted build; a pixie cut with no bangs, long face-framing side locks; deep navy-blue hair.\nExpression: a faint knowing smile, subtle and relaxed.\nLegend, carried in her design and bearing: brilliant, vain and ambitious, elegant armor-robes, a smile hiding betrayal.\nAnatomy: one head, two arms and two legs, each joined at its natural joint; natural hands with five fingers.\n\n3. COSTUME AND EQUIPMENT — THREE KINGDOMS\nCostume: a strategist's scholar robes — flowing layered silk robes with wide sleeves, a scholar's guan cap or silk ribbon, a feather fan or bound bamboo scrolls, a jade pendant. Late-Han Chinese dress — cross-collared silk robes with wide sleeves and a broad sash, lamellar or scale armor laced with cords where armor is worn, bronze, jade and lacquer ornament, Han court hair ornaments; silk, lacquered leather, bronze and iron.\nSilhouette: light armor pieces over a fitted silk martial dress, long silk sashes and a light skirt flowing from the waist and shoulders — a light, dancing silhouette. This silhouette sets the overall shape of the costume above — keep its materials, ornaments and rank in this shape; the details are free.\nColours: deep navy blue, black lacquer, cold steel silver, ivory white.\nSignature item: a gilded command fan. She holds it at full scale: one whole object, drawn once, held in front of or beside her body; a long weapon keeps one straight, unbroken shaft with a single head or blade.\nExposure (bold): her robes open to show skin — the cross collar opened into a deep neckline with natural cleavage, bare upper arms above detached wide sleeves (and bare shoulders where no shoulder guard sits), a high slit in the skirt panels showing the thigh; any armor pieces stay on and symmetrical. Intimate areas covered; keep the costume material and palette.\n\n4. SCENE\nWorld: Cao Wei in northern China, around 200–235 AD: the walled capitals of Xuchang, Ye and Luoyang, rammed-earth ramparts and tiled watchtowers, black-and-navy banners over vast northern plains, armoured cavalry, bronze ritual vessels and lacquered halls.\nPose: standing confidently, her body turned slightly while her face looks toward the viewer.\nLight: a soft key light with a strong rim light tracing her hair, shoulders and armour; bright, crisp specular highlights on metal and jewellery, and a clean, warm-neutral sheen on her skin.\nComposition: her whole figure from the top of her head or headpiece to both feet inside the frame with clear margins, about four-fifths of the image height; camera at chest height with natural portrait perspective.\n\n5. CONSTRAINTS\nOne figure only — no second character, horse or other creature. No readable text or numbers, except that a banner, seal or emblem may carry the single character 魏 or 鍾. No logo, watermark, speech bubble or frame border. Three Kingdoms-era Chinese dress, architecture and materials only.\nAvoid: a blue or bruise-like tint on the skin around the eyes, glossy or shiny highlights on the face, sweaty, oily or plastic-looking skin.",
+ "date": "2026-11-12",
+ "record": "records/종회/samguk.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "종회",
+  "out": "world",
+  "world": "samguk",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {
+   "종회|samguk": {}
+  },
+  "looks": {
+   "종회|samguk": {
+    "params": {},
+    "faceDesignOn": true,
+    "silhouetteOn": true,
+    "exposure": "bold"
+   }
+  },
+  "shots": {
+   "종회|samguk": {
+    "scene": "",
+    "time": "",
+    "pose": "",
+    "expr": "",
+    "frame": ""
+   }
+  },
+  "walked": {},
+  "casualN": 1,
+  "scenes": {}
+ },
+ "generation": {
+  "tool": "image_gen",
+  "endpoint": "images/generations",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "f4fda66f6a7aab644f5bc42e41131b1d271bdc3287880ec7b6d2ef1bda2048a2",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "prompt_form": "en-prompt",
+  "prompt_sha256": "8ee82f93ca4e10ca43c7a789913341ef19d37a97a6d4d8008ae97cd9253543b9",
+  "submitted_prompt": "아래 지시문을 고치지 말고 그대로 그려라\nA full-body character image, vertical 2:3 (1024×1536): Zhong Hui of the Romance of the Three Kingdoms, reimagined as an adult woman — the dazzling prodigy whose ambition tripped over itself.\n\n1. STYLE\nKorean MMORPG character artwork. A recognisably drawn face with gently simplified anatomical structure. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nHer face is small and soft: a short midface, a softly rounded jaw and a small chin, about 1.3 times as long as it is wide, with her eyes open at their natural size. Bangs, side locks and headpieces frame the face without lengthening it.\nSkin finish: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\n2. CHARACTER\nAge: about twenty — a fresh young-adult face.\nFace — her own, recognisably this character, a woman's face with no beard or facial hair: a glamorous, sultry allure; fair skin; delicate V-line face with a small, soft chin; medium-sized eyes — long phoenix eyes with lifted outer corners, level outer eye corners; soft feathered brows; broad soft nose; soft, full lips; ice-blue eyes; a bare, makeup-free face.\nBody and hair: hourglass-figured — full bust and hips, distinctly narrow-waisted build; a pixie cut with no bangs, long face-framing side locks; deep navy-blue hair.\nExpression: a faint knowing smile, subtle and relaxed.\nLegend, carried in her design and bearing: brilliant, vain and ambitious, elegant armor-robes, a smile hiding betrayal.\nAnatomy: one head, two arms and two legs, each joined at its natural joint; natural hands with five fingers.\n\n3. COSTUME AND EQUIPMENT — THREE KINGDOMS\nCostume: a strategist's scholar robes — flowing layered silk robes with wide sleeves, a scholar's guan cap or silk ribbon, a feather fan or bound bamboo scrolls, a jade pendant. Late-Han Chinese dress — cross-collared silk robes with wide sleeves and a broad sash, lamellar or scale armor laced with cords where armor is worn, bronze, jade and lacquer ornament, Han court hair ornaments; silk, lacquered leather, bronze and iron.\nSilhouette: light armor pieces over a fitted silk martial dress, long silk sashes and a light skirt flowing from the waist and shoulders — a light, dancing silhouette. This silhouette sets the overall shape of the costume above — keep its materials, ornaments and rank in this shape; the details are free.\nColours: deep navy blue, black lacquer, cold steel silver, ivory white.\nSignature item: a gilded command fan. She holds it at full scale: one whole object, drawn once, held in front of or beside her body; a long weapon keeps one straight, unbroken shaft with a single head or blade.\nExposure (bold): her robes open to show skin — the cross collar opened into a deep neckline with natural cleavage, bare upper arms above detached wide sleeves (and bare shoulders where no shoulder guard sits), a high slit in the skirt panels showing the thigh; any armor pieces stay on and symmetrical. Intimate areas covered; keep the costume material and palette.\n\n4. SCENE\nWorld: Cao Wei in northern China, around 200–235 AD: the walled capitals of Xuchang, Ye and Luoyang, rammed-earth ramparts and tiled watchtowers, black-and-navy banners over vast northern plains, armoured cavalry, bronze ritual vessels and lacquered halls.\nPose: standing confidently, her body turned slightly while her face looks toward the viewer.\nLight: a soft key light with a strong rim light tracing her hair, shoulders and armour; bright, crisp specular highlights on metal and jewellery, and a clean, warm-neutral sheen on her skin.\nComposition: her whole figure from the top of her head or headpiece to both feet inside the frame with clear margins, about four-fifths of the image height; camera at chest height with natural portrait perspective.\n\n5. CONSTRAINTS\nOne figure only — no second character, horse or other creature. No readable text or numbers, except that a banner, seal or emblem may carry the single character 魏 or 鍾. No logo, watermark, speech bubble or frame border. Three Kingdoms-era Chinese dress, architecture and materials only.\nAvoid: a blue or bruise-like tint on the skin around the eyes, glossy or shiny highlights on the face, sweaty, oily or plastic-looking skin.",
+  "selected_candidate": 1,
+  "design": "our_design"
+ },
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "f4fda66f6a7aab644f5bc42e41131b1d271bdc3287880ec7b6d2ef1bda2048a2",
+  "passed": false,
+  "exposure": "match",
+  "observations": [
+   "1024x1536; original preserved; connected visible arms and hands; full body.",
+   "User selected candidate 1. Hair design differs from design-table request; some background silhouettes in samguk."
+  ],
+  "cause": "Generated design and framing deviations retained per user selection."
+ },
+ "execution": "sam-zhonghui-6cd668",
+ "imported": "2026-11-13",
+ "acceptance": "User selected 1,2,4 and authorized character image/catalog commits to main.",
+ "review": {
+  "reviewed": true,
+  "by": "user",
+  "result": "selected_world"
+ }
+}
