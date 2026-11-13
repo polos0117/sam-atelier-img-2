@@ -1,0 +1,117 @@
+{
+ "atelier": "samguk",
+ "card": "대교",
+ "faction": "wu",
+ "role": "official",
+ "world": "mecha",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v1",
+ "notes": {},
+ "look": {
+  "params": {},
+  "faceDesignOn": true,
+  "silhouetteOn": true,
+  "exposure": "bold"
+ },
+ "design": {
+  "face": {
+   "eye_color": "teal",
+   "impression": "elegant",
+   "expr": "soft_smile",
+   "skin_tone": "porcelain",
+   "age": "mid_20s",
+   "eye_size": "medium",
+   "eye_tilt": "level",
+   "mark": "blush",
+   "brows": "low_heavy",
+   "nose": "broad_soft",
+   "lips": "small_bow",
+   "face_shape": "oval",
+   "eyes": "monolid_long"
+  },
+  "silhouette": {
+   "body": "hourglass",
+   "hair_color": "royal_blue",
+   "hair": "lob",
+   "bangs": "wispy"
+  }
+ },
+ "shot": {
+  "scene": "",
+  "time": "",
+  "pose": "",
+  "expr": "",
+  "frame": ""
+ },
+ "file": "대교_mecha_kr_drawn_rim_dewy_f.webp",
+ "prompt": "Design brief — your own take on this character. A full-body vertical 2:3 (1024×1536) character card image of Da Qiao from the Romance of the Three Kingdoms, reimagined as an adult woman — the elder Qiao, Sun Ce's beloved, the spring of Jiangdong. Age: mid-twenties — a clear adult face; no facial lines. She is a woman — no beard, moustache or facial hair.\n\nYou design her yourself: invent her face, eye colour, hairstyle, makeup, expression, pose and setting as a fresh, original take — do not follow any earlier design of this character. Her hair colour, skin tone, costume and weapon are NOT free: take them from our designs below.\n\nStyle (fixed): Korean MMORPG character artwork. A recognisably drawn face with gently simplified anatomical structure. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\n\nInspiration only: peerless beauty, gentle grace, peach-blossom silks.\n\nWorld (fixed): year 2190, the Wu carrier fleet in orbit above an ocean world: crimson starships and carriers, a glowing nebula, the planet's blue oceans and storm clouds below, neon running lights on the hulls. Her costume, weapon and setting belong to this world.\n\nCostume (choose one of ours, then add your own idea): pick ONE of these costume shapes from our set and keep its overall silhouette — 1) a long coat made of rigid plates from the shoulders to below the knees, open at the front to show the body armor, with an angular collar; 2) light body armor with several small shield and drone units floating symmetrically around her; 3) a symmetrical pair of mechanical sub-arms reaching out from her back, ending in shields or tools — her own two human arms stay as they are; 4) a large equipment unit worn on the back (tanks, a cannon barrel or antennae) rising above her head as the main shape, with medium body armor; 5) separate armor pieces rather than one shell — plates on the shoulders, forearms, chest, waist, thighs and shins, with a dark fitted inner suit showing between them; 6) sparse outer plates over an exposed mechanical skeleton of metal struts, pistons and cables — light and precise; 7) ring-shaped armor bands floating free around her waist and ankles, with light body armor — the floating rings make the shape. Then add one signature idea of your own drawn from her legend, built into the construction of the outfit itself rather than as a print or a loose accessory — e.g. plates or cloth layered like feathers, scales or petals, a hem or sleeve cut into a motif from her story. Build it in this world's materials and our colours below.\n\nWeapon (fixed — ours): a round silk fan painted with blossoms, rebuilt as a far-future high-tech version of the same kind of object with the same silhouette: hard-surface alloy plates with panel lines, mechanical joints, vents and emitter nodes, an energy edge, plasma blade or glowing core in her glow-line colour and small status lights, with any animal motif re-sculpted as sleek machined armour and no wood, silk tassels or forged-bronze fittings.\n\nHair colour (fixed — ours): royal-blue hair. Keep exactly this hair colour; only the hairstyle is yours.\n\nSkin tone (fixed — ours): porcelain-pale skin. Keep exactly this skin tone.\n\nCostume colours (ours): crimson red, gold, river teal, black lacquer.\n\nMecha (fixed): she is a female mecha personification — her whole body is covered in solid hard-surface mecha armour plates with visible thickness, joints, panel lines and glow lines, never cloth or a gown; no cloth robe, gown, skirt or long fabric over the plates — any cape, skirt or wing is rigid armoured plates. Her face and hair stay human.\n\nRank (fixed): she is a high court official — her costume must read dignified office at first glance: refined, layered and finely ornamented, with flagship-card detail, never plain or sparse.\n\nExposure (fixed): bold — her outfit shows skin by design (a deep neckline, bare shoulders or arms, a high slit or short hem); intimate areas covered.\n\nFace proportions: a short midface and a soft, gently rounded jawline with a small soft chin — never a long face or a long, pointed or heavy jaw; any crown or headpiece sits above her hairline and never lengthens her face. Her eyes stay at a natural open size — never squeezed into narrow slits.\n\nComposition: vertical 2:3 full-body framing with modest headroom and clear space below the boots — the whole figure from the top of her crown or headpiece to both boots stays inside the frame, occupying about four-fifths of the image height, with the same camera distance in every genre; her hands and her signature item stay inside the frame. Camera at chest height with natural portrait perspective — no wide-angle distortion, no low angle, no close crop.\n\nIf you have already drawn a free design of her in this session, make this one clearly different — another face and hairstyle (the same hair colour and skin tone), another costume shape from the list with another signature idea, another pose and setting.\n\nFINAL CHARACTER DESIGN AND SCENE:\nChoose costume silhouette 1, long coat entirely made of rigid jointed mecha plates, angular collar, open front revealing body armour. Royal-blue sleek shoulder-length hair, clean side part, compact soft oval face, open icy-lilac eyes, calm gentle smile. Thick crimson alloy, gold machined edges, black lacquer chassis, river-teal glow lines, pistons, vents and panel seams. Coat tails use nested circular petal-shaped articulated rigid plates that unfold like a peach blossom. Rich tiered command collar and gemstone-like status nodes. Deep chest window and bare upper arms, intimate areas covered, all other parts hard armour, no cloth. Single round high-tech fan held at shoulder height in right hand: radial alloy panels, joints, vents, river-teal energy rim, blossom-shaped machined core and solid alloy handle. Other natural human hand rests on rigid belt. Stand in bright orbital carrier observation bay, ocean planet below and crimson carriers beyond, soft key and strong clean rim.\nOne figure only, natural hands with five fingers. Far-future setting only, no traditional East-Asian architecture, pagodas, tiled roofs or hanzi. No logo or watermark.",
+ "date": "2026-11-13",
+ "record": "records/대교/mecha.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "대교",
+  "out": "world",
+  "world": "mecha",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {
+   "대교|mecha": {}
+  },
+  "looks": {
+   "대교|mecha": {
+    "params": {},
+    "faceDesignOn": true,
+    "silhouetteOn": true,
+    "exposure": "bold"
+   }
+  },
+  "shots": {
+   "대교|mecha": {
+    "scene": "",
+    "time": "",
+    "pose": "",
+    "expr": "",
+    "frame": ""
+   }
+  },
+  "walked": {},
+  "casualN": 1,
+  "scenes": {}
+ },
+ "generation": {
+  "tool": "image_gen",
+  "endpoint": "images/generations",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "e1ed372ed0ecddf209b8d9218a0f992f6041bc2fd78236a3f28f055f0bd3eb87",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "prompt_form": "en-prompt",
+  "prompt_sha256": "0a08b12b6424243816d2255b979c8135046486bfe93eec347ffeda159957d110",
+  "submitted_prefix": "아래 지시문을 고치지 말고 그대로 그려라.\n\n",
+  "reference_source": null,
+  "selected_candidate": 3,
+  "design": "gpt_free",
+  "free_prompt": "Design brief — your own take on this character. A full-body vertical 2:3 (1024×1536) character card image of Da Qiao from the Romance of the Three Kingdoms, reimagined as an adult woman — the elder Qiao, Sun Ce's beloved, the spring of Jiangdong. Age: mid-twenties — a clear adult face; no facial lines. She is a woman — no beard, moustache or facial hair.\n\nYou design her yourself: invent her face, eye colour, hairstyle, makeup, expression, pose and setting as a fresh, original take — do not follow any earlier design of this character. Her hair colour, skin tone, costume and weapon are NOT free: take them from our designs below.\n\nStyle (fixed): Korean MMORPG character artwork. A recognisably drawn face with gently simplified anatomical structure. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\n\nInspiration only: peerless beauty, gentle grace, peach-blossom silks.\n\nWorld (fixed): year 2190, the Wu carrier fleet in orbit above an ocean world: crimson starships and carriers, a glowing nebula, the planet's blue oceans and storm clouds below, neon running lights on the hulls. Her costume, weapon and setting belong to this world.\n\nCostume (choose one of ours, then add your own idea): pick ONE of these costume shapes from our set and keep its overall silhouette — 1) a long coat made of rigid plates from the shoulders to below the knees, open at the front to show the body armor, with an angular collar; 2) light body armor with several small shield and drone units floating symmetrically around her; 3) a symmetrical pair of mechanical sub-arms reaching out from her back, ending in shields or tools — her own two human arms stay as they are; 4) a large equipment unit worn on the back (tanks, a cannon barrel or antennae) rising above her head as the main shape, with medium body armor; 5) separate armor pieces rather than one shell — plates on the shoulders, forearms, chest, waist, thighs and shins, with a dark fitted inner suit showing between them; 6) sparse outer plates over an exposed mechanical skeleton of metal struts, pistons and cables — light and precise; 7) ring-shaped armor bands floating free around her waist and ankles, with light body armor — the floating rings make the shape. Then add one signature idea of your own drawn from her legend, built into the construction of the outfit itself rather than as a print or a loose accessory — e.g. plates or cloth layered like feathers, scales or petals, a hem or sleeve cut into a motif from her story. Build it in this world's materials and our colours below.\n\nWeapon (fixed — ours): a round silk fan painted with blossoms, rebuilt as a far-future high-tech version of the same kind of object with the same silhouette: hard-surface alloy plates with panel lines, mechanical joints, vents and emitter nodes, an energy edge, plasma blade or glowing core in her glow-line colour and small status lights, with any animal motif re-sculpted as sleek machined armour and no wood, silk tassels or forged-bronze fittings.\n\nHair colour (fixed — ours): royal-blue hair. Keep exactly this hair colour; only the hairstyle is yours.\n\nSkin tone (fixed — ours): porcelain-pale skin. Keep exactly this skin tone.\n\nCostume colours (ours): crimson red, gold, river teal, black lacquer.\n\nMecha (fixed): she is a female mecha personification — her whole body is covered in solid hard-surface mecha armour plates with visible thickness, joints, panel lines and glow lines, never cloth or a gown; no cloth robe, gown, skirt or long fabric over the plates — any cape, skirt or wing is rigid armoured plates. Her face and hair stay human.\n\nRank (fixed): she is a high court official — her costume must read dignified office at first glance: refined, layered and finely ornamented, with flagship-card detail, never plain or sparse.\n\nExposure (fixed): bold — her outfit shows skin by design (a deep neckline, bare shoulders or arms, a high slit or short hem); intimate areas covered.\n\nFace proportions: a short midface and a soft, gently rounded jawline with a small soft chin — never a long face or a long, pointed or heavy jaw; any crown or headpiece sits above her hairline and never lengthens her face. Her eyes stay at a natural open size — never squeezed into narrow slits.\n\nComposition: vertical 2:3 full-body framing with modest headroom and clear space below the boots — the whole figure from the top of her crown or headpiece to both boots stays inside the frame, occupying about four-fifths of the image height, with the same camera distance in every genre; her hands and her signature item stay inside the frame. Camera at chest height with natural portrait perspective — no wide-angle distortion, no low angle, no close crop.\n\nIf you have already drawn a free design of her in this session, make this one clearly different — another face and hairstyle (the same hair colour and skin tone), another costume shape from the list with another signature idea, another pose and setting.\n\nFINAL CHARACTER DESIGN AND SCENE:\nChoose costume silhouette 1, long coat entirely made of rigid jointed mecha plates, angular collar, open front revealing body armour. Royal-blue sleek shoulder-length hair, clean side part, compact soft oval face, open icy-lilac eyes, calm gentle smile. Thick crimson alloy, gold machined edges, black lacquer chassis, river-teal glow lines, pistons, vents and panel seams. Coat tails use nested circular petal-shaped articulated rigid plates that unfold like a peach blossom. Rich tiered command collar and gemstone-like status nodes. Deep chest window and bare upper arms, intimate areas covered, all other parts hard armour, no cloth. Single round high-tech fan held at shoulder height in right hand: radial alloy panels, joints, vents, river-teal energy rim, blossom-shaped machined core and solid alloy handle. Other natural human hand rests on rigid belt. Stand in bright orbital carrier observation bay, ocean planet below and crimson carriers beyond, soft key and strong clean rim.\nOne figure only, natural hands with five fingers. Far-future setting only, no traditional East-Asian architecture, pagodas, tiled roofs or hanzi. No logo or watermark."
+ },
+ "execution": "sam-daqiao-421b98",
+ "imported": "2026-11-13",
+ "acceptance": "user approval: select 2,4,3; complete character, commit images and catalog, ordinary main update authorized",
+ "review": {
+  "reviewed": false,
+  "by": "user",
+  "result": "pending"
+ },
+ "qa": {
+  "reviewer": "gpt-session",
+  "image_sha256": "e1ed372ed0ecddf209b8d9218a0f992f6041bc2fd78236a3f28f055f0bd3eb87",
+  "passed": true,
+  "exposure": "match",
+  "observations": [
+   "Verified 1024x1536. Adult character identity retained; no extra or disconnected human limbs observed.",
+   "Selected world candidate; complete figure, both feet and signature item visible."
+  ]
+ }
+}
