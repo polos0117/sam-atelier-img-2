@@ -84,10 +84,11 @@
  "qa": {
   "reviewer": "gpt-session",
   "image_sha256": "90e0b51c48b3aa7d0311e23a15dd1db60c84664b46ffc3affe8ad182da79374c",
-  "passed": true,
+  "passed": false,
   "exposure": "match",
   "observations": [
-   "1024×1536 portrait; reference face and chestnut-brown hair retained; both arms connected, hands visible; role and outfit match planned scene; no usable weapon."
+   "1024×1536 portrait; reference face and chestnut-brown hair retained; both arms connected, hands visible; role and outfit match planned scene; no usable weapon.",
+   "Small distant background human silhouettes are visible; single-person instruction not fully met; kept without regeneration."
   ]
  }
 }
