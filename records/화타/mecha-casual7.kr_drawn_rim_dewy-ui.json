@@ -1,0 +1,142 @@
+{
+ "atelier": "samguk",
+ "card": "화타",
+ "faction": "qun",
+ "slot": "casual7",
+ "treeV": 2,
+ "world": "mecha",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v1",
+ "ref": "화타_mecha_kr_drawn_rim_dewy_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "heritage",
+  "place": "heritage_changban",
+  "ofam": "active",
+  "item": "unitard",
+  "posture": "stand",
+  "support": "none",
+  "frame": "face_close",
+  "body": "front",
+  "head": "with_body",
+  "camera": "eye",
+  "right": "shush",
+  "left": "out",
+  "use": "",
+  "legs": "",
+  "gaze": "camera",
+  "ofree": true,
+  "ofreeFamily": "swimwear",
+  "ofreeSitu": "free",
+  "ofreeRecent": "a mirrored labyrinth of endless reflections and soft coloured light — holds a folding fan open near her chest; a hydroponic garden dome aboard a starship — checks the photo on the back screen of a camera at chest height; a mountain lodge with a front counter and a fireplace — standing; a present-day museum gallery of Three Kingdoms relics — holds her keepsake in both hands in front of her; a neighbourhood grocery or convenience store with bright aisles — standing close to a high shelf or line",
+  "expr": "serious",
+  "preset": "shush_close",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "화타_mecha_kr_drawn_rim_dewy_f_casual7.webp",
+ "prompt": "INPUT: the attached image is the approved character — her Mecha card; keep her. Do not reuse earlier conversation images.\n\nCHARACTER: the same woman as the attached image — the female personification of Hua Tuo of the Three Kingdoms, seen in her everyday life. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change, and her hair may be worn differently only as SCENE's Hair line says. Her Three Kingdoms identity shows ONLY as a small accessory, an object around her, or the object PROP says she holds — never in the outfit's colours, patterns or cut, never as armor, regalia or a costume.\n\nDESIGN (accessory hints only): her legend — healing genius, herb pouches and acupuncture needles, gentle hands — may inform at most one small accessory, a hair ornament or an object beside her, in its palette (undyed linen white, bamboo green, ink grey and pale celadon). The clothes keep the chosen outfit's own colours; her skin, hair and eyes stay as in the attached image.\n\nSTYLE: Korean MMORPG character artwork. A recognisably drawn face with gently simplified anatomical structure. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\n\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nAGE: the same adult woman as in the attached image — keep her own face shape, cheekbones, eye proportions and skin tone exactly; minimal facial lines (no nasolabial folds, crow's feet, under-eye bags or cheek creases). Keep her face soft, feminine and attractive in every framing — never elongated, gaunt, mannish or heavy-jawed, even in close-ups, profiles or low angles.\n\nOUTPUT: one standalone off-duty scene of her in the outfit chosen in SCENE; her legend shows only through accessories and objects around her — never in the outfit's colours, patterns or cut, never as armor, regalia or a costume. Everything else follows SCENE (chosen).\n\nFRAME: a vertical 2:3 (1024×1536) image. Compose the image for this frame; COMPOSITION in SCENE sets how much of her shows.\n\nSCENE (chosen):\nFREE DESIGN: design the place, activity, pose, framing and outfit yourself. Start from who she is — her legend, traits and personality — and show an everyday moment that is unexpected yet feels natural for her. Make it fresh through the situation and what she is doing, not through more decoration. Avoid scenes like the recent ones listed below. Keep her face, the art style and the body and anatomy rules exactly as stated. Before drawing, write your design into the lines below, then draw it. In your pose, give each hand one job only and say plainly where each arm goes; avoid poses where it is unclear which shoulder an arm comes from — an arm behind her back, behind her head or pinned under her body — and never state where a foot sits under water. Do not make it another small repair, adjusting, measuring or sorting task at a workbench, repair stall, equipment room or locker room — those scenes are already in our own list; choose another kind of everyday moment (rest, play, a meal, travel, weather, getting ready, simply being in the place).\nRecent scenes to avoid: a mirrored labyrinth of endless reflections and soft coloured light — holds a folding fan open near her chest; a hydroponic garden dome aboard a starship — checks the photo on the back screen of a camera at chest height; a mountain lodge with a front counter and a fireplace — standing; a present-day museum gallery of Three Kingdoms relics — holds her keepsake in both hands in front of her; a neighbourhood grocery or convenience store with bright aisles — standing close to a high shelf or line.\nPlace: an indoor surf-wave practice pool with turquoise water, warm overhead daylight and a dry foam board on the pool edge\nActivity: she takes a cheerful break from balancing practice, sitting on the foam board on the dry edge; leaning sideways causes the ruched side inset of her swimsuit to fan outward, revealing a little more waist above its opaque lining\nPose: sitting securely on the dry board facing three-quarters toward the viewer; her right arm reaches down directly from her right shoulder with its palm braced on the board at her side; her left arm extends naturally forward from her left shoulder to hold a small water bottle above her left thigh; her shoulders and elbows remain visible\nFraming: a vertical full-body view from chest-height perspective, clear space around her head and feet, her face turned naturally toward the wave pool; both hands fully inside frame\nOutfit family (required): swimwear — any swimwear outfit; you may pick one from our outfit catalog (outfit-catalog.md in this pack) or design your own, but prefer one that is not in it.\nSituation (required): a situational exposure moment of your own design that fits the scene — prefer one that is not among ours: clothes soaked by rain or a splash, clothes caught by a strong gust of wind, a top worn half undone, a strap slipped off the shoulder, a hem knotted up under the bust, an outer layer tied around the waist, a sheen of sweat from heat, a backlit silhouette through thin fabric, a skirt slit fallen open, sleeves pushed up with one more button undone, a tie or scarf pulled loose.\nOutfit: an original cobalt-blue two-piece swim set consisting of a secure longline plunge swim top with asymmetric ruched side insets and matching high-cut opaque bottoms with a wide folded waistband; the outer ruched inset fans away during her lean while the lined base stays fully covering; plain water shoes, no costume trim\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing; intimate areas covered\n\nWARDROBE: change her clothes completely. From the attached image take only her face, hair and body — not its garment, armor, regalia, ornaments, mecha plates or background. Dress her exactly as SCENE describes; that outfit must read at first glance, keeping its own recognisable colours and parts. Do not carry the attached image's palette, patterns or trim into the outfit; her Three Kingdoms identity belongs in accessories and props, never in the clothes — never restyle the chosen outfit into her faction's palette, armor, robes or regalia.\n\nANGLE: the attached image fixes who she is, not how she is posed or shot. Do not copy its head angle, head tilt, gaze direction, face size in frame, camera height or crop — turn her head, set her gaze and place the camera exactly as SCENE describes, and let her face read naturally from that new angle (profile, three-quarter, looking down or away), with her features staying the same. No default card pose, no default front-facing portrait.\n\nONE MAIN FIGURE: she is the only character in focus. Where the place is busy, other people may appear only as small, soft-focus background extras — never posed with her. No logo, no watermark, no speech bubble, no frame border. No readable text or numbers.\n\nANATOMY: natural adult proportions, about 7.5 heads tall — height from the legs, never a smaller head or a longer neck. The neck is a natural length and the head sits close to the shoulders. No body-part enlargement, no extra limbs.\n\nBODY: a normal human body — one head, two arms and two legs, each joined at its natural joint; elbows, knees and wrists bend the human way. Hands and feet may be partly hidden by the pose, what she holds or the frame. Right and left mean her own right and left, not the viewer's.\n\nHANDS: natural human hands, no extra or duplicated limbs; each visible hand joins through its wrist and forearm to the matching shoulder. A hand may stay outside the crop, and fingers may be partly hidden by a grip.\n\nAVOID: a blue or bruise-like tint on the skin around the eyes, glossy or shiny highlights on the face, sweaty, oily or plastic-looking skin.",
+ "date": "2026-11-13",
+ "record": "records/화타/mecha-casual7.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "화타",
+  "out": "casual",
+  "world": "mecha",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 7,
+  "scenes": {
+   "화타": {
+    "era": "heritage",
+    "place": "heritage_changban",
+    "ofam": "active",
+    "treeV": 2,
+    "prop": "",
+    "preset": "shush_close",
+    "use": "",
+    "posture": "stand",
+    "support": "none",
+    "frame": "face_close",
+    "body": "front",
+    "head": "with_body",
+    "camera": "eye",
+    "right": "shush",
+    "left": "out",
+    "legs": "",
+    "gaze": "camera",
+    "item": "unitard",
+    "expr": "serious",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "ofree": true,
+    "ofreeFamily": "swimwear",
+    "ofreeSitu": "free",
+    "ofreeRecent": "a mirrored labyrinth of endless reflections and soft coloured light — holds a folding fan open near her chest; a hydroponic garden dome aboard a starship — checks the photo on the back screen of a camera at chest height; a mountain lodge with a front counter and a fireplace — standing; a present-day museum gallery of Three Kingdoms relics — holds her keepsake in both hands in front of her; a neighbourhood grocery or convenience store with bright aisles — standing close to a high shelf or line"
+   }
+  }
+ },
+ "execution": "sam-huatuo-7088",
+ "imported": "2026-11-14",
+ "acceptance": "User approved selection 2,3,3 and public main publication to polos0117/sam-atelier-img-2 and polos0117/sam-atelier.",
+ "review": {
+  "reviewed": false,
+  "by": "user",
+  "result": "pending"
+ },
+ "generation": {
+  "tool": "image_gen",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "2a31d63e65e7bc649b353d4015c067d63f011e035db3c0b040a132c681903992",
+  "prompt_form": "en-prompt",
+  "prompt_sha256": "d34aa2955d407e8c5ea7b3df116e51cbd083edb791ee7c0b6f5147c26042a319",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "retries": [],
+  "ref_sha256": "1f2eaeb98cb757147b9ad8a6ed2ac895a4d225c20871dc8b309d166e6cabb3f4",
+  "free_design": {
+   "Place": "an indoor surf-wave practice pool with turquoise water, warm overhead daylight and a dry foam board on the pool edge",
+   "Activity": "she takes a cheerful break from balancing practice, sitting on the foam board on the dry edge; leaning sideways causes the ruched side inset of her swimsuit to fan outward, revealing a little more waist above its opaque lining",
+   "Pose": "sitting securely on the dry board facing three-quarters toward the viewer; her right arm reaches down directly from her right shoulder with its palm braced on the board at her side; her left arm extends naturally forward from her left shoulder to hold a small water bottle above her left thigh; her shoulders and elbows remain visible",
+   "Framing": "a vertical full-body view from chest-height perspective, clear space around her head and feet, her face turned naturally toward the wave pool; both hands fully inside frame",
+   "Outfit": "an original cobalt-blue two-piece swim set consisting of a secure longline plunge swim top with asymmetric ruched side insets and matching high-cut opaque bottoms with a wide folded waistband; the outer ruched inset fans away during her lean while the lined base stays fully covering; plain water shoes, no costume trim"
+  },
+  "free_prompt": "INPUT: the attached image is the approved character — her Mecha card; keep her. Do not reuse earlier conversation images.\n\nCHARACTER: the same woman as the attached image — the female personification of Hua Tuo of the Three Kingdoms, seen in her everyday life. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change, and her hair may be worn differently only as SCENE's Hair line says. Her Three Kingdoms identity shows ONLY as a small accessory, an object around her, or the object PROP says she holds — never in the outfit's colours, patterns or cut, never as armor, regalia or a costume.\n\nDESIGN (accessory hints only): her legend — healing genius, herb pouches and acupuncture needles, gentle hands — may inform at most one small accessory, a hair ornament or an object beside her, in its palette (undyed linen white, bamboo green, ink grey and pale celadon). The clothes keep the chosen outfit's own colours; her skin, hair and eyes stay as in the attached image.\n\nSTYLE: Korean MMORPG character artwork. A recognisably drawn face with gently simplified anatomical structure. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\n\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nAGE: the same adult woman as in the attached image — keep her own face shape, cheekbones, eye proportions and skin tone exactly; minimal facial lines (no nasolabial folds, crow's feet, under-eye bags or cheek creases). Keep her face soft, feminine and attractive in every framing — never elongated, gaunt, mannish or heavy-jawed, even in close-ups, profiles or low angles.\n\nOUTPUT: one standalone off-duty scene of her in the outfit chosen in SCENE; her legend shows only through accessories and objects around her — never in the outfit's colours, patterns or cut, never as armor, regalia or a costume. Everything else follows SCENE (chosen).\n\nFRAME: a vertical 2:3 (1024×1536) image. Compose the image for this frame; COMPOSITION in SCENE sets how much of her shows.\n\nSCENE (chosen):\nFREE DESIGN: design the place, activity, pose, framing and outfit yourself. Start from who she is — her legend, traits and personality — and show an everyday moment that is unexpected yet feels natural for her. Make it fresh through the situation and what she is doing, not through more decoration. Avoid scenes like the recent ones listed below. Keep her face, the art style and the body and anatomy rules exactly as stated. Before drawing, write your design into the lines below, then draw it. In your pose, give each hand one job only and say plainly where each arm goes; avoid poses where it is unclear which shoulder an arm comes from — an arm behind her back, behind her head or pinned under her body — and never state where a foot sits under water. Do not make it another small repair, adjusting, measuring or sorting task at a workbench, repair stall, equipment room or locker room — those scenes are already in our own list; choose another kind of everyday moment (rest, play, a meal, travel, weather, getting ready, simply being in the place).\nRecent scenes to avoid: a mirrored labyrinth of endless reflections and soft coloured light — holds a folding fan open near her chest; a hydroponic garden dome aboard a starship — checks the photo on the back screen of a camera at chest height; a mountain lodge with a front counter and a fireplace — standing; a present-day museum gallery of Three Kingdoms relics — holds her keepsake in both hands in front of her; a neighbourhood grocery or convenience store with bright aisles — standing close to a high shelf or line.\nPlace: an indoor surf-wave practice pool with turquoise water, warm overhead daylight and a dry foam board on the pool edge\nActivity: she takes a cheerful break from balancing practice, sitting on the foam board on the dry edge; leaning sideways causes the ruched side inset of her swimsuit to fan outward, revealing a little more waist above its opaque lining\nPose: sitting securely on the dry board facing three-quarters toward the viewer; her right arm reaches down directly from her right shoulder with its palm braced on the board at her side; her left arm extends naturally forward from her left shoulder to hold a small water bottle above her left thigh; her shoulders and elbows remain visible\nFraming: a vertical full-body view from chest-height perspective, clear space around her head and feet, her face turned naturally toward the wave pool; both hands fully inside frame\nOutfit family (required): swimwear — any swimwear outfit; you may pick one from our outfit catalog (outfit-catalog.md in this pack) or design your own, but prefer one that is not in it.\nSituation (required): a situational exposure moment of your own design that fits the scene — prefer one that is not among ours: clothes soaked by rain or a splash, clothes caught by a strong gust of wind, a top worn half undone, a strap slipped off the shoulder, a hem knotted up under the bust, an outer layer tied around the waist, a sheen of sweat from heat, a backlit silhouette through thin fabric, a skirt slit fallen open, sleeves pushed up with one more button undone, a tie or scarf pulled loose.\nOutfit: an original cobalt-blue two-piece swim set consisting of a secure longline plunge swim top with asymmetric ruched side insets and matching high-cut opaque bottoms with a wide folded waistband; the outer ruched inset fans away during her lean while the lined base stays fully covering; plain water shoes, no costume trim\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing; intimate areas covered\n\nWARDROBE: change her clothes completely. From the attached image take only her face, hair and body — not its garment, armor, regalia, ornaments, mecha plates or background. Dress her exactly as SCENE describes; that outfit must read at first glance, keeping its own recognisable colours and parts. Do not carry the attached image's palette, patterns or trim into the outfit; her Three Kingdoms identity belongs in accessories and props, never in the clothes — never restyle the chosen outfit into her faction's palette, armor, robes or regalia.\n\nANGLE: the attached image fixes who she is, not how she is posed or shot. Do not copy its head angle, head tilt, gaze direction, face size in frame, camera height or crop — turn her head, set her gaze and place the camera exactly as SCENE describes, and let her face read naturally from that new angle (profile, three-quarter, looking down or away), with her features staying the same. No default card pose, no default front-facing portrait.\n\nONE MAIN FIGURE: she is the only character in focus. Where the place is busy, other people may appear only as small, soft-focus background extras — never posed with her. No logo, no watermark, no speech bubble, no frame border. No readable text or numbers.\n\nANATOMY: natural adult proportions, about 7.5 heads tall — height from the legs, never a smaller head or a longer neck. The neck is a natural length and the head sits close to the shoulders. No body-part enlargement, no extra limbs.\n\nBODY: a normal human body — one head, two arms and two legs, each joined at its natural joint; elbows, knees and wrists bend the human way. Hands and feet may be partly hidden by the pose, what she holds or the frame. Right and left mean her own right and left, not the viewer's.\n\nHANDS: natural human hands, no extra or duplicated limbs; each visible hand joins through its wrist and forearm to the matching shoulder. A hand may stay outside the crop, and fingers may be partly hidden by a grip.\n\nAVOID: a blue or bruise-like tint on the skin around the eyes, glossy or shiny highlights on the face, sweaty, oily or plastic-looking skin."
+ },
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "2a31d63e65e7bc649b353d4015c067d63f011e035db3c0b040a132c681903992",
+  "passed": true,
+  "exposure": "match",
+  "observations": [
+   "Original 1024×1536 image; matched to its retained approved 27-image sheet tile.",
+   "Visible limbs and reference identity reviewed in the original session; generated image preserved without regeneration."
+  ]
+ },
+ "recovery": {
+  "original_source": "파도풀에서 즐기는 시원한 휴식.png",
+  "png_recovered_from_library": true,
+  "image_regenerated": false,
+  "generation_metadata_reconstructed_from_retained_session": true,
+  "code_revision_world": "c30d08e13d703b4fd6830fe0ef08432453a7778b",
+  "code_revision_casual": "36de1466e8c656b491a477861e031bf7166ac728",
+  "plan_seed": 583125145
+ }
+}

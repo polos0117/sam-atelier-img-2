@@ -1,0 +1,125 @@
+{
+ "atelier": "samguk",
+ "card": "화타",
+ "faction": "qun",
+ "role": "official",
+ "world": "fantasy",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v1",
+ "notes": {},
+ "look": {
+  "params": {},
+  "faceDesignOn": true,
+  "silhouetteOn": true,
+  "exposure": "bold"
+ },
+ "design": {
+  "face": {
+   "eye_color": "hazel",
+   "impression": "soft",
+   "expr": "gentle",
+   "skin_tone": "fair",
+   "age": "mid_20s",
+   "eye_size": "medium",
+   "eye_tilt": "up",
+   "mark": "mole_eye",
+   "brows": "straight_thick",
+   "nose": "upturned",
+   "lips": "heart_full",
+   "face_shape": "inverted_triangle",
+   "eyes": "monolid_long"
+  },
+  "silhouette": {
+   "body": "curvy",
+   "hair_color": "bright_red",
+   "hair": "half_up",
+   "bangs": "side_locks"
+  }
+ },
+ "shot": {
+  "scene": "",
+  "time": "",
+  "pose": "",
+  "expr": "",
+  "frame": ""
+ },
+ "file": "화타_fantasy_kr_drawn_rim_dewy_f.webp",
+ "prompt": "Design brief — your own take on this character. A full-body vertical 2:3 (1024×1536) character card image of Hua Tuo from the Romance of the Three Kingdoms, reimagined as an adult woman — the miracle physician who proposed opening a skull and was imprisoned. Age: mid-twenties — a clear adult face; no facial lines. She is a woman — no beard, moustache or facial hair.\n\nYou design her yourself: invent her face, eye colour, hairstyle, makeup, expression, pose and setting as a fresh, original take — do not follow any earlier design of this character. Her hair colour, skin tone, costume and weapon are NOT free: take them from our designs below.\n\nStyle (fixed): Korean MMORPG character artwork. A recognisably drawn face with gently simplified anatomical structure. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\n\nInspiration only: healing genius, herb pouches and acupuncture needles, gentle hands.\n\nWorld (fixed): the shattered realms of medieval high fantasy, an age of rival warlords after a fallen empire: a ruined imperial capital, mercenary camps, border keeps, outlaw marches and wild southern jungles, dark violet battle-magic. Her costume, weapon and setting belong to this world.\n\nCostume (choose one of ours, then add your own idea): pick ONE of these costume shapes from our set and keep its overall silhouette — 1) leather armor with a short cloak, a lowered hood, bracers and boots — a light, agile ranger's silhouette; 2) a long floor-length robe with a high collar, wide sleeves and a shoulder mantle — a tall, mysterious mage's silhouette; 3) a fitted breastplate and pauldrons above a gown skirt flaring to the floor — an elegant lady-knight silhouette; 4) a light breastplate and bracers with robe panels split from the waist — half armor, half robe; 5) thin leaf-patterned armor plates and flowing light fabric panels with a slender circlet — a slender, graceful silhouette; 6) a long coat below the knees with epaulettes, a belt, gloves and tall boots — a crisp, commanding officer's silhouette; 7) a floor-length priestly vestment with gold-trimmed stoles and a tall head ornament — a long, devout silhouette. Then add one signature idea of your own drawn from her legend, built into the construction of the outfit itself rather than as a print or a loose accessory — e.g. plates or cloth layered like feathers, scales or petals, a hem or sleeve cut into a motif from her story. Build it in this world's materials and our colours below.\n\nWeapon (fixed — ours): a box of acupuncture needles and herbs, reimagined as a Western high-fantasy version of the same kind of object with the same silhouette: polished steel and silvered mithril throughout, the shaft or hilt also forged metal with engraved runes (never plain wood), a faint magical glow running along the edge and the runes, a gem-set guard or socket, a leather-wrapped grip and heraldic or elven ornament, with any animal motif re-sculpted in Western heraldic style and no Chinese fittings, silk tassels or hanzi.\n\nHair colour (fixed — ours): bright red hair. Keep exactly this hair colour; only the hairstyle is yours.\n\nSkin tone (fixed — ours): fair skin. Keep exactly this skin tone.\n\nCostume colours (ours): undyed linen white, bamboo green, ink grey and pale celadon.\n\nRank (fixed): she is a high court official — her costume must read dignified office at first glance: refined, layered and finely ornamented, with flagship-card detail, never plain or sparse.\n\nExposure (fixed): bold — her outfit shows skin by design (a deep neckline, bare shoulders or arms, a high slit or short hem); intimate areas covered.\n\nFace proportions: a short midface and a soft, gently rounded jawline with a small soft chin — never a long face or a long, pointed or heavy jaw; any crown or headpiece sits above her hairline and never lengthens her face. Her eyes stay at a natural open size — never squeezed into narrow slits.\n\nComposition: vertical 2:3 full-body framing with modest headroom and clear space below the boots — the whole figure from the top of her crown or headpiece to both boots stays inside the frame, occupying about four-fifths of the image height, with the same camera distance in every genre; her hands and her signature item stay inside the frame. Camera at chest height with natural portrait perspective — no wide-angle distortion, no low angle, no close crop.\n\nIf you have already drawn a free design of her in this session, make this one clearly different — another face and hairstyle (the same hair colour and skin tone), another costume shape from the list with another signature idea, another pose and setting.\n\nOne figure only, natural hands with five fingers; Western medieval setting and dress only — no Chinese architecture, robes, junks or hanzi; no logo or watermark.\n\nOriginal design: choose silhouette 7, floor-length priestly vestments with ornate stoles and a tall head ornament. The white and pale-celadon stoles interlock into layered leaf-shaped folds, a structural tribute to healing herbs, edged in bamboo green and refined silver filigree. Bright red hair in a thick side braid, turquoise eyes, a compact oval face and gentle confident smile. She stands in a ruined Western abbey medicinal garden, holding an open mithril acupuncture-and-herb case with both hands at waist height; no other figure.",
+ "date": "2026-11-13",
+ "record": "records/화타/fantasy.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "화타",
+  "out": "world",
+  "world": "fantasy",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {
+   "화타|fantasy": {}
+  },
+  "looks": {
+   "화타|fantasy": {
+    "params": {},
+    "faceDesignOn": true,
+    "silhouetteOn": true,
+    "exposure": "bold"
+   }
+  },
+  "shots": {
+   "화타|fantasy": {
+    "scene": "",
+    "time": "",
+    "pose": "",
+    "expr": "",
+    "frame": ""
+   }
+  },
+  "walked": {},
+  "casualN": 1,
+  "scenes": {}
+ },
+ "execution": "sam-huatuo-7088",
+ "imported": "2026-11-14",
+ "acceptance": "User approved selection 2,3,3 and public main publication to polos0117/sam-atelier-img-2 and polos0117/sam-atelier.",
+ "review": {
+  "reviewed": true,
+  "by": "user",
+  "result": "selected"
+ },
+ "generation": {
+  "tool": "image_gen",
+  "endpoint": "images/generations",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "0613b1b61bdec021c3d3b78a7824b2a98f0aabdf11bfd37f0d2780cef1546441",
+  "prompt_form": "en-prompt",
+  "prompt_sha256": "2b8f7cf5ff21490ad4f01423e0e71464cf3f2bfdf44278284dca4059b117e477",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "retries": [],
+  "design": "gpt_free",
+  "candidate": 3,
+  "free_prompt": "Design brief — your own take on this character. A full-body vertical 2:3 (1024×1536) character card image of Hua Tuo from the Romance of the Three Kingdoms, reimagined as an adult woman — the miracle physician who proposed opening a skull and was imprisoned. Age: mid-twenties — a clear adult face; no facial lines. She is a woman — no beard, moustache or facial hair.\n\nYou design her yourself: invent her face, eye colour, hairstyle, makeup, expression, pose and setting as a fresh, original take — do not follow any earlier design of this character. Her hair colour, skin tone, costume and weapon are NOT free: take them from our designs below.\n\nStyle (fixed): Korean MMORPG character artwork. A recognisably drawn face with gently simplified anatomical structure. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\n\nInspiration only: healing genius, herb pouches and acupuncture needles, gentle hands.\n\nWorld (fixed): the shattered realms of medieval high fantasy, an age of rival warlords after a fallen empire: a ruined imperial capital, mercenary camps, border keeps, outlaw marches and wild southern jungles, dark violet battle-magic. Her costume, weapon and setting belong to this world.\n\nCostume (choose one of ours, then add your own idea): pick ONE of these costume shapes from our set and keep its overall silhouette — 1) leather armor with a short cloak, a lowered hood, bracers and boots — a light, agile ranger's silhouette; 2) a long floor-length robe with a high collar, wide sleeves and a shoulder mantle — a tall, mysterious mage's silhouette; 3) a fitted breastplate and pauldrons above a gown skirt flaring to the floor — an elegant lady-knight silhouette; 4) a light breastplate and bracers with robe panels split from the waist — half armor, half robe; 5) thin leaf-patterned armor plates and flowing light fabric panels with a slender circlet — a slender, graceful silhouette; 6) a long coat below the knees with epaulettes, a belt, gloves and tall boots — a crisp, commanding officer's silhouette; 7) a floor-length priestly vestment with gold-trimmed stoles and a tall head ornament — a long, devout silhouette. Then add one signature idea of your own drawn from her legend, built into the construction of the outfit itself rather than as a print or a loose accessory — e.g. plates or cloth layered like feathers, scales or petals, a hem or sleeve cut into a motif from her story. Build it in this world's materials and our colours below.\n\nWeapon (fixed — ours): a box of acupuncture needles and herbs, reimagined as a Western high-fantasy version of the same kind of object with the same silhouette: polished steel and silvered mithril throughout, the shaft or hilt also forged metal with engraved runes (never plain wood), a faint magical glow running along the edge and the runes, a gem-set guard or socket, a leather-wrapped grip and heraldic or elven ornament, with any animal motif re-sculpted in Western heraldic style and no Chinese fittings, silk tassels or hanzi.\n\nHair colour (fixed — ours): bright red hair. Keep exactly this hair colour; only the hairstyle is yours.\n\nSkin tone (fixed — ours): fair skin. Keep exactly this skin tone.\n\nCostume colours (ours): undyed linen white, bamboo green, ink grey and pale celadon.\n\nRank (fixed): she is a high court official — her costume must read dignified office at first glance: refined, layered and finely ornamented, with flagship-card detail, never plain or sparse.\n\nExposure (fixed): bold — her outfit shows skin by design (a deep neckline, bare shoulders or arms, a high slit or short hem); intimate areas covered.\n\nFace proportions: a short midface and a soft, gently rounded jawline with a small soft chin — never a long face or a long, pointed or heavy jaw; any crown or headpiece sits above her hairline and never lengthens her face. Her eyes stay at a natural open size — never squeezed into narrow slits.\n\nComposition: vertical 2:3 full-body framing with modest headroom and clear space below the boots — the whole figure from the top of her crown or headpiece to both boots stays inside the frame, occupying about four-fifths of the image height, with the same camera distance in every genre; her hands and her signature item stay inside the frame. Camera at chest height with natural portrait perspective — no wide-angle distortion, no low angle, no close crop.\n\nIf you have already drawn a free design of her in this session, make this one clearly different — another face and hairstyle (the same hair colour and skin tone), another costume shape from the list with another signature idea, another pose and setting.\n\nOne figure only, natural hands with five fingers; Western medieval setting and dress only — no Chinese architecture, robes, junks or hanzi; no logo or watermark.\n\nOriginal design: choose silhouette 7, floor-length priestly vestments with ornate stoles and a tall head ornament. The white and pale-celadon stoles interlock into layered leaf-shaped folds, a structural tribute to healing herbs, edged in bamboo green and refined silver filigree. Bright red hair in a thick side braid, turquoise eyes, a compact oval face and gentle confident smile. She stands in a ruined Western abbey medicinal garden, holding an open mithril acupuncture-and-herb case with both hands at waist height; no other figure."
+ },
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "0613b1b61bdec021c3d3b78a7824b2a98f0aabdf11bfd37f0d2780cef1546441",
+  "passed": true,
+  "exposure": "match",
+  "observations": [
+   "Original 1024×1536 image; matched to its retained approved 27-image sheet tile.",
+   "Visible limbs and reference identity reviewed in the original session; generated image preserved without regeneration."
+  ]
+ },
+ "recovery": {
+  "original_source": "폐허 성당의 붉은 약사 화타.png",
+  "png_recovered_from_library": true,
+  "image_regenerated": false,
+  "generation_metadata_reconstructed_from_retained_session": true,
+  "code_revision_world": "c30d08e13d703b4fd6830fe0ef08432453a7778b",
+  "code_revision_casual": "36de1466e8c656b491a477861e031bf7166ac728",
+  "plan_seed": 583125144
+ }
+}

@@ -1,0 +1,124 @@
+{
+ "atelier": "samguk",
+ "card": "화타",
+ "faction": "qun",
+ "role": "official",
+ "world": "samguk",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v1",
+ "notes": {},
+ "look": {
+  "params": {},
+  "faceDesignOn": true,
+  "silhouetteOn": true,
+  "exposure": "bold"
+ },
+ "design": {
+  "face": {
+   "eye_color": "hazel",
+   "impression": "soft",
+   "expr": "gentle",
+   "skin_tone": "fair",
+   "age": "mid_20s",
+   "eye_size": "medium",
+   "eye_tilt": "down",
+   "mark": "mole_eye",
+   "brows": "straight_thick",
+   "nose": "upturned",
+   "lips": "heart_full",
+   "face_shape": "oval",
+   "eyes": "droopy_soft"
+  },
+  "silhouette": {
+   "body": "curvy",
+   "hair_color": "bright_red",
+   "hair": "side_ponytail",
+   "bangs": "choppy"
+  }
+ },
+ "shot": {
+  "scene": "",
+  "time": "",
+  "pose": "",
+  "expr": "",
+  "frame": ""
+ },
+ "file": "화타_samguk_kr_drawn_rim_dewy_f.webp",
+ "prompt": "A full-body character image, vertical 2:3 (1024×1536): Hua Tuo of the Romance of the Three Kingdoms, reimagined as an adult woman — the miracle physician who proposed opening a skull and was imprisoned.\n\n1. STYLE\nKorean MMORPG character artwork. A recognisably drawn face with gently simplified anatomical structure. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nHer face is small and soft: a short midface, a softly rounded jaw and a small chin, about 1.3 times as long as it is wide, with her eyes open at their natural size. Bangs, side locks and headpieces frame the face without lengthening it.\nSkin finish: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\n2. CHARACTER\nAge: mid-twenties — a clear adult face.\nFace — her own, recognisably this character, a woman's face with no beard or facial hair: a soft, gentle warmth; fair skin; oval face; medium-sized eyes — soft droopy eyes, outer eye corners drooping downward; thick straight brows; upturned nose; full heart-shaped lips; hazel eyes; a small beauty mark under one eye.\nBody and hair: curvy build; a side ponytail over one shoulder with choppy uneven bangs; bright red hair.\nExpression: a warm, gentle look with a faint smile, subtle and relaxed.\nLegend, carried in her design and bearing: healing genius, herb pouches and acupuncture needles, gentle hands.\nAnatomy: one head, two arms and two legs, each joined at its natural joint; natural hands with five fingers.\n\n3. COSTUME AND EQUIPMENT — THREE KINGDOMS\nCostume: a Han court official's dress — layered robes with a broad belt and a hanging seal cord, a black jinxian guan cap, an ink brush and bound bamboo slips. Late-Han Chinese dress — cross-collared silk robes with wide sleeves and a broad sash, lamellar or scale armor laced with cords where armor is worn, bronze, jade and lacquer ornament, Han court hair ornaments; silk, lacquered leather, bronze and iron.\nSilhouette: no armor — a long floor-length robe with wide sleeves and a broad sash, a long elegant falling silhouette. This silhouette sets the overall shape of the costume above — keep its materials, ornaments and rank in this shape; the details are free.\nColours: undyed linen white, bamboo green, ink grey and pale celadon.\nSignature item: a box of acupuncture needles and herbs. She holds it at full scale: one whole object, drawn once, held in front of or beside her body; a long weapon keeps one straight, unbroken shaft with a single head or blade.\nExposure (bold): her robes open to show skin — the cross collar opened into a deep neckline with natural cleavage, bare upper arms above detached wide sleeves (and bare shoulders where no shoulder guard sits), a high slit in the skirt panels showing the thigh; any armor pieces stay on and symmetrical. Intimate areas covered; keep the costume material and palette.\n\n4. SCENE\nWorld: the chaos of the late Eastern Han, around 184–200 AD: burning Luoyang, the Hulao Pass, Yellow Turban fields, warlord camps of rival banners, frontier steppe and the southern jungles of the Nanman.\nPose: standing confidently, her body turned slightly while her face looks toward the viewer.\nLight: a soft key light with a strong rim light tracing her hair, shoulders and armour; bright, crisp specular highlights on metal and jewellery, and a clean, warm-neutral sheen on her skin.\nComposition: her whole figure from the top of her head or headpiece to both feet inside the frame with clear margins, about four-fifths of the image height; camera at chest height with natural portrait perspective.\n\n5. CONSTRAINTS\nOne figure only — no second character, horse or other creature. No readable text or numbers, except that a banner, seal or emblem may carry the single character 雄 or 華. No logo, watermark, speech bubble or frame border. Three Kingdoms-era Chinese dress, architecture and materials only.\nAvoid: a blue or bruise-like tint on the skin around the eyes, glossy or shiny highlights on the face, sweaty, oily or plastic-looking skin.",
+ "date": "2026-11-13",
+ "record": "records/화타/samguk.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "화타",
+  "out": "world",
+  "world": "samguk",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {
+   "화타|samguk": {}
+  },
+  "looks": {
+   "화타|samguk": {
+    "params": {},
+    "faceDesignOn": true,
+    "silhouetteOn": true,
+    "exposure": "bold"
+   }
+  },
+  "shots": {
+   "화타|samguk": {
+    "scene": "",
+    "time": "",
+    "pose": "",
+    "expr": "",
+    "frame": ""
+   }
+  },
+  "walked": {},
+  "casualN": 1,
+  "scenes": {}
+ },
+ "execution": "sam-huatuo-7088",
+ "imported": "2026-11-14",
+ "acceptance": "User approved selection 2,3,3 and public main publication to polos0117/sam-atelier-img-2 and polos0117/sam-atelier.",
+ "review": {
+  "reviewed": true,
+  "by": "user",
+  "result": "selected"
+ },
+ "generation": {
+  "tool": "image_gen",
+  "endpoint": "images/generations",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "2aab59d81b9f12d53cd8ba19d297161c2d62790edc3e7d5a2141fe84400d5525",
+  "prompt_form": "en-prompt",
+  "prompt_sha256": "54b19beb4e7bc7ade668bed30728458c668a471e7b7d278e389e82b43962ad78",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "retries": [],
+  "design": "our_design",
+  "candidate": 2
+ },
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "2aab59d81b9f12d53cd8ba19d297161c2d62790edc3e7d5a2141fe84400d5525",
+  "passed": true,
+  "exposure": "match",
+  "observations": [
+   "Original 1024×1536 image; matched to its retained approved 27-image sheet tile.",
+   "Visible limbs and reference identity reviewed in the original session; generated image preserved without regeneration."
+  ]
+ },
+ "recovery": {
+  "original_source": "삼국지의 여성 화타.png",
+  "png_recovered_from_library": true,
+  "image_regenerated": false,
+  "generation_metadata_reconstructed_from_retained_session": true,
+  "code_revision_world": "c30d08e13d703b4fd6830fe0ef08432453a7778b",
+  "code_revision_casual": "36de1466e8c656b491a477861e031bf7166ac728",
+  "plan_seed": 583125143
+ }
+}
