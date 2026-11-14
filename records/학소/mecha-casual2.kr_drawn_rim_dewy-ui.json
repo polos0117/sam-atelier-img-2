@@ -1,0 +1,129 @@
+{
+ "atelier": "samguk",
+ "card": "학소",
+ "faction": "wei",
+ "slot": "casual2",
+ "treeV": 2,
+ "world": "mecha",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v1",
+ "ref": "학소_mecha_kr_drawn_rim_dewy_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "nation",
+  "place": "nation_camp",
+  "ofam": "homewear",
+  "item": "bralette_cardigan",
+  "posture": "walk",
+  "support": "none",
+  "frame": "environmental",
+  "body": "back",
+  "head": "with_body",
+  "camera": "eye",
+  "right": "prop",
+  "left": "down",
+  "use": "sword_low",
+  "legs": "walk_stride",
+  "gaze": "horizon",
+  "weather": "night_snow",
+  "time": "night",
+  "light": "side",
+  "depth": "flat",
+  "color": "denim",
+  "expr": "",
+  "preset": "walk_away",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "학소_mecha_kr_drawn_rim_dewy_f_casual2.webp",
+ "prompt": "INPUT: the attached image is the approved character — her Mecha card; keep her. Do not reuse earlier conversation images.\n\nCHARACTER: the same woman as the attached image — the female personification of Hao Zhao of the Three Kingdoms, seen in her everyday life. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change, and her hair may be worn differently only as SCENE's Hair line says. Her Three Kingdoms identity shows ONLY as a small accessory, an object around her, or the object PROP says she holds — never in the outfit's colours, patterns or cut, never as armor, regalia or a costume.\n\nDESIGN (accessory hints only): her legend — stubborn defense, battered fortress armor, sleepless vigilance — may inform at most one small accessory, a hair ornament or an object beside her, in its palette (deep navy blue, black lacquer, cold steel silver, ivory white). The clothes keep the chosen outfit's own colours; her skin, hair and eyes stay as in the attached image.\n\nSIGNATURE ACCESSORY: off duty she carries no weapon — no sword, saber, spear, glaive, halberd, bow, axe, shield or any blade in her hands, on her back or anywhere in the scene. Her signature weapon (a crossbow) appears only as one small worn accessory modelled on its shape and colours — a hair ornament, pendant, earring, brooch or belt charm a few centimetres long, clearly jewellery and not a usable weapon.\n\nSTYLE: Korean MMORPG character artwork. A recognisably drawn face with gently simplified anatomical structure. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\n\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nAGE: the same adult woman as in the attached image — keep her own face shape, cheekbones, eye proportions and skin tone exactly; minimal facial lines (no nasolabial folds, crow's feet, under-eye bags or cheek creases). Keep her face soft, feminine and attractive in every framing — never elongated, gaunt, mannish or heavy-jawed, even in close-ups, profiles or low angles.\n\nOUTPUT: one standalone off-duty scene of her in the outfit chosen in SCENE; her legend shows only through accessories and objects around her — never in the outfit's colours, patterns or cut, never as armor, regalia or a costume. Everything else follows SCENE (chosen).\n\nFRAME: a vertical 2:3 (1024×1536) image. Compose the image for this frame; COMPOSITION in SCENE sets how much of her shows.\n\nWORLD: this scene happens inside her own world — the world of the attached image — as if she simply lives there: year 2190, the Wei Federation in orbit: a navy-black orbital fortress and capital-ship fleet above a cold blue planet, starfields and a distant sun, hard white floodlights on armored hulls. Its architecture, props, light and weather show the world; no creatures, no second character, no readable text other than abstract heraldic or insignia shapes — never letters or Chinese characters. Her clothes stay the everyday outfit SCENE describes, not regalia or armor.\n\nSCENE (chosen):\nPlace: a pilot ready room beside a hangar — lockers, a briefing table and frames visible through the glass\nWeather / season: a snowy night — snow drifting through warm lamplight outside.\nTime of day: night — the scene lit by lamps, screens or windows, dark outside.\nLight direction: side light — the light falls from one side, the far side of her face in soft shadow.\nOutfit: a lace bralette under an open cardigan with soft shorts — in denim blues and indigo, with white or cream as the only second colour; the outfit colour reads clearly at first glance\nPOSTURE: walking.\nCOMPOSITION: an environmental long shot, her complete figure and enough of the place around her; back to the camera; camera at her eye level; a wall or backdrop of the place close behind her.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left arm hangs relaxed at her side.\nPROP: with her own right hand she holds a wooden practice sword point-down at her side; it is all she holds.\nLEGS: mid-stride, one heel lifting.\nGAZE: she looks toward the far distance.\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing; nothing slipped off; intimate areas covered\n\nWARDROBE: change her clothes completely. From the attached image take only her face, hair and body — not its garment, armor, regalia, ornaments, mecha plates or background. Dress her exactly as SCENE describes; that outfit must read at first glance, keeping its own recognisable colours and parts. Do not carry the attached image's palette, patterns or trim into the outfit; her Three Kingdoms identity belongs in accessories and props, never in the clothes — never restyle the chosen outfit into her faction's palette, armor, robes or regalia.\n\nANGLE: the attached image fixes who she is, not how she is posed or shot. Do not copy its head angle, head tilt, gaze direction, face size in frame, camera height or crop — turn her head, set her gaze and place the camera exactly as SCENE describes, and let her face read naturally from that new angle (profile, three-quarter, looking down or away), with her features staying the same. No default card pose, no default front-facing portrait.\n\nONE MAIN FIGURE: she is the only character in focus. Where the place is busy, other people may appear only as small, soft-focus background extras — never posed with her. No logo, no watermark, no speech bubble, no frame border. No readable text or numbers.\n\nANATOMY: natural adult proportions, about 7.5 heads tall — height from the legs, never a smaller head or a longer neck. The neck is a natural length and the head sits close to the shoulders. No body-part enlargement, no extra limbs.\n\nBODY: a normal human body — one head, two arms and two legs, each joined at its natural joint; elbows, knees and wrists bend the human way. Hands and feet may be partly hidden by the pose, what she holds or the frame. Right and left mean her own right and left, not the viewer's.\n\nHANDS: natural human hands, no extra or duplicated limbs; each visible hand joins through its wrist and forearm to the matching shoulder. A hand may stay outside the crop, and fingers may be partly hidden by a grip.\n\nAVOID: a blue or bruise-like tint on the skin around the eyes, glossy or shiny highlights on the face, sweaty, oily or plastic-looking skin.",
+ "date": "2026-11-14",
+ "record": "records/학소/mecha-casual2.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "학소",
+  "out": "casual",
+  "world": "mecha",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 2,
+  "scenes": {
+   "학소": {
+    "era": "nation",
+    "place": "nation_camp",
+    "ofam": "homewear",
+    "treeV": 2,
+    "prop": "",
+    "preset": "walk_away",
+    "use": "sword_low",
+    "posture": "walk",
+    "support": "none",
+    "frame": "environmental",
+    "body": "back",
+    "head": "with_body",
+    "camera": "eye",
+    "right": "prop",
+    "left": "down",
+    "legs": "walk_stride",
+    "gaze": "horizon",
+    "item": "bralette_cardigan",
+    "expr": "",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "color": "denim",
+    "time": "night",
+    "weather": "night_snow",
+    "light": "side",
+    "depth": "flat"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "c250c7e79b1c139cd5a6fd0431b2b9fea637fb153a77daf1007e2218d9dc4d2e",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "prompt_form": "en-prompt",
+  "prompt_sha256": "9cd95434f698f8cdfee8650019b22e5b8364d4be36268bb7d50d7d5c8e5e16ea",
+  "retries": [],
+  "ref_sha256": "f78d93bc7f743473e08451470f62548610a6f2379d20e1f3e66449ab1ddf4145"
+ },
+ "execution": "sam-haozhao-ba00",
+ "imported": "2026-11-15",
+ "qa": {
+  "reviewer": "gpt-session",
+  "image_sha256": "c250c7e79b1c139cd5a6fd0431b2b9fea637fb153a77daf1007e2218d9dc4d2e",
+  "passed": false,
+  "anatomy": "ok",
+  "exposure": "match",
+  "observations": [
+   "Orbital ready room, bralette, open cardigan and shorts.",
+   "Full-size wooden practice sword appears in her hand; rendered front three-quarter instead of the planned receding rear view."
+  ],
+  "cause": "SCENE explicitly requests a wooden practice sword while SIGNATURE ACCESSORY prohibits weapons anywhere in an off-duty scene; retained as generated and recorded."
+ },
+ "acceptance": "user approval: selected 2,2,2; complete character, commit and update main without additional confirmation",
+ "review": {
+  "reviewed": false,
+  "by": "user",
+  "result": "pending"
+ }
+}

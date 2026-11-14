@@ -1,0 +1,117 @@
+{
+ "atelier": "samguk",
+ "card": "학소",
+ "faction": "wei",
+ "role": "general",
+ "world": "samguk",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v1",
+ "notes": {},
+ "look": {
+  "params": {},
+  "faceDesignOn": true,
+  "silhouetteOn": true,
+  "exposure": "bold"
+ },
+ "design": {
+  "face": {
+   "eye_color": "honey",
+   "impression": "stoic",
+   "expr": "determined",
+   "skin_tone": "olive",
+   "age": "early_20s",
+   "eye_size": "medium",
+   "eye_tilt": "up",
+   "mark": "scar",
+   "brows": "soft_round",
+   "nose": "straight_narrow",
+   "lips": "full_wide",
+   "face_shape": "v_line",
+   "eyes": "cat"
+  },
+  "silhouette": {
+   "body": "pear_curvy",
+   "hair_color": "sunset_pink",
+   "hair": "slicked_back",
+   "bangs": "swept_back"
+  }
+ },
+ "shot": {
+  "scene": "",
+  "time": "",
+  "pose": "",
+  "expr": "",
+  "frame": ""
+ },
+ "file": "학소_samguk_kr_drawn_rim_dewy_f.webp",
+ "prompt": "A full-body character image, vertical 2:3 (1024×1536): Hao Zhao of the Romance of the Three Kingdoms, reimagined as an adult woman — the defender who held Chencang with a thousand against Zhuge Liang for twenty days.\n\n1. STYLE\nKorean MMORPG character artwork. A recognisably drawn face with gently simplified anatomical structure. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nHer face is small and soft: a short midface, a softly rounded jaw and a small chin, about 1.3 times as long as it is wide, with her eyes open at their natural size. Bangs, side locks and headpieces frame the face without lengthening it.\nSkin finish: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\n2. CHARACTER\nAge: about twenty — a fresh young-adult face.\nFace — her own, recognisably this character, a woman's face with no beard or facial hair: a stoic, unreadable reserve; olive skin; delicate V-line face with a small, soft chin; medium-sized eyes — feline cat eyes, outer eye corners slightly lifted; soft rounded brows; straight narrow nose; full wide lips; honey-gold eyes; a thin faint scar through one eyebrow.\nBody and hair: pear-shaped and curvaceous — slimmer shoulders over a narrow waist, full rounded hips and thick thighs, a full bust build; sleek slicked-back hair with hair swept back off the forehead; sunset-pink hair.\nExpression: a firm, resolute look with calm, steady eyes, subtle and relaxed.\nLegend, carried in her design and bearing: stubborn defense, battered fortress armor, sleepless vigilance.\nAnatomy: one head, two arms and two legs, each joined at its natural joint; natural hands with five fingers.\n\n3. COSTUME AND EQUIPMENT — THREE KINGDOMS\nCostume: Three Kingdoms war general's armor — lamellar scale armor laced over a silk battle robe, beast-head shoulder guards, a plumed helmet or a war headband, a long war cape, her weapon at hand. Late-Han Chinese dress — cross-collared silk robes with wide sleeves and a broad sash, lamellar or scale armor laced with cords where armor is worn, bronze, jade and lacquer ornament, Han court hair ornaments; silk, lacquered leather, bronze and iron.\nSilhouette: a fitted martial-arts outfit with a wide belt and arm guards, a long silk sash streaming behind — a wandering swordswoman's silhouette. This silhouette sets the overall shape of the costume above — keep its materials, ornaments and rank in this shape; the details are free.\nColours: deep navy blue, black lacquer, cold steel silver, ivory white.\nSignature item: a crossbow. She holds it at full scale: one whole object, drawn once, held in front of or beside her body; a long weapon keeps one straight, unbroken shaft with a single head or blade.\nExposure (bold): her robes open to show skin — the cross collar opened into a deep neckline with natural cleavage, bare upper arms above detached wide sleeves (and bare shoulders where no shoulder guard sits), the skirt panels cut with a high side slit at full length — it shows the side line of one leg as she stands, no leg pushed out or knee bent for it; any armor pieces stay on and symmetrical. Intimate areas covered; keep the costume material and palette.\n\n4. SCENE\nWorld: Cao Wei in northern China, around 200–235 AD: the walled capitals of Xuchang, Ye and Luoyang, rammed-earth ramparts and tiled watchtowers, black-and-navy banners over vast northern plains, armoured cavalry, bronze ritual vessels and lacquered halls.\nPose: standing confidently, her body turned slightly while her face looks toward the viewer.\nLight: a soft key light with a strong rim light tracing her hair, shoulders and armour; bright, crisp specular highlights on metal and jewellery, and a clean, warm-neutral sheen on her skin.\nComposition: her whole figure from the top of her head or headpiece to both feet inside the frame with clear margins, about four-fifths of the image height; camera at chest height with natural portrait perspective.\n\n5. CONSTRAINTS\nOne figure only — no second character, horse or other creature. No readable text or numbers, except that a banner, seal or emblem may carry the single character 魏 or 郝. No logo, watermark, speech bubble or frame border. Three Kingdoms-era Chinese dress, architecture and materials only.\nAvoid: a blue or bruise-like tint on the skin around the eyes, glossy or shiny highlights on the face, sweaty, oily or plastic-looking skin.",
+ "date": "2026-11-14",
+ "record": "records/학소/samguk.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "학소",
+  "out": "world",
+  "world": "samguk",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {
+   "학소|samguk": {}
+  },
+  "looks": {
+   "학소|samguk": {
+    "params": {},
+    "faceDesignOn": true,
+    "silhouetteOn": true,
+    "exposure": "bold"
+   }
+  },
+  "shots": {
+   "학소|samguk": {
+    "scene": "",
+    "time": "",
+    "pose": "",
+    "expr": "",
+    "frame": ""
+   }
+  },
+  "walked": {},
+  "casualN": 1,
+  "scenes": {}
+ },
+ "generation": {
+  "tool": "image_gen",
+  "endpoint": "images/generations",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "2f44c2d49788723129000f7bceaa1010210025a7035223801999b18e35f81b15",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "prompt_form": "en-prompt",
+  "prompt_sha256": "75859191f1eab205cb82cd94153a040d901401ef4aaa4b40706d419a4924690b",
+  "retries": [],
+  "design": "ours",
+  "selected_candidate": 2,
+  "selection": "user: 2,2,2"
+ },
+ "execution": "sam-haozhao-ba00",
+ "imported": "2026-11-15",
+ "qa": {
+  "reviewer": "gpt-session",
+  "image_sha256": "2f44c2d49788723129000f7bceaa1010210025a7035223801999b18e35f81b15",
+  "passed": true,
+  "anatomy": "ok",
+  "exposure": "match",
+  "observations": [
+   "Selected by user: candidate 2. One full-body adult woman; head, hands and footwear remain inside the frame.",
+   "World-appropriate armor and complete crossbow; two arms and two legs connected naturally."
+  ]
+ },
+ "acceptance": "user approval: selected 2,2,2; complete character, commit and update main without additional confirmation",
+ "review": {
+  "reviewed": false,
+  "by": "user",
+  "result": "pending"
+ }
+}
