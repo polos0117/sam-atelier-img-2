@@ -1,0 +1,120 @@
+{
+ "atelier": "samguk",
+ "card": "육항",
+ "faction": "wu",
+ "role": "general",
+ "world": "fantasy",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v1",
+ "notes": {},
+ "look": {
+  "params": {},
+  "faceDesignOn": true,
+  "silhouetteOn": true,
+  "exposure": "bold"
+ },
+ "design": {
+  "face": {
+   "eye_color": "ice_blue",
+   "impression": "elegant",
+   "expr": "calm",
+   "skin_tone": "olive",
+   "age": "mid_20s",
+   "eye_size": "medium",
+   "eye_tilt": "up",
+   "mark": "gloss",
+   "brows": "feathered",
+   "nose": "small_button",
+   "lips": "soft_medium",
+   "face_shape": "heart",
+   "eyes": "hooded"
+  },
+  "silhouette": {
+   "body": "tall_curvy",
+   "hair_color": "smoky_lilac",
+   "hair": "cloud_updo",
+   "bangs": "baby"
+  }
+ },
+ "shot": {
+  "scene": "",
+  "time": "",
+  "pose": "",
+  "expr": "",
+  "frame": ""
+ },
+ "file": "육항_fantasy_kr_drawn_rim_dewy_f.webp",
+ "prompt": "A full-body character image, vertical 2:3 (1024×1536): Lu Kang of the Romance of the Three Kingdoms, reimagined as an adult woman — Lu Xun's child, the last pillar of Wu.\n\n1. STYLE\nKorean MMORPG character artwork. A recognisably drawn face with gently simplified anatomical structure. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nHer face is small and soft: a short midface, a softly rounded jaw and a small chin, about 1.3 times as long as it is wide, with her eyes open at their natural size. Bangs, side locks and headpieces frame the face without lengthening it.\nSkin finish: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\n2. CHARACTER\nAge: mid-twenties — a clear adult face.\nFace — her own, recognisably this character, a woman's face with no beard or facial hair: an elegant, refined presence; olive skin; heart-shaped face; medium-sized eyes — hooded eyes, outer eye corners slightly lifted; soft feathered brows; small button nose; soft medium lips; ice-blue eyes; glossy nude lips.\nBody and hair: tall and statuesque with long legs and a full, curvaceous figure — full bust and hips, narrow waist build; a tall, swept cloud-shaped updo with short baby bangs; smoky lilac-gray hair.\nExpression: a relaxed, unforced face, lips gently closed, subtle and relaxed.\nLegend, carried in her design and bearing: noble restraint and honor, a friendly rivalry with the enemy general Yang Hu.\nAnatomy: one head, two arms and two legs, each joined at its natural joint; natural hands with five fingers.\n\n3. COSTUME AND EQUIPMENT — MEDIEVAL FANTASY\nCostume: a knight-champion's armor — articulated plate with a heraldic tabard in her faction's colours, a plumed helm or circlet, a battle cape, her weapon at hand. Western medieval high-fantasy dress — plate, mail and heraldic tabards, gowns and mantles, circlets and crowns; steel, leather, wool, velvet and gold, with a subtle magical glow along the patterns. Her Three Kingdoms origin shows through her signature item, her colours and her bearing.\nSilhouette: dragon-scale armor covering the body with horn-shaped shoulder and head ornaments — a beastly, imposing silhouette. This silhouette sets the overall shape of the costume above — keep its materials, ornaments and rank in this shape; the details are free.\nColours: crimson red, gold, river teal, black lacquer.\nSignature item: a white-feathered fan, reimagined as a Western high-fantasy version of the same kind of object with the same silhouette — polished steel and silvered mithril throughout, the shaft or hilt also forged metal with engraved runes (never plain wood), a faint magical glow running along the edge and the runes, a gem-set guard or socket, a leather-wrapped grip and heraldic or elven ornament, with any animal motif re-sculpted in Western heraldic style. She holds it at full scale: one whole object, drawn once, held in front of or beside her body; a long weapon keeps one straight, unbroken shaft with a single head or blade.\nExposure (bold): her regalia opens to show skin — bare upper arms below the pauldrons, which stay seated on top of her shoulders (bare shoulders only where no shoulder guard sits), a deep open neckline under the gorget with natural cleavage, the tabard or gown cut with a high side slit at full length — it shows the side line of one leg as she stands, no leg pushed out or knee bent for it; armor pieces stay on and symmetrical. Intimate areas covered; no corset; keep the costume material and palette.\n\n4. SCENE\nWorld: a river-and-sea kingdom of medieval high fantasy: a vast river delta, crimson-sailed galleons and war galleys, harbor fortresses of red stone, fire magic dancing over dark water.\nPose: standing confidently, her body turned slightly while her face looks toward the viewer.\nLight: a soft key light with a strong rim light tracing her hair, shoulders and armour; bright, crisp specular highlights on metal and jewellery, and a clean, warm-neutral sheen on her skin.\nComposition: her whole figure from the top of her head or headpiece to both feet inside the frame with clear margins, about four-fifths of the image height; camera at chest height with natural portrait perspective.\n\n5. CONSTRAINTS\nOne figure only — no second character, horse or other creature. No readable text or numbers — banners and shields carry only heraldic devices (a beast or a crest), never letters or Chinese characters. No logo, watermark, speech bubble or frame border. A Western medieval setting and dress only — stone castles, Romanesque or Gothic architecture — with no Chinese architecture, robes or hanzi.\nAvoid: a blue or bruise-like tint on the skin around the eyes, glossy or shiny highlights on the face, sweaty, oily or plastic-looking skin.",
+ "date": "2026-11-14",
+ "record": "records/육항/fantasy.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "육항",
+  "out": "world",
+  "world": "fantasy",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {
+   "육항|fantasy": {}
+  },
+  "looks": {
+   "육항|fantasy": {
+    "params": {},
+    "faceDesignOn": true,
+    "silhouetteOn": true,
+    "exposure": "bold"
+   }
+  },
+  "shots": {
+   "육항|fantasy": {
+    "scene": "",
+    "time": "",
+    "pose": "",
+    "expr": "",
+    "frame": ""
+   }
+  },
+  "walked": {},
+  "casualN": 1,
+  "scenes": {}
+ },
+ "generation": {
+  "tool": "image_gen",
+  "endpoint": "images/generations",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "0fc6695d980794875b96b1946e5282062cd4395b76d70e03ab4e726dbff6116f",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "prompt_form": "en-prompt",
+  "prompt_sha256": "5a80d7f57dc2036172264dd68dcdcc4843c701aae123532cf3763f98a5d47787",
+  "retries": [],
+  "selection": {
+   "number": 1,
+   "design": "ours",
+   "user": "1,1,1"
+  }
+ },
+ "execution": "sam-lukang-63f3f537",
+ "imported": "2026-11-15",
+ "qa": {
+  "reviewer": "gpt-session",
+  "image_sha256": "0fc6695d980794875b96b1946e5282062cd4395b76d70e03ab4e726dbff6116f",
+  "passed": false,
+  "anatomy": "ok",
+  "exposure": "match",
+  "observations": [
+   "Whole character visible with two arms and two legs.",
+   "Fan has a staff-like elongated handle and feather rather than fully metallic blades.",
+   "Skin is lighter than the specified olive tone."
+  ]
+ },
+ "acceptance": "user_approval_2026-11-15 — selected 1,1,1; ordinary main update authorized; no regeneration of completed images for exposure",
+ "review": {
+  "reviewed": false,
+  "by": "user",
+  "result": "pending"
+ }
+}
