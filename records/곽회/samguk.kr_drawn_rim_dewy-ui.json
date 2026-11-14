@@ -1,0 +1,120 @@
+{
+ "atelier": "samguk",
+ "card": "곽회",
+ "faction": "wei",
+ "role": "general",
+ "world": "samguk",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v1",
+ "notes": {},
+ "look": {
+  "params": {},
+  "faceDesignOn": true,
+  "silhouetteOn": true,
+  "exposure": "bold"
+ },
+ "design": {
+  "face": {
+   "eye_color": "ice_blue",
+   "impression": "mature",
+   "expr": "focused",
+   "skin_tone": "olive",
+   "age": "early_20s",
+   "eye_size": "medium",
+   "eye_tilt": "up",
+   "mark": "winged_liner",
+   "brows": "arched_thin",
+   "nose": "small_button",
+   "lips": "soft_medium",
+   "face_shape": "oval",
+   "eyes": "almond_wide"
+  },
+  "silhouette": {
+   "body": "hourglass",
+   "hair_color": "ash_gray",
+   "hair": "topknot_tails",
+   "bangs": "side_swept"
+  }
+ },
+ "shot": {
+  "scene": "",
+  "time": "",
+  "pose": "",
+  "expr": "",
+  "frame": ""
+ },
+ "file": "곽회_samguk_kr_drawn_rim_dewy_f.webp",
+ "prompt": "Design brief — your own take on this character. A full-body vertical 2:3 (1024×1536) character card image of Guo Huai from the Romance of the Three Kingdoms, reimagined as an adult woman — the wall of Yong province that cut off the northern campaigns. Age: about twenty — a fresh young-adult face; no facial lines. She is a woman — no beard, moustache or facial hair.\n\nYou design her yourself: invent her face, eye colour, hairstyle, makeup, expression, pose and setting as a fresh, original take — do not follow any earlier design of this character. Her hair colour, skin tone, costume and weapon are NOT free: take them from our designs below.\n\nStyle (fixed): Korean MMORPG character artwork. A recognisably drawn face with gently simplified anatomical structure. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\n\nInspiration only: patient strategy, practical armor, a steady gaze.\n\nWorld (fixed): Cao Wei in northern China, around 200–235 AD: the walled capitals of Xuchang, Ye and Luoyang, rammed-earth ramparts and tiled watchtowers, black-and-navy banners over vast northern plains, armoured cavalry, bronze ritual vessels and lacquered halls. Her costume, weapon and setting belong to this world.\n\nCostume (choose one of ours, then add your own idea): pick ONE of these costume shapes from our set and keep its overall silhouette — 1) light armor pieces over a fitted silk martial dress, long silk sashes and a light skirt flowing from the waist and shoulders — a light, dancing silhouette; 2) layered laced lamellar armor, big heavy beast-head pauldrons and armored skirts to the knees — a broad, weighty general's silhouette; 3) fitted light lamellar armor with short armored skirts slit for riding, bracers and greaves — a lean, practical cavalry silhouette; 4) a fitted martial-arts outfit with a wide belt and arm guards, a long silk sash streaming behind — a wandering swordswoman's silhouette; 5) a great war cape spreading from the shoulders to the ankles as the main shape, lamellar armor beneath; 6) a heavy fur mantle over the shoulders with leather straps and beast ornaments — a rugged frontier silhouette; 7) a lamellar breastplate above, many layers of silk skirt flaring wide below the waist — firm above, flowing below; 8) a dark close-fitting light outfit with minimal ornament and wrapped arms and legs — a sleek silhouette, face uncovered; 9) a chest guard, a quiver, a fitted short robe and leg wraps — a light, upright archer's silhouette. Then add one signature idea of your own drawn from her legend, built into the construction of the outfit itself rather than as a print or a loose accessory — e.g. plates or cloth layered like feathers, scales or petals, a hem or sleeve cut into a motif from her story. Build it in this world's materials and our colours below.\n\nWeapon (fixed — ours): a long spear.\n\nHair colour (fixed — ours): ash-gray hair. Keep exactly this hair colour; only the hairstyle is yours.\n\nSkin tone (fixed — ours): olive skin. Keep exactly this skin tone.\n\nCostume colours (ours): deep navy blue, black lacquer, cold steel silver, ivory white.\n\nRank (fixed): she is a famed war general — her costume must read battlefield might at first glance: imposing, richly worked armour and cloth with flagship-card detail, never plain or sparse.\n\nExposure (fixed): bold — her outfit shows skin by design (a deep neckline, bare shoulders or arms, a high slit or short hem); intimate areas covered.\n\nFace proportions: a short midface and a soft, gently rounded jawline with a small soft chin — never a long face or a long, pointed or heavy jaw; any crown or headpiece sits above her hairline and never lengthens her face. Her eyes stay at a natural open size — never squeezed into narrow slits.\n\nComposition: vertical 2:3 full-body framing with modest headroom and clear space below the boots — the whole figure from the top of her crown or headpiece to both boots stays inside the frame, occupying about four-fifths of the image height, with the same camera distance in every genre; her hands and her signature item stay inside the frame. Camera at chest height with natural portrait perspective — no wide-angle distortion, no low angle, no close crop.\n\nIf you have already drawn a free design of her in this session, make this one clearly different — another face and hairstyle (the same hair colour and skin tone), another costume shape from the list with another signature idea, another pose and setting.\n\nWrite your own detailed image prompt from this brief, then draw it. One figure only, natural hands with five fingers; a banner or seal may carry a single faction character, no other text; no logo or watermark.\n\nDesign realization for this image: Choose costume silhouette 5, the great war cape reaching from her shoulders to her ankles, with fitted lamellar armor beneath. Construct her navy-and-ivory cape from overlapping broad rectangular silk panels that open like successive defensive gates: the legend of holding Yong province embodied by the cut, not a printed motif. Ash-gray hair in a short layered bob ending below the jaw with a high tied-back half ponytail and a soft center part; olive skin, a softly rounded oval face, violet-gray eyes, softly arched brows and a composed attentive expression. Rich silver and black lacquer armor over a plunging fitted battle robe, visible shoulders and bare thighs through long side openings, intimate areas covered, bronze fastenings and small jade details. She holds her one long spear upright at a slight outward angle in her left hand, its full unbroken shaft and single head inside the frame, right hand loosely lowered and open. She stands squarely with both boots grounded at an empty stone gateway overlooking a river valley, ivory banners and late-Han architecture in bright overcast afternoon light; no other people.",
+ "date": "2026-11-14",
+ "record": "records/곽회/samguk.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "곽회",
+  "out": "world",
+  "world": "samguk",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {
+   "곽회|samguk": {}
+  },
+  "looks": {
+   "곽회|samguk": {
+    "params": {},
+    "faceDesignOn": true,
+    "silhouetteOn": true,
+    "exposure": "bold"
+   }
+  },
+  "shots": {
+   "곽회|samguk": {
+    "scene": "",
+    "time": "",
+    "pose": "",
+    "expr": "",
+    "frame": ""
+   }
+  },
+  "walked": {},
+  "casualN": 1,
+  "scenes": {}
+ },
+ "generation": {
+  "tool": "image_gen",
+  "endpoint": "images/generations",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "6ba374293712afcec9c54c0ac35380edaaa311f16b1fc965c25e27982adf11fd",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "prompt_form": "en-prompt",
+  "prompt_sha256": "d96a90e63f8a6f4c29fa22857370fdb0a15eec9aab693886be4d12801ba40bdc",
+  "retries": [],
+  "selection": {
+   "number": 4,
+   "design": "gpt_free",
+   "user": "4,1,1"
+  },
+  "design": "gpt_free",
+  "free_prompt": "Design brief — your own take on this character. A full-body vertical 2:3 (1024×1536) character card image of Guo Huai from the Romance of the Three Kingdoms, reimagined as an adult woman — the wall of Yong province that cut off the northern campaigns. Age: about twenty — a fresh young-adult face; no facial lines. She is a woman — no beard, moustache or facial hair.\n\nYou design her yourself: invent her face, eye colour, hairstyle, makeup, expression, pose and setting as a fresh, original take — do not follow any earlier design of this character. Her hair colour, skin tone, costume and weapon are NOT free: take them from our designs below.\n\nStyle (fixed): Korean MMORPG character artwork. A recognisably drawn face with gently simplified anatomical structure. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\n\nInspiration only: patient strategy, practical armor, a steady gaze.\n\nWorld (fixed): Cao Wei in northern China, around 200–235 AD: the walled capitals of Xuchang, Ye and Luoyang, rammed-earth ramparts and tiled watchtowers, black-and-navy banners over vast northern plains, armoured cavalry, bronze ritual vessels and lacquered halls. Her costume, weapon and setting belong to this world.\n\nCostume (choose one of ours, then add your own idea): pick ONE of these costume shapes from our set and keep its overall silhouette — 1) light armor pieces over a fitted silk martial dress, long silk sashes and a light skirt flowing from the waist and shoulders — a light, dancing silhouette; 2) layered laced lamellar armor, big heavy beast-head pauldrons and armored skirts to the knees — a broad, weighty general's silhouette; 3) fitted light lamellar armor with short armored skirts slit for riding, bracers and greaves — a lean, practical cavalry silhouette; 4) a fitted martial-arts outfit with a wide belt and arm guards, a long silk sash streaming behind — a wandering swordswoman's silhouette; 5) a great war cape spreading from the shoulders to the ankles as the main shape, lamellar armor beneath; 6) a heavy fur mantle over the shoulders with leather straps and beast ornaments — a rugged frontier silhouette; 7) a lamellar breastplate above, many layers of silk skirt flaring wide below the waist — firm above, flowing below; 8) a dark close-fitting light outfit with minimal ornament and wrapped arms and legs — a sleek silhouette, face uncovered; 9) a chest guard, a quiver, a fitted short robe and leg wraps — a light, upright archer's silhouette. Then add one signature idea of your own drawn from her legend, built into the construction of the outfit itself rather than as a print or a loose accessory — e.g. plates or cloth layered like feathers, scales or petals, a hem or sleeve cut into a motif from her story. Build it in this world's materials and our colours below.\n\nWeapon (fixed — ours): a long spear.\n\nHair colour (fixed — ours): ash-gray hair. Keep exactly this hair colour; only the hairstyle is yours.\n\nSkin tone (fixed — ours): olive skin. Keep exactly this skin tone.\n\nCostume colours (ours): deep navy blue, black lacquer, cold steel silver, ivory white.\n\nRank (fixed): she is a famed war general — her costume must read battlefield might at first glance: imposing, richly worked armour and cloth with flagship-card detail, never plain or sparse.\n\nExposure (fixed): bold — her outfit shows skin by design (a deep neckline, bare shoulders or arms, a high slit or short hem); intimate areas covered.\n\nFace proportions: a short midface and a soft, gently rounded jawline with a small soft chin — never a long face or a long, pointed or heavy jaw; any crown or headpiece sits above her hairline and never lengthens her face. Her eyes stay at a natural open size — never squeezed into narrow slits.\n\nComposition: vertical 2:3 full-body framing with modest headroom and clear space below the boots — the whole figure from the top of her crown or headpiece to both boots stays inside the frame, occupying about four-fifths of the image height, with the same camera distance in every genre; her hands and her signature item stay inside the frame. Camera at chest height with natural portrait perspective — no wide-angle distortion, no low angle, no close crop.\n\nIf you have already drawn a free design of her in this session, make this one clearly different — another face and hairstyle (the same hair colour and skin tone), another costume shape from the list with another signature idea, another pose and setting.\n\nWrite your own detailed image prompt from this brief, then draw it. One figure only, natural hands with five fingers; a banner or seal may carry a single faction character, no other text; no logo or watermark.\n\nDesign realization for this image: Choose costume silhouette 5, the great war cape reaching from her shoulders to her ankles, with fitted lamellar armor beneath. Construct her navy-and-ivory cape from overlapping broad rectangular silk panels that open like successive defensive gates: the legend of holding Yong province embodied by the cut, not a printed motif. Ash-gray hair in a short layered bob ending below the jaw with a high tied-back half ponytail and a soft center part; olive skin, a softly rounded oval face, violet-gray eyes, softly arched brows and a composed attentive expression. Rich silver and black lacquer armor over a plunging fitted battle robe, visible shoulders and bare thighs through long side openings, intimate areas covered, bronze fastenings and small jade details. She holds her one long spear upright at a slight outward angle in her left hand, its full unbroken shaft and single head inside the frame, right hand loosely lowered and open. She stands squarely with both boots grounded at an empty stone gateway overlooking a river valley, ivory banners and late-Han architecture in bright overcast afternoon light; no other people."
+ },
+ "execution": "sam-guohuai-8ce0",
+ "imported": "2026-11-14",
+ "qa": {
+  "passed": true,
+  "exposure": "match",
+  "anatomy": "ok",
+  "observations": [
+   "선택한 삼국시대 4번 원본. 전신·양팔·양다리와 한 자루의 창, 후한 갑옷 및 성문 배경 확인."
+  ],
+  "reviewer": "gpt-session",
+  "image_sha256": "6ba374293712afcec9c54c0ac35380edaaa311f16b1fc965c25e27982adf11fd"
+ },
+ "acceptance": "user_approval_2026-11-14 — 세계 선택 4,1,1; 완료 후 main 일반 반영 승인; 노출 사유 임의 재생성 없음",
+ "review": {
+  "reviewed": false,
+  "by": "user",
+  "result": "pending"
+ }
+}
