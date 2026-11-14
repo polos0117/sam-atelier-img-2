@@ -1,0 +1,130 @@
+{
+ "atelier": "samguk",
+ "card": "장흠",
+ "faction": "wu",
+ "slot": "casual7",
+ "treeV": 2,
+ "world": "mecha",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v1",
+ "ref": "장흠_mecha_kr_drawn_rim_dewy_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "now",
+  "place": "travel_ranch",
+  "ofam": "subculture",
+  "item": "visual_kei",
+  "posture": "sit_chair",
+  "support": "back_seat",
+  "frame": "full_body",
+  "body": "side",
+  "head": "with_body",
+  "camera": "eye",
+  "right": "prop",
+  "left": "lap",
+  "use": "phones_neck",
+  "legs": "cross_legs",
+  "gaze": "camera",
+  "ofree": true,
+  "ofreeRecent": "a wooden sauna and cold plunge with a cooling lounge — holds a towel folded against her chest; a hydroponic bathing pool aboard a starship — seated sideways on a stool or bench; a small mountain-path shrine at the Slope of the Fallen Phoenix — standing; a museum hands-on workshop table before opening — sips a tall iced coffee in a clear cup with a straw through the straw; an open pavilion floating above a sea of clouds at sunrise — standing",
+  "expr": "proud",
+  "preset": "side_chair_cross",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "장흠_mecha_kr_drawn_rim_dewy_f_casual7.webp",
+ "prompt": "INPUT: the attached image is the approved character — her Mecha card; keep her. Do not reuse earlier conversation images.\n\nCHARACTER: the same woman as the attached image — the female personification of Jiang Qin of the Three Kingdoms, seen in her everyday life. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change, and her hair may be worn differently only as SCENE's Hair line says. Her Three Kingdoms identity shows ONLY as a small accessory, an object around her, or the object PROP says she holds — never in the outfit's colours, patterns or cut, never as armor, regalia or a costume.\n\nDESIGN (accessory hints only): her legend — humble origin and generosity, simple practical armor — may inform at most one small accessory, a hair ornament or an object beside her, in its palette (crimson red, gold, river teal, black lacquer). The clothes keep the chosen outfit's own colours; her skin, hair and eyes stay as in the attached image.\n\nSIGNATURE ACCESSORY: off duty she carries no weapon — no sword, saber, spear, glaive, halberd, bow, axe, shield or any blade in her hands, on her back or anywhere in the scene. Her signature weapon (a heavy spear) appears only as one small worn accessory modelled on its shape and colours — a hair ornament, pendant, earring, brooch or belt charm a few centimetres long, clearly jewellery and not a usable weapon.\n\nSTYLE: Korean MMORPG character artwork. A recognisably drawn face with gently simplified anatomical structure. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\n\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nAGE: the same adult woman as in the attached image — keep her own face shape, cheekbones, eye proportions and skin tone exactly; minimal facial lines (no nasolabial folds, crow's feet, under-eye bags or cheek creases). Keep her face soft, feminine and attractive in every framing — never elongated, gaunt, mannish or heavy-jawed, even in close-ups, profiles or low angles.\n\nOUTPUT: one standalone off-duty scene of her in the outfit chosen in SCENE; her legend shows only through accessories and objects around her — never in the outfit's colours, patterns or cut, never as armor, regalia or a costume. Everything else follows SCENE (chosen).\n\nFRAME: a vertical 2:3 (1024×1536) image. Compose the image for this frame; COMPOSITION in SCENE sets how much of her shows.\n\nSCENE (chosen):\nFREE DESIGN: design the place, activity, pose, framing and outfit yourself. Start from who she is — her legend, traits and personality — and show an everyday moment that is unexpected yet feels natural for her. Make it fresh through the situation and what she is doing, not through more decoration. Avoid scenes like the recent ones listed below. Keep her face, the art style and the body and anatomy rules exactly as stated. Before drawing, write your design into the lines below, then draw it. In your pose, give each hand one job only and say plainly where each arm goes; avoid poses where it is unclear which shoulder an arm comes from — an arm behind her back, behind her head or pinned under her body — and never state where a foot sits under water. Do not make it another small repair, adjusting, measuring or sorting task at a workbench, repair stall, equipment room or locker room — those scenes are already in our own list; choose another kind of everyday moment (rest, play, a meal, travel, weather, getting ready, simply being in the place).\nRecent scenes to avoid: a wooden sauna and cold plunge with a cooling lounge — holds a towel folded against her chest; a hydroponic bathing pool aboard a starship — seated sideways on a stool or bench; a small mountain-path shrine at the Slope of the Fallen Phoenix — standing; a museum hands-on workshop table before opening — sips a tall iced coffee in a clear cup with a straw through the straw; an open pavilion floating above a sea of clouds at sunrise — standing.\nPlace: a futuristic orbital hydroponic fruit orchard, warm artificial sun through glass ribs and an open woven hammock between two upright supports\nActivity: she rests after carrying a basket of spare fruit for the crew, holding one ripe pear while listening to the quiet irrigation mist\nPose: reclining diagonally in the shallow hammock with her head supported by the hammock fabric rather than a hand, both upper arms visible in front of her torso; her own right elbow rests at her side and right hand holds the pear just above her waist, her own left arm reaches down beside her torso to a left hand loosely holding the hammock edge; legs extend naturally with ankles together and her gaze rests on the pear\nFraming: a full-body vertical 2:3 view from slightly above and three-quarters in front, full hammock and both feet included, face not in profile and hands clearly visible\nOutfit: a soft apricot asymmetrical lounge romper with one broad shoulder tie, a curved open panel at the waist and softly gathered short legs, a deep but securely opaque wrap neckline and a narrow braided belt; no mechanical armor, no copied faction colors, a tiny spear brooch on the shoulder tie\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing; nothing slipped off; intimate areas covered\n\nWARDROBE: change her clothes completely. From the attached image take only her face, hair and body — not its garment, armor, regalia, ornaments, mecha plates or background. Dress her exactly as SCENE describes; that outfit must read at first glance, keeping its own recognisable colours and parts. Do not carry the attached image's palette, patterns or trim into the outfit; her Three Kingdoms identity belongs in accessories and props, never in the clothes — never restyle the chosen outfit into her faction's palette, armor, robes or regalia.\n\nANGLE: the attached image fixes who she is, not how she is posed or shot. Do not copy its head angle, head tilt, gaze direction, face size in frame, camera height or crop — turn her head, set her gaze and place the camera exactly as SCENE describes, and let her face read naturally from that new angle (profile, three-quarter, looking down or away), with her features staying the same. No default card pose, no default front-facing portrait.\n\nONE MAIN FIGURE: she is the only character in focus. Where the place is busy, other people may appear only as small, soft-focus background extras — never posed with her. No logo, no watermark, no speech bubble, no frame border. No readable text or numbers.\n\nANATOMY: natural adult proportions, about 7.5 heads tall — height from the legs, never a smaller head or a longer neck. The neck is a natural length and the head sits close to the shoulders. No body-part enlargement, no extra limbs.\n\nBODY: a normal human body — one head, two arms and two legs, each joined at its natural joint; elbows, knees and wrists bend the human way. Hands and feet may be partly hidden by the pose, what she holds or the frame. Right and left mean her own right and left, not the viewer's.\n\nHANDS: natural human hands, no extra or duplicated limbs; each visible hand joins through its wrist and forearm to the matching shoulder. A hand may stay outside the crop, and fingers may be partly hidden by a grip.\n\nAVOID: a blue or bruise-like tint on the skin around the eyes, glossy or shiny highlights on the face, sweaty, oily or plastic-looking skin.",
+ "date": "2026-11-14",
+ "record": "records/장흠/mecha-casual7.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "장흠",
+  "out": "casual",
+  "world": "mecha",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 7,
+  "scenes": {
+   "장흠": {
+    "era": "now",
+    "place": "travel_ranch",
+    "ofam": "subculture",
+    "treeV": 2,
+    "prop": "",
+    "preset": "side_chair_cross",
+    "use": "phones_neck",
+    "posture": "sit_chair",
+    "support": "back_seat",
+    "frame": "full_body",
+    "body": "side",
+    "head": "with_body",
+    "camera": "eye",
+    "right": "prop",
+    "left": "lap",
+    "legs": "cross_legs",
+    "gaze": "camera",
+    "item": "visual_kei",
+    "expr": "proud",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "ofree": true,
+    "ofreeRecent": "a wooden sauna and cold plunge with a cooling lounge — holds a towel folded against her chest; a hydroponic bathing pool aboard a starship — seated sideways on a stool or bench; a small mountain-path shrine at the Slope of the Fallen Phoenix — standing; a museum hands-on workshop table before opening — sips a tall iced coffee in a clear cup with a straw through the straw; an open pavilion floating above a sea of clouds at sunrise — standing"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen",
+  "endpoint": "images/edits",
+  "ref_sha256": "50b8bef45bf003930068261fd1d8d5ec0b963536bd3de87fd9bd7720d23cddc3",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "38ea39250be3f23f25cfeaf879ed04733932acdae294fc40cab8daeb51d74155",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "prompt_form": "en-prompt",
+  "prompt_sha256": "9d6788a3ff2d6d07837d91109177a5aada1c7f06a345af4bdd35db4b379e92a2",
+  "retries": [],
+  "free_design": {
+   "Place": "a futuristic orbital hydroponic fruit orchard, warm artificial sun through glass ribs and an open woven hammock between two upright supports",
+   "Activity": "she rests after carrying a basket of spare fruit for the crew, holding one ripe pear while listening to the quiet irrigation mist",
+   "Pose": "reclining diagonally in the shallow hammock with her head supported by the hammock fabric rather than a hand, both upper arms visible in front of her torso; her own right elbow rests at her side and right hand holds the pear just above her waist, her own left arm reaches down beside her torso to a left hand loosely holding the hammock edge; legs extend naturally with ankles together and her gaze rests on the pear",
+   "Framing": "a full-body vertical 2:3 view from slightly above and three-quarters in front, full hammock and both feet included, face not in profile and hands clearly visible",
+   "Outfit": "a soft apricot asymmetrical lounge romper with one broad shoulder tie, a curved open panel at the waist and softly gathered short legs, a deep but securely opaque wrap neckline and a narrow braided belt; no mechanical armor, no copied faction colors, a tiny spear brooch on the shoulder tie"
+  },
+  "free_prompt": "INPUT: the attached image is the approved character — her Mecha card; keep her. Do not reuse earlier conversation images.\n\nCHARACTER: the same woman as the attached image — the female personification of Jiang Qin of the Three Kingdoms, seen in her everyday life. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change, and her hair may be worn differently only as SCENE's Hair line says. Her Three Kingdoms identity shows ONLY as a small accessory, an object around her, or the object PROP says she holds — never in the outfit's colours, patterns or cut, never as armor, regalia or a costume.\n\nDESIGN (accessory hints only): her legend — humble origin and generosity, simple practical armor — may inform at most one small accessory, a hair ornament or an object beside her, in its palette (crimson red, gold, river teal, black lacquer). The clothes keep the chosen outfit's own colours; her skin, hair and eyes stay as in the attached image.\n\nSIGNATURE ACCESSORY: off duty she carries no weapon — no sword, saber, spear, glaive, halberd, bow, axe, shield or any blade in her hands, on her back or anywhere in the scene. Her signature weapon (a heavy spear) appears only as one small worn accessory modelled on its shape and colours — a hair ornament, pendant, earring, brooch or belt charm a few centimetres long, clearly jewellery and not a usable weapon.\n\nSTYLE: Korean MMORPG character artwork. A recognisably drawn face with gently simplified anatomical structure. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\n\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nAGE: the same adult woman as in the attached image — keep her own face shape, cheekbones, eye proportions and skin tone exactly; minimal facial lines (no nasolabial folds, crow's feet, under-eye bags or cheek creases). Keep her face soft, feminine and attractive in every framing — never elongated, gaunt, mannish or heavy-jawed, even in close-ups, profiles or low angles.\n\nOUTPUT: one standalone off-duty scene of her in the outfit chosen in SCENE; her legend shows only through accessories and objects around her — never in the outfit's colours, patterns or cut, never as armor, regalia or a costume. Everything else follows SCENE (chosen).\n\nFRAME: a vertical 2:3 (1024×1536) image. Compose the image for this frame; COMPOSITION in SCENE sets how much of her shows.\n\nSCENE (chosen):\nFREE DESIGN: design the place, activity, pose, framing and outfit yourself. Start from who she is — her legend, traits and personality — and show an everyday moment that is unexpected yet feels natural for her. Make it fresh through the situation and what she is doing, not through more decoration. Avoid scenes like the recent ones listed below. Keep her face, the art style and the body and anatomy rules exactly as stated. Before drawing, write your design into the lines below, then draw it. In your pose, give each hand one job only and say plainly where each arm goes; avoid poses where it is unclear which shoulder an arm comes from — an arm behind her back, behind her head or pinned under her body — and never state where a foot sits under water. Do not make it another small repair, adjusting, measuring or sorting task at a workbench, repair stall, equipment room or locker room — those scenes are already in our own list; choose another kind of everyday moment (rest, play, a meal, travel, weather, getting ready, simply being in the place).\nRecent scenes to avoid: a wooden sauna and cold plunge with a cooling lounge — holds a towel folded against her chest; a hydroponic bathing pool aboard a starship — seated sideways on a stool or bench; a small mountain-path shrine at the Slope of the Fallen Phoenix — standing; a museum hands-on workshop table before opening — sips a tall iced coffee in a clear cup with a straw through the straw; an open pavilion floating above a sea of clouds at sunrise — standing.\nPlace: a futuristic orbital hydroponic fruit orchard, warm artificial sun through glass ribs and an open woven hammock between two upright supports\nActivity: she rests after carrying a basket of spare fruit for the crew, holding one ripe pear while listening to the quiet irrigation mist\nPose: reclining diagonally in the shallow hammock with her head supported by the hammock fabric rather than a hand, both upper arms visible in front of her torso; her own right elbow rests at her side and right hand holds the pear just above her waist, her own left arm reaches down beside her torso to a left hand loosely holding the hammock edge; legs extend naturally with ankles together and her gaze rests on the pear\nFraming: a full-body vertical 2:3 view from slightly above and three-quarters in front, full hammock and both feet included, face not in profile and hands clearly visible\nOutfit: a soft apricot asymmetrical lounge romper with one broad shoulder tie, a curved open panel at the waist and softly gathered short legs, a deep but securely opaque wrap neckline and a narrow braided belt; no mechanical armor, no copied faction colors, a tiny spear brooch on the shoulder tie\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing; nothing slipped off; intimate areas covered\n\nWARDROBE: change her clothes completely. From the attached image take only her face, hair and body — not its garment, armor, regalia, ornaments, mecha plates or background. Dress her exactly as SCENE describes; that outfit must read at first glance, keeping its own recognisable colours and parts. Do not carry the attached image's palette, patterns or trim into the outfit; her Three Kingdoms identity belongs in accessories and props, never in the clothes — never restyle the chosen outfit into her faction's palette, armor, robes or regalia.\n\nANGLE: the attached image fixes who she is, not how she is posed or shot. Do not copy its head angle, head tilt, gaze direction, face size in frame, camera height or crop — turn her head, set her gaze and place the camera exactly as SCENE describes, and let her face read naturally from that new angle (profile, three-quarter, looking down or away), with her features staying the same. No default card pose, no default front-facing portrait.\n\nONE MAIN FIGURE: she is the only character in focus. Where the place is busy, other people may appear only as small, soft-focus background extras — never posed with her. No logo, no watermark, no speech bubble, no frame border. No readable text or numbers.\n\nANATOMY: natural adult proportions, about 7.5 heads tall — height from the legs, never a smaller head or a longer neck. The neck is a natural length and the head sits close to the shoulders. No body-part enlargement, no extra limbs.\n\nBODY: a normal human body — one head, two arms and two legs, each joined at its natural joint; elbows, knees and wrists bend the human way. Hands and feet may be partly hidden by the pose, what she holds or the frame. Right and left mean her own right and left, not the viewer's.\n\nHANDS: natural human hands, no extra or duplicated limbs; each visible hand joins through its wrist and forearm to the matching shoulder. A hand may stay outside the crop, and fingers may be partly hidden by a grip.\n\nAVOID: a blue or bruise-like tint on the skin around the eyes, glossy or shiny highlights on the face, sweaty, oily or plastic-looking skin."
+ },
+ "execution": "sam-jiangqin-20261114-5b48",
+ "imported": "2026-11-14",
+ "qa": {
+  "reviewer": "gpt-session",
+  "image_sha256": "38ea39250be3f23f25cfeaf879ed04733932acdae294fc40cab8daeb51d74155",
+  "passed": true,
+  "anatomy": "ok",
+  "exposure": "match",
+  "observations": [
+   "1024x1536; same selected-world identity, hair color and rendering; visible arms attach naturally to shoulders; no obvious extra limbs.",
+   "No usable weapon; off-duty outfit and planned scene reviewed."
+  ]
+ },
+ "acceptance": "user_approval_2026-11-14 — complete character, commit images and dex, update remote main without further confirmation",
+ "review": {
+  "reviewed": false,
+  "by": "user",
+  "result": "pending"
+ }
+}

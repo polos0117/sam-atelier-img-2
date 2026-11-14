@@ -1,0 +1,116 @@
+{
+ "atelier": "samguk",
+ "card": "장흠",
+ "faction": "wu",
+ "role": "general",
+ "world": "samguk",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v1",
+ "notes": {},
+ "look": {
+  "params": {},
+  "faceDesignOn": true,
+  "silhouetteOn": true,
+  "exposure": "bold"
+ },
+ "design": {
+  "face": {
+   "eye_color": "rose",
+   "impression": "cheerful",
+   "expr": "gentle",
+   "skin_tone": "warm_beige",
+   "age": "early_20s",
+   "eye_size": "large",
+   "eye_tilt": "level",
+   "mark": "scar",
+   "brows": "soft_round",
+   "nose": "straight_narrow",
+   "lips": "full_wide",
+   "face_shape": "inverted_triangle",
+   "eyes": "deep_set"
+  },
+  "silhouette": {
+   "body": "pear_curvy",
+   "hair_color": "grass_green",
+   "hair": "flipped_shoulder",
+   "bangs": "straight"
+  }
+ },
+ "shot": {
+  "scene": "",
+  "time": "",
+  "pose": "",
+  "expr": "",
+  "frame": ""
+ },
+ "file": "장흠_samguk_kr_drawn_rim_dewy_f.webp",
+ "prompt": "Design brief — your own take on this character. A full-body vertical 2:3 (1024×1536) character card image of Jiang Qin from the Romance of the Three Kingdoms, reimagined as an adult woman — Sun Ce's follower since her poor days, later generous and wise. Age: about twenty — a fresh young-adult face; no facial lines. She is a woman — no beard, moustache or facial hair.\n\nYou design her yourself: invent her face, eye colour, hairstyle, makeup, expression, pose and setting as a fresh, original take — do not follow any earlier design of this character. Her hair colour, skin tone, costume and weapon are NOT free: take them from our designs below.\n\nStyle (fixed): Korean MMORPG character artwork. A recognisably drawn face with gently simplified anatomical structure. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\n\nInspiration only: humble origin and generosity, simple practical armor.\n\nWorld (fixed): Eastern Wu along the Yangtze, around 200–280 AD: the river capital Jianye, great war junks with crimson sails, river fortresses, southern rain and lotus marshes, the fire ships of the Red Cliffs. Her costume, weapon and setting belong to this world.\n\nCostume (choose one of ours, then add your own idea): pick ONE of these costume shapes from our set and keep its overall silhouette — 1) light armor pieces over a fitted silk martial dress, long silk sashes and a light skirt flowing from the waist and shoulders — a light, dancing silhouette; 2) layered laced lamellar armor, big heavy beast-head pauldrons and armored skirts to the knees — a broad, weighty general's silhouette; 3) fitted light lamellar armor with short armored skirts slit for riding, bracers and greaves — a lean, practical cavalry silhouette; 4) a fitted martial-arts outfit with a wide belt and arm guards, a long silk sash streaming behind — a wandering swordswoman's silhouette; 5) a great war cape spreading from the shoulders to the ankles as the main shape, lamellar armor beneath; 6) a heavy fur mantle over the shoulders with leather straps and beast ornaments — a rugged frontier silhouette; 7) a lamellar breastplate above, many layers of silk skirt flaring wide below the waist — firm above, flowing below; 8) a dark close-fitting light outfit with minimal ornament and wrapped arms and legs — a sleek silhouette, face uncovered; 9) a chest guard, a quiver, a fitted short robe and leg wraps — a light, upright archer's silhouette. Then add one signature idea of your own drawn from her legend, built into the construction of the outfit itself rather than as a print or a loose accessory — e.g. plates or cloth layered like feathers, scales or petals, a hem or sleeve cut into a motif from her story. Build it in this world's materials and our colours below.\n\nWeapon (fixed — ours): a heavy spear.\n\nHair colour (fixed — ours): grass-green hair. Keep exactly this hair colour; only the hairstyle is yours.\n\nSkin tone (fixed — ours): warm beige skin. Keep exactly this skin tone.\n\nCostume colours (ours): crimson red, gold, river teal, black lacquer.\n\nRank (fixed): she is a famed war general — her costume must read battlefield might at first glance: imposing, richly worked armour and cloth with flagship-card detail, never plain or sparse.\n\nExposure (fixed): bold — her outfit shows skin by design (a deep neckline, bare shoulders or arms, a high slit or short hem); intimate areas covered.\n\nFace proportions: a short midface and a soft, gently rounded jawline with a small soft chin — never a long face or a long, pointed or heavy jaw; any crown or headpiece sits above her hairline and never lengthens her face. Her eyes stay at a natural open size — never squeezed into narrow slits.\n\nComposition: vertical 2:3 full-body framing with modest headroom and clear space below the boots — the whole figure from the top of her crown or headpiece to both boots stays inside the frame, occupying about four-fifths of the image height, with the same camera distance in every genre; her hands and her signature item stay inside the frame. Camera at chest height with natural portrait perspective — no wide-angle distortion, no low angle, no close crop.\n\nIf you have already drawn a free design of her in this session, make this one clearly different — another face and hairstyle (the same hair colour and skin tone), another costume shape from the list with another signature idea, another pose and setting.\n\nWrite your own detailed image prompt from this brief, then draw it. One figure only, natural hands with five fingers; a banner or seal may carry a single faction character, no other text; no logo or watermark.\n\nDETAILED ORIGINAL DESIGN FOR THIS IMAGE:\nA different original soft compact heart-shaped face with amber eyes, gently curved brows, a small nose and a quietly confident smile. Grass-green hair in a flowing high half-up style with softly swept bangs, distinctly different from the braided version. Choose silhouette 7: fitted lamellar breastplate above a broad flaring multi-layer silk skirt. Her humble origins and generosity are built into the skirt: wide overlapping protective panels open outward like a sheltering awning, lavish crimson silk, river-teal interior layers, black lacquer plate and restrained gold framework. Bare shoulders and upper arms, deep neckline and one high slit; intimate areas covered. Hold the single heavy spear diagonally beside her body, both hands clearly connected. Stand in a late-Han riverside courtyard after rain, face toward viewer, whole body with space around boots.",
+ "date": "2026-11-14",
+ "record": "records/장흠/samguk.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "장흠",
+  "out": "world",
+  "world": "samguk",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {
+   "장흠|samguk": {}
+  },
+  "looks": {
+   "장흠|samguk": {
+    "params": {},
+    "faceDesignOn": true,
+    "silhouetteOn": true,
+    "exposure": "bold"
+   }
+  },
+  "shots": {
+   "장흠|samguk": {
+    "scene": "",
+    "time": "",
+    "pose": "",
+    "expr": "",
+    "frame": ""
+   }
+  },
+  "walked": {},
+  "casualN": 1,
+  "scenes": {}
+ },
+ "generation": {
+  "tool": "image_gen",
+  "endpoint": "images/generations",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "6fac017593a603718bb666f1b35c5a1a6f20458abc4658a10256e4be8ef98136",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "prompt_form": "en-prompt",
+  "prompt_sha256": "6689a1c81cb4d3e09f78c2c3a17424b3c0f06762b1ca0a9a7ed1dfa775556678",
+  "selected_candidate": 4,
+  "design": "gpt_free",
+  "retries": [],
+  "free_prompt": "Design brief — your own take on this character. A full-body vertical 2:3 (1024×1536) character card image of Jiang Qin from the Romance of the Three Kingdoms, reimagined as an adult woman — Sun Ce's follower since her poor days, later generous and wise. Age: about twenty — a fresh young-adult face; no facial lines. She is a woman — no beard, moustache or facial hair.\n\nYou design her yourself: invent her face, eye colour, hairstyle, makeup, expression, pose and setting as a fresh, original take — do not follow any earlier design of this character. Her hair colour, skin tone, costume and weapon are NOT free: take them from our designs below.\n\nStyle (fixed): Korean MMORPG character artwork. A recognisably drawn face with gently simplified anatomical structure. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\n\nInspiration only: humble origin and generosity, simple practical armor.\n\nWorld (fixed): Eastern Wu along the Yangtze, around 200–280 AD: the river capital Jianye, great war junks with crimson sails, river fortresses, southern rain and lotus marshes, the fire ships of the Red Cliffs. Her costume, weapon and setting belong to this world.\n\nCostume (choose one of ours, then add your own idea): pick ONE of these costume shapes from our set and keep its overall silhouette — 1) light armor pieces over a fitted silk martial dress, long silk sashes and a light skirt flowing from the waist and shoulders — a light, dancing silhouette; 2) layered laced lamellar armor, big heavy beast-head pauldrons and armored skirts to the knees — a broad, weighty general's silhouette; 3) fitted light lamellar armor with short armored skirts slit for riding, bracers and greaves — a lean, practical cavalry silhouette; 4) a fitted martial-arts outfit with a wide belt and arm guards, a long silk sash streaming behind — a wandering swordswoman's silhouette; 5) a great war cape spreading from the shoulders to the ankles as the main shape, lamellar armor beneath; 6) a heavy fur mantle over the shoulders with leather straps and beast ornaments — a rugged frontier silhouette; 7) a lamellar breastplate above, many layers of silk skirt flaring wide below the waist — firm above, flowing below; 8) a dark close-fitting light outfit with minimal ornament and wrapped arms and legs — a sleek silhouette, face uncovered; 9) a chest guard, a quiver, a fitted short robe and leg wraps — a light, upright archer's silhouette. Then add one signature idea of your own drawn from her legend, built into the construction of the outfit itself rather than as a print or a loose accessory — e.g. plates or cloth layered like feathers, scales or petals, a hem or sleeve cut into a motif from her story. Build it in this world's materials and our colours below.\n\nWeapon (fixed — ours): a heavy spear.\n\nHair colour (fixed — ours): grass-green hair. Keep exactly this hair colour; only the hairstyle is yours.\n\nSkin tone (fixed — ours): warm beige skin. Keep exactly this skin tone.\n\nCostume colours (ours): crimson red, gold, river teal, black lacquer.\n\nRank (fixed): she is a famed war general — her costume must read battlefield might at first glance: imposing, richly worked armour and cloth with flagship-card detail, never plain or sparse.\n\nExposure (fixed): bold — her outfit shows skin by design (a deep neckline, bare shoulders or arms, a high slit or short hem); intimate areas covered.\n\nFace proportions: a short midface and a soft, gently rounded jawline with a small soft chin — never a long face or a long, pointed or heavy jaw; any crown or headpiece sits above her hairline and never lengthens her face. Her eyes stay at a natural open size — never squeezed into narrow slits.\n\nComposition: vertical 2:3 full-body framing with modest headroom and clear space below the boots — the whole figure from the top of her crown or headpiece to both boots stays inside the frame, occupying about four-fifths of the image height, with the same camera distance in every genre; her hands and her signature item stay inside the frame. Camera at chest height with natural portrait perspective — no wide-angle distortion, no low angle, no close crop.\n\nIf you have already drawn a free design of her in this session, make this one clearly different — another face and hairstyle (the same hair colour and skin tone), another costume shape from the list with another signature idea, another pose and setting.\n\nWrite your own detailed image prompt from this brief, then draw it. One figure only, natural hands with five fingers; a banner or seal may carry a single faction character, no other text; no logo or watermark.\n\nDETAILED ORIGINAL DESIGN FOR THIS IMAGE:\nA different original soft compact heart-shaped face with amber eyes, gently curved brows, a small nose and a quietly confident smile. Grass-green hair in a flowing high half-up style with softly swept bangs, distinctly different from the braided version. Choose silhouette 7: fitted lamellar breastplate above a broad flaring multi-layer silk skirt. Her humble origins and generosity are built into the skirt: wide overlapping protective panels open outward like a sheltering awning, lavish crimson silk, river-teal interior layers, black lacquer plate and restrained gold framework. Bare shoulders and upper arms, deep neckline and one high slit; intimate areas covered. Hold the single heavy spear diagonally beside her body, both hands clearly connected. Stand in a late-Han riverside courtyard after rain, face toward viewer, whole body with space around boots."
+ },
+ "qa": {
+  "reviewer": "gpt-session",
+  "image_sha256": "6fac017593a603718bb666f1b35c5a1a6f20458abc4658a10256e4be8ef98136",
+  "passed": true,
+  "anatomy": "ok",
+  "exposure": "match",
+  "observations": [
+   "One adult woman, full body, genre matches, no obvious extra or disconnected limbs at review scale."
+  ]
+ },
+ "execution": "sam-jiangqin-20261114-5b48",
+ "imported": "2026-11-14",
+ "acceptance": "user_selected_4,1,2; authorized character image and dex main updates",
+ "review": {
+  "reviewed": true,
+  "by": "user",
+  "result": "selected"
+ }
+}
