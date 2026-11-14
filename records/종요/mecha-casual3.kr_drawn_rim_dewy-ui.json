@@ -1,0 +1,134 @@
+{
+ "atelier": "samguk",
+ "card": "종요",
+ "faction": "wei",
+ "slot": "casual3",
+ "treeV": 2,
+ "world": "mecha",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v1",
+ "ref": "종요_mecha_kr_drawn_rim_dewy_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "heritage",
+  "place": "heritage_archery",
+  "ofam": "workwear",
+  "item": "coverall_tied",
+  "posture": "walk",
+  "support": "none",
+  "frame": "environmental",
+  "body": "back",
+  "head": "with_body",
+  "camera": "eye",
+  "right": "prop",
+  "left": "down",
+  "use": "sword_low",
+  "kind": "hold",
+  "legs": "walk_stride",
+  "gaze": "horizon",
+  "ofree": true,
+  "ofreeFamily": "lingerie",
+  "ofreeSitu": "free",
+  "ofreeRecent": "a futuristic spa of white curves and soft light — standing; a starship data archive — holds a small screwdriver at chest height; an old Chengdu teahouse with bamboo chairs — holds her keepsake in both hands in front of her; a quiet spa lounge of robes — dries her hair with a towel; a grand museum hall with marble statues at night — standing",
+  "expr": "",
+  "preset": "walk_away",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "종요_mecha_kr_drawn_rim_dewy_f_casual3.webp",
+ "prompt": "INPUT: the attached image is the approved character — her Mecha card; keep her. Do not reuse earlier conversation images.\n\nCHARACTER: the same woman as the attached image — the female personification of Zhong Yao of the Three Kingdoms, seen in her everyday life. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change, and her hair may be worn differently only as SCENE's Hair line says. Her Three Kingdoms identity shows ONLY as a small accessory, an object around her, or the object PROP says she holds — never in the outfit's colours, patterns or cut, never as armor, regalia or a costume.\n\nDESIGN (accessory hints only): her legend — elegant brushwork, refined robes, ink on her fingertips — may inform at most one small accessory, a hair ornament or an object beside her, in its palette (deep navy blue, black lacquer, cold steel silver, ivory white). The clothes keep the chosen outfit's own colours; her skin, hair and eyes stay as in the attached image.\n\nSTYLE: Korean MMORPG character artwork. A recognisably drawn face with gently simplified anatomical structure. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\n\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nAGE: the same adult woman as in the attached image — keep her own face shape, cheekbones, eye proportions and skin tone exactly; minimal facial lines (no nasolabial folds, crow's feet, under-eye bags or cheek creases). Keep her face soft, feminine and attractive in every framing — never elongated, gaunt, mannish or heavy-jawed, even in close-ups, profiles or low angles.\n\nOUTPUT: one standalone off-duty scene of her in the outfit chosen in SCENE; her legend shows only through accessories and objects around her — never in the outfit's colours, patterns or cut, never as armor, regalia or a costume. Everything else follows SCENE (chosen).\n\nFRAME: a vertical 2:3 (1024×1536) image. Compose the image for this frame; COMPOSITION in SCENE sets how much of her shows.\n\nSCENE (chosen):\nFREE DESIGN: design the place, activity, pose, framing and outfit yourself. Start from who she is — her legend, traits and personality — and show an everyday moment that is unexpected yet feels natural for her. Make it fresh through the situation and what she is doing, not through more decoration. Avoid scenes like the recent ones listed below. Keep her face, the art style and the body and anatomy rules exactly as stated. Before drawing, write your design into the lines below, then draw it. In your pose, give each hand one job only and say plainly where each arm goes; avoid poses where it is unclear which shoulder an arm comes from — an arm behind her back, behind her head or pinned under her body — and never state where a foot sits under water. Do not make it another small repair, adjusting, measuring or sorting task at a workbench, repair stall, equipment room or locker room — those scenes are already in our own list; choose another kind of everyday moment (rest, play, a meal, travel, weather, getting ready, simply being in the place).\nRecent scenes to avoid: a futuristic spa of white curves and soft light — standing; a starship data archive — holds a small screwdriver at chest height; an old Chengdu teahouse with bamboo chairs — holds her keepsake in both hands in front of her; a quiet spa lounge of robes — dries her hair with a towel; a grand museum hall with marble statues at night — standing.\nPlace: a private sleeper-train washroom in morning light with a softly blurred landscape outside\nActivity: brushing her teeth during a quiet trip; while reaching sideways for a face towel, the cropped camisole lifts a little at her waist, revealing her midriff while the opaque lingerie remains secure\nPose: standing in three-quarter front view, right elbow bent naturally by her ribs and right hand holding a toothbrush at her mouth; left arm reaches directly sideways to a towel hook, left hand grasping the towel; both arms clearly join their own shoulders\nFraming: three-quarter standing portrait from head to mid-thigh with both hands visible, camera at chest height\nOutfit family (required): lingerie-inspired — any lingerie-inspired outfit; you may pick one from our outfit catalog (outfit-catalog.md in this pack) or design your own, but prefer one that is not in it.\nSituation (required): a situational exposure moment of your own design that fits the scene — prefer one that is not among ours: clothes soaked by rain or a splash, clothes caught by a strong gust of wind, a top worn half undone, a strap slipped off the shoulder, a hem knotted up under the bust, an outer layer tied around the waist, a sheen of sweat from heat, a backlit silhouette through thin fabric, a skirt slit fallen open, sleeves pushed up with one more button undone, a tie or scarf pulled loose.\nOutfit: an opaque cinnamon-red lingerie-inspired travel sleep set: a short square-neck camisole with soft fan-pleated cups and broad crossed shoulder bands, matching full-coverage high-waisted tap briefs with wide piped edges; no transparent intimate panels\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing; intimate areas covered\n\nWARDROBE: change her clothes completely. From the attached image take only her face, hair and body — not its garment, armor, regalia, ornaments, mecha plates or background. Dress her exactly as SCENE describes; that outfit must read at first glance, keeping its own recognisable colours and parts. Do not carry the attached image's palette, patterns or trim into the outfit; her Three Kingdoms identity belongs in accessories and props, never in the clothes — never restyle the chosen outfit into her faction's palette, armor, robes or regalia.\n\nANGLE: the attached image fixes who she is, not how she is posed or shot. Do not copy its head angle, head tilt, gaze direction, face size in frame, camera height or crop — turn her head, set her gaze and place the camera exactly as SCENE describes, and let her face read naturally from that new angle (profile, three-quarter, looking down or away), with her features staying the same. No default card pose, no default front-facing portrait.\n\nONE MAIN FIGURE: she is the only character in focus. Where the place is busy, other people may appear only as small, soft-focus background extras — never posed with her. No logo, no watermark, no speech bubble, no frame border. No readable text or numbers.\n\nANATOMY: natural adult proportions, about 7.5 heads tall — height from the legs, never a smaller head or a longer neck. The neck is a natural length and the head sits close to the shoulders. No body-part enlargement, no extra limbs.\n\nBODY: a normal human body — one head, two arms and two legs, each joined at its natural joint; elbows, knees and wrists bend the human way. Hands and feet may be partly hidden by the pose, what she holds or the frame. Right and left mean her own right and left, not the viewer's.\n\nHANDS: natural human hands, no extra or duplicated limbs; each visible hand joins through its wrist and forearm to the matching shoulder. A hand may stay outside the crop, and fingers may be partly hidden by a grip.\n\nAVOID: a blue or bruise-like tint on the skin around the eyes, glossy or shiny highlights on the face, sweaty, oily or plastic-looking skin.",
+ "date": "2026-11-14",
+ "record": "records/종요/mecha-casual3.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "종요",
+  "out": "casual",
+  "world": "mecha",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 3,
+  "scenes": {
+   "종요": {
+    "era": "heritage",
+    "place": "heritage_archery",
+    "ofam": "workwear",
+    "treeV": 2,
+    "prop": "",
+    "preset": "walk_away",
+    "use": "sword_low",
+    "kind": "hold",
+    "posture": "walk",
+    "support": "none",
+    "frame": "environmental",
+    "body": "back",
+    "head": "with_body",
+    "camera": "eye",
+    "right": "prop",
+    "left": "down",
+    "legs": "walk_stride",
+    "gaze": "horizon",
+    "item": "coverall_tied",
+    "expr": "",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "ofree": true,
+    "ofreeFamily": "lingerie",
+    "ofreeSitu": "free",
+    "ofreeRecent": "a futuristic spa of white curves and soft light — standing; a starship data archive — holds a small screwdriver at chest height; an old Chengdu teahouse with bamboo chairs — holds her keepsake in both hands in front of her; a quiet spa lounge of robes — dries her hair with a towel; a grand museum hall with marble statues at night — standing"
+   }
+  }
+ },
+ "execution": "sam-zhongyao-b538",
+ "imported": "2026-11-14",
+ "generation": {
+  "tool": "image_gen",
+  "endpoint": "images/edits",
+  "ref_sha256": "1b69bc389458144203242db05d80c9ccd551f2df5ce5d87b8836430cc7d8f89f",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "14650a27f92526a9733753493894353e5a35d48b09cb110b24750fd1a1d4808c",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "prompt_form": "en-prompt",
+  "prompt_sha256": "39090b7bc2f6458f7305984b022d4dbd8f394640c76ab11fd8094360ea558f2b",
+  "free_design": {
+   "Place": "a private sleeper-train washroom in morning light with a softly blurred landscape outside",
+   "Activity": "brushing her teeth during a quiet trip; while reaching sideways for a face towel, the cropped camisole lifts a little at her waist, revealing her midriff while the opaque lingerie remains secure",
+   "Pose": "standing in three-quarter front view, right elbow bent naturally by her ribs and right hand holding a toothbrush at her mouth; left arm reaches directly sideways to a towel hook, left hand grasping the towel; both arms clearly join their own shoulders",
+   "Framing": "three-quarter standing portrait from head to mid-thigh with both hands visible, camera at chest height",
+   "Outfit": "an opaque cinnamon-red lingerie-inspired travel sleep set: a short square-neck camisole with soft fan-pleated cups and broad crossed shoulder bands, matching full-coverage high-waisted tap briefs with wide piped edges; no transparent intimate panels"
+  },
+  "free_prompt": "INPUT: the attached image is the approved character — her Mecha card; keep her. Do not reuse earlier conversation images.\n\nCHARACTER: the same woman as the attached image — the female personification of Zhong Yao of the Three Kingdoms, seen in her everyday life. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change, and her hair may be worn differently only as SCENE's Hair line says. Her Three Kingdoms identity shows ONLY as a small accessory, an object around her, or the object PROP says she holds — never in the outfit's colours, patterns or cut, never as armor, regalia or a costume.\n\nDESIGN (accessory hints only): her legend — elegant brushwork, refined robes, ink on her fingertips — may inform at most one small accessory, a hair ornament or an object beside her, in its palette (deep navy blue, black lacquer, cold steel silver, ivory white). The clothes keep the chosen outfit's own colours; her skin, hair and eyes stay as in the attached image.\n\nSTYLE: Korean MMORPG character artwork. A recognisably drawn face with gently simplified anatomical structure. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\n\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nAGE: the same adult woman as in the attached image — keep her own face shape, cheekbones, eye proportions and skin tone exactly; minimal facial lines (no nasolabial folds, crow's feet, under-eye bags or cheek creases). Keep her face soft, feminine and attractive in every framing — never elongated, gaunt, mannish or heavy-jawed, even in close-ups, profiles or low angles.\n\nOUTPUT: one standalone off-duty scene of her in the outfit chosen in SCENE; her legend shows only through accessories and objects around her — never in the outfit's colours, patterns or cut, never as armor, regalia or a costume. Everything else follows SCENE (chosen).\n\nFRAME: a vertical 2:3 (1024×1536) image. Compose the image for this frame; COMPOSITION in SCENE sets how much of her shows.\n\nSCENE (chosen):\nFREE DESIGN: design the place, activity, pose, framing and outfit yourself. Start from who she is — her legend, traits and personality — and show an everyday moment that is unexpected yet feels natural for her. Make it fresh through the situation and what she is doing, not through more decoration. Avoid scenes like the recent ones listed below. Keep her face, the art style and the body and anatomy rules exactly as stated. Before drawing, write your design into the lines below, then draw it. In your pose, give each hand one job only and say plainly where each arm goes; avoid poses where it is unclear which shoulder an arm comes from — an arm behind her back, behind her head or pinned under her body — and never state where a foot sits under water. Do not make it another small repair, adjusting, measuring or sorting task at a workbench, repair stall, equipment room or locker room — those scenes are already in our own list; choose another kind of everyday moment (rest, play, a meal, travel, weather, getting ready, simply being in the place).\nRecent scenes to avoid: a futuristic spa of white curves and soft light — standing; a starship data archive — holds a small screwdriver at chest height; an old Chengdu teahouse with bamboo chairs — holds her keepsake in both hands in front of her; a quiet spa lounge of robes — dries her hair with a towel; a grand museum hall with marble statues at night — standing.\nPlace: a private sleeper-train washroom in morning light with a softly blurred landscape outside\nActivity: brushing her teeth during a quiet trip; while reaching sideways for a face towel, the cropped camisole lifts a little at her waist, revealing her midriff while the opaque lingerie remains secure\nPose: standing in three-quarter front view, right elbow bent naturally by her ribs and right hand holding a toothbrush at her mouth; left arm reaches directly sideways to a towel hook, left hand grasping the towel; both arms clearly join their own shoulders\nFraming: three-quarter standing portrait from head to mid-thigh with both hands visible, camera at chest height\nOutfit family (required): lingerie-inspired — any lingerie-inspired outfit; you may pick one from our outfit catalog (outfit-catalog.md in this pack) or design your own, but prefer one that is not in it.\nSituation (required): a situational exposure moment of your own design that fits the scene — prefer one that is not among ours: clothes soaked by rain or a splash, clothes caught by a strong gust of wind, a top worn half undone, a strap slipped off the shoulder, a hem knotted up under the bust, an outer layer tied around the waist, a sheen of sweat from heat, a backlit silhouette through thin fabric, a skirt slit fallen open, sleeves pushed up with one more button undone, a tie or scarf pulled loose.\nOutfit: an opaque cinnamon-red lingerie-inspired travel sleep set: a short square-neck camisole with soft fan-pleated cups and broad crossed shoulder bands, matching full-coverage high-waisted tap briefs with wide piped edges; no transparent intimate panels\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing; intimate areas covered\n\nWARDROBE: change her clothes completely. From the attached image take only her face, hair and body — not its garment, armor, regalia, ornaments, mecha plates or background. Dress her exactly as SCENE describes; that outfit must read at first glance, keeping its own recognisable colours and parts. Do not carry the attached image's palette, patterns or trim into the outfit; her Three Kingdoms identity belongs in accessories and props, never in the clothes — never restyle the chosen outfit into her faction's palette, armor, robes or regalia.\n\nANGLE: the attached image fixes who she is, not how she is posed or shot. Do not copy its head angle, head tilt, gaze direction, face size in frame, camera height or crop — turn her head, set her gaze and place the camera exactly as SCENE describes, and let her face read naturally from that new angle (profile, three-quarter, looking down or away), with her features staying the same. No default card pose, no default front-facing portrait.\n\nONE MAIN FIGURE: she is the only character in focus. Where the place is busy, other people may appear only as small, soft-focus background extras — never posed with her. No logo, no watermark, no speech bubble, no frame border. No readable text or numbers.\n\nANATOMY: natural adult proportions, about 7.5 heads tall — height from the legs, never a smaller head or a longer neck. The neck is a natural length and the head sits close to the shoulders. No body-part enlargement, no extra limbs.\n\nBODY: a normal human body — one head, two arms and two legs, each joined at its natural joint; elbows, knees and wrists bend the human way. Hands and feet may be partly hidden by the pose, what she holds or the frame. Right and left mean her own right and left, not the viewer's.\n\nHANDS: natural human hands, no extra or duplicated limbs; each visible hand joins through its wrist and forearm to the matching shoulder. A hand may stay outside the crop, and fingers may be partly hidden by a grip.\n\nAVOID: a blue or bruise-like tint on the skin around the eyes, glossy or shiny highlights on the face, sweaty, oily or plastic-looking skin."
+ },
+ "qa": {
+  "passed": true,
+  "anatomy": "ok",
+  "exposure": "match",
+  "observations": [
+   "Toothbrush hand and towel-reaching hand connect naturally; sleeper train, opaque red lingerie-inspired sleepwear"
+  ],
+  "reviewer": "gpt",
+  "image_sha256": "14650a27f92526a9733753493894353e5a35d48b09cb110b24750fd1a1d4808c"
+ },
+ "acceptance": "user authorized character completion and main fast-forward publication",
+ "review": {
+  "reviewed": false,
+  "by": "user",
+  "result": "pending"
+ }
+}
