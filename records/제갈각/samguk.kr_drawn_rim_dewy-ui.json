@@ -1,0 +1,114 @@
+{
+ "atelier": "samguk",
+ "card": "제갈각",
+ "faction": "wu",
+ "role": "strategist",
+ "world": "samguk",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v1",
+ "notes": {},
+ "look": {
+  "params": {},
+  "faceDesignOn": true,
+  "silhouetteOn": true,
+  "exposure": "bold"
+ },
+ "design": {
+  "face": {
+   "eye_color": "rose",
+   "impression": "glamorous",
+   "expr": "smug",
+   "skin_tone": "porcelain",
+   "age": "early_20s",
+   "eye_size": "small",
+   "eye_tilt": "down",
+   "mark": "gloss",
+   "brows": "arched_thin",
+   "nose": "small_button",
+   "lips": "thin_bow",
+   "face_shape": "oval",
+   "eyes": "monolid_long"
+  },
+  "silhouette": {
+   "body": "tall_curvy",
+   "hair_color": "dark_brown",
+   "hair": "shag_layers",
+   "bangs": "none"
+  }
+ },
+ "shot": {
+  "scene": "",
+  "time": "",
+  "pose": "",
+  "expr": "",
+  "frame": ""
+ },
+ "file": "제갈각_samguk_kr_drawn_rim_dewy_f.webp",
+ "prompt": "A full-body character image, vertical 2:3 (1024×1536): Zhuge Ke of the Romance of the Three Kingdoms, reimagined as an adult woman — Zhuge Jin's child, brilliant but arrogant.\n\n1. STYLE\nKorean MMORPG character artwork. A recognisably drawn face with gently simplified anatomical structure. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nHer face is small and soft: a short midface, a softly rounded jaw and a small chin, about 1.3 times as long as it is wide, with her eyes open at their natural size. Bangs, side locks and headpieces frame the face without lengthening it.\nSkin finish: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\n2. CHARACTER\nAge: about twenty — a fresh young-adult face.\nFace — her own, recognisably this character, a woman's face with no beard or facial hair: a glamorous, sultry allure; porcelain-pale skin; oval face; smaller, narrower eyes than usual anime proportion — long monolid eyes, outer eye corners drooping downward; thin arched brows; small button nose; thin lips with a defined cupid's bow; rose-pink eyes; glossy nude lips.\nBody and hair: tall and statuesque with long legs and a full, curvaceous figure — full bust and hips, narrow waist build; a layered shag with face-framing pieces with no bangs, forehead bare; dark brown hair.\nExpression: a faint knowing smile, subtle and relaxed.\nLegend, carried in her design and bearing: quick wit and overconfidence, ornate scholar-official robes.\nAnatomy: one head, two arms and two legs, each joined at its natural joint; natural hands with five fingers.\n\n3. COSTUME AND EQUIPMENT — THREE KINGDOMS\nCostume: a strategist's scholar robes — flowing layered silk robes with wide sleeves, a scholar's guan cap or silk ribbon, a feather fan or bound bamboo scrolls, a jade pendant. Late-Han Chinese dress — cross-collared silk robes with wide sleeves and a broad sash, lamellar or scale armor laced with cords where armor is worn, bronze, jade and lacquer ornament, Han court hair ornaments; silk, lacquered leather, bronze and iron.\nSilhouette: light armor pieces over a fitted silk martial dress, long silk sashes and a light skirt flowing from the waist and shoulders — a light, dancing silhouette. This silhouette sets the overall shape of the costume above — keep its materials, ornaments and rank in this shape; the details are free.\nColours: crimson red, gold, river teal, black lacquer.\nSignature item: a lacquered command fan. She holds it at full scale: one whole object, drawn once, held in front of or beside her body; a long weapon keeps one straight, unbroken shaft with a single head or blade.\nExposure (bold): her robes open to show skin — the cross collar opened into a deep neckline with natural cleavage, bare upper arms above detached wide sleeves (and bare shoulders where no shoulder guard sits), the skirt panels cut with a high side slit at full length — it shows the side line of one leg as she stands, no leg pushed out or knee bent for it; any armor pieces stay on and symmetrical. Intimate areas covered; keep the costume material and palette.\n\n4. SCENE\nWorld: Eastern Wu along the Yangtze, around 200–280 AD: the river capital Jianye, great war junks with crimson sails, river fortresses, southern rain and lotus marshes, the fire ships of the Red Cliffs.\nPose: standing confidently, her body turned slightly while her face looks toward the viewer.\nLight: a soft key light with a strong rim light tracing her hair, shoulders and armour; bright, crisp specular highlights on metal and jewellery, and a clean, warm-neutral sheen on her skin.\nComposition: her whole figure from the top of her head or headpiece to both feet inside the frame with clear margins, about four-fifths of the image height; camera at chest height with natural portrait perspective.\n\n5. CONSTRAINTS\nOne figure only — no second character, horse or other creature. No readable text or numbers, except that a banner, seal or emblem may carry the single character 吳 or 諸葛. No logo, watermark, speech bubble or frame border. Three Kingdoms-era Chinese dress, architecture and materials only.\nAvoid: a blue or bruise-like tint on the skin around the eyes, glossy or shiny highlights on the face, sweaty, oily or plastic-looking skin.",
+ "date": "2026-11-14",
+ "record": "records/제갈각/samguk.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "제갈각",
+  "out": "world",
+  "world": "samguk",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {
+   "제갈각|samguk": {}
+  },
+  "looks": {
+   "제갈각|samguk": {
+    "params": {},
+    "faceDesignOn": true,
+    "silhouetteOn": true,
+    "exposure": "bold"
+   }
+  },
+  "shots": {
+   "제갈각|samguk": {
+    "scene": "",
+    "time": "",
+    "pose": "",
+    "expr": "",
+    "frame": ""
+   }
+  },
+  "walked": {},
+  "casualN": 1,
+  "scenes": {}
+ },
+ "execution": "sam-zhugeke-42b7",
+ "imported": "2026-11-14",
+ "acceptance": "user approved selection 1,1,2 and commit/main update",
+ "review": {
+  "reviewed": true,
+  "by": "user",
+  "result": "selected-world-candidate",
+  "number": 1
+ },
+ "generation": {
+  "tool": "image_gen",
+  "endpoint": "images/generations",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "226ed0d912bbca07da755c81c8ad4976591f1bc78bda238f39e049b556ab0221",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "prompt_form": "en-prompt",
+  "prompt_sha256": "ab1cdc5284e343989d7eaebb236f0557f2c06234bfa47a4f4ccdab0f7c733b90",
+  "selection": 1
+ },
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "226ed0d912bbca07da755c81c8ad4976591f1bc78bda238f39e049b556ab0221",
+  "passed": true,
+  "anatomy": "ok",
+  "exposure": "match",
+  "observations": [
+   "1024×1536. 성인 여성 한 명. 선택된 세계의 의상과 배경, 두 팔·다리 연결, 손에 든 하나의 부채를 확인함. 손가락 일부는 잡는 자세로 가려짐."
+  ]
+ }
+}

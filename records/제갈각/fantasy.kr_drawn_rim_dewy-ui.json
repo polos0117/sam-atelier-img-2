@@ -1,0 +1,114 @@
+{
+ "atelier": "samguk",
+ "card": "제갈각",
+ "faction": "wu",
+ "role": "strategist",
+ "world": "fantasy",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v1",
+ "notes": {},
+ "look": {
+  "params": {},
+  "faceDesignOn": true,
+  "silhouetteOn": true,
+  "exposure": "bold"
+ },
+ "design": {
+  "face": {
+   "eye_color": "rose",
+   "impression": "glamorous",
+   "expr": "smug",
+   "skin_tone": "porcelain",
+   "age": "early_20s",
+   "eye_size": "small",
+   "eye_tilt": "up",
+   "mark": "gloss",
+   "brows": "arched_thin",
+   "nose": "small_button",
+   "lips": "thin_bow",
+   "face_shape": "heart",
+   "eyes": "narrow_upturned"
+  },
+  "silhouette": {
+   "body": "tall_curvy",
+   "hair_color": "dark_brown",
+   "hair": "twin_tails",
+   "bangs": "curtain"
+  }
+ },
+ "shot": {
+  "scene": "",
+  "time": "",
+  "pose": "",
+  "expr": "",
+  "frame": ""
+ },
+ "file": "제갈각_fantasy_kr_drawn_rim_dewy_f.webp",
+ "prompt": "A full-body character image, vertical 2:3 (1024×1536): Zhuge Ke of the Romance of the Three Kingdoms, reimagined as an adult woman — Zhuge Jin's child, brilliant but arrogant.\n\n1. STYLE\nKorean MMORPG character artwork. A recognisably drawn face with gently simplified anatomical structure. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nHer face is small and soft: a short midface, a softly rounded jaw and a small chin, about 1.3 times as long as it is wide, with her eyes open at their natural size. Bangs, side locks and headpieces frame the face without lengthening it.\nSkin finish: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\n2. CHARACTER\nAge: about twenty — a fresh young-adult face.\nFace — her own, recognisably this character, a woman's face with no beard or facial hair: a glamorous, sultry allure; porcelain-pale skin; heart-shaped face; smaller, narrower eyes than usual anime proportion — narrow upturned eyes, outer eye corners slightly lifted; thin arched brows; small button nose; thin lips with a defined cupid's bow; rose-pink eyes; glossy nude lips.\nBody and hair: tall and statuesque with long legs and a full, curvaceous figure — full bust and hips, narrow waist build; twin tails with curtain bangs; dark brown hair.\nExpression: a faint knowing smile, subtle and relaxed.\nLegend, carried in her design and bearing: quick wit and overconfidence, ornate scholar-official robes.\nAnatomy: one head, two arms and two legs, each joined at its natural joint; natural hands with five fingers.\n\n3. COSTUME AND EQUIPMENT — MEDIEVAL FANTASY\nCostume: an archmage-strategist's robes — layered robes with runic embroidery, a high collar, a circlet, a staff or a grimoire, star-chart motifs. Western medieval high-fantasy dress — plate, mail and heraldic tabards, gowns and mantles, circlets and crowns; steel, leather, wool, velvet and gold, with a subtle magical glow along the patterns. Her Three Kingdoms origin shows through her signature item, her colours and her bearing.\nSilhouette: a light breastplate and bracers with robe panels split from the waist — half armor, half robe. This silhouette sets the overall shape of the costume above — keep its materials, ornaments and rank in this shape; the details are free.\nColours: crimson red, gold, river teal, black lacquer.\nSignature item: a lacquered command fan, reimagined as a Western high-fantasy version of the same kind of object with the same silhouette — polished steel and silvered mithril throughout, the shaft or hilt also forged metal with engraved runes (never plain wood), a faint magical glow running along the edge and the runes, a gem-set guard or socket, a leather-wrapped grip and heraldic or elven ornament, with any animal motif re-sculpted in Western heraldic style. She holds it at full scale: one whole object, drawn once, held in front of or beside her body; a long weapon keeps one straight, unbroken shaft with a single head or blade.\nExposure (bold): her regalia opens to show skin — bare upper arms below the pauldrons, which stay seated on top of her shoulders (bare shoulders only where no shoulder guard sits), a deep open neckline under the gorget with natural cleavage, the tabard or gown cut with a high side slit at full length — it shows the side line of one leg as she stands, no leg pushed out or knee bent for it; armor pieces stay on and symmetrical. Intimate areas covered; no corset; keep the costume material and palette.\n\n4. SCENE\nWorld: a river-and-sea kingdom of medieval high fantasy: a vast river delta, crimson-sailed galleons and war galleys, harbor fortresses of red stone, fire magic dancing over dark water.\nPose: standing confidently, her body turned slightly while her face looks toward the viewer.\nLight: a soft key light with a strong rim light tracing her hair, shoulders and armour; bright, crisp specular highlights on metal and jewellery, and a clean, warm-neutral sheen on her skin.\nComposition: her whole figure from the top of her head or headpiece to both feet inside the frame with clear margins, about four-fifths of the image height; camera at chest height with natural portrait perspective.\n\n5. CONSTRAINTS\nOne figure only — no second character, horse or other creature. No readable text or numbers — banners and shields carry only heraldic devices (a beast or a crest), never letters or Chinese characters. No logo, watermark, speech bubble or frame border. A Western medieval setting and dress only — stone castles, Romanesque or Gothic architecture — with no Chinese architecture, robes or hanzi.\nAvoid: a blue or bruise-like tint on the skin around the eyes, glossy or shiny highlights on the face, sweaty, oily or plastic-looking skin.",
+ "date": "2026-11-14",
+ "record": "records/제갈각/fantasy.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "제갈각",
+  "out": "world",
+  "world": "fantasy",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {
+   "제갈각|fantasy": {}
+  },
+  "looks": {
+   "제갈각|fantasy": {
+    "params": {},
+    "faceDesignOn": true,
+    "silhouetteOn": true,
+    "exposure": "bold"
+   }
+  },
+  "shots": {
+   "제갈각|fantasy": {
+    "scene": "",
+    "time": "",
+    "pose": "",
+    "expr": "",
+    "frame": ""
+   }
+  },
+  "walked": {},
+  "casualN": 1,
+  "scenes": {}
+ },
+ "execution": "sam-zhugeke-42b7",
+ "imported": "2026-11-14",
+ "acceptance": "user approved selection 1,1,2 and commit/main update",
+ "review": {
+  "reviewed": true,
+  "by": "user",
+  "result": "selected-world-candidate",
+  "number": 1
+ },
+ "generation": {
+  "tool": "image_gen",
+  "endpoint": "images/generations",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "0f10b855e9236d3efe7ab85be03cf9dc6d4c9ca7f98a23cf2e5c66768cb792ad",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "prompt_form": "en-prompt",
+  "prompt_sha256": "893a481b71679bf123b0c33c5318d2aafb965f5a22966131f6b921abde445312",
+  "selection": 1
+ },
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "0f10b855e9236d3efe7ab85be03cf9dc6d4c9ca7f98a23cf2e5c66768cb792ad",
+  "passed": true,
+  "anatomy": "ok",
+  "exposure": "match",
+  "observations": [
+   "1024×1536. 성인 여성 한 명. 선택된 세계의 의상과 배경, 두 팔·다리 연결, 손에 든 하나의 부채를 확인함. 손가락 일부는 잡는 자세로 가려짐."
+  ]
+ }
+}

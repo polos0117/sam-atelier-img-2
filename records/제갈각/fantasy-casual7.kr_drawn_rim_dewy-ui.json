@@ -1,0 +1,131 @@
+{
+ "atelier": "samguk",
+ "card": "제갈각",
+ "faction": "wu",
+ "slot": "casual7",
+ "treeV": 2,
+ "world": "fantasy",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v1",
+ "ref": "제갈각_fantasy_kr_drawn_rim_dewy_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "nation",
+  "place": "nation_bridge",
+  "ofam": "workwear",
+  "item": "apron_knit_dress",
+  "posture": "half_kneel",
+  "support": "none",
+  "frame": "full_body",
+  "body": "front_3q",
+  "head": "tilt",
+  "camera": "high",
+  "right": "prop",
+  "left": "floor_brace",
+  "use": "sig_hold",
+  "kind": "hold",
+  "legs": "",
+  "gaze": "at_prop",
+  "ofree": true,
+  "ofreeRecent": "a Three Kingdoms festival street — standing; a contemporary private overnight ferry cabin with a round window — she sits back after reaching for a folded blank timetable; a starship data archive — sets a cup down on the surface in front of her; a modern glass-walled office at dusk — sketches in a sketchbook and pencil; a hangar maintenance bay — adjusts a small mechanism on the work surface with a small screwdriver; a walled garden with a lotus pond — standing; a night river covered with floating paper lanterns — lifts a small hand lantern to chest height; a quiet modern seaside guesthouse bedroom with pale blue walls — she laughs softly at the distant cry of a gull while sitting up from a deep cushioned window seat; terraced tea fields on a misty Sichuan hillside — lying on her front; a castle bathhouse with a stone pool — holds a small hand lantern low at her side; a sunlit white marble temple — standing; a shopping mall atrium with a fountain and glass railings — holds her keepsake in both hands in front of her; a retro American diner — carries a camera by its grip at her side",
+  "expr": "wistful",
+  "preset": "half_kneel_use",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "제갈각_fantasy_kr_drawn_rim_dewy_f_casual7.webp",
+ "prompt": "INPUT: the attached image is the approved character — her Medieval fantasy card; keep her. Do not reuse earlier conversation images.\n\nCHARACTER: the same woman as the attached image — the female personification of Zhuge Ke of the Three Kingdoms, seen in her everyday life. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change, and her hair may be worn differently only as SCENE's Hair line says. Her Three Kingdoms identity shows ONLY as a small accessory, an object around her, or the object PROP says she holds — never in the outfit's colours, patterns or cut, never as armor, regalia or a costume.\n\nDESIGN (accessory hints only): her legend — quick wit and overconfidence, ornate scholar-official robes — may inform at most one small accessory, a hair ornament or an object beside her, in its palette (crimson red, gold, river teal, black lacquer). The clothes keep the chosen outfit's own colours; her skin, hair and eyes stay as in the attached image.\n\nSTYLE: Korean MMORPG character artwork. A recognisably drawn face with gently simplified anatomical structure. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\n\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nAGE: the same adult woman as in the attached image — keep her own face shape, cheekbones, eye proportions and skin tone exactly; minimal facial lines (no nasolabial folds, crow's feet, under-eye bags or cheek creases). Keep her face soft, feminine and attractive in every framing — never elongated, gaunt, mannish or heavy-jawed, even in close-ups, profiles or low angles.\n\nOUTPUT: one standalone off-duty scene of her in the outfit chosen in SCENE; her legend shows only through accessories and objects around her — never in the outfit's colours, patterns or cut, never as armor, regalia or a costume. Everything else follows SCENE (chosen).\n\nFRAME: a vertical 2:3 (1024×1536) image. Compose the image for this frame; COMPOSITION in SCENE sets how much of her shows.\n\nSCENE (chosen):\nFREE DESIGN: design the place, activity, pose, framing and outfit yourself. Start from who she is — her legend, traits and personality — and show an everyday moment that is unexpected yet feels natural for her. Make it fresh through the situation and what she is doing, not through more decoration. Avoid scenes like the recent ones listed below. Keep her face, the art style and the body and anatomy rules exactly as stated. Before drawing, write your design into the lines below, then draw it. In your pose, give each hand one job only and say plainly where each arm goes; avoid poses where it is unclear which shoulder an arm comes from — an arm behind her back, behind her head or pinned under her body — and never state where a foot sits under water. Do not make it another small repair, adjusting, measuring or sorting task at a workbench, repair stall, equipment room or locker room — those scenes are already in our own list; choose another kind of everyday moment (rest, play, a meal, travel, weather, getting ready, simply being in the place).\nRecent scenes to avoid: a Three Kingdoms festival street — standing; a contemporary private overnight ferry cabin with a round window — she sits back after reaching for a folded blank timetable; a starship data archive — sets a cup down on the surface in front of her; a modern glass-walled office at dusk — sketches in a sketchbook and pencil; a hangar maintenance bay — adjusts a small mechanism on the work surface with a small screwdriver; a walled garden with a lotus pond — standing; a night river covered with floating paper lanterns — lifts a small hand lantern to chest height; a quiet modern seaside guesthouse bedroom with pale blue walls — she laughs softly at the distant cry of a gull while sitting up from a deep cushioned window seat; terraced tea fields on a misty Sichuan hillside — lying on her front; a castle bathhouse with a stone pool — holds a small hand lantern low at her side; a sunlit white marble temple — standing; a shopping mall atrium with a fountain and glass railings — holds her keepsake in both hands in front of her; a retro American diner — carries a camera by its grip at her side.\nPlace: a contemporary rooftop conservatory with citrus trees and a hanging wicker swing\nActivity: she takes a playful short swing while savoring the first bite of a sliced orange, enjoying a pause from always having the clever answer\nPose: seated upright on the swing, her right hand holding an orange segment near her lips, her left arm lowered with the left hand gripping the swing rope at waist height; both shoulders, upper arms and forearms visible; feet resting together on the tiled floor\nFraming: a full seated environmental portrait, three-quarter front view from a chest-height camera, whole head, hands and feet included, gaze at the orange slice\nOutfit: a coral-pink fitted bandeau romper with a scalloped open waist bridge joining the opaque bodice to short pleated culotte legs, a slim decorative bow at one hip and flat woven sandals; bare shoulders and thighs, deep curved neckline, fitted opaque coverage, contemporary holiday clothing\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing; nothing slipped off; intimate areas covered\n\nWARDROBE: change her clothes completely. From the attached image take only her face, hair and body — not its garment, armor, regalia, ornaments, mecha plates or background. Dress her exactly as SCENE describes; that outfit must read at first glance, keeping its own recognisable colours and parts. Do not carry the attached image's palette, patterns or trim into the outfit; her Three Kingdoms identity belongs in accessories and props, never in the clothes — never restyle the chosen outfit into her faction's palette, armor, robes or regalia.\n\nANGLE: the attached image fixes who she is, not how she is posed or shot. Do not copy its head angle, head tilt, gaze direction, face size in frame, camera height or crop — turn her head, set her gaze and place the camera exactly as SCENE describes, and let her face read naturally from that new angle (profile, three-quarter, looking down or away), with her features staying the same. No default card pose, no default front-facing portrait.\n\nONE MAIN FIGURE: she is the only character in focus. Where the place is busy, other people may appear only as small, soft-focus background extras — never posed with her. No logo, no watermark, no speech bubble, no frame border. No readable text or numbers.\n\nANATOMY: natural adult proportions, about 7.5 heads tall — height from the legs, never a smaller head or a longer neck. The neck is a natural length and the head sits close to the shoulders. No body-part enlargement, no extra limbs.\n\nBODY: a normal human body — one head, two arms and two legs, each joined at its natural joint; elbows, knees and wrists bend the human way. Hands and feet may be partly hidden by the pose, what she holds or the frame. Right and left mean her own right and left, not the viewer's.\n\nHANDS: natural human hands, no extra or duplicated limbs; each visible hand joins through its wrist and forearm to the matching shoulder. A hand may stay outside the crop, and fingers may be partly hidden by a grip.\n\nAVOID: a blue or bruise-like tint on the skin around the eyes, glossy or shiny highlights on the face, sweaty, oily or plastic-looking skin.",
+ "date": "2026-11-14",
+ "record": "records/제갈각/fantasy-casual7.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "제갈각",
+  "out": "casual",
+  "world": "fantasy",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 7,
+  "scenes": {
+   "제갈각": {
+    "era": "nation",
+    "place": "nation_bridge",
+    "ofam": "workwear",
+    "treeV": 2,
+    "prop": "",
+    "preset": "half_kneel_use",
+    "use": "sig_hold",
+    "kind": "hold",
+    "posture": "half_kneel",
+    "support": "none",
+    "frame": "full_body",
+    "body": "front_3q",
+    "head": "tilt",
+    "camera": "high",
+    "right": "prop",
+    "left": "floor_brace",
+    "legs": "",
+    "gaze": "at_prop",
+    "item": "apron_knit_dress",
+    "expr": "wistful",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "ofree": true,
+    "ofreeRecent": "a Three Kingdoms festival street — standing; a contemporary private overnight ferry cabin with a round window — she sits back after reaching for a folded blank timetable; a starship data archive — sets a cup down on the surface in front of her; a modern glass-walled office at dusk — sketches in a sketchbook and pencil; a hangar maintenance bay — adjusts a small mechanism on the work surface with a small screwdriver; a walled garden with a lotus pond — standing; a night river covered with floating paper lanterns — lifts a small hand lantern to chest height; a quiet modern seaside guesthouse bedroom with pale blue walls — she laughs softly at the distant cry of a gull while sitting up from a deep cushioned window seat; terraced tea fields on a misty Sichuan hillside — lying on her front; a castle bathhouse with a stone pool — holds a small hand lantern low at her side; a sunlit white marble temple — standing; a shopping mall atrium with a fountain and glass railings — holds her keepsake in both hands in front of her; a retro American diner — carries a camera by its grip at her side"
+   }
+  }
+ },
+ "execution": "sam-zhugeke-42b7",
+ "imported": "2026-11-14",
+ "acceptance": "user_approval_2026-11-14 — commit and normal main update authorized",
+ "review": {
+  "reviewed": false,
+  "by": "user",
+  "result": "pending"
+ },
+ "generation": {
+  "tool": "image_gen",
+  "endpoint": "images/edits",
+  "ref_sha256": "0f10b855e9236d3efe7ab85be03cf9dc6d4c9ca7f98a23cf2e5c66768cb792ad",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "a392c6c833ea8cbb83b2aae131ea945b521cb04d31031accfd438273989b8e15",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "prompt_form": "gpt-structured",
+  "prompt_sha256": "dc3a93dc2877c367e9a229a564adf238eac78ced3bb3f4ede1692d8ea00a308d",
+  "free_design": {
+   "Place": "a contemporary rooftop conservatory with citrus trees and a hanging wicker swing",
+   "Activity": "she takes a playful short swing while savoring the first bite of a sliced orange, enjoying a pause from always having the clever answer",
+   "Pose": "seated upright on the swing, her right hand holding an orange segment near her lips, her left arm lowered with the left hand gripping the swing rope at waist height; both shoulders, upper arms and forearms visible; feet resting together on the tiled floor",
+   "Framing": "a full seated environmental portrait, three-quarter front view from a chest-height camera, whole head, hands and feet included, gaze at the orange slice",
+   "Outfit": "a coral-pink fitted bandeau romper with a scalloped open waist bridge joining the opaque bodice to short pleated culotte legs, a slim decorative bow at one hip and flat woven sandals; bare shoulders and thighs, deep curved neckline, fitted opaque coverage, contemporary holiday clothing"
+  },
+  "free_prompt": "INPUT: the attached image is the approved character — her Medieval fantasy card; keep her. Do not reuse earlier conversation images.\n\nCHARACTER: the same woman as the attached image — the female personification of Zhuge Ke of the Three Kingdoms, seen in her everyday life. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change, and her hair may be worn differently only as SCENE's Hair line says. Her Three Kingdoms identity shows ONLY as a small accessory, an object around her, or the object PROP says she holds — never in the outfit's colours, patterns or cut, never as armor, regalia or a costume.\n\nDESIGN (accessory hints only): her legend — quick wit and overconfidence, ornate scholar-official robes — may inform at most one small accessory, a hair ornament or an object beside her, in its palette (crimson red, gold, river teal, black lacquer). The clothes keep the chosen outfit's own colours; her skin, hair and eyes stay as in the attached image.\n\nSTYLE: Korean MMORPG character artwork. A recognisably drawn face with gently simplified anatomical structure. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\n\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nAGE: the same adult woman as in the attached image — keep her own face shape, cheekbones, eye proportions and skin tone exactly; minimal facial lines (no nasolabial folds, crow's feet, under-eye bags or cheek creases). Keep her face soft, feminine and attractive in every framing — never elongated, gaunt, mannish or heavy-jawed, even in close-ups, profiles or low angles.\n\nOUTPUT: one standalone off-duty scene of her in the outfit chosen in SCENE; her legend shows only through accessories and objects around her — never in the outfit's colours, patterns or cut, never as armor, regalia or a costume. Everything else follows SCENE (chosen).\n\nFRAME: a vertical 2:3 (1024×1536) image. Compose the image for this frame; COMPOSITION in SCENE sets how much of her shows.\n\nSCENE (chosen):\nFREE DESIGN: design the place, activity, pose, framing and outfit yourself. Start from who she is — her legend, traits and personality — and show an everyday moment that is unexpected yet feels natural for her. Make it fresh through the situation and what she is doing, not through more decoration. Avoid scenes like the recent ones listed below. Keep her face, the art style and the body and anatomy rules exactly as stated. Before drawing, write your design into the lines below, then draw it. In your pose, give each hand one job only and say plainly where each arm goes; avoid poses where it is unclear which shoulder an arm comes from — an arm behind her back, behind her head or pinned under her body — and never state where a foot sits under water. Do not make it another small repair, adjusting, measuring or sorting task at a workbench, repair stall, equipment room or locker room — those scenes are already in our own list; choose another kind of everyday moment (rest, play, a meal, travel, weather, getting ready, simply being in the place).\nRecent scenes to avoid: a Three Kingdoms festival street — standing; a contemporary private overnight ferry cabin with a round window — she sits back after reaching for a folded blank timetable; a starship data archive — sets a cup down on the surface in front of her; a modern glass-walled office at dusk — sketches in a sketchbook and pencil; a hangar maintenance bay — adjusts a small mechanism on the work surface with a small screwdriver; a walled garden with a lotus pond — standing; a night river covered with floating paper lanterns — lifts a small hand lantern to chest height; a quiet modern seaside guesthouse bedroom with pale blue walls — she laughs softly at the distant cry of a gull while sitting up from a deep cushioned window seat; terraced tea fields on a misty Sichuan hillside — lying on her front; a castle bathhouse with a stone pool — holds a small hand lantern low at her side; a sunlit white marble temple — standing; a shopping mall atrium with a fountain and glass railings — holds her keepsake in both hands in front of her; a retro American diner — carries a camera by its grip at her side.\nPlace: a contemporary rooftop conservatory with citrus trees and a hanging wicker swing\nActivity: she takes a playful short swing while savoring the first bite of a sliced orange, enjoying a pause from always having the clever answer\nPose: seated upright on the swing, her right hand holding an orange segment near her lips, her left arm lowered with the left hand gripping the swing rope at waist height; both shoulders, upper arms and forearms visible; feet resting together on the tiled floor\nFraming: a full seated environmental portrait, three-quarter front view from a chest-height camera, whole head, hands and feet included, gaze at the orange slice\nOutfit: a coral-pink fitted bandeau romper with a scalloped open waist bridge joining the opaque bodice to short pleated culotte legs, a slim decorative bow at one hip and flat woven sandals; bare shoulders and thighs, deep curved neckline, fitted opaque coverage, contemporary holiday clothing\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing; nothing slipped off; intimate areas covered\n\nWARDROBE: change her clothes completely. From the attached image take only her face, hair and body — not its garment, armor, regalia, ornaments, mecha plates or background. Dress her exactly as SCENE describes; that outfit must read at first glance, keeping its own recognisable colours and parts. Do not carry the attached image's palette, patterns or trim into the outfit; her Three Kingdoms identity belongs in accessories and props, never in the clothes — never restyle the chosen outfit into her faction's palette, armor, robes or regalia.\n\nANGLE: the attached image fixes who she is, not how she is posed or shot. Do not copy its head angle, head tilt, gaze direction, face size in frame, camera height or crop — turn her head, set her gaze and place the camera exactly as SCENE describes, and let her face read naturally from that new angle (profile, three-quarter, looking down or away), with her features staying the same. No default card pose, no default front-facing portrait.\n\nONE MAIN FIGURE: she is the only character in focus. Where the place is busy, other people may appear only as small, soft-focus background extras — never posed with her. No logo, no watermark, no speech bubble, no frame border. No readable text or numbers.\n\nANATOMY: natural adult proportions, about 7.5 heads tall — height from the legs, never a smaller head or a longer neck. The neck is a natural length and the head sits close to the shoulders. No body-part enlargement, no extra limbs.\n\nBODY: a normal human body — one head, two arms and two legs, each joined at its natural joint; elbows, knees and wrists bend the human way. Hands and feet may be partly hidden by the pose, what she holds or the frame. Right and left mean her own right and left, not the viewer's.\n\nHANDS: natural human hands, no extra or duplicated limbs; each visible hand joins through its wrist and forearm to the matching shoulder. A hand may stay outside the crop, and fingers may be partly hidden by a grip.\n\nAVOID: a blue or bruise-like tint on the skin around the eyes, glossy or shiny highlights on the face, sweaty, oily or plastic-looking skin."
+ },
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "a392c6c833ea8cbb83b2aae131ea945b521cb04d31031accfd438273989b8e15",
+  "passed": true,
+  "anatomy": "ok",
+  "exposure": "match",
+  "observations": [
+   "1024×1536; 해당 세계 선택 원본을 참조함.",
+   "옥상 온실의 그네에서 한 손은 오렌지, 다른 손은 밧줄을 잡음. 양팔과 양다리, 샌들 속 발가락이 자연스럽게 이어짐."
+  ]
+ }
+}
