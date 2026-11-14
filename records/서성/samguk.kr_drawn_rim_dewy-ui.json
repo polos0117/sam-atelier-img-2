@@ -1,0 +1,119 @@
+{
+ "atelier": "samguk",
+ "card": "서성",
+ "faction": "wu",
+ "role": "general",
+ "world": "samguk",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v1",
+ "notes": {},
+ "look": {
+  "params": {},
+  "faceDesignOn": true,
+  "silhouetteOn": true,
+  "exposure": "bold"
+ },
+ "design": {
+  "face": {
+   "eye_color": "coral",
+   "impression": "sharp",
+   "expr": "confident",
+   "skin_tone": "fair",
+   "age": "late_20s",
+   "eye_size": "large",
+   "eye_tilt": "down",
+   "mark": "smoky",
+   "brows": "straight_thin",
+   "nose": "upturned",
+   "lips": "plush_pout",
+   "face_shape": "v_line",
+   "eyes": "round_large"
+  },
+  "silhouette": {
+   "body": "pear_curvy",
+   "hair_color": "royal_purple",
+   "hair": "triple_tails",
+   "bangs": "side_locks"
+  }
+ },
+ "shot": {
+  "scene": "",
+  "time": "",
+  "pose": "",
+  "expr": "",
+  "frame": ""
+ },
+ "file": "서성_samguk_kr_drawn_rim_dewy_f.webp",
+ "prompt": "A full-body character image, vertical 2:3 (1024×1536): Xu Sheng of the Romance of the Three Kingdoms, reimagined as an adult woman — the general who built a false wall of reeds to drive Wei away.\n\n1. STYLE\nKorean MMORPG character artwork. A recognisably drawn face with gently simplified anatomical structure. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nHer face is small and soft: a short midface, a softly rounded jaw and a small chin, about 1.3 times as long as it is wide, with her eyes open at their natural size. Bangs, side locks and headpieces frame the face without lengthening it.\nSkin finish: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\n2. CHARACTER\nAge: late twenties — a graceful grown-up face with soft, smooth contours.\nFace — her own, recognisably this character, a woman's face with no beard or facial hair: a sharp, striking, intense look; fair skin; delicate V-line face with a small, soft chin; large eyes — large round eyes, outer eye corners drooping downward; thin straight brows; upturned nose; soft, full lips; coral-orange eyes; smoky dark eye makeup.\nBody and hair: pear-shaped and curvaceous — slimmer shoulders over a narrow waist, full rounded hips and thick thighs, a full bust build; three high ponytails fanning out with no bangs, long face-framing side locks; royal-purple hair.\nExpression: a composed, self-assured look, subtle and relaxed.\nLegend, carried in her design and bearing: cunning defense, river fortifications.\nAnatomy: one head, two arms and two legs, each joined at its natural joint; natural hands with five fingers.\n\n3. COSTUME AND EQUIPMENT — THREE KINGDOMS\nCostume: Three Kingdoms war general's armor — lamellar scale armor laced over a silk battle robe, beast-head shoulder guards, a plumed helmet or a war headband, a long war cape, her weapon at hand. Late-Han Chinese dress — cross-collared silk robes with wide sleeves and a broad sash, lamellar or scale armor laced with cords where armor is worn, bronze, jade and lacquer ornament, Han court hair ornaments; silk, lacquered leather, bronze and iron.\nSilhouette: a lamellar breastplate above, many layers of silk skirt flaring wide below the waist — firm above, flowing below. This silhouette sets the overall shape of the costume above — keep its materials, ornaments and rank in this shape; the details are free.\nColours: crimson red, gold, river teal, black lacquer.\nSignature item: a long halberd. She holds it at full scale: one whole object, drawn once, held in front of or beside her body; a long weapon keeps one straight, unbroken shaft with a single head or blade.\nExposure (bold): her robes open to show skin — the cross collar opened into a deep neckline with natural cleavage, bare upper arms above detached wide sleeves (and bare shoulders where no shoulder guard sits), the skirt panels cut with a high side slit at full length — it shows the side line of one leg as she stands, no leg pushed out or knee bent for it; any armor pieces stay on and symmetrical. Intimate areas covered; keep the costume material and palette.\n\n4. SCENE\nWorld: Eastern Wu along the Yangtze, around 200–280 AD: the river capital Jianye, great war junks with crimson sails, river fortresses, southern rain and lotus marshes, the fire ships of the Red Cliffs.\nPose: standing confidently, her body turned slightly while her face looks toward the viewer.\nLight: a soft key light with a strong rim light tracing her hair, shoulders and armour; bright, crisp specular highlights on metal and jewellery, and a clean, warm-neutral sheen on her skin.\nComposition: her whole figure from the top of her head or headpiece to both feet inside the frame with clear margins, about four-fifths of the image height; camera at chest height with natural portrait perspective.\n\n5. CONSTRAINTS\nOne figure only — no second character, horse or other creature. No readable text or numbers, except that a banner, seal or emblem may carry the single character 吳 or 徐. No logo, watermark, speech bubble or frame border. Three Kingdoms-era Chinese dress, architecture and materials only.\nAvoid: a blue or bruise-like tint on the skin around the eyes, glossy or shiny highlights on the face, sweaty, oily or plastic-looking skin.",
+ "date": "2026-11-14",
+ "record": "records/서성/samguk.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "서성",
+  "out": "world",
+  "world": "samguk",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {
+   "서성|samguk": {}
+  },
+  "looks": {
+   "서성|samguk": {
+    "params": {},
+    "faceDesignOn": true,
+    "silhouetteOn": true,
+    "exposure": "bold"
+   }
+  },
+  "shots": {
+   "서성|samguk": {
+    "scene": "",
+    "time": "",
+    "pose": "",
+    "expr": "",
+    "frame": ""
+   }
+  },
+  "walked": {},
+  "casualN": 1,
+  "scenes": {}
+ },
+ "generation": {
+  "tool": "image_gen",
+  "endpoint": "images/generations",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "4019e87494c9442221659821c32acb67acab328f2fff47dcd692905a75cb1fd7",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "prompt_form": "en-prompt",
+  "prompt_sha256": "a41ae54015801dbd8f19b6e23a49b0f8f2e8d16604c113e2a3856fba7a04804f",
+  "retries": [],
+  "selection": {
+   "number": 1,
+   "design": "ours",
+   "user": "1,2,1"
+  }
+ },
+ "execution": "sam-xusheng-15b650",
+ "imported": "2026-11-14",
+ "qa": {
+  "passed": true,
+  "anatomy": "ok",
+  "exposure": "match",
+  "observations": [
+   "1024×1536 세로 전신, 한 명, 양팔·양다리와 장극 연결 확인",
+   "후한풍 갑옷과 오의 강변 배경, 사용자 1번 선택"
+  ],
+  "reviewer": "gpt-session",
+  "image_sha256": "4019e87494c9442221659821c32acb67acab328f2fff47dcd692905a75cb1fd7"
+ },
+ "acceptance": "user_approval_2026-11-14 — 세계 선택 1,2,1; 완료 후 main 일반 반영 승인; 노출 사유 임의 재생성 없음",
+ "review": {
+  "reviewed": false,
+  "by": "user",
+  "result": "pending"
+ }
+}
