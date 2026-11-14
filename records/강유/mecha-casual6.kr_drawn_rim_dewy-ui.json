@@ -1,0 +1,135 @@
+{
+ "atelier": "samguk",
+ "card": "강유",
+ "faction": "shu",
+ "slot": "casual6",
+ "treeV": 2,
+ "world": "mecha",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v1",
+ "ref": "강유_mecha_kr_drawn_rim_dewy_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "heritage",
+  "place": "heritage_tower",
+  "ofam": "dongtan",
+  "item": "dongtan_crop_skirt",
+  "posture": "walk",
+  "support": "none",
+  "frame": "environmental",
+  "body": "back",
+  "head": "with_body",
+  "camera": "eye",
+  "right": "prop",
+  "left": "down",
+  "use": "pipa_carry",
+  "legs": "walk_stride",
+  "gaze": "horizon",
+  "time": "golden",
+  "hair": "down",
+  "light": "back",
+  "depth": "deep",
+  "color": "vivid",
+  "denier": "d60",
+  "situ": "sheer_light",
+  "expr": "",
+  "preset": "walk_away",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "강유_mecha_kr_drawn_rim_dewy_f_casual6.webp",
+ "prompt": "INPUT: the attached image is the approved character — her Mecha card; keep her. Do not reuse earlier conversation images.\n\nCHARACTER: the same woman as the attached image — the female personification of Jiang Wei of the Three Kingdoms, seen in her everyday life. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change, and her hair may be worn differently only as SCENE's Hair line says. Her Three Kingdoms identity shows ONLY as a small accessory, an object around her, or the object PROP says she holds — never in the outfit's colours, patterns or cut, never as armor, regalia or a costume.\n\nDESIGN (accessory hints only): her legend — a warrior-scholar with boundless courage, unyielding resolve to carry on Zhuge Liang's will, green-and-white armor with a crane crest — may inform at most one small accessory, a hair ornament or an object beside her, in its palette (jade green, imperial gold, earthen brown, white jade, with small accents of deep navy blue and black lacquer (Cao Wei)). The clothes keep the chosen outfit's own colours; her skin, hair and eyes stay as in the attached image.\n\nSIGNATURE ACCESSORY: off duty she carries no weapon — no sword, saber, spear, glaive, halberd, bow, axe, shield or any blade in her hands, on her back or anywhere in the scene. Her signature weapon (a long steel spear with a green tassel) appears only as one small worn accessory modelled on its shape and colours — a hair ornament, pendant, earring, brooch or belt charm a few centimetres long, clearly jewellery and not a usable weapon.\n\nSTYLE: Korean MMORPG character artwork. A recognisably drawn face with gently simplified anatomical structure. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\n\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nAGE: the same adult woman as in the attached image — keep her own face shape, cheekbones, eye proportions and skin tone exactly; minimal facial lines (no nasolabial folds, crow's feet, under-eye bags or cheek creases). Keep her face soft, feminine and attractive in every framing — never elongated, gaunt, mannish or heavy-jawed, even in close-ups, profiles or low angles.\n\nOUTPUT: one standalone off-duty scene of her in the outfit chosen in SCENE; her legend shows only through accessories and objects around her — never in the outfit's colours, patterns or cut, never as armor, regalia or a costume. Everything else follows SCENE (chosen).\n\nFRAME: a vertical 2:3 (1024×1536) image. Compose the image for this frame; COMPOSITION in SCENE sets how much of her shows.\n\nERA: a present-day place where the Three Kingdoms is remembered — a museum of Han relics, a restored plank road, the Red Cliffs park, an old city wall, a Chengdu teahouse, the Wuhou Shrine, a Guan Yu temple, Baidicheng, the Changban Bridge, a film set, an opera dressing room, a calligraphy class or a festival street.\n\nSCENE (chosen):\nPlace: a riverside pavilion tower over the Yangtze, carved railings, upturned eaves and a wide view of the river\nTime of day: golden hour — warm low sun, long shadows.\nHair: her hair let down loose over her shoulders — same colour and length as the attached image.\nLight direction: backlit — the main light comes from behind her, a bright rim along her hair and shoulders.\nOutfit: a tight cropped knit top baring the waist and a snug bodycon mini skirt, with high heels — in one bright, saturated colour such as cherry red, cobalt blue, sunflower yellow or kelly green; the outfit colour reads clearly at first glance; fabric weight — its knit or thin-fabric pieces (a top, an inner top or a knit dress) are 60-denier yarn, semi-sheer so her skin tone and body line show softly through, with a fully opaque lining over the bust and the hips; any tights or stockings are sheer 40-denier nylon; shorts, skirts, leather, denim and other heavy materials stay opaque; right now — strong light from behind passes through the thin outer fabric, so the outline of her figure shows as a soft silhouette inside it; the inner layer stays fully opaque\nPOSTURE: walking.\nCOMPOSITION: an environmental long shot, her complete figure and enough of the place around her; back to the camera; camera at her eye level; the space runs far back behind her, its lines receding into the distance.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left arm hangs relaxed at her side.\nPROP: with her own right hand she carries a pipa lute by its neck at her side; it is all she holds.\nLEGS: mid-stride, one heel lifting.\nGAZE: she looks toward the far distance.\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing; intimate areas covered\n\nWARDROBE: change her clothes completely. From the attached image take only her face, hair and body — not its garment, armor, regalia, ornaments, mecha plates or background. Dress her exactly as SCENE describes; that outfit must read at first glance, keeping its own recognisable colours and parts. Do not carry the attached image's palette, patterns or trim into the outfit; her Three Kingdoms identity belongs in accessories and props, never in the clothes — never restyle the chosen outfit into her faction's palette, armor, robes or regalia.\n\nANGLE: the attached image fixes who she is, not how she is posed or shot. Do not copy its head angle, head tilt, gaze direction, face size in frame, camera height or crop — turn her head, set her gaze and place the camera exactly as SCENE describes, and let her face read naturally from that new angle (profile, three-quarter, looking down or away), with her features staying the same. No default card pose, no default front-facing portrait.\n\nONE MAIN FIGURE: she is the only character in focus. Where the place is busy, other people may appear only as small, soft-focus background extras — never posed with her. No logo, no watermark, no speech bubble, no frame border. No readable text or numbers.\n\nANATOMY: natural adult proportions, about 7.5 heads tall — height from the legs, never a smaller head or a longer neck. The neck is a natural length and the head sits close to the shoulders. No body-part enlargement, no extra limbs.\n\nBODY: a normal human body — one head, two arms and two legs, each joined at its natural joint; elbows, knees and wrists bend the human way. Hands and feet may be partly hidden by the pose, what she holds or the frame. Right and left mean her own right and left, not the viewer's.\n\nHANDS: natural human hands, no extra or duplicated limbs; each visible hand joins through its wrist and forearm to the matching shoulder. A hand may stay outside the crop, and fingers may be partly hidden by a grip.\n\nAVOID: a blue or bruise-like tint on the skin around the eyes, glossy or shiny highlights on the face, sweaty, oily or plastic-looking skin.",
+ "date": "2026-11-14",
+ "record": "records/강유/mecha-casual6.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "강유",
+  "out": "casual",
+  "world": "mecha",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 6,
+  "scenes": {
+   "강유": {
+    "era": "heritage",
+    "place": "heritage_tower",
+    "ofam": "dongtan",
+    "treeV": 2,
+    "prop": "",
+    "preset": "walk_away",
+    "use": "pipa_carry",
+    "posture": "walk",
+    "support": "none",
+    "frame": "environmental",
+    "body": "back",
+    "head": "with_body",
+    "camera": "eye",
+    "right": "prop",
+    "left": "down",
+    "legs": "walk_stride",
+    "gaze": "horizon",
+    "item": "dongtan_crop_skirt",
+    "expr": "",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "situ": "sheer_light",
+    "color": "vivid",
+    "denier": "d60",
+    "time": "golden",
+    "hair": "down",
+    "light": "back",
+    "depth": "deep"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "872bf1c378b50de55c818be7530f26f8a897db225803f27767b6c1784faa07bb",
+  "ref_sha256": "73a127069ae3144d0ef21ef6473748ed9161223413b44103e8ceb27cdf372df6",
+  "registered_ref_sha256": "c9a3a583581effc197660e4e32de912555f4df440ae2bb52527982ac7568101b",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "prompt_form": "en-prompt",
+  "prompt_sha256": "59786c33c04a511f582b0f070d091f76eb01a9561209ad0f5d7ff5e8367aa9f1",
+  "retries": []
+ },
+ "execution": "sam-jiangwei-26318",
+ "imported": "2026-11-15",
+ "qa": {
+  "reviewer": "gpt-session",
+  "image_sha256": "872bf1c378b50de55c818be7530f26f8a897db225803f27767b6c1784faa07bb",
+  "passed": false,
+  "anatomy": "ok",
+  "exposure": "match",
+  "observations": [
+   "Full rear walking view at the riverside pavilion in warm backlight, with both heels visible",
+   "Green cropped knit top and tight skirt match the selected outfit; right hand carries the single pipa by its neck at her side; left arm hangs naturally",
+   "Two arms and two legs connect naturally; head turns farther into side profile than the prescribed with-body direction; no weapon"
+  ],
+  "cause": "Head turns sideways in a rear walking pose although the plan sets head with the body"
+ },
+ "acceptance": "user_authorized_2026-11-15: preserve generated images, commit and ordinary update of main without additional confirmation",
+ "review": {
+  "reviewed": false,
+  "by": "user",
+  "result": "pending"
+ }
+}

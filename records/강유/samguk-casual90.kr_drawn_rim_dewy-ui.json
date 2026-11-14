@@ -1,0 +1,96 @@
+{
+ "atelier": "samguk",
+ "card": "강유",
+ "faction": "shu",
+ "slot": "casual90",
+ "treeV": 2,
+ "world": "samguk",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v1",
+ "ref": "강유_samguk_kr_drawn_rim_dewy_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "nation",
+  "place": "nation_square",
+  "ofam": "everyday",
+  "posture": "stand",
+  "support": "none",
+  "frame": "chest_up",
+  "body": "side",
+  "head": "over_shoulder",
+  "camera": "eye",
+  "right": "prop",
+  "left": "out",
+  "use": "sig_raise",
+  "legs": "",
+  "gaze": "camera",
+  "time": "dusk",
+  "own": "samguk",
+  "placeText": "a Han-era running track — a packed-earth lane with white lines, a post with a ribbon at the finish and open sky over the field",
+  "ownProp": "a relay baton",
+  "depth": "flat",
+  "expr": "serious",
+  "preset": "lookback_raise",
+  "prop": "0",
+  "outfit": "a relay runner look fitted to her body — a short fitted running top with a headband, short split shorts, bare midriff and light sandals laced to the calf, all cut as Han-era Chinese dress — cross-collared wraps, sashes, silk and hemp",
+  "scene": "she is a relay runner glancing back as she holds out the baton to pass it on",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "강유_samguk_kr_drawn_rim_dewy_f_casual90.webp",
+ "prompt": "INPUT: the attached image is the approved character — her Three kingdoms card; keep her. Do not reuse earlier conversation images.\n\nCHARACTER: the same woman as the attached image — the female personification of Jiang Wei of the Three Kingdoms, seen in her everyday life. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change, and her hair may be worn differently only as SCENE's Hair line says. Her Three Kingdoms identity shows ONLY as a small accessory, an object around her, or the object PROP says she holds — never in the outfit's colours, patterns or cut, never as armor, regalia or a costume.\n\nDESIGN (accessory hints only): her legend — a warrior-scholar with boundless courage, unyielding resolve to carry on Zhuge Liang's will, green-and-white armor with a crane crest — may inform at most one small accessory, a hair ornament or an object beside her, in its palette (jade green, imperial gold, earthen brown, white jade, with small accents of deep navy blue and black lacquer (Cao Wei)). The clothes keep the chosen outfit's own colours; her skin, hair and eyes stay as in the attached image.\n\nSIGNATURE ACCESSORY: off duty she carries no weapon — no sword, saber, spear, glaive, halberd, bow, axe, shield or any blade in her hands, on her back or anywhere in the scene. Her signature weapon (a long steel spear with a green tassel) appears only as one small worn accessory modelled on its shape and colours — a hair ornament, pendant, earring, brooch or belt charm a few centimetres long, clearly jewellery and not a usable weapon.\n\nSTYLE: Korean MMORPG character artwork. A recognisably drawn face with gently simplified anatomical structure. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\n\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nAGE: the same adult woman as in the attached image — keep her own face shape, cheekbones, eye proportions and skin tone exactly; minimal facial lines (no nasolabial folds, crow's feet, under-eye bags or cheek creases). Keep her face soft, feminine and attractive in every framing — never elongated, gaunt, mannish or heavy-jawed, even in close-ups, profiles or low angles.\n\nOUTPUT: one standalone off-duty scene of her in the outfit chosen in SCENE; her legend shows only through accessories and objects around her — never in the outfit's colours, patterns or cut, never as armor, regalia or a costume. Everything else follows SCENE (chosen).\n\nFRAME: a vertical 2:3 (1024×1536) image. Compose the image for this frame; COMPOSITION in SCENE sets how much of her shows.\n\nCROP: a chest-up shot — the bottom edge crosses just below her bust; waist, hips and legs are out of frame. This crop wins over every other line: details apply only to the part that shows, and the outfit reads through its visible neckline, straps, fabric and colour. Never widen the framing to show a hidden support, hand or leg; a limb crossing the edge runs naturally on past it, never cut off or fading out inside the image.\n\nWORLD: this scene happens inside her own world — the world of the attached image — as if she simply lives there: Shu Han in the Sichuan basin, around 208–263 AD: the city of Chengdu, cliffside plank roads over gorges, mist-wrapped mountains and bamboo forests, peach orchards, green-and-gold banners. Its architecture, props, light and weather show the world; no creatures, no second character, no readable text other than the single character 蜀 or 姜. Her clothes stay the everyday outfit SCENE describes, not regalia or armor.\n\nSCENE (chosen):\nPlace: a Han-era running track — a packed-earth lane with white lines, a post with a ribbon at the finish and open sky over the field\nTime of day: dusk — blue hour, lights coming on.\nOutfit: a relay runner look fitted to her body — a short fitted running top with a headband, short split shorts, bare midriff and light sandals laced to the calf, all cut as Han-era Chinese dress — cross-collared wraps, sashes, silk and hemp\nPOSTURE: standing.\nCOMPOSITION: a chest-up shot of her face, shoulders and expression; body in side profile, facing the right of the frame, so her own right side is toward the camera; head turned back over her shoulder; camera at her eye level; a wall or backdrop of the place close behind her.\nLens / perspective: 85mm-equivalent short-telephoto perspective from a suitable distance, with gentle background compression.\nRIGHT HAND: her own right hand is in PROP — her near arm, on the camera side.\nLEFT HAND: her own left hand stays outside the frame — her far arm, on the side away from the camera.\nPROP: with her own right hand she holds a relay baton up beside her face; it is all she holds.\nGAZE: she looks into the camera.\nEXPRESSION: a level, steady look, mouth closed. Keep it subtle and natural, a light touch rather than acting: no sneer, glare, smirk-pulled cheek or chin lifted to look down at the viewer; her face stays relaxed and attractive. Her eyes are naturally open and clear, not heavy-lidded or half-closed; brows relaxed and even, neither raised on one side nor furrowed; lips softly closed or only just parted.\nScene note: she is a relay runner glancing back as she holds out the baton to pass it on\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — inside the crop, the chosen outfit is worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders and collarbones, skin clearly showing; the crop stays exactly where CROP sets it and never moves down to show more; intimate areas covered\n\nWARDROBE: change her clothes completely. From the attached image take only her face, hair and body — not its garment, armor, regalia, ornaments, mecha plates or background. Dress her exactly as SCENE describes; the part of that outfit inside the crop must read at first glance in its own colours. Do not carry the attached image's palette, patterns or trim into the outfit; her Three Kingdoms identity belongs in accessories and props, never in the clothes — never restyle the chosen outfit into her faction's palette, armor, robes or regalia.\n\nANGLE: the attached image fixes who she is, not how she is posed or shot. Do not copy its head angle, head tilt, gaze direction, face size in frame, camera height or crop — turn her head, set her gaze and place the camera exactly as SCENE describes, and let her face read naturally from that new angle (profile, three-quarter, looking down or away), with her features staying the same. No default card pose, no default front-facing portrait.\n\nONE MAIN FIGURE: she is the only character in focus. Where the place is busy, other people may appear only as small, soft-focus background extras — never posed with her. No logo, no watermark, no speech bubble, no frame border. No readable text or numbers.\n\nANATOMY: natural adult proportions, never a smaller head or a longer neck. The neck is a natural length and the head sits close to the shoulders. No body-part enlargement, no extra limbs.\n\nBODY: a normal human body — one head, two arms and two legs, each joined at its natural joint; elbows, knees and wrists bend the human way. Hands and feet may be partly hidden by the pose, what she holds or the frame. Right and left mean her own right and left, not the viewer's.\n\nHANDS: natural human hands, no extra or duplicated limbs; each visible hand joins through its wrist and forearm to the matching shoulder. A hand may stay outside the crop, and fingers may be partly hidden by a grip.\n\nAVOID: a blue or bruise-like tint on the skin around the eyes, glossy or shiny highlights on the face, sweaty, oily or plastic-looking skin.",
+ "date": "2026-11-14",
+ "record": "records/강유/samguk-casual90.kr_drawn_rim_dewy-ui.json",
+ "own": {
+  "job_ko": "계주 주자",
+  "level": "bold",
+  "example": false
+ },
+ "generation": {
+  "tool": "image_gen",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "91ce4207c4f2be45e67fd51b1d7f87274020f7a52d883d53e4bc65560925802d",
+  "ref_sha256": "0dd24980bea0e1e5b102077a23eabf72c1b53cbd553c2bc62e1ffe5b16d7d58a",
+  "registered_ref_sha256": "8b3446ec3b020ab60febf6ec26529c5de7c0c68c40ddff5b94f86c8dc5aaeb4b",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "prompt_form": "en-prompt",
+  "prompt_sha256": "0a0ca9bcafb073ce0fa355cde0af5a75ba3ad73d69650af94544840dc13d8d3c",
+  "retries": [],
+  "own": {
+   "level": "bold",
+   "tries": 1,
+   "blocked": []
+  }
+ },
+ "execution": "sam-jiangwei-26318",
+ "imported": "2026-11-15",
+ "qa": {
+  "reviewer": "gpt-session",
+  "image_sha256": "91ce4207c4f2be45e67fd51b1d7f87274020f7a52d883d53e4bc65560925802d",
+  "passed": true,
+  "anatomy": "ok",
+  "exposure": "match",
+  "observations": [
+   "Close chest-up relay-runner portrait on a Han-style running ground at dusk, looking back over her shoulder",
+   "Same face, gold eyes and dark hair; right hand holds a single decorative cylindrical baton beside her face; left arm stays outside the crop",
+   "Cross-collared cropped running wrap and headband fit the Han-era own-cut design; no usable weapon"
+  ]
+ },
+ "acceptance": "user_authorized_2026-11-15: preserve generated images, commit and ordinary update of main without additional confirmation",
+ "review": {
+  "reviewed": false,
+  "by": "user",
+  "result": "pending"
+ }
+}

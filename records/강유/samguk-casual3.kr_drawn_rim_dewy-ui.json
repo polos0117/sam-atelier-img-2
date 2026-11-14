@@ -1,0 +1,136 @@
+{
+ "atelier": "samguk",
+ "card": "강유",
+ "faction": "shu",
+ "slot": "casual3",
+ "treeV": 2,
+ "world": "samguk",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v1",
+ "ref": "강유_samguk_kr_drawn_rim_dewy_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "now",
+  "place": "street_cafe",
+  "ofam": "adventure",
+  "item": "jungle_explorer",
+  "posture": "lean_wall",
+  "support": "back_wall",
+  "frame": "full_body",
+  "body": "front_3q",
+  "head": "with_body",
+  "camera": "eye",
+  "right": "pocket",
+  "left": "hair_tuck",
+  "use": "",
+  "legs": "foot_on_wall",
+  "gaze": "camera",
+  "ofree": true,
+  "ofreeFamily": "roleplay",
+  "ofreeSitu": "free",
+  "ofreeRecent": "a riverside pavilion tower over the Yangtze — holds a gourd-shaped wine flask on a red cord by its cord at chest height; her tower bedchamber in a stone castle — lying on her front; a riverside seating area waiting for festival fireworks — standing; a chandelier ballroom at a masquerade — holds a cocktail glass by the stem at chest height; a lantern-lit old-town street at night — raises a small red paper lantern beside her face so its glow lights her cheek; a candlelit gala dinner hall — seated on a chair; a pilot ready room beside a hangar — shakes a gourd-shaped wine flask on a red cord by her ear to hear how much wine is left; the riverside park at the Red Cliffs on the Yangtze — standing; a floating sky garden of hanging vines and flowering terraces above the clouds — holds a small bouquet in both hands at her waist; the upper balcony of a wooden pavilion with upturned eaves — lifts a small hand lantern to chest height; an old brush-and-ink shop in a heritage quarter — carries a small storage box against her waist; an outdoor court for tennis or basketball — standing; a grand museum hall with marble statues at night — standing",
+  "expr": "candid",
+  "preset": "wall_foot",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "강유_samguk_kr_drawn_rim_dewy_f_casual3.webp",
+ "prompt": "INPUT: the attached image is the approved character — her Three kingdoms card; keep her. Do not reuse earlier conversation images.\n\nCHARACTER: the same woman as the attached image — the female personification of Jiang Wei of the Three Kingdoms, seen in her everyday life. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change, and her hair may be worn differently only as SCENE's Hair line says. Her Three Kingdoms identity shows ONLY as a small accessory, an object around her, or the object PROP says she holds — never in the outfit's colours, patterns or cut, never as armor, regalia or a costume.\n\nDESIGN (accessory hints only): her legend — a warrior-scholar with boundless courage, unyielding resolve to carry on Zhuge Liang's will, green-and-white armor with a crane crest — may inform at most one small accessory, a hair ornament or an object beside her, in its palette (jade green, imperial gold, earthen brown, white jade, with small accents of deep navy blue and black lacquer (Cao Wei)). The clothes keep the chosen outfit's own colours; her skin, hair and eyes stay as in the attached image.\n\nSIGNATURE ACCESSORY: off duty she carries no weapon — no sword, saber, spear, glaive, halberd, bow, axe, shield or any blade in her hands, on her back or anywhere in the scene. Her signature weapon (a long steel spear with a green tassel) appears only as one small worn accessory modelled on its shape and colours — a hair ornament, pendant, earring, brooch or belt charm a few centimetres long, clearly jewellery and not a usable weapon.\n\nSTYLE: Korean MMORPG character artwork. A recognisably drawn face with gently simplified anatomical structure. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\n\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nAGE: the same adult woman as in the attached image — keep her own face shape, cheekbones, eye proportions and skin tone exactly; minimal facial lines (no nasolabial folds, crow's feet, under-eye bags or cheek creases). Keep her face soft, feminine and attractive in every framing — never elongated, gaunt, mannish or heavy-jawed, even in close-ups, profiles or low angles.\n\nOUTPUT: one standalone off-duty scene of her in the outfit chosen in SCENE; her legend shows only through accessories and objects around her — never in the outfit's colours, patterns or cut, never as armor, regalia or a costume. Everything else follows SCENE (chosen).\n\nFRAME: a vertical 2:3 (1024×1536) image. Compose the image for this frame; COMPOSITION in SCENE sets how much of her shows.\n\nSCENE (chosen):\nFREE DESIGN: design the place, activity, pose, framing and outfit yourself. Start from who she is — her legend, traits and personality — and show an everyday moment that is unexpected yet feels natural for her. Make it fresh through the situation and what she is doing, not through more decoration. Avoid scenes like the recent ones listed below. Keep her face, the art style and the body and anatomy rules exactly as stated. Before drawing, write your design into the lines below, then draw it. In your pose, give each hand one job only and say plainly where each arm goes; avoid poses where it is unclear which shoulder an arm comes from — an arm behind her back, behind her head or pinned under her body — and never state where a foot sits under water. Do not make it another small repair, adjusting, measuring or sorting task at a workbench, repair stall, equipment room or locker room — those scenes are already in our own list; choose another kind of everyday moment (rest, play, a meal, travel, weather, getting ready, simply being in the place).\nRecent scenes to avoid: a riverside pavilion tower over the Yangtze — holds a gourd-shaped wine flask on a red cord by its cord at chest height; her tower bedchamber in a stone castle — lying on her front; a riverside seating area waiting for festival fireworks — standing; a chandelier ballroom at a masquerade — holds a cocktail glass by the stem at chest height; a lantern-lit old-town street at night — raises a small red paper lantern beside her face so its glow lights her cheek; a candlelit gala dinner hall — seated on a chair; a pilot ready room beside a hangar — shakes a gourd-shaped wine flask on a red cord by her ear to hear how much wine is left; the riverside park at the Red Cliffs on the Yangtze — standing; a floating sky garden of hanging vines and flowering terraces above the clouds — holds a small bouquet in both hands at her waist; the upper balcony of a wooden pavilion with upturned eaves — lifts a small hand lantern to chest height; an old brush-and-ink shop in a heritage quarter — carries a small storage box against her waist; an outdoor court for tennis or basketball — standing; a grand museum hall with marble statues at night — standing.\nPlace: a quiet hillside village lane beside a small red letterbox, morning sunlight, no readable signs\nActivity: on a costume outing she finally delivers a postcard after a long uphill walk, a little smile of persistence\nPose: standing in three-quarter front view; her right upper arm reaches forward from her right shoulder, elbow softly bent, right hand sliding one postcard into the letterbox; her left arm hangs forward from the left shoulder, left hand holding the shoulder-bag strap at her waist\nFraming: vertical full body with both feet and hands visible, chest-height camera and natural perspective\nOutfit family (required): role-play costume — any role-play costume outfit; you may pick one from our outfit catalog (outfit-catalog.md in this pack) or design your own, but prefer one that is not in it.\nSituation (required): a situational exposure moment of your own design that fits the scene — prefer one that is not among ours: clothes soaked by rain or a splash, clothes caught by a strong gust of wind, a top worn half undone, a strap slipped off the shoulder, a hem knotted up under the bust, an outer layer tied around the waist, a sheen of sweat from heat, a backlit silhouette through thin fabric, a skirt slit fallen open, sleeves pushed up with one more button undone, a tie or scarf pulled loose.\nOutfit: an original retro mountain postal-courier event costume, no real insignia: a burnt-orange sleeveless fitted tunic with a deep V neckline, short split side panels over cream opaque fitted shorts, a small matching cap and walking boots; as she stretches to reach the high letter slot, the short tunic rides up at one side and exposes more of her waist and upper thigh while the opaque shorts keep intimate coverage\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing; intimate areas covered\n\nWARDROBE: change her clothes completely. From the attached image take only her face, hair and body — not its garment, armor, regalia, ornaments, mecha plates or background. Dress her exactly as SCENE describes; that outfit must read at first glance, keeping its own recognisable colours and parts. Do not carry the attached image's palette, patterns or trim into the outfit; her Three Kingdoms identity belongs in accessories and props, never in the clothes — never restyle the chosen outfit into her faction's palette, armor, robes or regalia.\n\nANGLE: the attached image fixes who she is, not how she is posed or shot. Do not copy its head angle, head tilt, gaze direction, face size in frame, camera height or crop — turn her head, set her gaze and place the camera exactly as SCENE describes, and let her face read naturally from that new angle (profile, three-quarter, looking down or away), with her features staying the same. No default card pose, no default front-facing portrait.\n\nONE MAIN FIGURE: she is the only character in focus. Where the place is busy, other people may appear only as small, soft-focus background extras — never posed with her. No logo, no watermark, no speech bubble, no frame border. No readable text or numbers.\n\nANATOMY: natural adult proportions, about 7.5 heads tall — height from the legs, never a smaller head or a longer neck. The neck is a natural length and the head sits close to the shoulders. No body-part enlargement, no extra limbs.\n\nBODY: a normal human body — one head, two arms and two legs, each joined at its natural joint; elbows, knees and wrists bend the human way. Hands and feet may be partly hidden by the pose, what she holds or the frame. Right and left mean her own right and left, not the viewer's.\n\nHANDS: natural human hands, no extra or duplicated limbs; each visible hand joins through its wrist and forearm to the matching shoulder. A hand may stay outside the crop, and fingers may be partly hidden by a grip.\n\nAVOID: a blue or bruise-like tint on the skin around the eyes, glossy or shiny highlights on the face, sweaty, oily or plastic-looking skin.",
+ "date": "2026-11-14",
+ "record": "records/강유/samguk-casual3.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "강유",
+  "out": "casual",
+  "world": "samguk",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 3,
+  "scenes": {
+   "강유": {
+    "era": "now",
+    "place": "street_cafe",
+    "ofam": "adventure",
+    "treeV": 2,
+    "prop": "",
+    "preset": "wall_foot",
+    "use": "",
+    "posture": "lean_wall",
+    "support": "back_wall",
+    "frame": "full_body",
+    "body": "front_3q",
+    "head": "with_body",
+    "camera": "eye",
+    "right": "pocket",
+    "left": "hair_tuck",
+    "legs": "foot_on_wall",
+    "gaze": "camera",
+    "item": "jungle_explorer",
+    "expr": "candid",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "ofree": true,
+    "ofreeFamily": "roleplay",
+    "ofreeSitu": "free",
+    "ofreeRecent": "a riverside pavilion tower over the Yangtze — holds a gourd-shaped wine flask on a red cord by its cord at chest height; her tower bedchamber in a stone castle — lying on her front; a riverside seating area waiting for festival fireworks — standing; a chandelier ballroom at a masquerade — holds a cocktail glass by the stem at chest height; a lantern-lit old-town street at night — raises a small red paper lantern beside her face so its glow lights her cheek; a candlelit gala dinner hall — seated on a chair; a pilot ready room beside a hangar — shakes a gourd-shaped wine flask on a red cord by her ear to hear how much wine is left; the riverside park at the Red Cliffs on the Yangtze — standing; a floating sky garden of hanging vines and flowering terraces above the clouds — holds a small bouquet in both hands at her waist; the upper balcony of a wooden pavilion with upturned eaves — lifts a small hand lantern to chest height; an old brush-and-ink shop in a heritage quarter — carries a small storage box against her waist; an outdoor court for tennis or basketball — standing; a grand museum hall with marble statues at night — standing"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "5c74750002c504eba2ca5722533a302b17e23f6bc8f13462d882d3c78e078c33",
+  "ref_sha256": "0dd24980bea0e1e5b102077a23eabf72c1b53cbd553c2bc62e1ffe5b16d7d58a",
+  "registered_ref_sha256": "8b3446ec3b020ab60febf6ec26529c5de7c0c68c40ddff5b94f86c8dc5aaeb4b",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "prompt_form": "en-prompt",
+  "prompt_sha256": "b95f71d082efef4f70f240e889612a6bd4ba48eaceabbdb5b183679e123b0869",
+  "retries": [],
+  "free_design": {
+   "Place": "a quiet hillside village lane beside a small red letterbox, morning sunlight, no readable signs",
+   "Activity": "on a costume outing she finally delivers a postcard after a long uphill walk, a little smile of persistence",
+   "Pose": "standing in three-quarter front view; her right upper arm reaches forward from her right shoulder, elbow softly bent, right hand sliding one postcard into the letterbox; her left arm hangs forward from the left shoulder, left hand holding the shoulder-bag strap at her waist",
+   "Framing": "vertical full body with both feet and hands visible, chest-height camera and natural perspective",
+   "Outfit": "an original retro mountain postal-courier event costume, no real insignia: a burnt-orange sleeveless fitted tunic with a deep V neckline, short split side panels over cream opaque fitted shorts, a small matching cap and walking boots; as she stretches to reach the high letter slot, the short tunic rides up at one side and exposes more of her waist and upper thigh while the opaque shorts keep intimate coverage"
+  },
+  "free_prompt": "INPUT: the attached image is the approved character — her Three kingdoms card; keep her. Do not reuse earlier conversation images.\n\nCHARACTER: the same woman as the attached image — the female personification of Jiang Wei of the Three Kingdoms, seen in her everyday life. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change, and her hair may be worn differently only as SCENE's Hair line says. Her Three Kingdoms identity shows ONLY as a small accessory, an object around her, or the object PROP says she holds — never in the outfit's colours, patterns or cut, never as armor, regalia or a costume.\n\nDESIGN (accessory hints only): her legend — a warrior-scholar with boundless courage, unyielding resolve to carry on Zhuge Liang's will, green-and-white armor with a crane crest — may inform at most one small accessory, a hair ornament or an object beside her, in its palette (jade green, imperial gold, earthen brown, white jade, with small accents of deep navy blue and black lacquer (Cao Wei)). The clothes keep the chosen outfit's own colours; her skin, hair and eyes stay as in the attached image.\n\nSIGNATURE ACCESSORY: off duty she carries no weapon — no sword, saber, spear, glaive, halberd, bow, axe, shield or any blade in her hands, on her back or anywhere in the scene. Her signature weapon (a long steel spear with a green tassel) appears only as one small worn accessory modelled on its shape and colours — a hair ornament, pendant, earring, brooch or belt charm a few centimetres long, clearly jewellery and not a usable weapon.\n\nSTYLE: Korean MMORPG character artwork. A recognisably drawn face with gently simplified anatomical structure. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\n\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nAGE: the same adult woman as in the attached image — keep her own face shape, cheekbones, eye proportions and skin tone exactly; minimal facial lines (no nasolabial folds, crow's feet, under-eye bags or cheek creases). Keep her face soft, feminine and attractive in every framing — never elongated, gaunt, mannish or heavy-jawed, even in close-ups, profiles or low angles.\n\nOUTPUT: one standalone off-duty scene of her in the outfit chosen in SCENE; her legend shows only through accessories and objects around her — never in the outfit's colours, patterns or cut, never as armor, regalia or a costume. Everything else follows SCENE (chosen).\n\nFRAME: a vertical 2:3 (1024×1536) image. Compose the image for this frame; COMPOSITION in SCENE sets how much of her shows.\n\nSCENE (chosen):\nFREE DESIGN: design the place, activity, pose, framing and outfit yourself. Start from who she is — her legend, traits and personality — and show an everyday moment that is unexpected yet feels natural for her. Make it fresh through the situation and what she is doing, not through more decoration. Avoid scenes like the recent ones listed below. Keep her face, the art style and the body and anatomy rules exactly as stated. Before drawing, write your design into the lines below, then draw it. In your pose, give each hand one job only and say plainly where each arm goes; avoid poses where it is unclear which shoulder an arm comes from — an arm behind her back, behind her head or pinned under her body — and never state where a foot sits under water. Do not make it another small repair, adjusting, measuring or sorting task at a workbench, repair stall, equipment room or locker room — those scenes are already in our own list; choose another kind of everyday moment (rest, play, a meal, travel, weather, getting ready, simply being in the place).\nRecent scenes to avoid: a riverside pavilion tower over the Yangtze — holds a gourd-shaped wine flask on a red cord by its cord at chest height; her tower bedchamber in a stone castle — lying on her front; a riverside seating area waiting for festival fireworks — standing; a chandelier ballroom at a masquerade — holds a cocktail glass by the stem at chest height; a lantern-lit old-town street at night — raises a small red paper lantern beside her face so its glow lights her cheek; a candlelit gala dinner hall — seated on a chair; a pilot ready room beside a hangar — shakes a gourd-shaped wine flask on a red cord by her ear to hear how much wine is left; the riverside park at the Red Cliffs on the Yangtze — standing; a floating sky garden of hanging vines and flowering terraces above the clouds — holds a small bouquet in both hands at her waist; the upper balcony of a wooden pavilion with upturned eaves — lifts a small hand lantern to chest height; an old brush-and-ink shop in a heritage quarter — carries a small storage box against her waist; an outdoor court for tennis or basketball — standing; a grand museum hall with marble statues at night — standing.\nPlace: a quiet hillside village lane beside a small red letterbox, morning sunlight, no readable signs\nActivity: on a costume outing she finally delivers a postcard after a long uphill walk, a little smile of persistence\nPose: standing in three-quarter front view; her right upper arm reaches forward from her right shoulder, elbow softly bent, right hand sliding one postcard into the letterbox; her left arm hangs forward from the left shoulder, left hand holding the shoulder-bag strap at her waist\nFraming: vertical full body with both feet and hands visible, chest-height camera and natural perspective\nOutfit family (required): role-play costume — any role-play costume outfit; you may pick one from our outfit catalog (outfit-catalog.md in this pack) or design your own, but prefer one that is not in it.\nSituation (required): a situational exposure moment of your own design that fits the scene — prefer one that is not among ours: clothes soaked by rain or a splash, clothes caught by a strong gust of wind, a top worn half undone, a strap slipped off the shoulder, a hem knotted up under the bust, an outer layer tied around the waist, a sheen of sweat from heat, a backlit silhouette through thin fabric, a skirt slit fallen open, sleeves pushed up with one more button undone, a tie or scarf pulled loose.\nOutfit: an original retro mountain postal-courier event costume, no real insignia: a burnt-orange sleeveless fitted tunic with a deep V neckline, short split side panels over cream opaque fitted shorts, a small matching cap and walking boots; as she stretches to reach the high letter slot, the short tunic rides up at one side and exposes more of her waist and upper thigh while the opaque shorts keep intimate coverage\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing; intimate areas covered\n\nWARDROBE: change her clothes completely. From the attached image take only her face, hair and body — not its garment, armor, regalia, ornaments, mecha plates or background. Dress her exactly as SCENE describes; that outfit must read at first glance, keeping its own recognisable colours and parts. Do not carry the attached image's palette, patterns or trim into the outfit; her Three Kingdoms identity belongs in accessories and props, never in the clothes — never restyle the chosen outfit into her faction's palette, armor, robes or regalia.\n\nANGLE: the attached image fixes who she is, not how she is posed or shot. Do not copy its head angle, head tilt, gaze direction, face size in frame, camera height or crop — turn her head, set her gaze and place the camera exactly as SCENE describes, and let her face read naturally from that new angle (profile, three-quarter, looking down or away), with her features staying the same. No default card pose, no default front-facing portrait.\n\nONE MAIN FIGURE: she is the only character in focus. Where the place is busy, other people may appear only as small, soft-focus background extras — never posed with her. No logo, no watermark, no speech bubble, no frame border. No readable text or numbers.\n\nANATOMY: natural adult proportions, about 7.5 heads tall — height from the legs, never a smaller head or a longer neck. The neck is a natural length and the head sits close to the shoulders. No body-part enlargement, no extra limbs.\n\nBODY: a normal human body — one head, two arms and two legs, each joined at its natural joint; elbows, knees and wrists bend the human way. Hands and feet may be partly hidden by the pose, what she holds or the frame. Right and left mean her own right and left, not the viewer's.\n\nHANDS: natural human hands, no extra or duplicated limbs; each visible hand joins through its wrist and forearm to the matching shoulder. A hand may stay outside the crop, and fingers may be partly hidden by a grip.\n\nAVOID: a blue or bruise-like tint on the skin around the eyes, glossy or shiny highlights on the face, sweaty, oily or plastic-looking skin."
+ },
+ "execution": "sam-jiangwei-26318",
+ "imported": "2026-11-15",
+ "qa": {
+  "reviewer": "gpt-session",
+  "image_sha256": "5c74750002c504eba2ca5722533a302b17e23f6bc8f13462d882d3c78e078c33",
+  "passed": true,
+  "anatomy": "ok",
+  "exposure": "match",
+  "observations": [
+   "Full-body village-lane courier scene with both boots in frame; approved facial identity and dark hair retained",
+   "Right arm and hand place one postcard in the letterbox; left hand holds the bag strap, each arm visibly connected to its shoulder",
+   "Orange fitted postal costume and cream opaque shorts match the free design; raised side panel leaves intimate areas covered; no usable weapon"
+  ]
+ },
+ "acceptance": "user_authorized_2026-11-15: preserve generated images, commit and ordinary update of main without additional confirmation",
+ "review": {
+  "reviewed": false,
+  "by": "user",
+  "result": "pending"
+ }
+}
