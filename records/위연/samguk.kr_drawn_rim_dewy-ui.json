@@ -1,0 +1,115 @@
+{
+ "atelier": "samguk",
+ "card": "위연",
+ "faction": "shu",
+ "role": "general",
+ "world": "samguk",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v1",
+ "notes": {},
+ "look": {
+  "params": {},
+  "faceDesignOn": true,
+  "silhouetteOn": true,
+  "exposure": "bold"
+ },
+ "design": {
+  "face": {
+   "eye_color": "steel_blue",
+   "impression": "fierce",
+   "expr": "smug",
+   "skin_tone": "golden_tan",
+   "age": "mid_20s",
+   "eye_size": "small",
+   "eye_tilt": "down",
+   "mark": "scar",
+   "brows": "straight_thin",
+   "nose": "petite_straight",
+   "lips": "thin_bow",
+   "face_shape": "inverted_triangle",
+   "eyes": "hooded"
+  },
+  "silhouette": {
+   "body": "strong_curvy",
+   "hair_color": "violet",
+   "hair": "side_braid",
+   "bangs": "baby"
+  }
+ },
+ "shot": {
+  "scene": "",
+  "time": "",
+  "pose": "",
+  "expr": "",
+  "frame": ""
+ },
+ "file": "위연_samguk_kr_drawn_rim_dewy_f.webp",
+ "prompt": "A full-body character image, vertical 2:3 (1024×1536): Wei Yan of the Romance of the Three Kingdoms, reimagined as an adult woman — the defiant vanguard of Shu said to bear a 'rebel's bone'.\n\n1. STYLE\nKorean MMORPG character artwork. A recognisably drawn face with gently simplified anatomical structure. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nHer face is small and soft: a short midface, a softly rounded jaw and a small chin, about 1.3 times as long as it is wide, with her eyes open at their natural size. Bangs, side locks and headpieces frame the face without lengthening it.\nSkin finish: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\n2. CHARACTER\nAge: mid-twenties — a clear adult face.\nFace — her own, recognisably this character, a woman's face with no beard or facial hair: a fierce, wild ferocity; light warm-beige skin with a golden undertone; softly tapered face narrowing to a small, soft chin; smaller, narrower eyes than usual anime proportion — hooded eyes, outer eye corners drooping downward; thin straight brows; petite straight nose; thin lips with a defined cupid's bow; steel-blue eyes; a thin faint scar through one eyebrow.\nBody and hair: strong and broad-shouldered with firm muscle, yet full-busted with wide rounded hips and a defined waist build; a single thick braid over one shoulder with short baby bangs; violet hair.\nExpression: a faint knowing smile, subtle and relaxed.\nLegend, carried in her design and bearing: a fierce, proud vanguard with bold plans for the Ziwu Valley, crimson-lacquered heavy armor, defiance in her eyes.\nAnatomy: one head, two arms and two legs, each joined at its natural joint; natural hands with five fingers.\n\n3. COSTUME AND EQUIPMENT — THREE KINGDOMS\nCostume: Three Kingdoms war general's armor — lamellar scale armor laced over a silk battle robe, beast-head shoulder guards, a plumed helmet or a war headband, a long war cape, her weapon at hand. Late-Han Chinese dress — cross-collared silk robes with wide sleeves and a broad sash, lamellar or scale armor laced with cords where armor is worn, bronze, jade and lacquer ornament, Han court hair ornaments; silk, lacquered leather, bronze and iron.\nSilhouette: a dark close-fitting light outfit with minimal ornament and wrapped arms and legs — a sleek silhouette, face uncovered. This silhouette sets the overall shape of the costume above — keep its materials, ornaments and rank in this shape; the details are free.\nColours: jade green, imperial gold, earthen brown, white jade, with small accents of teal green and river blue (Liu Biao).\nSignature item: a heavy crescent-bladed glaive. She holds it at full scale: one whole object, drawn once, held in front of or beside her body; a long weapon keeps one straight, unbroken shaft with a single head or blade.\nExposure (bold): her robes open to show skin — the cross collar opened into a deep neckline with natural cleavage, bare upper arms above detached wide sleeves (and bare shoulders where no shoulder guard sits), the skirt panels cut with a high side slit at full length — it shows the side line of one leg as she stands, no leg pushed out or knee bent for it; any armor pieces stay on and symmetrical. Intimate areas covered; keep the costume material and palette.\n\n4. SCENE\nWorld: Shu Han in the Sichuan basin, around 208–263 AD: the city of Chengdu, cliffside plank roads over gorges, mist-wrapped mountains and bamboo forests, peach orchards, green-and-gold banners.\nPose: standing confidently, her body turned slightly while her face looks toward the viewer.\nLight: a soft key light with a strong rim light tracing her hair, shoulders and armour; bright, crisp specular highlights on metal and jewellery, and a clean, warm-neutral sheen on her skin.\nComposition: her whole figure from the top of her head or headpiece to both feet inside the frame with clear margins, about four-fifths of the image height; camera at chest height with natural portrait perspective.\n\n5. CONSTRAINTS\nOne figure only — no second character, horse or other creature. No readable text or numbers, except that a banner, seal or emblem may carry the single character 蜀 or 魏. No logo, watermark, speech bubble or frame border. Three Kingdoms-era Chinese dress, architecture and materials only.\nAvoid: a blue or bruise-like tint on the skin around the eyes, glossy or shiny highlights on the face, sweaty, oily or plastic-looking skin.",
+ "date": "2026-11-14",
+ "record": "records/위연/samguk.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "위연",
+  "out": "world",
+  "world": "samguk",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {
+   "위연|samguk": {}
+  },
+  "looks": {
+   "위연|samguk": {
+    "params": {},
+    "faceDesignOn": true,
+    "silhouetteOn": true,
+    "exposure": "bold"
+   }
+  },
+  "shots": {
+   "위연|samguk": {
+    "scene": "",
+    "time": "",
+    "pose": "",
+    "expr": "",
+    "frame": ""
+   }
+  },
+  "walked": {},
+  "casualN": 1,
+  "scenes": {}
+ },
+ "execution": "sam-weiyan-20261114-b651",
+ "imported": "2026-11-14",
+ "generation": {
+  "tool": "image_gen",
+  "endpoint": "images/generations",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "47fed3d132b1fe77b4050333eeb4c688af7766dbb5412bd0962badad6a812235",
+  "prompt_sha256": "b0b1997513279792961410c74db91c9a1f77bd9f07d492c2c73ac666102fd91f",
+  "prompt_form": "en-prompt",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "selected_candidate": 2,
+  "design": "ours"
+ },
+ "qa": {
+  "reviewer": "gpt-session",
+  "image_sha256": "47fed3d132b1fe77b4050333eeb4c688af7766dbb5412bd0962badad6a812235",
+  "passed": true,
+  "anatomy": "ok",
+  "exposure": "match",
+  "observations": [
+   "One adult woman, complete connected arms and legs; full-body image in specified world.",
+   "Selected by user: 2,1,3."
+  ]
+ },
+ "acceptance": "user_selection_2,1,3_and_publish_authorization",
+ "review": {
+  "reviewed": true,
+  "by": "user",
+  "result": "world_selected"
+ }
+}

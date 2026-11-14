@@ -1,0 +1,116 @@
+{
+ "atelier": "samguk",
+ "card": "위연",
+ "faction": "shu",
+ "role": "general",
+ "world": "mecha",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v1",
+ "notes": {},
+ "look": {
+  "params": {},
+  "faceDesignOn": true,
+  "silhouetteOn": true,
+  "exposure": "bold"
+ },
+ "design": {
+  "face": {
+   "eye_color": "steel_blue",
+   "impression": "fierce",
+   "expr": "smug",
+   "skin_tone": "golden_tan",
+   "age": "mid_20s",
+   "eye_size": "small",
+   "eye_tilt": "up",
+   "mark": "scar",
+   "brows": "straight_thin",
+   "nose": "petite_straight",
+   "lips": "thin_bow",
+   "face_shape": "heart",
+   "eyes": "cat"
+  },
+  "silhouette": {
+   "body": "strong_curvy",
+   "hair_color": "violet",
+   "hair": "double_buns",
+   "bangs": "swept_back"
+  }
+ },
+ "shot": {
+  "scene": "",
+  "time": "",
+  "pose": "",
+  "expr": "",
+  "frame": ""
+ },
+ "file": "위연_mecha_kr_drawn_rim_dewy_f.webp",
+ "prompt": "A full-body character image, vertical 2:3 (1024×1536): Wei Yan of the Romance of the Three Kingdoms, reimagined as an adult woman — the defiant vanguard of Shu said to bear a 'rebel's bone'.\n\n1. STYLE\nKorean MMORPG character artwork. A recognisably drawn face with gently simplified anatomical structure. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nHer face is small and soft: a short midface, a softly rounded jaw and a small chin, about 1.3 times as long as it is wide, with her eyes open at their natural size. Bangs, side locks and headpieces frame the face without lengthening it.\nSkin finish: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\n2. CHARACTER\nAge: mid-twenties — a clear adult face.\nFace — her own, recognisably this character, a woman's face with no beard or facial hair: a fierce, wild ferocity; light warm-beige skin with a golden undertone; softly tapered face narrowing to a small, soft chin; smaller, narrower eyes than usual anime proportion — hooded eyes, outer eye corners drooping downward; thin straight brows; petite straight nose; thin lips with a defined cupid's bow; steel-blue eyes; a thin faint scar through one eyebrow.\nBody and hair: strong and broad-shouldered with firm muscle, yet full-busted with wide rounded hips and a defined waist build; a single thick braid over one shoulder with short baby bangs; violet hair.\nExpression: a faint knowing smile, subtle and relaxed.\nLegend, carried in her design and bearing: a fierce, proud vanguard with bold plans for the Ziwu Valley, crimson-lacquered heavy armor, defiance in her eyes.\nAnatomy: one head, two arms and two legs, each joined at its natural joint; natural hands with five fingers.\n\n3. COSTUME AND EQUIPMENT — MECHA\nCostume: a female mecha personification built as an assault-type mecha frame — heavy armor plates, thruster packs, reinforced limbs, her weapon rebuilt as a large mecha armament. Solid hard-surface plates with visible joints cover her frame except at the openings named under Exposure; any cape or skirt is made of rigid armored plates; her face and hair stay human.\nSilhouette: minimal thin armor with large thrusters at the calves and ankles — a light, fast, forward-leaning silhouette. This silhouette sets the overall shape of the costume above — keep its materials, ornaments and rank in this shape; the details are free.\nColours: jade green, imperial gold, earthen brown, white jade, with small accents of teal green and river blue (Liu Biao). Faction frame: jade-green and white plating with imperial-gold trims, organic layered armor like overlapping leaves, a resilient all-terrain frame, warm green glow lines.\nSignature item: a heavy crescent-bladed glaive, rebuilt as a far-future high-tech version of the same kind of object with the same silhouette — hard-surface alloy plates with panel lines, mechanical joints, vents and emitter nodes, an energy edge, plasma blade or glowing core in her glow-line colour and small status lights, with any animal motif re-sculpted as sleek machined armour. She holds it at full scale: one whole object, drawn once, held in front of or beside her body; a long weapon keeps one straight, unbroken shaft with a single head or blade.\nExposure (bold): her mecha frame is cut open by design in only these places — bare upper arms below the pauldrons, which stay seated on top of her shoulders, and a deep open chest window with natural cleavage framed by the chest plates; everywhere else she stays fully plated. The plates stay on, fitted and symmetrical, with skin clearly showing in each opening. Intimate areas covered; keep the plate material and palette.\n\n4. SCENE\nWorld: year 2190, the Shu frontier colony on a jade-green moon: terraced garden cities under vast glass domes, a ringed gas giant filling the sky, an orbital elevator climbing into space, starship docks glowing green.\nPose: standing confidently, her body turned slightly while her face looks toward the viewer.\nLight: a soft key light with a strong rim light tracing her hair, shoulders and armour; bright, crisp specular highlights on metal and jewellery, and a clean, warm-neutral sheen on her skin.\nComposition: her whole figure from the top of her head or headpiece to both feet inside the frame with clear margins, about four-fifths of the image height; camera at chest height with natural portrait perspective.\n\n5. CONSTRAINTS\nOne figure only — no second character, horse or other creature. No readable text or numbers — emblems are abstract insignia shapes only, never letters or Chinese characters. No logo, watermark, speech bubble or frame border. A far-future setting only — space stations, starships and high-tech structures — with no traditional East-Asian architecture.\nAvoid: a blue or bruise-like tint on the skin around the eyes, glossy or shiny highlights on the face, sweaty, oily or plastic-looking skin.",
+ "date": "2026-11-14",
+ "record": "records/위연/mecha.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "위연",
+  "out": "world",
+  "world": "mecha",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {
+   "위연|mecha": {}
+  },
+  "looks": {
+   "위연|mecha": {
+    "params": {},
+    "faceDesignOn": true,
+    "silhouetteOn": true,
+    "exposure": "bold"
+   }
+  },
+  "shots": {
+   "위연|mecha": {
+    "scene": "",
+    "time": "",
+    "pose": "",
+    "expr": "",
+    "frame": ""
+   }
+  },
+  "walked": {},
+  "casualN": 1,
+  "scenes": {}
+ },
+ "execution": "sam-weiyan-20261114-b651",
+ "imported": "2026-11-14",
+ "generation": {
+  "tool": "image_gen",
+  "endpoint": "images/generations",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "edb52c4a99f8ecc6d2cf17f2962b3003667f5db7b88e20197d4eb82add9190c0",
+  "prompt_sha256": "d882641af426bef9d4aec3b85b91e44c241ab53fde88f6cbfe9b2a586e255819",
+  "prompt_form": "en-prompt",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "selected_candidate": 3,
+  "design": "gpt_free",
+  "free_prompt": "Design brief — your own take on this character. A full-body vertical 2:3 (1024×1536) character card image of Wei Yan from the Romance of the Three Kingdoms, reimagined as an adult woman — the defiant vanguard of Shu said to bear a 'rebel's bone'. Age: mid-twenties — a clear adult face; no facial lines. She is a woman — no beard, moustache or facial hair.\n\nYou design her yourself: invent her face, eye colour, hairstyle, makeup, expression, pose and setting as a fresh, original take — do not follow any earlier design of this character. Her hair colour, skin tone, costume and weapon are NOT free: take them from our designs below.\n\nStyle (fixed): Korean MMORPG character artwork. A recognisably drawn face with gently simplified anatomical structure. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\n\nInspiration only: a fierce, proud vanguard with bold plans for the Ziwu Valley, crimson-lacquered heavy armor, defiance in her eyes.\n\nWorld (fixed): year 2190, the Shu frontier colony on a jade-green moon: terraced garden cities under vast glass domes, a ringed gas giant filling the sky, an orbital elevator climbing into space, starship docks glowing green. Her costume, weapon and setting belong to this world.\n\nCostume (choose one of ours, then add your own idea): pick ONE of these costume shapes from our set and keep its overall silhouette — 1) a sleek armored bodysuit — thin, long plates on the shoulders, arms and legs that follow her curves closely; 2) heavy assault bulk — big, thick shoulder and leg armor, a broad upper silhouette and large thrusters on the back and legs, while the torso stays fitted and the waist narrow; 3) several rigid jointed armor plates flaring from the waist like a skirt — plates, not cloth — with the legs showing between them; 4) minimal thin armor with large thrusters at the calves and ankles — a light, fast, forward-leaning silhouette; 5) separate armor pieces rather than one shell — plates on the shoulders, forearms, chest, waist, thighs and shins, with a dark fitted inner suit showing between them; 6) complete full-body armor with plates joined seamlessly from neck to feet — bare skin only on the face and where EXPOSURE allows, dense visible seams and joints; 7) a slender torso with oversized mechanical forearms and lower legs — huge gauntlets and boots — the contrast is the main shape; 8) mecha armor shaped like a medieval knight's plate — big rounded pauldrons, a breastplate, layered plates below the waist, a head ornament instead of a helmet so her face shows; 9) several long rigid jointed plates hanging from behind the shoulders to the ankles like a cape — plates, not cloth; 10) one long segmented mechanical tail reaching from the back of her waist, tipped with a weapon or ornament. Then add one signature idea of your own drawn from her legend, built into the construction of the outfit itself rather than as a print or a loose accessory — e.g. plates or cloth layered like feathers, scales or petals, a hem or sleeve cut into a motif from her story. Build it in this world's materials and our colours below.\n\nWeapon (fixed — ours): a heavy crescent-bladed glaive, rebuilt as a far-future high-tech version of the same kind of object with the same silhouette: hard-surface alloy plates with panel lines, mechanical joints, vents and emitter nodes, an energy edge, plasma blade or glowing core in her glow-line colour and small status lights, with any animal motif re-sculpted as sleek machined armour and no wood, silk tassels or forged-bronze fittings.\n\nHair colour (fixed — ours): violet hair. Keep exactly this hair colour; only the hairstyle is yours.\n\nSkin tone (fixed — ours): light warm-beige skin with a golden undertone. Keep exactly this skin tone.\n\nCostume colours (ours): jade green, imperial gold, earthen brown, white jade, with small accents of teal green and river blue (Liu Biao).\n\nMecha (fixed): she is a female mecha personification — her whole body is covered in solid hard-surface mecha armour plates with visible thickness, joints, panel lines and glow lines, never cloth or a gown; no cloth robe, gown, skirt or long fabric over the plates — any cape, skirt or wing is rigid armoured plates. Her face and hair stay human.\n\nRank (fixed): she is a famed war general — her costume must read battlefield might at first glance: imposing, richly worked armour and cloth with flagship-card detail, never plain or sparse.\n\nExposure (fixed): bold — her outfit shows skin by design (a deep neckline, bare shoulders or arms, a high slit or short hem); intimate areas covered.\n\nFace proportions: a short midface and a soft, gently rounded jawline with a small soft chin — never a long face or a long, pointed or heavy jaw; any crown or headpiece sits above her hairline and never lengthens her face. Her eyes stay at a natural open size — never squeezed into narrow slits.\n\nComposition: vertical 2:3 full-body framing with modest headroom and clear space below the boots — the whole figure from the top of her crown or headpiece to both boots stays inside the frame, occupying about four-fifths of the image height, with the same camera distance in every genre; her hands and her signature item stay inside the frame. Camera at chest height with natural portrait perspective — no wide-angle distortion, no low angle, no close crop.\n\nIf you have already drawn a free design of her in this session, make this one clearly different — another face and hairstyle (the same hair colour and skin tone), another costume shape from the list with another signature idea, another pose and setting.\n\nWrite your own detailed image prompt from this brief, then draw it. One figure only, natural hands with five fingers; a far-future setting only — no traditional East-Asian architecture, pagodas or tiled roofs; no hanzi; no logo or watermark.\n\nDetailed design for this image:\nChoose silhouette 2, heavy assault bulk, with a fitted torso and narrow waist, massive symmetrical shoulder armor, thick shin armor and large back and calf thrusters. All parts are solid hard-surface mecha armor with visible thickness, joints and panel lines. Build the rebel's bone into the armor architecture as an inverted, upward-flaring segmented dorsal keel integrated into the back thruster housing; it is machinery, not a loose symbol. Jade-green and white-jade plates with gold edges, brown mechanical underlayer, small teal and river-blue accents, warm green glow lines. Violet hair in a swept-back short wolf cut, amber eyes, compact softly rounded adult face with a small chin and faint eyebrow scar. Strong adult female body with full bust and defined waist. Bare upper arms below symmetric pauldrons and a deep chest window with natural cleavage; intimate areas covered, armor everywhere else. She stands facing the viewer in a lunar starship dock under a ringed gas giant, one hand gripping a single intact high-tech crescent glaive upright beside her, the other open beside her hip, natural human five-finger hands. Glaive has machined alloy shaft, vents, emitter nodes and green plasma edge. Bright soft key and strong rim light, no cloth."
+ },
+ "qa": {
+  "reviewer": "gpt-session",
+  "image_sha256": "edb52c4a99f8ecc6d2cf17f2962b3003667f5db7b88e20197d4eb82add9190c0",
+  "passed": true,
+  "anatomy": "ok",
+  "exposure": "match",
+  "observations": [
+   "One adult woman, complete connected arms and legs; full-body image in specified world.",
+   "Selected by user: 2,1,3."
+  ]
+ },
+ "acceptance": "user_selection_2,1,3_and_publish_authorization",
+ "review": {
+  "reviewed": true,
+  "by": "user",
+  "result": "world_selected"
+ }
+}
