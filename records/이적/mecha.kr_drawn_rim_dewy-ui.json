@@ -1,0 +1,119 @@
+{
+ "atelier": "samguk",
+ "card": "이적",
+ "faction": "shu",
+ "role": "official",
+ "world": "mecha",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v1",
+ "notes": {},
+ "look": {
+  "params": {},
+  "faceDesignOn": true,
+  "silhouetteOn": true,
+  "exposure": "bold"
+ },
+ "design": {
+  "face": {
+   "eye_color": "sky_blue",
+   "impression": "cheerful",
+   "expr": "mischievous",
+   "skin_tone": "porcelain",
+   "age": "late_20s",
+   "eye_size": "medium",
+   "eye_tilt": "level",
+   "mark": "freckles",
+   "brows": "feathered",
+   "nose": "petite_straight",
+   "lips": "plush_pout",
+   "face_shape": "oval",
+   "eyes": "phoenix"
+  },
+  "silhouette": {
+   "body": "willowy_curvy",
+   "hair_color": "lemon_yellow",
+   "hair": "updo_bun",
+   "bangs": "wispy"
+  }
+ },
+ "shot": {
+  "scene": "",
+  "time": "",
+  "pose": "",
+  "expr": "",
+  "frame": ""
+ },
+ "file": "이적_mecha_kr_drawn_rim_dewy_f.webp",
+ "prompt": "A full-body character image, vertical 2:3 (1024×1536): Yi Ji of the Romance of the Three Kingdoms, reimagined as an adult woman — the witty orator who left Sun Quan speechless with a single bow.\n\n1. STYLE\nKorean MMORPG character artwork. A recognisably drawn face with gently simplified anatomical structure. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nHer face is small and soft: a short midface, a softly rounded jaw and a small chin, about 1.3 times as long as it is wide, with her eyes open at their natural size. Bangs, side locks and headpieces frame the face without lengthening it.\nSkin finish: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\n2. CHARACTER\nAge: late twenties — a graceful grown-up face with soft, smooth contours.\nFace — her own, recognisably this character, a woman's face with no beard or facial hair: a cheerful, sunny openness; porcelain-pale skin; oval face; medium-sized eyes — long phoenix eyes with lifted outer corners, level outer eye corners; soft feathered brows; petite straight nose; soft, full lips; sky-blue eyes; a dusting of freckles across nose and cheeks.\nBody and hair: willowy and long-limbed with soft curves — a full bust, rounded hips and a slender waist build; an updo bun with wispy see-through bangs; lemon-yellow hair.\nExpression: a small sly smile, bright eyes, subtle and relaxed.\nLegend, carried in her design and bearing: playful eloquence, a scholar's robe worn with flair.\nAnatomy: one head, two arms and two legs, each joined at its natural joint; natural hands with five fingers.\n\n3. COSTUME AND EQUIPMENT — MECHA\nCostume: a female mecha personification built as a support and logistics mecha frame — lighter plating, data panels and shield units, utility sub-arms. Solid hard-surface plates with visible joints cover her frame except at the openings named under Exposure; any cape or skirt is made of rigid armored plates; her face and hair stay human.\nSilhouette: a large equipment unit worn on the back (tanks, a cannon barrel or antennae) rising above her head as the main shape, with medium body armor. This silhouette sets the overall shape of the costume above — keep its materials, ornaments and rank in this shape; the details are free.\nColours: jade green, imperial gold, earthen brown, white jade. Faction frame: jade-green and white plating with imperial-gold trims, organic layered armor like overlapping leaves, a resilient all-terrain frame, warm green glow lines.\nSignature item: a folding paper fan, rebuilt as a far-future high-tech version of the same kind of object with the same silhouette — hard-surface alloy plates with panel lines, mechanical joints, vents and emitter nodes, an energy edge, plasma blade or glowing core in her glow-line colour and small status lights, with any animal motif re-sculpted as sleek machined armour. She holds it at full scale: one whole object, drawn once, held in front of or beside her body; a long weapon keeps one straight, unbroken shaft with a single head or blade.\nExposure (bold): her mecha frame is cut open by design in only these places — a deep open chest window with natural cleavage framed by the chest plates, and bare upper thighs between the hip armor and thigh-high leg plates; everywhere else she stays fully plated. The plates stay on, fitted and symmetrical, with skin clearly showing in each opening. Intimate areas covered; keep the plate material and palette.\n\n4. SCENE\nWorld: year 2190, the Shu frontier colony on a jade-green moon: terraced garden cities under vast glass domes, a ringed gas giant filling the sky, an orbital elevator climbing into space, starship docks glowing green.\nPose: standing confidently, her body turned slightly while her face looks toward the viewer.\nLight: a soft key light with a strong rim light tracing her hair, shoulders and armour; bright, crisp specular highlights on metal and jewellery, and a clean, warm-neutral sheen on her skin.\nComposition: her whole figure from the top of her head or headpiece to both feet inside the frame with clear margins, about four-fifths of the image height; camera at chest height with natural portrait perspective.\n\n5. CONSTRAINTS\nOne figure only — no second character, horse or other creature. No readable text or numbers — emblems are abstract insignia shapes only, never letters or Chinese characters. No logo, watermark, speech bubble or frame border. A far-future setting only — space stations, starships and high-tech structures — with no traditional East-Asian architecture.\nAvoid: a blue or bruise-like tint on the skin around the eyes, glossy or shiny highlights on the face, sweaty, oily or plastic-looking skin.",
+ "date": "2026-11-14",
+ "record": "records/이적/mecha.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "이적",
+  "out": "world",
+  "world": "mecha",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {
+   "이적|mecha": {}
+  },
+  "looks": {
+   "이적|mecha": {
+    "params": {},
+    "faceDesignOn": true,
+    "silhouetteOn": true,
+    "exposure": "bold"
+   }
+  },
+  "shots": {
+   "이적|mecha": {
+    "scene": "",
+    "time": "",
+    "pose": "",
+    "expr": "",
+    "frame": ""
+   }
+  },
+  "walked": {},
+  "casualN": 1,
+  "scenes": {}
+ },
+ "generation": {
+  "tool": "image_gen",
+  "endpoint": "images/generations",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "fb16d84bd5632c917d1341881bd53cc05bfa57326825372776f739489d42984e",
+  "prompt_form": "en-prompt",
+  "prompt_sha256": "a752595602da5c291040f37f6e79d32d261f507689e24c8c308eb74dceb7251e",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "design": "our",
+  "retries": []
+ },
+ "execution": "sam-yiji-20261114T1950Z",
+ "imported": "2026-11-14",
+ "selection": {
+  "number": 2,
+  "user": "2,3,2"
+ },
+ "acceptance": "User approved selected cards, completion, commit and non-force publication to main.",
+ "review": {
+  "reviewed": true,
+  "by": "user",
+  "result": "selected"
+ },
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "fb16d84bd5632c917d1341881bd53cc05bfa57326825372776f739489d42984e",
+  "passed": true,
+  "anatomy": "ok",
+  "exposure": "match",
+  "observations": [
+   "One human figure; full body and both hands visible.",
+   "Backpack includes mechanical tool manipulators; the character has two human arms."
+  ]
+ }
+}

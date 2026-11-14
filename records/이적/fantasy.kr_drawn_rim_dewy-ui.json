@@ -1,0 +1,119 @@
+{
+ "atelier": "samguk",
+ "card": "이적",
+ "faction": "shu",
+ "role": "official",
+ "world": "fantasy",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v1",
+ "notes": {},
+ "look": {
+  "params": {},
+  "faceDesignOn": true,
+  "silhouetteOn": true,
+  "exposure": "bold"
+ },
+ "design": {
+  "face": {
+   "eye_color": "sky_blue",
+   "impression": "cheerful",
+   "expr": "mischievous",
+   "skin_tone": "porcelain",
+   "age": "late_20s",
+   "eye_size": "large",
+   "eye_tilt": "level",
+   "mark": "freckles",
+   "brows": "feathered",
+   "nose": "petite_straight",
+   "lips": "plush_pout",
+   "face_shape": "v_line",
+   "eyes": "cat"
+  },
+  "silhouette": {
+   "body": "willowy_curvy",
+   "hair_color": "lemon_yellow",
+   "hair": "slicked_back",
+   "bangs": "swept_back"
+  }
+ },
+ "shot": {
+  "scene": "",
+  "time": "",
+  "pose": "",
+  "expr": "",
+  "frame": ""
+ },
+ "file": "이적_fantasy_kr_drawn_rim_dewy_f.webp",
+ "prompt": "Design brief — your own take on this character. A full-body vertical 2:3 (1024×1536) character card image of Yi Ji from the Romance of the Three Kingdoms, reimagined as an adult woman — the witty orator who left Sun Quan speechless with a single bow. Age: late twenties — a graceful grown-up face with soft, smooth contours; no wrinkles, folds or under-eye bags. She is a woman — no beard, moustache or facial hair.\n\nYou design her yourself: invent her face, eye colour, hairstyle, makeup, expression, pose and setting as a fresh, original take — do not follow any earlier design of this character. Her hair colour, skin tone, costume and weapon are NOT free: take them from our designs below.\n\nStyle (fixed): Korean MMORPG character artwork. A recognisably drawn face with gently simplified anatomical structure. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\n\nInspiration only: playful eloquence, a scholar's robe worn with flair.\n\nWorld (fixed): a righteous highland kingdom of Western medieval high fantasy: grey-stone castles and fortified abbeys on green mountain ridges, alpine meadows, waterfalls and oak forests, heraldic banners of green and gold bearing a dragon device, oaths sworn under an ancient oak, gentle green nature-magic. Her costume, weapon and setting belong to this world.\n\nCostume (choose one of ours, then add your own idea): pick ONE of these costume shapes from our set and keep its overall silhouette — 1) leather armor with a short cloak, a lowered hood, bracers and boots — a light, agile ranger's silhouette; 2) a long floor-length robe with a high collar, wide sleeves and a shoulder mantle — a tall, mysterious mage's silhouette; 3) a fitted breastplate and pauldrons above a gown skirt flaring to the floor — an elegant lady-knight silhouette; 4) a light breastplate and bracers with robe panels split from the waist — half armor, half robe; 5) thin leaf-patterned armor plates and flowing light fabric panels with a slender circlet — a slender, graceful silhouette; 6) a long coat below the knees with epaulettes, a belt, gloves and tall boots — a crisp, commanding officer's silhouette; 7) a floor-length priestly vestment with gold-trimmed stoles and a tall head ornament — a long, devout silhouette. Then add one signature idea of your own drawn from her legend, built into the construction of the outfit itself rather than as a print or a loose accessory — e.g. plates or cloth layered like feathers, scales or petals, a hem or sleeve cut into a motif from her story. Build it in this world's materials and our colours below.\n\nWeapon (fixed — ours): a folding paper fan, reimagined as a Western high-fantasy version of the same kind of object with the same silhouette: polished steel and silvered mithril throughout, the shaft or hilt also forged metal with engraved runes (never plain wood), a faint magical glow running along the edge and the runes, a gem-set guard or socket, a leather-wrapped grip and heraldic or elven ornament, with any animal motif re-sculpted in Western heraldic style and no Chinese fittings, silk tassels or hanzi.\n\nHair colour (fixed — ours): lemon-yellow hair. Keep exactly this hair colour; only the hairstyle is yours.\n\nSkin tone (fixed — ours): porcelain-pale skin. Keep exactly this skin tone.\n\nCostume colours (ours): jade green, imperial gold, earthen brown, white jade.\n\nRank (fixed): she is a high court official — her costume must read dignified office at first glance: refined, layered and finely ornamented, with flagship-card detail, never plain or sparse.\n\nExposure (fixed): bold — her outfit shows skin by design (a deep neckline, bare shoulders or arms, a high slit or short hem); intimate areas covered.\n\nFace proportions: a short midface and a soft, gently rounded jawline with a small soft chin — never a long face or a long, pointed or heavy jaw; any crown or headpiece sits above her hairline and never lengthens her face. Her eyes stay at a natural open size — never squeezed into narrow slits.\n\nComposition: vertical 2:3 full-body framing with modest headroom and clear space below the boots — the whole figure from the top of her crown or headpiece to both boots stays inside the frame, occupying about four-fifths of the image height, with the same camera distance in every genre; her hands and her signature item stay inside the frame. Camera at chest height with natural portrait perspective — no wide-angle distortion, no low angle, no close crop.\n\nIf you have already drawn a free design of her in this session, make this one clearly different — another face and hairstyle (the same hair colour and skin tone), another costume shape from the list with another signature idea, another pose and setting.\n\nWrite your own detailed image prompt from this brief, then draw it. One figure only, natural hands with five fingers; Western medieval setting and dress only — no Chinese architecture, robes, junks or hanzi; no logo or watermark.\n\nDetailed image prompt for this variant:\nChoose silhouette 2, the high-collared floor-length mage robe with wide sleeves and shoulder mantle, expressed as entirely Western medieval high-fantasy court dress. The shoulder mantle and lower robe are constructed of articulated fan-fold segments, echoing the orator's unfolding argument, with jade-green velvet, white-jade silk inset panels, imperial-gold filigree and earthen-brown leather belt. An open deep neckline beneath the standing collar, detached sleeves exposing upper arms and one high side slit, intimate areas covered. Lemon-yellow long loose waves, a small gold circlet, clear emerald eyes and a compact soft oval face with a subtle teasing smile, porcelain-pale skin. A single folding fan with silvered mithril ribs, polished steel, engraved glowing runes, gem pivot and leather grip is open in her left hand before her waist; right hand extended palm upward in quiet speech. Castle library loggia, green mountain ridges and waterfall behind, no other people. Detailed dignified high court official regalia. Full body including both boots and headpiece, chest-height camera, warm soft key and rim light, 1024×1536.",
+ "date": "2026-11-14",
+ "record": "records/이적/fantasy.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "이적",
+  "out": "world",
+  "world": "fantasy",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {
+   "이적|fantasy": {}
+  },
+  "looks": {
+   "이적|fantasy": {
+    "params": {},
+    "faceDesignOn": true,
+    "silhouetteOn": true,
+    "exposure": "bold"
+   }
+  },
+  "shots": {
+   "이적|fantasy": {
+    "scene": "",
+    "time": "",
+    "pose": "",
+    "expr": "",
+    "frame": ""
+   }
+  },
+  "walked": {},
+  "casualN": 1,
+  "scenes": {}
+ },
+ "generation": {
+  "tool": "image_gen",
+  "endpoint": "images/generations",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "c12b41fdb82de6660bf5263e8830f2839d3c93c5bd6e0cf306aac520fbc0e690",
+  "prompt_form": "gpt_free",
+  "prompt_sha256": "428f4967ebcda847140cddad3cc3d05449d4b2c44c651d444f0fc689863b992b",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "design": "gpt_free",
+  "retries": [],
+  "free_prompt": "Design brief — your own take on this character. A full-body vertical 2:3 (1024×1536) character card image of Yi Ji from the Romance of the Three Kingdoms, reimagined as an adult woman — the witty orator who left Sun Quan speechless with a single bow. Age: late twenties — a graceful grown-up face with soft, smooth contours; no wrinkles, folds or under-eye bags. She is a woman — no beard, moustache or facial hair.\n\nYou design her yourself: invent her face, eye colour, hairstyle, makeup, expression, pose and setting as a fresh, original take — do not follow any earlier design of this character. Her hair colour, skin tone, costume and weapon are NOT free: take them from our designs below.\n\nStyle (fixed): Korean MMORPG character artwork. A recognisably drawn face with gently simplified anatomical structure. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\n\nInspiration only: playful eloquence, a scholar's robe worn with flair.\n\nWorld (fixed): a righteous highland kingdom of Western medieval high fantasy: grey-stone castles and fortified abbeys on green mountain ridges, alpine meadows, waterfalls and oak forests, heraldic banners of green and gold bearing a dragon device, oaths sworn under an ancient oak, gentle green nature-magic. Her costume, weapon and setting belong to this world.\n\nCostume (choose one of ours, then add your own idea): pick ONE of these costume shapes from our set and keep its overall silhouette — 1) leather armor with a short cloak, a lowered hood, bracers and boots — a light, agile ranger's silhouette; 2) a long floor-length robe with a high collar, wide sleeves and a shoulder mantle — a tall, mysterious mage's silhouette; 3) a fitted breastplate and pauldrons above a gown skirt flaring to the floor — an elegant lady-knight silhouette; 4) a light breastplate and bracers with robe panels split from the waist — half armor, half robe; 5) thin leaf-patterned armor plates and flowing light fabric panels with a slender circlet — a slender, graceful silhouette; 6) a long coat below the knees with epaulettes, a belt, gloves and tall boots — a crisp, commanding officer's silhouette; 7) a floor-length priestly vestment with gold-trimmed stoles and a tall head ornament — a long, devout silhouette. Then add one signature idea of your own drawn from her legend, built into the construction of the outfit itself rather than as a print or a loose accessory — e.g. plates or cloth layered like feathers, scales or petals, a hem or sleeve cut into a motif from her story. Build it in this world's materials and our colours below.\n\nWeapon (fixed — ours): a folding paper fan, reimagined as a Western high-fantasy version of the same kind of object with the same silhouette: polished steel and silvered mithril throughout, the shaft or hilt also forged metal with engraved runes (never plain wood), a faint magical glow running along the edge and the runes, a gem-set guard or socket, a leather-wrapped grip and heraldic or elven ornament, with any animal motif re-sculpted in Western heraldic style and no Chinese fittings, silk tassels or hanzi.\n\nHair colour (fixed — ours): lemon-yellow hair. Keep exactly this hair colour; only the hairstyle is yours.\n\nSkin tone (fixed — ours): porcelain-pale skin. Keep exactly this skin tone.\n\nCostume colours (ours): jade green, imperial gold, earthen brown, white jade.\n\nRank (fixed): she is a high court official — her costume must read dignified office at first glance: refined, layered and finely ornamented, with flagship-card detail, never plain or sparse.\n\nExposure (fixed): bold — her outfit shows skin by design (a deep neckline, bare shoulders or arms, a high slit or short hem); intimate areas covered.\n\nFace proportions: a short midface and a soft, gently rounded jawline with a small soft chin — never a long face or a long, pointed or heavy jaw; any crown or headpiece sits above her hairline and never lengthens her face. Her eyes stay at a natural open size — never squeezed into narrow slits.\n\nComposition: vertical 2:3 full-body framing with modest headroom and clear space below the boots — the whole figure from the top of her crown or headpiece to both boots stays inside the frame, occupying about four-fifths of the image height, with the same camera distance in every genre; her hands and her signature item stay inside the frame. Camera at chest height with natural portrait perspective — no wide-angle distortion, no low angle, no close crop.\n\nIf you have already drawn a free design of her in this session, make this one clearly different — another face and hairstyle (the same hair colour and skin tone), another costume shape from the list with another signature idea, another pose and setting.\n\nWrite your own detailed image prompt from this brief, then draw it. One figure only, natural hands with five fingers; Western medieval setting and dress only — no Chinese architecture, robes, junks or hanzi; no logo or watermark.\n\nDetailed image prompt for this variant:\nChoose silhouette 2, the high-collared floor-length mage robe with wide sleeves and shoulder mantle, expressed as entirely Western medieval high-fantasy court dress. The shoulder mantle and lower robe are constructed of articulated fan-fold segments, echoing the orator's unfolding argument, with jade-green velvet, white-jade silk inset panels, imperial-gold filigree and earthen-brown leather belt. An open deep neckline beneath the standing collar, detached sleeves exposing upper arms and one high side slit, intimate areas covered. Lemon-yellow long loose waves, a small gold circlet, clear emerald eyes and a compact soft oval face with a subtle teasing smile, porcelain-pale skin. A single folding fan with silvered mithril ribs, polished steel, engraved glowing runes, gem pivot and leather grip is open in her left hand before her waist; right hand extended palm upward in quiet speech. Castle library loggia, green mountain ridges and waterfall behind, no other people. Detailed dignified high court official regalia. Full body including both boots and headpiece, chest-height camera, warm soft key and rim light, 1024×1536."
+ },
+ "execution": "sam-yiji-20261114T1950Z",
+ "imported": "2026-11-14",
+ "selection": {
+  "number": 3,
+  "user": "2,3,2"
+ },
+ "acceptance": "User approved selected cards, completion, commit and non-force publication to main.",
+ "review": {
+  "reviewed": true,
+  "by": "user",
+  "result": "selected"
+ },
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "c12b41fdb82de6660bf5263e8830f2839d3c93c5bd6e0cf306aac520fbc0e690",
+  "passed": true,
+  "anatomy": "ok",
+  "exposure": "match",
+  "observations": [
+   "One human figure; full body and both hands visible."
+  ]
+ }
+}
