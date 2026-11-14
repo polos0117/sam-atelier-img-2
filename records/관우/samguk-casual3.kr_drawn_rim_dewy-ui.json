@@ -1,0 +1,133 @@
+{
+ "atelier": "samguk",
+ "card": "관우",
+ "faction": "shu",
+ "slot": "casual3",
+ "treeV": 2,
+ "world": "samguk",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v1",
+ "ref": "관우_samguk_kr_drawn_rim_dewy_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "now",
+  "place": "car_seat",
+  "ofam": "subculture",
+  "item": "cybergoth",
+  "posture": "stand",
+  "support": "none",
+  "frame": "waist_up",
+  "body": "front_3q",
+  "head": "tilt",
+  "camera": "eye",
+  "right": "prop",
+  "left": "pocket",
+  "use": "iced_hold",
+  "legs": "",
+  "gaze": "at_prop",
+  "ofree": true,
+  "ofreeFamily": "roleplay",
+  "ofreeSitu": "free",
+  "ofreeRecent": "a city rooftop with a water tank — sitting on the ground; a desert oasis at golden hour — standing; a calligraphy classroom with low wooden desks — writes with a calligraphy brush and an ink stone on rice paper laid flat on the table; a monastery library of tall wooden shelves — kneeling on the ground; a Three Kingdoms festival street — lying on her front; a retro American diner — holds a smartphone up at arm's length to take a selfie; overgrown jungle temple ruins — standing; a Roman marble bath hall — holds a red oil-paper umbrella open over her shoulder; a walk-in closet with open shelves — seated sideways on a stool or bench; a walled garden with a lotus pond — holds a small hand lantern low at her side; a futuristic spa of white curves and soft light — standing; a Peking opera dressing room — holds a bound bundle of bamboo slips against her chest; a rocky coast path with tide pools — standing",
+  "expr": "gentle",
+  "preset": "pocket_look",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "관우_samguk_kr_drawn_rim_dewy_f_casual3.webp",
+ "prompt": "INPUT: the attached image is the approved character — her Three kingdoms card; keep her. Do not reuse earlier conversation images.\n\nCHARACTER: the same woman as the attached image — the female personification of Guan Yu of the Three Kingdoms, seen in her everyday life. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change, and her hair may be worn differently only as SCENE's Hair line says. Her Three Kingdoms identity shows ONLY as a small accessory, an object around her, or the object PROP says she holds — never in the outfit's colours, patterns or cut, never as armor, regalia or a costume.\n\nDESIGN (accessory hints only): her legend — unbending loyalty and pride, a ruddy red-tinged complexion and gracefully lifted almond eyes, her legendary beard reimagined as an immensely long, sleek black ponytail, green and gold as her colours, a green battle robe worn over her armor, a small bamboo-slip scroll of the Spring and Autumn Annals tied at her belt as an ornament (never held in her hands) — may inform at most one small accessory, a hair ornament or an object beside her, in its palette (jade green, imperial gold, earthen brown, white jade). The clothes keep the chosen outfit's own colours; her skin, hair and eyes stay as in the attached image.\n\nSIGNATURE ACCESSORY: off duty she carries no weapon — no sword, saber, spear, glaive, halberd, bow, axe, shield or any blade in her hands, on her back or anywhere in the scene. Her signature weapon (the Green Dragon Crescent Blade, a long guandao with a dragon-head guard) appears only as one small worn accessory modelled on its shape and colours — a hair ornament, pendant, earring, brooch or belt charm a few centimetres long, clearly jewellery and not a usable weapon.\n\nSTYLE: Korean MMORPG character artwork. A recognisably drawn face with gently simplified anatomical structure. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\n\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nAGE: the same adult woman as in the attached image — keep her own face shape, cheekbones, eye proportions and skin tone exactly; minimal facial lines (no nasolabial folds, crow's feet, under-eye bags or cheek creases). Keep her face soft, feminine and attractive in every framing — never elongated, gaunt, mannish or heavy-jawed, even in close-ups, profiles or low angles.\n\nOUTPUT: one standalone off-duty scene of her in the outfit chosen in SCENE; her legend shows only through accessories and objects around her — never in the outfit's colours, patterns or cut, never as armor, regalia or a costume. Everything else follows SCENE (chosen).\n\nFRAME: a vertical 2:3 (1024×1536) image. Compose the image for this frame; COMPOSITION in SCENE sets how much of her shows.\n\nSCENE (chosen):\nFREE DESIGN: design the place, activity, pose, framing and outfit yourself. Start from who she is — her legend, traits and personality — and show an everyday moment that is unexpected yet feels natural for her. Make it fresh through the situation and what she is doing, not through more decoration. Avoid scenes like the recent ones listed below. Keep her face, the art style and the body and anatomy rules exactly as stated. Before drawing, write your design into the lines below, then draw it. In your pose, give each hand one job only and say plainly where each arm goes; avoid poses where it is unclear which shoulder an arm comes from — an arm behind her back, behind her head or pinned under her body — and never state where a foot sits under water. Do not make it another small repair, adjusting, measuring or sorting task at a workbench, repair stall, equipment room or locker room — those scenes are already in our own list; choose another kind of everyday moment (rest, play, a meal, travel, weather, getting ready, simply being in the place).\nRecent scenes to avoid: a city rooftop with a water tank — sitting on the ground; a desert oasis at golden hour — standing; a calligraphy classroom with low wooden desks — writes with a calligraphy brush and an ink stone on rice paper laid flat on the table; a monastery library of tall wooden shelves — kneeling on the ground; a Three Kingdoms festival street — lying on her front; a retro American diner — holds a smartphone up at arm's length to take a selfie; overgrown jungle temple ruins — standing; a Roman marble bath hall — holds a red oil-paper umbrella open over her shoulder; a walk-in closet with open shelves — seated sideways on a stool or bench; a walled garden with a lotus pond — holds a small hand lantern low at her side; a futuristic spa of white curves and soft light — standing; a Peking opera dressing room — holds a bound bundle of bamboo slips against her chest; a rocky coast path with tide pools — standing.\nPlace: an empty small theatre after rehearsal, warm aisle lamps and closed velvet curtains\nActivity: taking a peach snack break after playing an usher in a costume event, her collar ribbon loosened after the warm rehearsal\nPose: seated on a broad step with both knees facing forward; her right upper arm drops beside her ribs and her right forearm lifts the peach toward her mouth; her left arm extends down naturally and the left palm rests on the step beside her hip\nFraming: three-quarter front view from head to knees, camera at her seated eye level, eyes glancing at the peach with a faint smile\nOutfit family (required): role-play costume — any role-play costume outfit; you may pick one from our outfit catalog (outfit-catalog.md in this pack) or design your own, but prefer one that is not in it.\nSituation (required): a situational exposure moment of your own design that fits the scene — prefer one that is not among ours: clothes soaked by rain or a splash, clothes caught by a strong gust of wind, a top worn half undone, a strap slipped off the shoulder, a hem knotted up under the bust, an outer layer tied around the waist, a sheen of sweat from heat, a backlit silhouette through thin fabric, a skirt slit fallen open, sleeves pushed up with one more button undone, a tie or scarf pulled loose.\nOutfit: an original theatre-usher role-play outfit: burgundy velvet sleeveless cropped double-breasted waistcoat with a deep V over an opaque ivory bandeau, short black pleated culottes and a loose cream collar ribbon; bare shoulders and waist, uppermost fastening undone from the heat; intimate areas covered\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing; intimate areas covered\n\nWARDROBE: change her clothes completely. From the attached image take only her face, hair and body — not its garment, armor, regalia, ornaments, mecha plates or background. Dress her exactly as SCENE describes; that outfit must read at first glance, keeping its own recognisable colours and parts. Do not carry the attached image's palette, patterns or trim into the outfit; her Three Kingdoms identity belongs in accessories and props, never in the clothes — never restyle the chosen outfit into her faction's palette, armor, robes or regalia.\n\nANGLE: the attached image fixes who she is, not how she is posed or shot. Do not copy its head angle, head tilt, gaze direction, face size in frame, camera height or crop — turn her head, set her gaze and place the camera exactly as SCENE describes, and let her face read naturally from that new angle (profile, three-quarter, looking down or away), with her features staying the same. No default card pose, no default front-facing portrait.\n\nONE MAIN FIGURE: she is the only character in focus. Where the place is busy, other people may appear only as small, soft-focus background extras — never posed with her. No logo, no watermark, no speech bubble, no frame border. No readable text or numbers.\n\nANATOMY: natural adult proportions, about 7.5 heads tall — height from the legs, never a smaller head or a longer neck. The neck is a natural length and the head sits close to the shoulders. No body-part enlargement, no extra limbs.\n\nBODY: a normal human body — one head, two arms and two legs, each joined at its natural joint; elbows, knees and wrists bend the human way. Hands and feet may be partly hidden by the pose, what she holds or the frame. Right and left mean her own right and left, not the viewer's.\n\nHANDS: natural human hands, no extra or duplicated limbs; each visible hand joins through its wrist and forearm to the matching shoulder. A hand may stay outside the crop, and fingers may be partly hidden by a grip.\n\nAVOID: a blue or bruise-like tint on the skin around the eyes, glossy or shiny highlights on the face, sweaty, oily or plastic-looking skin.",
+ "date": "2026-11-14",
+ "record": "records/관우/samguk-casual3.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "관우",
+  "out": "casual",
+  "world": "samguk",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 3,
+  "scenes": {
+   "관우": {
+    "era": "now",
+    "place": "car_seat",
+    "ofam": "subculture",
+    "treeV": 2,
+    "prop": "",
+    "preset": "pocket_look",
+    "use": "iced_hold",
+    "posture": "stand",
+    "support": "none",
+    "frame": "waist_up",
+    "body": "front_3q",
+    "head": "tilt",
+    "camera": "eye",
+    "right": "prop",
+    "left": "pocket",
+    "legs": "",
+    "gaze": "at_prop",
+    "item": "cybergoth",
+    "expr": "gentle",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "ofree": true,
+    "ofreeFamily": "roleplay",
+    "ofreeSitu": "free",
+    "ofreeRecent": "a city rooftop with a water tank — sitting on the ground; a desert oasis at golden hour — standing; a calligraphy classroom with low wooden desks — writes with a calligraphy brush and an ink stone on rice paper laid flat on the table; a monastery library of tall wooden shelves — kneeling on the ground; a Three Kingdoms festival street — lying on her front; a retro American diner — holds a smartphone up at arm's length to take a selfie; overgrown jungle temple ruins — standing; a Roman marble bath hall — holds a red oil-paper umbrella open over her shoulder; a walk-in closet with open shelves — seated sideways on a stool or bench; a walled garden with a lotus pond — holds a small hand lantern low at her side; a futuristic spa of white curves and soft light — standing; a Peking opera dressing room — holds a bound bundle of bamboo slips against her chest; a rocky coast path with tide pools — standing"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "b1d2aa3774a14e8f50b365b67a4934e95a337a1cffbc8bc89b95f188ad32af6a",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "prompt_form": "en-prompt",
+  "prompt_sha256": "789de10f33103a9359e8fe810ebc6991011c677aa9f2a4f82f46304d7972916c",
+  "retries": [],
+  "ref_sha256": "f666b716189502e85be743c91db065614ccd1baa315af2dad779a45648031bfd",
+  "free_design": {
+   "Place": "an empty small theatre after rehearsal, warm aisle lamps and closed velvet curtains",
+   "Activity": "taking a peach snack break after playing an usher in a costume event, her collar ribbon loosened after the warm rehearsal",
+   "Pose": "seated on a broad step with both knees facing forward; her right upper arm drops beside her ribs and her right forearm lifts the peach toward her mouth; her left arm extends down naturally and the left palm rests on the step beside her hip",
+   "Framing": "three-quarter front view from head to knees, camera at her seated eye level, eyes glancing at the peach with a faint smile",
+   "Outfit": "an original theatre-usher role-play outfit: burgundy velvet sleeveless cropped double-breasted waistcoat with a deep V over an opaque ivory bandeau, short black pleated culottes and a loose cream collar ribbon; bare shoulders and waist, uppermost fastening undone from the heat; intimate areas covered"
+  },
+  "free_prompt": "INPUT: the attached image is the approved character — her Three kingdoms card; keep her. Do not reuse earlier conversation images.\n\nCHARACTER: the same woman as the attached image — the female personification of Guan Yu of the Three Kingdoms, seen in her everyday life. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change, and her hair may be worn differently only as SCENE's Hair line says. Her Three Kingdoms identity shows ONLY as a small accessory, an object around her, or the object PROP says she holds — never in the outfit's colours, patterns or cut, never as armor, regalia or a costume.\n\nDESIGN (accessory hints only): her legend — unbending loyalty and pride, a ruddy red-tinged complexion and gracefully lifted almond eyes, her legendary beard reimagined as an immensely long, sleek black ponytail, green and gold as her colours, a green battle robe worn over her armor, a small bamboo-slip scroll of the Spring and Autumn Annals tied at her belt as an ornament (never held in her hands) — may inform at most one small accessory, a hair ornament or an object beside her, in its palette (jade green, imperial gold, earthen brown, white jade). The clothes keep the chosen outfit's own colours; her skin, hair and eyes stay as in the attached image.\n\nSIGNATURE ACCESSORY: off duty she carries no weapon — no sword, saber, spear, glaive, halberd, bow, axe, shield or any blade in her hands, on her back or anywhere in the scene. Her signature weapon (the Green Dragon Crescent Blade, a long guandao with a dragon-head guard) appears only as one small worn accessory modelled on its shape and colours — a hair ornament, pendant, earring, brooch or belt charm a few centimetres long, clearly jewellery and not a usable weapon.\n\nSTYLE: Korean MMORPG character artwork. A recognisably drawn face with gently simplified anatomical structure. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\n\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nAGE: the same adult woman as in the attached image — keep her own face shape, cheekbones, eye proportions and skin tone exactly; minimal facial lines (no nasolabial folds, crow's feet, under-eye bags or cheek creases). Keep her face soft, feminine and attractive in every framing — never elongated, gaunt, mannish or heavy-jawed, even in close-ups, profiles or low angles.\n\nOUTPUT: one standalone off-duty scene of her in the outfit chosen in SCENE; her legend shows only through accessories and objects around her — never in the outfit's colours, patterns or cut, never as armor, regalia or a costume. Everything else follows SCENE (chosen).\n\nFRAME: a vertical 2:3 (1024×1536) image. Compose the image for this frame; COMPOSITION in SCENE sets how much of her shows.\n\nSCENE (chosen):\nFREE DESIGN: design the place, activity, pose, framing and outfit yourself. Start from who she is — her legend, traits and personality — and show an everyday moment that is unexpected yet feels natural for her. Make it fresh through the situation and what she is doing, not through more decoration. Avoid scenes like the recent ones listed below. Keep her face, the art style and the body and anatomy rules exactly as stated. Before drawing, write your design into the lines below, then draw it. In your pose, give each hand one job only and say plainly where each arm goes; avoid poses where it is unclear which shoulder an arm comes from — an arm behind her back, behind her head or pinned under her body — and never state where a foot sits under water. Do not make it another small repair, adjusting, measuring or sorting task at a workbench, repair stall, equipment room or locker room — those scenes are already in our own list; choose another kind of everyday moment (rest, play, a meal, travel, weather, getting ready, simply being in the place).\nRecent scenes to avoid: a city rooftop with a water tank — sitting on the ground; a desert oasis at golden hour — standing; a calligraphy classroom with low wooden desks — writes with a calligraphy brush and an ink stone on rice paper laid flat on the table; a monastery library of tall wooden shelves — kneeling on the ground; a Three Kingdoms festival street — lying on her front; a retro American diner — holds a smartphone up at arm's length to take a selfie; overgrown jungle temple ruins — standing; a Roman marble bath hall — holds a red oil-paper umbrella open over her shoulder; a walk-in closet with open shelves — seated sideways on a stool or bench; a walled garden with a lotus pond — holds a small hand lantern low at her side; a futuristic spa of white curves and soft light — standing; a Peking opera dressing room — holds a bound bundle of bamboo slips against her chest; a rocky coast path with tide pools — standing.\nPlace: an empty small theatre after rehearsal, warm aisle lamps and closed velvet curtains\nActivity: taking a peach snack break after playing an usher in a costume event, her collar ribbon loosened after the warm rehearsal\nPose: seated on a broad step with both knees facing forward; her right upper arm drops beside her ribs and her right forearm lifts the peach toward her mouth; her left arm extends down naturally and the left palm rests on the step beside her hip\nFraming: three-quarter front view from head to knees, camera at her seated eye level, eyes glancing at the peach with a faint smile\nOutfit family (required): role-play costume — any role-play costume outfit; you may pick one from our outfit catalog (outfit-catalog.md in this pack) or design your own, but prefer one that is not in it.\nSituation (required): a situational exposure moment of your own design that fits the scene — prefer one that is not among ours: clothes soaked by rain or a splash, clothes caught by a strong gust of wind, a top worn half undone, a strap slipped off the shoulder, a hem knotted up under the bust, an outer layer tied around the waist, a sheen of sweat from heat, a backlit silhouette through thin fabric, a skirt slit fallen open, sleeves pushed up with one more button undone, a tie or scarf pulled loose.\nOutfit: an original theatre-usher role-play outfit: burgundy velvet sleeveless cropped double-breasted waistcoat with a deep V over an opaque ivory bandeau, short black pleated culottes and a loose cream collar ribbon; bare shoulders and waist, uppermost fastening undone from the heat; intimate areas covered\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing; intimate areas covered\n\nWARDROBE: change her clothes completely. From the attached image take only her face, hair and body — not its garment, armor, regalia, ornaments, mecha plates or background. Dress her exactly as SCENE describes; that outfit must read at first glance, keeping its own recognisable colours and parts. Do not carry the attached image's palette, patterns or trim into the outfit; her Three Kingdoms identity belongs in accessories and props, never in the clothes — never restyle the chosen outfit into her faction's palette, armor, robes or regalia.\n\nANGLE: the attached image fixes who she is, not how she is posed or shot. Do not copy its head angle, head tilt, gaze direction, face size in frame, camera height or crop — turn her head, set her gaze and place the camera exactly as SCENE describes, and let her face read naturally from that new angle (profile, three-quarter, looking down or away), with her features staying the same. No default card pose, no default front-facing portrait.\n\nONE MAIN FIGURE: she is the only character in focus. Where the place is busy, other people may appear only as small, soft-focus background extras — never posed with her. No logo, no watermark, no speech bubble, no frame border. No readable text or numbers.\n\nANATOMY: natural adult proportions, about 7.5 heads tall — height from the legs, never a smaller head or a longer neck. The neck is a natural length and the head sits close to the shoulders. No body-part enlargement, no extra limbs.\n\nBODY: a normal human body — one head, two arms and two legs, each joined at its natural joint; elbows, knees and wrists bend the human way. Hands and feet may be partly hidden by the pose, what she holds or the frame. Right and left mean her own right and left, not the viewer's.\n\nHANDS: natural human hands, no extra or duplicated limbs; each visible hand joins through its wrist and forearm to the matching shoulder. A hand may stay outside the crop, and fingers may be partly hidden by a grip.\n\nAVOID: a blue or bruise-like tint on the skin around the eyes, glossy or shiny highlights on the face, sweaty, oily or plastic-looking skin."
+ },
+ "execution": "sam-guanyu-e693",
+ "imported": "2026-11-14",
+ "qa": {
+  "reviewer": "gpt-session",
+  "image_sha256": "b1d2aa3774a14e8f50b365b67a4934e95a337a1cffbc8bc89b95f188ad32af6a",
+  "passed": true,
+  "anatomy": "ok",
+  "exposure": "match",
+  "observations": [
+   "극장 계단에서 복숭아를 든 오른손, 계단에 짚은 왼손이 보인다. 참조 얼굴과 포니테일 유지."
+  ]
+ },
+ "acceptance": "user_approval_2026-11-14 — 캐릭터별 커밋과 원격 main 일반 반영 승인",
+ "review": {
+  "reviewed": false,
+  "by": "user",
+  "result": "pending"
+ }
+}
