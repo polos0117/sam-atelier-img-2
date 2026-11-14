@@ -1,0 +1,115 @@
+{
+ "atelier": "samguk",
+ "card": "양호",
+ "faction": "wei",
+ "role": "strategist",
+ "world": "samguk",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v1",
+ "notes": {},
+ "look": {
+  "params": {},
+  "faceDesignOn": true,
+  "silhouetteOn": true,
+  "exposure": "bold"
+ },
+ "design": {
+  "face": {
+   "eye_color": "ember",
+   "impression": "elegant",
+   "expr": "gentle",
+   "skin_tone": "fair",
+   "age": "early_20s",
+   "eye_size": "large",
+   "eye_tilt": "level",
+   "mark": "bare",
+   "brows": "low_heavy",
+   "nose": "broad_soft",
+   "lips": "small_bow",
+   "face_shape": "diamond",
+   "eyes": "deep_set"
+  },
+  "silhouette": {
+   "body": "tall_curvy",
+   "hair_color": "violet",
+   "hair": "bob",
+   "bangs": "choppy"
+  }
+ },
+ "shot": {
+  "scene": "",
+  "time": "",
+  "pose": "",
+  "expr": "",
+  "frame": ""
+ },
+ "file": "양호_samguk_kr_drawn_rim_dewy_f.webp",
+ "prompt": "A full-body character image, vertical 2:3 (1024×1536): Yang Hu of the Romance of the Three Kingdoms, reimagined as an adult woman — the virtuous border commander who became friends with the enemy general.\n\n1. STYLE\nKorean MMORPG character artwork. A recognisably drawn face with gently simplified anatomical structure. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nHer face is small and soft: a short midface, a softly rounded jaw and a small chin, about 1.3 times as long as it is wide, with her eyes open at their natural size. Bangs, side locks and headpieces frame the face without lengthening it.\nSkin finish: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\n\nOriginal detailed design: Adult woman about twenty, fair skin, tall curvaceous build with full bust, narrow waist and naturally proportioned long legs. Gentle reassuring smile. Compact heart-shaped face, amber-brown eyes, violet hair in a high looped bun with wavy strands. Choose silhouette 1: light armour over fitted silk martial dress, long sashes and flowing skirt. Shoulder lamellae are layered as paired sheltering rooflines meeting in the centre, symbolizing a protected border. Deep navy, ivory, silver and plum palette. Deep neckline, bare arms and high slit, intimate areas covered. One hand holds jade pendant on green cord, other lightly touches sash. Late-Han border gate in warm daylight.\nComposition: vertical 2:3, 1024x1536, entire headpiece to both feet inside with clear margins, figure about four-fifths image height, chest-height camera and natural perspective. One woman, one head, two connected arms and two legs. Both hands visible with five fingers each. No other person or creature, text, logo, watermark or frame. Late-Han Chinese dress and architecture only.",
+ "date": "2026-11-14",
+ "record": "records/양호/samguk.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "양호",
+  "out": "world",
+  "world": "samguk",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {
+   "양호|samguk": {}
+  },
+  "looks": {
+   "양호|samguk": {
+    "params": {},
+    "faceDesignOn": true,
+    "silhouetteOn": true,
+    "exposure": "bold"
+   }
+  },
+  "shots": {
+   "양호|samguk": {
+    "scene": "",
+    "time": "",
+    "pose": "",
+    "expr": "",
+    "frame": ""
+   }
+  },
+  "walked": {},
+  "casualN": 1,
+  "scenes": {}
+ },
+ "generation": {
+  "tool": "image_gen",
+  "endpoint": "images/generations",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "a7057cca252967629aef9bf9e3abaa1ee10a5db4821143a8321d871991b25b3c",
+  "prompt_sha256": "2ecb756c3d41bad8722f41382e340f0170893fe1e87225db7a00ac7a0f383447",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "design": "gpt_free",
+  "selection": 4,
+  "free_prompt": "A full-body character image, vertical 2:3 (1024×1536): Yang Hu of the Romance of the Three Kingdoms, reimagined as an adult woman — the virtuous border commander who became friends with the enemy general.\n\n1. STYLE\nKorean MMORPG character artwork. A recognisably drawn face with gently simplified anatomical structure. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nHer face is small and soft: a short midface, a softly rounded jaw and a small chin, about 1.3 times as long as it is wide, with her eyes open at their natural size. Bangs, side locks and headpieces frame the face without lengthening it.\nSkin finish: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\n\nOriginal detailed design: Adult woman about twenty, fair skin, tall curvaceous build with full bust, narrow waist and naturally proportioned long legs. Gentle reassuring smile. Compact heart-shaped face, amber-brown eyes, violet hair in a high looped bun with wavy strands. Choose silhouette 1: light armour over fitted silk martial dress, long sashes and flowing skirt. Shoulder lamellae are layered as paired sheltering rooflines meeting in the centre, symbolizing a protected border. Deep navy, ivory, silver and plum palette. Deep neckline, bare arms and high slit, intimate areas covered. One hand holds jade pendant on green cord, other lightly touches sash. Late-Han border gate in warm daylight.\nComposition: vertical 2:3, 1024x1536, entire headpiece to both feet inside with clear margins, figure about four-fifths image height, chest-height camera and natural perspective. One woman, one head, two connected arms and two legs. Both hands visible with five fingers each. No other person or creature, text, logo, watermark or frame. Late-Han Chinese dress and architecture only."
+ },
+ "execution": "sam-yanghu-3c73",
+ "imported": "2026-11-14",
+ "qa": {
+  "reviewer": "gpt",
+  "passed": true,
+  "anatomy": "ok",
+  "exposure": "match",
+  "observations": [
+   "1024×1536 portrait; one adult woman, complete full body and both hands",
+   "Selected by user: 4",
+   "Connected shoulders, elbows and wrists; no obvious duplicated limbs"
+  ]
+ },
+ "review": {
+  "reviewed": true,
+  "by": "user",
+  "result": "selected"
+ },
+ "acceptance": "user selected 4,2,3; completion and non-force main publication authorized"
+}
