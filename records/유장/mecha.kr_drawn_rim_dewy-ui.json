@@ -1,0 +1,119 @@
+{
+ "atelier": "samguk",
+ "card": "유장",
+ "faction": "qun",
+ "role": "lord",
+ "world": "mecha",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v1",
+ "notes": {},
+ "look": {
+  "params": {},
+  "faceDesignOn": true,
+  "silhouetteOn": true,
+  "exposure": "bold"
+ },
+ "design": {
+  "face": {
+   "eye_color": "coral",
+   "impression": "soft",
+   "expr": "pensive",
+   "skin_tone": "fair",
+   "age": "late_20s",
+   "eye_size": "medium",
+   "eye_tilt": "down",
+   "mark": "scar",
+   "brows": "soft_round",
+   "nose": "straight_narrow",
+   "lips": "full_wide",
+   "face_shape": "heart",
+   "eyes": "almond_wide"
+  },
+  "silhouette": {
+   "body": "petite_curvy",
+   "hair_color": "ash_gray",
+   "hair": "floor_length",
+   "bangs": "side_locks"
+  }
+ },
+ "shot": {
+  "scene": "",
+  "time": "",
+  "pose": "",
+  "expr": "",
+  "frame": ""
+ },
+ "file": "유장_mecha_kr_drawn_rim_dewy_f.webp",
+ "prompt": "A full-body character image, vertical 2:3 (1024×1536): Liu Zhang of the Romance of the Three Kingdoms, reimagined as an adult woman — the gentle ruler of Yi who invited her own downfall.\n\n1. STYLE\nKorean MMORPG character artwork. A recognisably drawn face with gently simplified anatomical structure. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nHer face is small and soft: a short midface, a softly rounded jaw and a small chin, about 1.3 times as long as it is wide, with her eyes open at their natural size. Bangs, side locks and headpieces frame the face without lengthening it.\nSkin finish: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\n2. CHARACTER\nAge: late twenties — a graceful grown-up face with soft, smooth contours.\nFace — her own, recognisably this character, a woman's face with no beard or facial hair: a soft, gentle warmth; fair skin; heart-shaped face; medium-sized eyes — wide almond eyes, outer eye corners drooping downward; soft rounded brows; straight narrow nose; full wide lips; coral-orange eyes; a thin faint scar through one eyebrow.\nBody and hair: petite and compact yet curvaceous — full bust and rounded hips on a small frame build; floor-length loose hair trailing behind her with no bangs, long face-framing side locks; ash-gray hair.\nExpression: a quiet, thoughtful look, lips lightly closed, subtle and relaxed.\nLegend, carried in her design and bearing: timid kindness, soft silk robes, worry in her eyes.\nAnatomy: one head, two arms and two legs, each joined at its natural joint; natural hands with five fingers.\n\n3. COSTUME AND EQUIPMENT — MECHA\nCostume: a female mecha personification built as a command-type mecha — crowned head unit with an antenna crest, cape-like binder wings, heavy chest plating with an emblem core, a flagship back unit. Solid hard-surface plates with visible joints cover her frame except at the openings named under Exposure; any cape or skirt is made of rigid armored plates; her face and hair stay human.\nSilhouette: several rigid jointed armor plates flaring from the waist like a skirt — plates, not cloth — with the legs showing between them. This silhouette sets the overall shape of the costume above — keep its materials, ornaments and rank in this shape; the details are free.\nColours: deep forest green, bronze, ochre and cream. Faction frame: deep forest-green and bronze plating with ochre trim, sturdy mountain-fortress silhouette, cliff-terrace motifs, amber glow lines.\nSignature item: a jade tablet of office, rebuilt as a far-future high-tech version of the same kind of object with the same silhouette — hard-surface alloy plates with panel lines, mechanical joints, vents and emitter nodes, an energy edge, plasma blade or glowing core in her glow-line colour and small status lights, with any animal motif re-sculpted as sleek machined armour. She holds it at full scale: one whole object, drawn once, held in front of or beside her body; a long weapon keeps one straight, unbroken shaft with a single head or blade.\nExposure (bold): her mecha frame is cut open by design in only these places — a deep open chest window with natural cleavage framed by the chest plates, and bare upper thighs between the hip armor and thigh-high leg plates; everywhere else she stays fully plated. The plates stay on, fitted and symmetrical, with skin clearly showing in each opening. Intimate areas covered; keep the plate material and palette.\n\n4. SCENE\nWorld: year 2190, the Free Zones — a lawless asteroid belt between the three powers: warlord fortresses carved into asteroids, wrecked starships drifting in the dark, a violet nebula, warning lights blinking.\nPose: standing confidently, her body turned slightly while her face looks toward the viewer.\nLight: a soft key light with a strong rim light tracing her hair, shoulders and armour; bright, crisp specular highlights on metal and jewellery, and a clean, warm-neutral sheen on her skin.\nComposition: her whole figure from the top of her head or headpiece to both feet inside the frame with clear margins, about four-fifths of the image height; camera at chest height with natural portrait perspective.\n\n5. CONSTRAINTS\nOne figure only — no second character, horse or other creature. No readable text or numbers — emblems are abstract insignia shapes only, never letters or Chinese characters. No logo, watermark, speech bubble or frame border. A far-future setting only — space stations, starships and high-tech structures — with no traditional East-Asian architecture.\nAvoid: a blue or bruise-like tint on the skin around the eyes, glossy or shiny highlights on the face, sweaty, oily or plastic-looking skin.",
+ "date": "2026-11-14",
+ "record": "records/유장/mecha.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "유장",
+  "out": "world",
+  "world": "mecha",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {
+   "유장|mecha": {}
+  },
+  "looks": {
+   "유장|mecha": {
+    "params": {},
+    "faceDesignOn": true,
+    "silhouetteOn": true,
+    "exposure": "bold"
+   }
+  },
+  "shots": {
+   "유장|mecha": {
+    "scene": "",
+    "time": "",
+    "pose": "",
+    "expr": "",
+    "frame": ""
+   }
+  },
+  "walked": {},
+  "casualN": 1,
+  "scenes": {}
+ },
+ "generation": {
+  "tool": "image_gen",
+  "endpoint": "images/generations",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "1d0df173c7c46a130d67129f64d295c800eb946a35095688d59878e366c145fa",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "prompt_form": "en-prompt",
+  "prompt_sha256": "ac19a1bbd747ea1f898e34af03206db14dfc3f56b2d72c042f75a4f9a5328dd3",
+  "retries": [],
+  "selection": {
+   "number": 2,
+   "design": "ours",
+   "user": "2,3,2"
+  }
+ },
+ "execution": "sam-liuzhang-935a5f-20261114",
+ "imported": "2026-11-14",
+ "qa": {
+  "passed": true,
+  "anatomy": "ok",
+  "exposure": "match",
+  "observations": [
+   "선택 2번 원본 유지. 숲빛·청동 판금과 펼쳐진 바인더, 보랏빛 소행성 배경.",
+   "양손이 하나의 긴 기계식 홀을 잡고 있으며 팔다리 수와 연결에 눈에 띄는 오류 없음."
+  ],
+  "reviewer": "gpt-session",
+  "image_sha256": "1d0df173c7c46a130d67129f64d295c800eb946a35095688d59878e366c145fa"
+ },
+ "acceptance": "user_approval_2026-11-14 — 세계 선택 2,3,2; 완료 후 main 일반 반영 승인; 노출 사유 임의 재생성 없음",
+ "review": {
+  "reviewed": false,
+  "by": "user",
+  "result": "pending"
+ }
+}

@@ -1,0 +1,121 @@
+{
+ "atelier": "samguk",
+ "card": "유장",
+ "faction": "qun",
+ "role": "lord",
+ "world": "fantasy",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v1",
+ "notes": {},
+ "look": {
+  "params": {},
+  "faceDesignOn": true,
+  "silhouetteOn": true,
+  "exposure": "bold"
+ },
+ "design": {
+  "face": {
+   "eye_color": "coral",
+   "impression": "soft",
+   "expr": "pensive",
+   "skin_tone": "fair",
+   "age": "late_20s",
+   "eye_size": "small",
+   "eye_tilt": "down",
+   "mark": "scar",
+   "brows": "soft_round",
+   "nose": "straight_narrow",
+   "lips": "full_wide",
+   "face_shape": "round",
+   "eyes": "deep_set"
+  },
+  "silhouette": {
+   "body": "petite_curvy",
+   "hair_color": "ash_gray",
+   "hair": "ponytail",
+   "bangs": "baby"
+  }
+ },
+ "shot": {
+  "scene": "",
+  "time": "",
+  "pose": "",
+  "expr": "",
+  "frame": ""
+ },
+ "file": "유장_fantasy_kr_drawn_rim_dewy_f.webp",
+ "prompt": "A full-body vertical 2:3 (1024×1536) character image of Liu Zhang from the Romance of the Three Kingdoms, reimagined as one adult woman, the gentle ruler of Yi who invited her own downfall. Late twenties, a graceful grown-up face with soft smooth contours, no wrinkles, folds or under-eye bags, no beard or facial hair. Fair skin and ash-gray hair, these colours stay exact. Her gentle kindness and trust are expressed with quiet worry beneath her sovereign dignity. Her short midface, softly rounded jaw and small soft chin make a compact beautiful face. Eyes naturally open, never narrow slits. Her crown sits above the hairline without lengthening the face. Petite curvaceous adult proportions with full bust, a slender waist and naturally rounded hips. Natural anatomy: one head, two arms and two legs, naturally joined, both hands with five fingers each.\n\nSTYLE (fixed): Korean MMORPG character artwork. A recognisably drawn face with gently simplified anatomical structure. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\n\nWESTERN MEDIEVAL HIGH FANTASY — a realm of rival warlords after a fallen empire. Her face has compact oval contours, large warm amber eyes, soft straight brows, small nose and a tender closed-mouth smile. Ash-gray hair in a thick swept side braid with a few soft cheek curls. Choose our fitted breastplate and pauldrons above a gown skirt flaring to the floor, elegant lady-knight silhouette. Forest-green enamel steel and bronze armour above cream and ochre velvet panels, a high side slit, deep neckline, bare upper arms below the symmetrical pauldrons. Build the trailing gown as paired curved panels like a castle's opening gate, each bronze-bound panel hinges visually away from the center, an architectural expression of her welcoming yet vulnerable kindness. A richly engraved crown and jewelled chains indicate sovereign rank. Her signature tablet of office is a single tall flat mithril ceremonial tablet, with engraved non-readable runic ornament and a glowing jade-green core, bronze gem-set socket and leather grip, Western heraldic fittings only. She holds it upright in her right hand beside her torso, left hand open over her heart. Full-body standing at a Romanesque stone balcony over a misty western mountain keep, morning light, soft key and strong rim on metal. No Chinese architecture, robes, silk tassels or hanzi. No readable letters or numbers; heraldic devices only.\n\nHer costume reads as a ruler at first glance, richly ornate and layered with flagship-card detail, fine engraving and jewellery, never plain or sparse. Costume colours: deep forest green, bronze, ochre and cream. Exposure bold: her outfit shows skin by design with a deep neckline and natural cleavage, bare arms or shoulders and a high slit or short hem; intimate areas fully covered.\nComposition: full body vertical 2:3, 1024×1536, chest-height camera with natural portrait perspective, whole figure from crown to both boots inside the frame, occupying about four-fifths of image height, modest headroom and clear space beneath boots. Both hands and her complete signature object visible in frame. One figure only, no animals or other creatures, no second person, no logo or watermark, no border.",
+ "date": "2026-11-14",
+ "record": "records/유장/fantasy.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "유장",
+  "out": "world",
+  "world": "fantasy",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {
+   "유장|fantasy": {}
+  },
+  "looks": {
+   "유장|fantasy": {
+    "params": {},
+    "faceDesignOn": true,
+    "silhouetteOn": true,
+    "exposure": "bold"
+   }
+  },
+  "shots": {
+   "유장|fantasy": {
+    "scene": "",
+    "time": "",
+    "pose": "",
+    "expr": "",
+    "frame": ""
+   }
+  },
+  "walked": {},
+  "casualN": 1,
+  "scenes": {}
+ },
+ "generation": {
+  "tool": "image_gen",
+  "endpoint": "images/generations",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "f28dd41aba36b2fb4ec1dba350098b13e5072c20133b603cf7770be8e2efd0cb",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "prompt_form": "en-prompt",
+  "prompt_sha256": "f03eea07c08cea9b2ea7cee3513b6ba4a73c4806123ec0a523b76f9e98bda996",
+  "retries": [],
+  "selection": {
+   "number": 3,
+   "design": "gpt_free",
+   "user": "2,3,2"
+  },
+  "design": "gpt_free",
+  "free_prompt": "A full-body vertical 2:3 (1024×1536) character image of Liu Zhang from the Romance of the Three Kingdoms, reimagined as one adult woman, the gentle ruler of Yi who invited her own downfall. Late twenties, a graceful grown-up face with soft smooth contours, no wrinkles, folds or under-eye bags, no beard or facial hair. Fair skin and ash-gray hair, these colours stay exact. Her gentle kindness and trust are expressed with quiet worry beneath her sovereign dignity. Her short midface, softly rounded jaw and small soft chin make a compact beautiful face. Eyes naturally open, never narrow slits. Her crown sits above the hairline without lengthening the face. Petite curvaceous adult proportions with full bust, a slender waist and naturally rounded hips. Natural anatomy: one head, two arms and two legs, naturally joined, both hands with five fingers each.\n\nSTYLE (fixed): Korean MMORPG character artwork. A recognisably drawn face with gently simplified anatomical structure. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\n\nWESTERN MEDIEVAL HIGH FANTASY — a realm of rival warlords after a fallen empire. Her face has compact oval contours, large warm amber eyes, soft straight brows, small nose and a tender closed-mouth smile. Ash-gray hair in a thick swept side braid with a few soft cheek curls. Choose our fitted breastplate and pauldrons above a gown skirt flaring to the floor, elegant lady-knight silhouette. Forest-green enamel steel and bronze armour above cream and ochre velvet panels, a high side slit, deep neckline, bare upper arms below the symmetrical pauldrons. Build the trailing gown as paired curved panels like a castle's opening gate, each bronze-bound panel hinges visually away from the center, an architectural expression of her welcoming yet vulnerable kindness. A richly engraved crown and jewelled chains indicate sovereign rank. Her signature tablet of office is a single tall flat mithril ceremonial tablet, with engraved non-readable runic ornament and a glowing jade-green core, bronze gem-set socket and leather grip, Western heraldic fittings only. She holds it upright in her right hand beside her torso, left hand open over her heart. Full-body standing at a Romanesque stone balcony over a misty western mountain keep, morning light, soft key and strong rim on metal. No Chinese architecture, robes, silk tassels or hanzi. No readable letters or numbers; heraldic devices only.\n\nHer costume reads as a ruler at first glance, richly ornate and layered with flagship-card detail, fine engraving and jewellery, never plain or sparse. Costume colours: deep forest green, bronze, ochre and cream. Exposure bold: her outfit shows skin by design with a deep neckline and natural cleavage, bare arms or shoulders and a high slit or short hem; intimate areas fully covered.\nComposition: full body vertical 2:3, 1024×1536, chest-height camera with natural portrait perspective, whole figure from crown to both boots inside the frame, occupying about four-fifths of image height, modest headroom and clear space beneath boots. Both hands and her complete signature object visible in frame. One figure only, no animals or other creatures, no second person, no logo or watermark, no border."
+ },
+ "execution": "sam-liuzhang-935a5f-20261114",
+ "imported": "2026-11-14",
+ "qa": {
+  "passed": true,
+  "anatomy": "ok",
+  "exposure": "match",
+  "observations": [
+   "선택 3번 자유 설계 원본 유지. 은회색 옆땋기·호박빛 눈, 서양식 판금과 고성 발코니.",
+   "오른손의 의례용 금속 홀과 가슴 위 왼손이 각각 자연스럽게 연결된다."
+  ],
+  "reviewer": "gpt-session",
+  "image_sha256": "f28dd41aba36b2fb4ec1dba350098b13e5072c20133b603cf7770be8e2efd0cb"
+ },
+ "acceptance": "user_approval_2026-11-14 — 세계 선택 2,3,2; 완료 후 main 일반 반영 승인; 노출 사유 임의 재생성 없음",
+ "review": {
+  "reviewed": false,
+  "by": "user",
+  "result": "pending"
+ }
+}
