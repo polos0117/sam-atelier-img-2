@@ -1,0 +1,116 @@
+{
+ "atelier": "samguk",
+ "card": "방통",
+ "faction": "shu",
+ "role": "strategist",
+ "world": "samguk",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v1",
+ "notes": {},
+ "look": {
+  "params": {},
+  "faceDesignOn": true,
+  "silhouetteOn": true,
+  "exposure": "bold"
+ },
+ "design": {
+  "face": {
+   "eye_color": "ice_blue",
+   "impression": "cool",
+   "expr": "confident",
+   "skin_tone": "fair",
+   "age": "mid_20s",
+   "eye_size": "medium",
+   "eye_tilt": "up",
+   "mark": "winged_liner",
+   "brows": "angled_sharp",
+   "nose": "straight_narrow",
+   "lips": "thin_long",
+   "face_shape": "v_line",
+   "eyes": "phoenix"
+  },
+  "silhouette": {
+   "body": "pear_curvy",
+   "hair_color": "rose_gold",
+   "hair": "finger_waves",
+   "bangs": "side_swept"
+  }
+ },
+ "shot": {
+  "scene": "",
+  "time": "",
+  "pose": "",
+  "expr": "",
+  "frame": ""
+ },
+ "file": "방통_samguk_kr_drawn_rim_dewy_f.webp",
+ "prompt": "Design brief — your own take on this character. A full-body vertical 2:3 (1024×1536) character card image of Pang Tong from the Romance of the Three Kingdoms, reimagined as an adult woman — the Fledgling Phoenix, the proud genius who matched the Sleeping Dragon. Age: mid-twenties — a clear adult face; no facial lines. She is a woman — no beard, moustache or facial hair.\n\nYou design her yourself: invent her face, eye colour, hairstyle, makeup, expression, pose and setting as a fresh, original take — do not follow any earlier design of this character. Her hair colour, skin tone, costume and weapon are NOT free: take them from our designs below.\n\nStyle (fixed): Korean MMORPG character artwork. A recognisably drawn face with gently simplified anatomical structure. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\n\nInspiration only: a cool, aloof genius who looks down on lesser minds and lets few see her worth, phoenix motifs, the chained-ships stratagem at Red Cliffs, fallen at the Slope of the Fallen Phoenix.\n\nWorld (fixed): Shu Han in the Sichuan basin, around 208–263 AD: the city of Chengdu, cliffside plank roads over gorges, mist-wrapped mountains and bamboo forests, peach orchards, green-and-gold banners. Her costume, weapon and setting belong to this world.\n\nCostume (choose one of ours, then add your own idea): pick ONE of these costume shapes from our set and keep its overall silhouette — 1) light armor pieces over a fitted silk martial dress, long silk sashes and a light skirt flowing from the waist and shoulders — a light, dancing silhouette; 2) no armor — a long floor-length robe with wide sleeves and a broad sash, a long elegant falling silhouette; 3) a fitted martial-arts outfit with a wide belt and arm guards, a long silk sash streaming behind — a wandering swordswoman's silhouette; 4) a long silk shawl wrapping the shoulders and arms and floating in the air, light layered robes — an airy, celestial silhouette; 5) very long flowing water sleeves trailing past the hands through the air over a fitted dancer's dress — the sleeves make the shape. Then add one signature idea of your own drawn from her legend, built into the construction of the outfit itself rather than as a print or a loose accessory — e.g. plates or cloth layered like feathers, scales or petals, a hem or sleeve cut into a motif from her story. Build it in this world's materials and our colours below.\n\nWeapon (fixed — ours): a phoenix-feather fan.\n\nHair colour (fixed — ours): rose-gold hair. Keep exactly this hair colour; only the hairstyle is yours.\n\nSkin tone (fixed — ours): fair skin. Keep exactly this skin tone.\n\nCostume colours (ours): jade green, imperial gold, earthen brown, white jade.\n\nRank (fixed): she is a master strategist — her costume must read scholarly prestige at first glance: elegant, layered and finely ornamented, with flagship-card detail, never plain or sparse.\n\nExposure (fixed): bold — her outfit shows skin by design (a deep neckline, bare shoulders or arms, a high slit or short hem); intimate areas covered.\n\nFace proportions: a short midface and a soft, gently rounded jawline with a small soft chin — never a long face or a long, pointed or heavy jaw; any crown or headpiece sits above her hairline and never lengthens her face. Her eyes stay at a natural open size — never squeezed into narrow slits.\n\nComposition: vertical 2:3 full-body framing with modest headroom and clear space below the boots — the whole figure from the top of her crown or headpiece to both boots stays inside the frame, occupying about four-fifths of the image height, with the same camera distance in every genre; her hands and her signature item stay inside the frame. Camera at chest height with natural portrait perspective — no wide-angle distortion, no low angle, no close crop.\n\nIf you have already drawn a free design of her in this session, make this one clearly different — another face and hairstyle (the same hair colour and skin tone), another costume shape from the list with another signature idea, another pose and setting.\n\nWrite your own detailed image prompt from this brief, then draw it. One figure only, natural hands with five fingers; a banner or seal may carry a single faction character, no other text; no logo or watermark.\n\nDetailed design selected for this image:\nChosen costume silhouette: 4, a long silk shawl around the shoulders and arms over airy layered robes. Signature construction: split feather-shaped silk folds interlock along the waist like the chained ships of her stratagem, then open into long phoenix-tail panels. Deep open neckline, bare shoulders, high side slit; intimate areas covered. Rose-gold hair in a high coiled bun with two long curled locks, amber eyes, a compact oval face, softly rounded small chin, lifted brows, a reserved knowing half-smile. She stands front-facing on a misty cliffside plank-road overlook, holding the phoenix-feather fan open beside her torso in her right hand, her left hand visible resting lightly at her sash. Elaborate jade and gold scholarly details, ivory shawl, brown sash. Soft key light and strong warm rim light, dewy luminous body skin with a naturally soft face.",
+ "date": "2026-11-15",
+ "record": "records/방통/samguk.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "방통",
+  "out": "world",
+  "world": "samguk",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {
+   "방통|samguk": {}
+  },
+  "looks": {
+   "방통|samguk": {
+    "params": {},
+    "faceDesignOn": true,
+    "silhouetteOn": true,
+    "exposure": "bold"
+   }
+  },
+  "shots": {
+   "방통|samguk": {
+    "scene": "",
+    "time": "",
+    "pose": "",
+    "expr": "",
+    "frame": ""
+   }
+  },
+  "walked": {},
+  "casualN": 1,
+  "scenes": {}
+ },
+ "execution": "sam-pangtong-119e72-20261115",
+ "imported": "2026-11-15",
+ "review": {
+  "reviewed": true,
+  "by": "user",
+  "result": "selected",
+  "selection": 3
+ },
+ "generation": {
+  "tool": "image_gen",
+  "endpoint": "images/generations",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "577615ef615b7b508c59b4161dbfd85b919e605a6fc7a4aa8a3661877683731d",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "prompt_sha256": "4de91ba8bbc0ed50f4e8f08e5568cea5202828d9333f05b039e1803057a58b08",
+  "prompt_form": "en-prompt",
+  "selection": 3,
+  "design": "gpt_free",
+  "retries": [],
+  "free_prompt": "Design brief — your own take on this character. A full-body vertical 2:3 (1024×1536) character card image of Pang Tong from the Romance of the Three Kingdoms, reimagined as an adult woman — the Fledgling Phoenix, the proud genius who matched the Sleeping Dragon. Age: mid-twenties — a clear adult face; no facial lines. She is a woman — no beard, moustache or facial hair.\n\nYou design her yourself: invent her face, eye colour, hairstyle, makeup, expression, pose and setting as a fresh, original take — do not follow any earlier design of this character. Her hair colour, skin tone, costume and weapon are NOT free: take them from our designs below.\n\nStyle (fixed): Korean MMORPG character artwork. A recognisably drawn face with gently simplified anatomical structure. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\n\nInspiration only: a cool, aloof genius who looks down on lesser minds and lets few see her worth, phoenix motifs, the chained-ships stratagem at Red Cliffs, fallen at the Slope of the Fallen Phoenix.\n\nWorld (fixed): Shu Han in the Sichuan basin, around 208–263 AD: the city of Chengdu, cliffside plank roads over gorges, mist-wrapped mountains and bamboo forests, peach orchards, green-and-gold banners. Her costume, weapon and setting belong to this world.\n\nCostume (choose one of ours, then add your own idea): pick ONE of these costume shapes from our set and keep its overall silhouette — 1) light armor pieces over a fitted silk martial dress, long silk sashes and a light skirt flowing from the waist and shoulders — a light, dancing silhouette; 2) no armor — a long floor-length robe with wide sleeves and a broad sash, a long elegant falling silhouette; 3) a fitted martial-arts outfit with a wide belt and arm guards, a long silk sash streaming behind — a wandering swordswoman's silhouette; 4) a long silk shawl wrapping the shoulders and arms and floating in the air, light layered robes — an airy, celestial silhouette; 5) very long flowing water sleeves trailing past the hands through the air over a fitted dancer's dress — the sleeves make the shape. Then add one signature idea of your own drawn from her legend, built into the construction of the outfit itself rather than as a print or a loose accessory — e.g. plates or cloth layered like feathers, scales or petals, a hem or sleeve cut into a motif from her story. Build it in this world's materials and our colours below.\n\nWeapon (fixed — ours): a phoenix-feather fan.\n\nHair colour (fixed — ours): rose-gold hair. Keep exactly this hair colour; only the hairstyle is yours.\n\nSkin tone (fixed — ours): fair skin. Keep exactly this skin tone.\n\nCostume colours (ours): jade green, imperial gold, earthen brown, white jade.\n\nRank (fixed): she is a master strategist — her costume must read scholarly prestige at first glance: elegant, layered and finely ornamented, with flagship-card detail, never plain or sparse.\n\nExposure (fixed): bold — her outfit shows skin by design (a deep neckline, bare shoulders or arms, a high slit or short hem); intimate areas covered.\n\nFace proportions: a short midface and a soft, gently rounded jawline with a small soft chin — never a long face or a long, pointed or heavy jaw; any crown or headpiece sits above her hairline and never lengthens her face. Her eyes stay at a natural open size — never squeezed into narrow slits.\n\nComposition: vertical 2:3 full-body framing with modest headroom and clear space below the boots — the whole figure from the top of her crown or headpiece to both boots stays inside the frame, occupying about four-fifths of the image height, with the same camera distance in every genre; her hands and her signature item stay inside the frame. Camera at chest height with natural portrait perspective — no wide-angle distortion, no low angle, no close crop.\n\nIf you have already drawn a free design of her in this session, make this one clearly different — another face and hairstyle (the same hair colour and skin tone), another costume shape from the list with another signature idea, another pose and setting.\n\nWrite your own detailed image prompt from this brief, then draw it. One figure only, natural hands with five fingers; a banner or seal may carry a single faction character, no other text; no logo or watermark.\n\nDetailed design selected for this image:\nChosen costume silhouette: 4, a long silk shawl around the shoulders and arms over airy layered robes. Signature construction: split feather-shaped silk folds interlock along the waist like the chained ships of her stratagem, then open into long phoenix-tail panels. Deep open neckline, bare shoulders, high side slit; intimate areas covered. Rose-gold hair in a high coiled bun with two long curled locks, amber eyes, a compact oval face, softly rounded small chin, lifted brows, a reserved knowing half-smile. She stands front-facing on a misty cliffside plank-road overlook, holding the phoenix-feather fan open beside her torso in her right hand, her left hand visible resting lightly at her sash. Elaborate jade and gold scholarly details, ivory shawl, brown sash. Soft key light and strong warm rim light, dewy luminous body skin with a naturally soft face."
+ },
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "577615ef615b7b508c59b4161dbfd85b919e605a6fc7a4aa8a3661877683731d",
+  "passed": true,
+  "anatomy": "ok",
+  "exposure": "match",
+  "observations": [
+   "사용자가 세계컷 후보 3번 선택. 전신·두 팔·두 다리와 부채 연결 확인."
+  ]
+ }
+}
