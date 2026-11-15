@@ -1,0 +1,141 @@
+{
+  "atelier": "samguk",
+  "card": "장각",
+  "faction": "qun",
+  "slot": "casual3",
+  "treeV": 2,
+  "world": "mecha",
+  "style": "kr_drawn_rim_dewy",
+  "styleVersion": "v1",
+  "ref": "장각_mecha_kr_drawn_rim_dewy_f.webp",
+  "scene": {
+    "treeV": 2,
+    "era": "nation",
+    "place": "nation_study",
+    "ofam": "dongtan",
+    "item": "dongtan_turtleneck_pencil",
+    "posture": "kneel",
+    "support": "none",
+    "frame": "three_quarter",
+    "body": "front",
+    "head": "with_body",
+    "camera": "high",
+    "right": "clasp_both",
+    "left": "clasp_both",
+    "use": "",
+    "legs": "knees_together",
+    "gaze": "camera",
+    "ofree": true,
+    "ofreeFamily": "swimwear",
+    "ofreeSitu": "free",
+    "ofreeRecent": "a restored wooden plank road bolted to a sheer cliff in Sichuan — lying on her left side; a castle kitchen with a great hearth — holds one end of a towel hung around her neck; the long stone stairway of Baidicheng above the Yangtze gorge — brings a cup to her lips; overgrown jungle temple ruins — holds her keepsake at chest height; the deck of a tall wooden sailing ship at sea — perched on a ledge or edge; an outdoor theatre of tiered seats facing a stage — standing; an airport lounge — holds a cup in both hands; a pilot ready room beside a hangar — standing; the entryway of her home with a shoe bench — carries a small storage box against her waist; her crew cabin aboard a starship — holds a small hand lantern low at her side; a Peking opera dressing room — plays a guzheng zither laid across her lap or a low table; a futuristic spa of white curves and soft light — holds her keepsake up beside her face; a retro-futurist home of rounded chrome appliances and soft panels — standing",
+    "expr": "gentle",
+    "preset": "kneel_clasp",
+    "prop": "",
+    "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "moderate"
+    },
+    "unlocked": [],
+    "aspect": "2:3"
+  },
+  "file": "장각_mecha_kr_drawn_rim_dewy_f_casual3.webp",
+  "prompt": "INPUT: the attached image is the approved character — her Mecha card; keep her. Do not reuse earlier conversation images.\n\nCHARACTER: the same woman as the attached image — the female personification of Zhang Jiao of the Three Kingdoms, seen in her everyday life. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change, and her hair may be worn differently only as SCENE's Hair line says. Her Three Kingdoms identity shows ONLY as a small accessory, an object around her, or the object PROP says she holds — never in the outfit's colours, patterns or cut, never as armor, regalia or a costume.\n\nDESIGN (accessory hints only): her legend — mystical charisma, yellow headscarf, Taoist talismans and a nine-section staff — may inform at most one small accessory, a hair ornament or an object beside her, in its palette (turban yellow, earth brown, faded ochre and charcoal). The clothes keep the chosen outfit's own colours; her skin, hair and eyes stay as in the attached image.\n\nSTYLE: Korean MMORPG character artwork. A recognisably drawn face with gently simplified anatomical structure. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\n\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nAGE: the same adult woman as in the attached image — keep her own face shape, cheekbones, eye proportions and skin tone exactly; minimal facial lines (no nasolabial folds, crow's feet, under-eye bags or cheek creases). Keep her face soft, feminine and attractive in every framing — never elongated, gaunt, mannish or heavy-jawed, even in close-ups, profiles or low angles.\n\nOUTPUT: one standalone off-duty scene of her in the outfit chosen in SCENE; her legend shows only through accessories and objects around her — never in the outfit's colours, patterns or cut, never as armor, regalia or a costume. Everything else follows SCENE (chosen).\n\nFRAME: a vertical 2:3 (1024×1536) image. Compose the image for this frame; COMPOSITION in SCENE sets how much of her shows.\n\nSCENE (chosen):\nFREE DESIGN: design the place, activity, pose, framing and outfit yourself. Start from who she is — her legend, traits and personality — and show an everyday moment that is unexpected yet feels natural for her. Make it fresh through the situation and what she is doing, not through more decoration. Avoid scenes like the recent ones listed below. Keep her face, the art style and the body and anatomy rules exactly as stated. Before drawing, write your design into the lines below, then draw it. In your pose, give each hand one job only and say plainly where each arm goes; avoid poses where it is unclear which shoulder an arm comes from — an arm behind her back, behind her head or pinned under her body — and never state where a foot sits under water. Do not make it another small repair, adjusting, measuring or sorting task at a workbench, repair stall, equipment room or locker room — those scenes are already in our own list; choose another kind of everyday moment (rest, play, a meal, travel, weather, getting ready, simply being in the place).\nRecent scenes to avoid: a restored wooden plank road bolted to a sheer cliff in Sichuan — lying on her left side; a castle kitchen with a great hearth — holds one end of a towel hung around her neck; the long stone stairway of Baidicheng above the Yangtze gorge — brings a cup to her lips; overgrown jungle temple ruins — holds her keepsake at chest height; the deck of a tall wooden sailing ship at sea — perched on a ledge or edge; an outdoor theatre of tiered seats facing a stage — standing; an airport lounge — holds a cup in both hands; a pilot ready room beside a hangar — standing; the entryway of her home with a shoe bench — carries a small storage box against her waist; her crew cabin aboard a starship — holds a small hand lantern low at her side; a Peking opera dressing room — plays a guzheng zither laid across her lap or a low table; a futuristic spa of white curves and soft light — holds her keepsake up beside her face; a retro-futurist home of rounded chrome appliances and soft panels — standing.\nPlace: …\nActivity: …\nPose: …\nFraming: …\nOutfit family (required): swimwear — any swimwear outfit; you may pick one from our outfit catalog (outfit-catalog.md in this pack) or design your own, but prefer one that is not in it.\nSituation (required): a situational exposure moment of your own design that fits the scene — prefer one that is not among ours: clothes soaked by rain or a splash, clothes caught by a strong gust of wind, a top worn half undone, a strap slipped off the shoulder, a hem knotted up under the bust, an outer layer tied around the waist, a sheen of sweat from heat, a backlit silhouette through thin fabric, a skirt slit fallen open, sleeves pushed up with one more button undone, a tie or scarf pulled loose.\nOutfit: …\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: moderate — some exposed arms or lower legs, with intimate areas covered\n\nWARDROBE: change her clothes completely. From the attached image take only her face, hair and body — not its garment, armor, regalia, ornaments, mecha plates or background. Dress her exactly as SCENE describes; that outfit must read at first glance, keeping its own recognisable colours and parts. Do not carry the attached image's palette, patterns or trim into the outfit; her Three Kingdoms identity belongs in accessories and props, never in the clothes — never restyle the chosen outfit into her faction's palette, armor, robes or regalia.\n\nANGLE: the attached image fixes who she is, not how she is posed or shot. Do not copy its head angle, head tilt, gaze direction, face size in frame, camera height or crop — turn her head, set her gaze and place the camera exactly as SCENE describes, and let her face read naturally from that new angle (profile, three-quarter, looking down or away), with her features staying the same. No default card pose, no default front-facing portrait.\n\nONE MAIN FIGURE: she is the only character in focus. Where the place is busy, other people may appear only as small, soft-focus background extras — never posed with her. No logo, no watermark, no speech bubble, no frame border. No readable text or numbers.\n\nANATOMY: natural adult proportions, about 7.5 heads tall — height from the legs, never a smaller head or a longer neck. The neck is a natural length and the head sits close to the shoulders. No body-part enlargement, no extra limbs.\n\nFIGURE: tall and statuesque with long legs and a full, curvaceous figure — full bust and hips, narrow waist — keep this exact build from the attached image, neither slimmer nor fuller.\n\nBODY: a normal human body — one head, two arms and two legs, each joined at its natural joint; elbows, knees and wrists bend the human way. Hands and feet may be partly hidden by the pose, what she holds or the frame. Right and left mean her own right and left, not the viewer's.\n\nHANDS: natural human hands, no extra or duplicated limbs; each visible hand joins through its wrist and forearm to the matching shoulder. A hand may stay outside the crop, and fingers may be partly hidden by a grip.\n\nAVOID: a blue or bruise-like tint on the skin around the eyes, glossy or shiny highlights on the face, sweaty, oily or plastic-looking skin.",
+  "date": "2026-11-15",
+  "record": "records/장각/mecha-casual3.kr_drawn_rim_dewy-ui.json",
+  "storage": {
+    "card": "장각",
+    "out": "casual",
+    "world": "mecha",
+    "style": "kr_drawn_rim_dewy",
+    "notes": {},
+    "looks": {},
+    "shots": {},
+    "walked": {},
+    "casualN": 3,
+    "scenes": {
+      "장각": {
+        "era": "nation",
+        "place": "nation_study",
+        "ofam": "dongtan",
+        "treeV": 2,
+        "prop": "",
+        "preset": "kneel_clasp",
+        "use": "",
+        "posture": "kneel",
+        "support": "none",
+        "frame": "three_quarter",
+        "body": "front",
+        "head": "with_body",
+        "camera": "high",
+        "right": "clasp_both",
+        "left": "clasp_both",
+        "legs": "knees_together",
+        "gaze": "camera",
+        "item": "dongtan_turtleneck_pencil",
+        "expr": "gentle",
+        "axes": {
+          "overall_intensity": "strong",
+          "skin_exposure": "moderate"
+        },
+        "aspect": "2:3",
+        "unlocked": [],
+        "ofree": true,
+        "ofreeFamily": "swimwear",
+        "ofreeSitu": "free",
+        "ofreeRecent": "a restored wooden plank road bolted to a sheer cliff in Sichuan — lying on her left side; a castle kitchen with a great hearth — holds one end of a towel hung around her neck; the long stone stairway of Baidicheng above the Yangtze gorge — brings a cup to her lips; overgrown jungle temple ruins — holds her keepsake at chest height; the deck of a tall wooden sailing ship at sea — perched on a ledge or edge; an outdoor theatre of tiered seats facing a stage — standing; an airport lounge — holds a cup in both hands; a pilot ready room beside a hangar — standing; the entryway of her home with a shoe bench — carries a small storage box against her waist; her crew cabin aboard a starship — holds a small hand lantern low at her side; a Peking opera dressing room — plays a guzheng zither laid across her lap or a low table; a futuristic spa of white curves and soft light — holds her keepsake up beside her face; a retro-futurist home of rounded chrome appliances and soft panels — standing"
+      }
+    }
+  },
+  "execution": "sam-zhangjiao-20261115-9b31",
+  "imported": "2026-11-15",
+  "generation": {
+    "tool": "image_gen",
+    "endpoint": "images/edits",
+    "ref_sha256": "510c68eff0dd5f47ca971b1982ba0f89b08dd81a9d1a6d050979ec36ed4b9708",
+    "size": [
+      1024,
+      1536
+    ],
+    "png_sha256": "15320a5ada3b3e74ecd27226d5e01fa9565794a5dd61e7080ec23c51b289f168",
+    "prompt_sha256": "9824eea775e52c20da292681ea8d84432d52fcf24b6efce22d941e990a9ead0b",
+    "prompt_form": "gpt-structured",
+    "webp": {
+      "quality": 90
+    },
+    "source_png": "/workspace/scratch/9b31ee9a6d6f/generated_images/exec-ef7abc8d-ab8c-4a4c-9e90-7daa4ec16407.png",
+    "free_prompt": "INPUT: the attached image is the approved character — her Mecha card; keep her. Do not reuse earlier conversation images.\n\nCHARACTER: the same woman as the attached image — the female personification of Zhang Jiao of the Three Kingdoms, seen in her everyday life. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change, and her hair may be worn differently only as SCENE's Hair line says. Her Three Kingdoms identity shows ONLY as a small accessory, an object around her, or the object PROP says she holds — never in the outfit's colours, patterns or cut, never as armor, regalia or a costume.\n\nDESIGN (accessory hints only): her legend — mystical charisma, yellow headscarf, Taoist talismans and a nine-section staff — may inform at most one small accessory, a hair ornament or an object beside her, in its palette (turban yellow, earth brown, faded ochre and charcoal). The clothes keep the chosen outfit's own colours; her skin, hair and eyes stay as in the attached image.\n\nSTYLE: Korean MMORPG character artwork. A recognisably drawn face with gently simplified anatomical structure. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\n\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nAGE: the same adult woman as in the attached image — keep her own face shape, cheekbones, eye proportions and skin tone exactly; minimal facial lines (no nasolabial folds, crow's feet, under-eye bags or cheek creases). Keep her face soft, feminine and attractive in every framing — never elongated, gaunt, mannish or heavy-jawed, even in close-ups, profiles or low angles.\n\nOUTPUT: one standalone off-duty scene of her in the outfit chosen in SCENE; her legend shows only through accessories and objects around her — never in the outfit's colours, patterns or cut, never as armor, regalia or a costume. Everything else follows SCENE (chosen).\n\nFRAME: a vertical 2:3 (1024×1536) image. Compose the image for this frame; COMPOSITION in SCENE sets how much of her shows.\n\nSCENE (chosen):\nFREE DESIGN: design the place, activity, pose, framing and outfit yourself. Start from who she is — her legend, traits and personality — and show an everyday moment that is unexpected yet feels natural for her. Make it fresh through the situation and what she is doing, not through more decoration. Avoid scenes like the recent ones listed below. Keep her face, the art style and the body and anatomy rules exactly as stated. Before drawing, write your design into the lines below, then draw it. In your pose, give each hand one job only and say plainly where each arm goes; avoid poses where it is unclear which shoulder an arm comes from — an arm behind her back, behind her head or pinned under her body — and never state where a foot sits under water. Do not make it another small repair, adjusting, measuring or sorting task at a workbench, repair stall, equipment room or locker room — those scenes are already in our own list; choose another kind of everyday moment (rest, play, a meal, travel, weather, getting ready, simply being in the place).\nRecent scenes to avoid: a restored wooden plank road bolted to a sheer cliff in Sichuan — lying on her left side; a castle kitchen with a great hearth — holds one end of a towel hung around her neck; the long stone stairway of Baidicheng above the Yangtze gorge — brings a cup to her lips; overgrown jungle temple ruins — holds her keepsake at chest height; the deck of a tall wooden sailing ship at sea — perched on a ledge or edge; an outdoor theatre of tiered seats facing a stage — standing; an airport lounge — holds a cup in both hands; a pilot ready room beside a hangar — standing; the entryway of her home with a shoe bench — carries a small storage box against her waist; her crew cabin aboard a starship — holds a small hand lantern low at her side; a Peking opera dressing room — plays a guzheng zither laid across her lap or a low table; a futuristic spa of white curves and soft light — holds her keepsake up beside her face; a retro-futurist home of rounded chrome appliances and soft panels — standing.\nPlace: an outdoor saltwater flotation pool beneath a glass observatory dome\nActivity: standing after a swim and removing her stiff swim visor; the visor catches the neck scarf and draws the scarf away from one shoulder, leaving the swimsuit neckline visible\nPose: standing front-facing; right hand lifts the visor at chest level; left hand holds its strap below, both arms visibly connected in front\nFraming: waist-up portrait at eye level with her face and hands clearly visible\nOutfit family (required): swimwear — any swimwear outfit; you may pick one from our outfit catalog (outfit-catalog.md in this pack) or design your own, but prefer one that is not in it.\nSituation (required): a situational exposure moment of your own design that fits the scene — prefer one that is not among ours: clothes soaked by rain or a splash, clothes caught by a strong gust of wind, a top worn half undone, a strap slipped off the shoulder, a hem knotted up under the bust, an outer layer tied around the waist, a sheen of sweat from heat, a backlit silhouette through thin fabric, a skirt slit fallen open, sleeves pushed up with one more button undone, a tie or scarf pulled loose.\nOutfit: an opaque pearly-white athletic monokini with a geometric open side waist, broad straps and a cobalt detachable neck scarf pulled to one side by the visor strap; intimate areas fully covered\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: moderate — some exposed arms or lower legs, with intimate areas covered\n\nWARDROBE: change her clothes completely. From the attached image take only her face, hair and body — not its garment, armor, regalia, ornaments, mecha plates or background. Dress her exactly as SCENE describes; that outfit must read at first glance, keeping its own recognisable colours and parts. Do not carry the attached image's palette, patterns or trim into the outfit; her Three Kingdoms identity belongs in accessories and props, never in the clothes — never restyle the chosen outfit into her faction's palette, armor, robes or regalia.\n\nANGLE: the attached image fixes who she is, not how she is posed or shot. Do not copy its head angle, head tilt, gaze direction, face size in frame, camera height or crop — turn her head, set her gaze and place the camera exactly as SCENE describes, and let her face read naturally from that new angle (profile, three-quarter, looking down or away), with her features staying the same. No default card pose, no default front-facing portrait.\n\nONE MAIN FIGURE: she is the only character in focus. Where the place is busy, other people may appear only as small, soft-focus background extras — never posed with her. No logo, no watermark, no speech bubble, no frame border. No readable text or numbers.\n\nANATOMY: natural adult proportions, about 7.5 heads tall — height from the legs, never a smaller head or a longer neck. The neck is a natural length and the head sits close to the shoulders. No body-part enlargement, no extra limbs.\n\nFIGURE: tall and statuesque with long legs and a full, curvaceous figure — full bust and hips, narrow waist — keep this exact build from the attached image, neither slimmer nor fuller.\n\nBODY: a normal human body — one head, two arms and two legs, each joined at its natural joint; elbows, knees and wrists bend the human way. Hands and feet may be partly hidden by the pose, what she holds or the frame. Right and left mean her own right and left, not the viewer's.\n\nHANDS: natural human hands, no extra or duplicated limbs; each visible hand joins through its wrist and forearm to the matching shoulder. A hand may stay outside the crop, and fingers may be partly hidden by a grip.\n\nAVOID: a blue or bruise-like tint on the skin around the eyes, glossy or shiny highlights on the face, sweaty, oily or plastic-looking skin.",
+    "retries": [
+      {
+        "n": 1,
+        "status": "moderation_blocked",
+        "request_id": "d7bba146-b9ac-4626-8d9b-c5bbff4a826e"
+      },
+      {
+        "n": 2,
+        "status": "moderation_blocked",
+        "request_id": "9a0e5ab7-0666-45b8-b271-ae7caf28b826"
+      }
+    ],
+    "final_exposure": "moderate",
+    "free_design": "Place: an outdoor saltwater flotation pool beneath a glass observatory dome\nActivity: standing after a swim and removing her stiff swim visor; the visor catches the neck scarf and draws the scarf away from one shoulder, leaving the swimsuit neckline visible\nPose: standing front-facing; right hand lifts the visor at chest level; left hand holds its strap below, both arms visibly connected in front\nFraming: waist-up portrait at eye level with her face and hands clearly visible\nOutfit: an opaque pearly-white athletic monokini with a geometric open side waist, broad straps and a cobalt detachable neck scarf pulled to one side by the visor strap; intimate areas fully covered"
+  },
+  "qa": {
+    "reviewer": "codex",
+    "image_sha256": "15320a5ada3b3e74ecd27226d5e01fa9565794a5dd61e7080ec23c51b289f168",
+    "passed": true,
+    "anatomy": "ok",
+    "exposure": "match",
+    "observations": [
+      "참조 캐릭터의 얼굴·머리색 확인, 성인 여성 한 명",
+      "팔다리 연결과 프레이밍 확인; 자세에서 가려지는 손가락은 수를 단정하지 않음",
+      "스카프가 목 앞에 남아 있고 오른손은 바이저를 듦; 배경에 흐린 수영객"
+    ]
+  },
+  "acceptance": "user authorized publication after 1,2,2 world selection",
+  "review": {
+    "reviewed": false,
+    "by": "user",
+    "result": "pending"
+  }
+}

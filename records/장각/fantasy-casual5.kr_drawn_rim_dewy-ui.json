@@ -1,0 +1,125 @@
+{
+  "atelier": "samguk",
+  "card": "장각",
+  "faction": "qun",
+  "slot": "casual5",
+  "treeV": 2,
+  "world": "fantasy",
+  "style": "kr_drawn_rim_dewy",
+  "styleVersion": "v1",
+  "ref": "장각_fantasy_kr_drawn_rim_dewy_f.webp",
+  "scene": {
+    "treeV": 2,
+    "era": "now",
+    "place": "subway_platform",
+    "ofam": "everyday",
+    "item": "shirt_dress",
+    "posture": "stand",
+    "support": "none",
+    "frame": "environmental",
+    "body": "side",
+    "head": "with_body",
+    "camera": "eye",
+    "right": "prop",
+    "left": "prop",
+    "use": "camera_check",
+    "legs": "stand_relaxed",
+    "gaze": "",
+    "ofree": true,
+    "ofreeRecent": "a restored wooden plank road bolted to a sheer cliff in Sichuan — lying on her left side; a castle kitchen with a great hearth — holds one end of a towel hung around her neck; the long stone stairway of Baidicheng above the Yangtze gorge — brings a cup to her lips; overgrown jungle temple ruins — holds her keepsake at chest height; the deck of a tall wooden sailing ship at sea — perched on a ledge or edge; an outdoor theatre of tiered seats facing a stage — standing; an airport lounge — holds a cup in both hands; a pilot ready room beside a hangar — standing; a small live house with a low stage — standing; a castle bathhouse with a stone pool — dries her hair with a towel; an editorial photo studio with a seamless backdrop and dramatic lights — holds her keepsake up beside her face; the top of a restored ancient city wall — carries a small red paper lantern by its cord; an underwater palace hall behind great glass arches — holds a small hand lantern low at her side",
+    "expr": "gentle",
+    "preset": "stand_use",
+    "prop": "",
+    "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    },
+    "unlocked": [],
+    "aspect": "2:3"
+  },
+  "file": "장각_fantasy_kr_drawn_rim_dewy_f_casual5.webp",
+  "prompt": "INPUT: the attached image is the approved character — her Medieval fantasy card; keep her. Do not reuse earlier conversation images.\n\nCHARACTER: the same woman as the attached image — the female personification of Zhang Jiao of the Three Kingdoms, seen in her everyday life. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change, and her hair may be worn differently only as SCENE's Hair line says. Her Three Kingdoms identity shows ONLY as a small accessory, an object around her, or the object PROP says she holds — never in the outfit's colours, patterns or cut, never as armor, regalia or a costume.\n\nDESIGN (accessory hints only): her legend — mystical charisma, yellow headscarf, Taoist talismans and a nine-section staff — may inform at most one small accessory, a hair ornament or an object beside her, in its palette (turban yellow, earth brown, faded ochre and charcoal). The clothes keep the chosen outfit's own colours; her skin, hair and eyes stay as in the attached image.\n\nSTYLE: Korean MMORPG character artwork. A recognisably drawn face with gently simplified anatomical structure. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\n\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nAGE: the same adult woman as in the attached image — keep her own face shape, cheekbones, eye proportions and skin tone exactly; minimal facial lines (no nasolabial folds, crow's feet, under-eye bags or cheek creases). Keep her face soft, feminine and attractive in every framing — never elongated, gaunt, mannish or heavy-jawed, even in close-ups, profiles or low angles.\n\nOUTPUT: one standalone off-duty scene of her in the outfit chosen in SCENE; her legend shows only through accessories and objects around her — never in the outfit's colours, patterns or cut, never as armor, regalia or a costume. Everything else follows SCENE (chosen).\n\nFRAME: a vertical 2:3 (1024×1536) image. Compose the image for this frame; COMPOSITION in SCENE sets how much of her shows.\n\nSCENE (chosen):\nFREE DESIGN: design the place, activity, pose, framing and outfit yourself. Start from who she is — her legend, traits and personality — and show an everyday moment that is unexpected yet feels natural for her. Make it fresh through the situation and what she is doing, not through more decoration. Avoid scenes like the recent ones listed below. Keep her face, the art style and the body and anatomy rules exactly as stated. Before drawing, write your design into the lines below, then draw it. In your pose, give each hand one job only and say plainly where each arm goes; avoid poses where it is unclear which shoulder an arm comes from — an arm behind her back, behind her head or pinned under her body — and never state where a foot sits under water. Do not make it another small repair, adjusting, measuring or sorting task at a workbench, repair stall, equipment room or locker room — those scenes are already in our own list; choose another kind of everyday moment (rest, play, a meal, travel, weather, getting ready, simply being in the place).\nRecent scenes to avoid: a restored wooden plank road bolted to a sheer cliff in Sichuan — lying on her left side; a castle kitchen with a great hearth — holds one end of a towel hung around her neck; the long stone stairway of Baidicheng above the Yangtze gorge — brings a cup to her lips; overgrown jungle temple ruins — holds her keepsake at chest height; the deck of a tall wooden sailing ship at sea — perched on a ledge or edge; an outdoor theatre of tiered seats facing a stage — standing; an airport lounge — holds a cup in both hands; a pilot ready room beside a hangar — standing; a small live house with a low stage — standing; a castle bathhouse with a stone pool — dries her hair with a towel; an editorial photo studio with a seamless backdrop and dramatic lights — holds her keepsake up beside her face; the top of a restored ancient city wall — carries a small red paper lantern by its cord; an underwater palace hall behind great glass arches — holds a small hand lantern low at her side.\nPlace: …\nActivity: …\nPose: …\nFraming: …\nOutfit: … (a revealing, fashionable outfit that is not in our outfit catalog — outfit-catalog.md in this pack)\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing; nothing slipped off; intimate areas covered\n\nWARDROBE: change her clothes completely. From the attached image take only her face, hair and body — not its garment, armor, regalia, ornaments, mecha plates or background. Dress her exactly as SCENE describes; that outfit must read at first glance, keeping its own recognisable colours and parts. Do not carry the attached image's palette, patterns or trim into the outfit; her Three Kingdoms identity belongs in accessories and props, never in the clothes — never restyle the chosen outfit into her faction's palette, armor, robes or regalia.\n\nANGLE: the attached image fixes who she is, not how she is posed or shot. Do not copy its head angle, head tilt, gaze direction, face size in frame, camera height or crop — turn her head, set her gaze and place the camera exactly as SCENE describes, and let her face read naturally from that new angle (profile, three-quarter, looking down or away), with her features staying the same. No default card pose, no default front-facing portrait.\n\nONE MAIN FIGURE: she is the only character in focus. Where the place is busy, other people may appear only as small, soft-focus background extras — never posed with her. No logo, no watermark, no speech bubble, no frame border. No readable text or numbers.\n\nANATOMY: natural adult proportions, about 7.5 heads tall — height from the legs, never a smaller head or a longer neck. The neck is a natural length and the head sits close to the shoulders. No body-part enlargement, no extra limbs.\n\nFIGURE: tall and statuesque with long legs and a full, curvaceous figure — full bust and hips, narrow waist — keep this exact build from the attached image, neither slimmer nor fuller.\n\nBODY: a normal human body — one head, two arms and two legs, each joined at its natural joint; elbows, knees and wrists bend the human way. Hands and feet may be partly hidden by the pose, what she holds or the frame. Right and left mean her own right and left, not the viewer's.\n\nHANDS: natural human hands, no extra or duplicated limbs; each visible hand joins through its wrist and forearm to the matching shoulder. A hand may stay outside the crop, and fingers may be partly hidden by a grip.\n\nAVOID: a blue or bruise-like tint on the skin around the eyes, glossy or shiny highlights on the face, sweaty, oily or plastic-looking skin.",
+  "date": "2026-11-15",
+  "record": "records/장각/fantasy-casual5.kr_drawn_rim_dewy-ui.json",
+  "storage": {
+    "card": "장각",
+    "out": "casual",
+    "world": "fantasy",
+    "style": "kr_drawn_rim_dewy",
+    "notes": {},
+    "looks": {},
+    "shots": {},
+    "walked": {},
+    "casualN": 5,
+    "scenes": {
+      "장각": {
+        "era": "now",
+        "place": "subway_platform",
+        "ofam": "everyday",
+        "treeV": 2,
+        "prop": "",
+        "preset": "stand_use",
+        "use": "camera_check",
+        "posture": "stand",
+        "support": "none",
+        "frame": "environmental",
+        "body": "side",
+        "head": "with_body",
+        "camera": "eye",
+        "right": "prop",
+        "left": "prop",
+        "legs": "stand_relaxed",
+        "gaze": "",
+        "item": "shirt_dress",
+        "expr": "gentle",
+        "axes": {
+          "overall_intensity": "strong",
+          "skin_exposure": "bold"
+        },
+        "aspect": "2:3",
+        "unlocked": [],
+        "ofree": true,
+        "ofreeRecent": "a restored wooden plank road bolted to a sheer cliff in Sichuan — lying on her left side; a castle kitchen with a great hearth — holds one end of a towel hung around her neck; the long stone stairway of Baidicheng above the Yangtze gorge — brings a cup to her lips; overgrown jungle temple ruins — holds her keepsake at chest height; the deck of a tall wooden sailing ship at sea — perched on a ledge or edge; an outdoor theatre of tiered seats facing a stage — standing; an airport lounge — holds a cup in both hands; a pilot ready room beside a hangar — standing; a small live house with a low stage — standing; a castle bathhouse with a stone pool — dries her hair with a towel; an editorial photo studio with a seamless backdrop and dramatic lights — holds her keepsake up beside her face; the top of a restored ancient city wall — carries a small red paper lantern by its cord; an underwater palace hall behind great glass arches — holds a small hand lantern low at her side"
+      }
+    }
+  },
+  "execution": "sam-zhangjiao-20261115-9b31",
+  "imported": "2026-11-15",
+  "generation": {
+    "tool": "image_gen",
+    "endpoint": "images/edits",
+    "ref_sha256": "fa7819140b9615ced023086f66d671afd028ae9a4345f8c8a950251d5d6e7f86",
+    "size": [
+      1024,
+      1536
+    ],
+    "png_sha256": "4878f49390860e87c826155261327f5cebd97bbde6bb5f9d59087f3ba6071c01",
+    "prompt_sha256": "dc6e2c559e79268f1fee1237db1544722e3763e7ce8940e4a1235913fc2a8580",
+    "prompt_form": "gpt-structured",
+    "webp": {
+      "quality": 90
+    },
+    "source_png": "/workspace/scratch/9b31ee9a6d6f/generated_images/exec-98d2dc42-df74-44d8-a70a-af7f645eed00.png",
+    "free_prompt": "INPUT: the attached image is the approved character — her Medieval fantasy card; keep her. Do not reuse earlier conversation images.\n\nCHARACTER: the same woman as the attached image — the female personification of Zhang Jiao of the Three Kingdoms, seen in her everyday life. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change, and her hair may be worn differently only as SCENE's Hair line says. Her Three Kingdoms identity shows ONLY as a small accessory, an object around her, or the object PROP says she holds — never in the outfit's colours, patterns or cut, never as armor, regalia or a costume.\n\nDESIGN (accessory hints only): her legend — mystical charisma, yellow headscarf, Taoist talismans and a nine-section staff — may inform at most one small accessory, a hair ornament or an object beside her, in its palette (turban yellow, earth brown, faded ochre and charcoal). The clothes keep the chosen outfit's own colours; her skin, hair and eyes stay as in the attached image.\n\nSTYLE: Korean MMORPG character artwork. A recognisably drawn face with gently simplified anatomical structure. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\n\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nAGE: the same adult woman as in the attached image — keep her own face shape, cheekbones, eye proportions and skin tone exactly; minimal facial lines (no nasolabial folds, crow's feet, under-eye bags or cheek creases). Keep her face soft, feminine and attractive in every framing — never elongated, gaunt, mannish or heavy-jawed, even in close-ups, profiles or low angles.\n\nOUTPUT: one standalone off-duty scene of her in the outfit chosen in SCENE; her legend shows only through accessories and objects around her — never in the outfit's colours, patterns or cut, never as armor, regalia or a costume. Everything else follows SCENE (chosen).\n\nFRAME: a vertical 2:3 (1024×1536) image. Compose the image for this frame; COMPOSITION in SCENE sets how much of her shows.\n\nSCENE (chosen):\nFREE DESIGN: design the place, activity, pose, framing and outfit yourself. Start from who she is — her legend, traits and personality — and show an everyday moment that is unexpected yet feels natural for her. Make it fresh through the situation and what she is doing, not through more decoration. Avoid scenes like the recent ones listed below. Keep her face, the art style and the body and anatomy rules exactly as stated. Before drawing, write your design into the lines below, then draw it. In your pose, give each hand one job only and say plainly where each arm goes; avoid poses where it is unclear which shoulder an arm comes from — an arm behind her back, behind her head or pinned under her body — and never state where a foot sits under water. Do not make it another small repair, adjusting, measuring or sorting task at a workbench, repair stall, equipment room or locker room — those scenes are already in our own list; choose another kind of everyday moment (rest, play, a meal, travel, weather, getting ready, simply being in the place).\nRecent scenes to avoid: a restored wooden plank road bolted to a sheer cliff in Sichuan — lying on her left side; a castle kitchen with a great hearth — holds one end of a towel hung around her neck; the long stone stairway of Baidicheng above the Yangtze gorge — brings a cup to her lips; overgrown jungle temple ruins — holds her keepsake at chest height; the deck of a tall wooden sailing ship at sea — perched on a ledge or edge; an outdoor theatre of tiered seats facing a stage — standing; an airport lounge — holds a cup in both hands; a pilot ready room beside a hangar — standing; a small live house with a low stage — standing; a castle bathhouse with a stone pool — dries her hair with a towel; an editorial photo studio with a seamless backdrop and dramatic lights — holds her keepsake up beside her face; the top of a restored ancient city wall — carries a small red paper lantern by its cord; an underwater palace hall behind great glass arches — holds a small hand lantern low at her side.\nPlace: a silent overnight sleeper-train compartment with an enormous moonlit window\nActivity: leaning forward to blow on a steaming mug of herbal tea, a small astronomy notebook open on the seat beside her\nPose: sitting on the edge of a cushioned berth facing three-quarter front; right hand holds mug handle, left hand supports mug base, both elbows in front\nFraming: environmental seated full-body view from the compartment doorway, face illuminated softly\nOutfit: a jade-green asymmetric one-shoulder romper with a draped cross-body panel, open side waist and loose short legs, paired with a knitted cream knee blanket resting beside her (a revealing, fashionable outfit that is not in our outfit catalog — outfit-catalog.md in this pack)\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing; nothing slipped off; intimate areas covered\n\nWARDROBE: change her clothes completely. From the attached image take only her face, hair and body — not its garment, armor, regalia, ornaments, mecha plates or background. Dress her exactly as SCENE describes; that outfit must read at first glance, keeping its own recognisable colours and parts. Do not carry the attached image's palette, patterns or trim into the outfit; her Three Kingdoms identity belongs in accessories and props, never in the clothes — never restyle the chosen outfit into her faction's palette, armor, robes or regalia.\n\nANGLE: the attached image fixes who she is, not how she is posed or shot. Do not copy its head angle, head tilt, gaze direction, face size in frame, camera height or crop — turn her head, set her gaze and place the camera exactly as SCENE describes, and let her face read naturally from that new angle (profile, three-quarter, looking down or away), with her features staying the same. No default card pose, no default front-facing portrait.\n\nONE MAIN FIGURE: she is the only character in focus. Where the place is busy, other people may appear only as small, soft-focus background extras — never posed with her. No logo, no watermark, no speech bubble, no frame border. No readable text or numbers.\n\nANATOMY: natural adult proportions, about 7.5 heads tall — height from the legs, never a smaller head or a longer neck. The neck is a natural length and the head sits close to the shoulders. No body-part enlargement, no extra limbs.\n\nFIGURE: tall and statuesque with long legs and a full, curvaceous figure — full bust and hips, narrow waist — keep this exact build from the attached image, neither slimmer nor fuller.\n\nBODY: a normal human body — one head, two arms and two legs, each joined at its natural joint; elbows, knees and wrists bend the human way. Hands and feet may be partly hidden by the pose, what she holds or the frame. Right and left mean her own right and left, not the viewer's.\n\nHANDS: natural human hands, no extra or duplicated limbs; each visible hand joins through its wrist and forearm to the matching shoulder. A hand may stay outside the crop, and fingers may be partly hidden by a grip.\n\nAVOID: a blue or bruise-like tint on the skin around the eyes, glossy or shiny highlights on the face, sweaty, oily or plastic-looking skin.",
+    "free_design": "Place: a silent overnight sleeper-train compartment with an enormous moonlit window\nActivity: leaning forward to blow on a steaming mug of herbal tea, a small astronomy notebook open on the seat beside her\nPose: sitting on the edge of a cushioned berth facing three-quarter front; right hand holds mug handle, left hand supports mug base, both elbows in front\nFraming: environmental seated full-body view from the compartment doorway, face illuminated softly\nOutfit: a jade-green asymmetric one-shoulder romper with a draped cross-body panel, open side waist and loose short legs, paired with a knitted cream knee blanket resting beside her (a revealing, fashionable outfit that is not in our outfit catalog — outfit-catalog.md in this pack)"
+  },
+  "qa": {
+    "reviewer": "codex",
+    "image_sha256": "4878f49390860e87c826155261327f5cebd97bbde6bb5f9d59087f3ba6071c01",
+    "passed": false,
+    "anatomy": "ok",
+    "exposure": "match",
+    "observations": [
+      "참조 캐릭터의 얼굴·머리색 확인, 성인 여성 한 명",
+      "팔다리 연결과 프레이밍 확인; 자세에서 가려지는 손가락은 수를 단정하지 않음",
+      "지정 한쪽 어깨가 아닌 양쪽 홀터형 점프수트; 두 손 잔 동작 확인"
+    ],
+    "cause": "생성 결과와 지정한 장면·의상·헤어·프레이밍 차이. 원본 보존."
+  },
+  "acceptance": "user authorized publication after 1,2,2 world selection",
+  "review": {
+    "reviewed": false,
+    "by": "user",
+    "result": "pending"
+  }
+}
