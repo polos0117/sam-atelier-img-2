@@ -1,0 +1,7 @@
+{
+ "slot": "mecha-casual1",
+ "reason": "Image tool displayed a result but returned no output_hint / local original path; source PNG unavailable after filesystem and Library recovery checks. No re-generation performed.",
+ "execution": "sam-yuanshu-641aa",
+ "prompt_sha256": "c74498d30dc769bf9ff3fa010c6e66462a07d64b605888ff07865c5ae3838e89",
+ "status": "blocked_missing_original"
+}
