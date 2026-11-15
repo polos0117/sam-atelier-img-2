@@ -1,0 +1,11 @@
+{
+ "execution": "sam-hejin-1d0ca-20261115",
+ "initial_fantasy_batch": {
+  "status": "moderation_blocked",
+  "request_id": "3ee4ebe5-98e0-42dd-87c9-2d54a730213b",
+  "scope": "one request in initial fantasy batch; precise slot was not returned",
+  "other_results": "No source image returned or persisted from this batch; all eight final slot outcomes were recovered by unchanged-prompt requests.",
+  "prompt_changes": false
+ },
+ "regenerations_of_successful_images": 0
+}

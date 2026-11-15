@@ -1,0 +1,129 @@
+{
+ "atelier": "samguk",
+ "card": "하진",
+ "faction": "qun",
+ "slot": "casual5",
+ "treeV": 2,
+ "world": "fantasy",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v1",
+ "ref": "하진_fantasy_kr_drawn_rim_dewy_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "now",
+  "place": "spa_sauna",
+  "ofam": "bath",
+  "item": "towel_wrap",
+  "posture": "stand",
+  "support": "none",
+  "frame": "face_close",
+  "body": "side",
+  "head": "with_body",
+  "camera": "eye",
+  "right": "hair_tuck",
+  "left": "out",
+  "use": "",
+  "legs": "",
+  "gaze": "down",
+  "ofree": true,
+  "ofreeRecent": "the entryway of her home with a shoe bench — lying on her front; inside a knightly order's campaign pavilion — sitting on the ground; a desert oasis at golden hour — drinks from a water bottle; the stone stairway up to an old city gate tower — raises a camera to her eye to take a photo; a Korean jjimjilbang hall with heated floors and sleeping mats — standing",
+  "expr": "soft_smile",
+  "preset": "hair_close",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "하진_fantasy_kr_drawn_rim_dewy_f_casual5.webp",
+ "prompt": "INPUT: the attached image is the approved character — her Medieval fantasy card; keep her. Do not reuse earlier conversation images.\n\nCHARACTER: the same woman as the attached image — the female personification of He Jin of the Three Kingdoms, seen in her everyday life. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change, and her hair may be worn differently only as SCENE's Hair line says. Her Three Kingdoms identity shows ONLY as a small accessory, an object around her, or the object PROP says she holds — never in the outfit's colours, patterns or cut, never as armor, regalia or a costume.\n\nDESIGN (accessory hints only): her legend — coarse power, rich armor over a butcher's build — may inform at most one small accessory, a hair ornament or an object beside her, in its palette (Han black and vermilion, gold and jade). The clothes keep the chosen outfit's own colours; her skin, hair and eyes stay as in the attached image.\n\nSIGNATURE ACCESSORY: off duty she carries no weapon — no sword, saber, spear, glaive, halberd, bow, axe, shield or any blade in her hands, on her back or anywhere in the scene. Her signature weapon (a butcher's cleaver of gold) appears only as one small worn accessory modelled on its shape and colours — a hair ornament, pendant, earring, brooch or belt charm a few centimetres long, clearly jewellery and not a usable weapon.\n\nSTYLE: Korean MMORPG character artwork. A recognisably drawn face with gently simplified anatomical structure. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\n\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nAGE: the same adult woman as in the attached image — keep her own face shape, cheekbones, eye proportions and skin tone exactly; minimal facial lines (no nasolabial folds, crow's feet, under-eye bags or cheek creases). Keep her face soft, feminine and attractive in every framing — never elongated, gaunt, mannish or heavy-jawed, even in close-ups, profiles or low angles.\n\nOUTPUT: one standalone off-duty scene of her in the outfit chosen in SCENE; her legend shows only through accessories and objects around her — never in the outfit's colours, patterns or cut, never as armor, regalia or a costume. Everything else follows SCENE (chosen).\n\nFRAME: a vertical 2:3 (1024×1536) image. Compose the image for this frame; COMPOSITION in SCENE sets how much of her shows.\n\nSCENE (chosen):\nFREE DESIGN: design the place, activity, pose, framing and outfit yourself. Start from who she is — her legend, traits and personality — and show an everyday moment that is unexpected yet feels natural for her. Make it fresh through the situation and what she is doing, not through more decoration. Avoid scenes like the recent ones listed below. Keep her face, the art style and the body and anatomy rules exactly as stated. Before drawing, write your design into the lines below, then draw it. In your pose, give each hand one job only and say plainly where each arm goes; avoid poses where it is unclear which shoulder an arm comes from — an arm behind her back, behind her head or pinned under her body — and never state where a foot sits under water. Do not make it another small repair, adjusting, measuring or sorting task at a workbench, repair stall, equipment room or locker room — those scenes are already in our own list; choose another kind of everyday moment (rest, play, a meal, travel, weather, getting ready, simply being in the place).\nRecent scenes to avoid: the entryway of her home with a shoe bench — lying on her front; inside a knightly order's campaign pavilion — sitting on the ground; a desert oasis at golden hour — drinks from a water bottle; the stone stairway up to an old city gate tower — raises a camera to her eye to take a photo; a Korean jjimjilbang hall with heated floors and sleeping mats — standing.\nPlace: a present-day open-air pottery picnic in a quiet coastal olive grove, a low cloth spread on the grass\nActivity: savouring a ripe peach at a leisurely picnic, relishing a moment when her only decision is which fruit to eat\nPose: seated sideways on a low cushion, torso turned three-quarters toward the camera; her own right hand holds a peach near her lips and her own left hand rests open on the picnic cloth beside her knee; both arms are in front or beside her, no hidden supporting arm\nFraming: three-quarter portrait from eye level including her face, both hands, knees and picnic setting\nOutfit: a pale pistachio terry halter playsuit with a deep softly folded V neckline, an open back, a cut-out crescent beneath the bust and loose petal-shaped short legs, secured by one fabric waist knot, with woven slides; an original opaque summer design absent from the catalogue\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing; nothing slipped off; intimate areas covered\n\nWARDROBE: change her clothes completely. From the attached image take only her face, hair and body — not its garment, armor, regalia, ornaments, mecha plates or background. Dress her exactly as SCENE describes; that outfit must read at first glance, keeping its own recognisable colours and parts. Do not carry the attached image's palette, patterns or trim into the outfit; her Three Kingdoms identity belongs in accessories and props, never in the clothes — never restyle the chosen outfit into her faction's palette, armor, robes or regalia.\n\nANGLE: the attached image fixes who she is, not how she is posed or shot. Do not copy its head angle, head tilt, gaze direction, face size in frame, camera height or crop — turn her head, set her gaze and place the camera exactly as SCENE describes, and let her face read naturally from that new angle (profile, three-quarter, looking down or away), with her features staying the same. No default card pose, no default front-facing portrait.\n\nONE MAIN FIGURE: she is the only character in focus. Where the place is busy, other people may appear only as small, soft-focus background extras — never posed with her. No logo, no watermark, no speech bubble, no frame border. No readable text or numbers.\n\nANATOMY: natural adult proportions, about 7.5 heads tall — height from the legs, never a smaller head or a longer neck. The neck is a natural length and the head sits close to the shoulders. No body-part enlargement, no extra limbs.\n\nFIGURE: voluptuous, generously curved at bust, hips and thighs — keep this exact build from the attached image, neither slimmer nor fuller.\n\nBODY: a normal human body — one head, two arms and two legs, each joined at its natural joint; elbows, knees and wrists bend the human way. Hands and feet may be partly hidden by the pose, what she holds or the frame. Right and left mean her own right and left, not the viewer's.\n\nHANDS: natural human hands, no extra or duplicated limbs; each visible hand joins through its wrist and forearm to the matching shoulder. A hand may stay outside the crop, and fingers may be partly hidden by a grip.\n\nAVOID: a blue or bruise-like tint on the skin around the eyes, glossy or shiny highlights on the face, sweaty, oily or plastic-looking skin.",
+ "date": "2026-11-15",
+ "record": "records/하진/fantasy-casual5.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "하진",
+  "out": "casual",
+  "world": "fantasy",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 5,
+  "scenes": {
+   "하진": {
+    "era": "now",
+    "place": "spa_sauna",
+    "ofam": "bath",
+    "treeV": 2,
+    "prop": "",
+    "preset": "hair_close",
+    "use": "",
+    "posture": "stand",
+    "support": "none",
+    "frame": "face_close",
+    "body": "side",
+    "head": "with_body",
+    "camera": "eye",
+    "right": "hair_tuck",
+    "left": "out",
+    "legs": "",
+    "gaze": "down",
+    "item": "towel_wrap",
+    "expr": "soft_smile",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "ofree": true,
+    "ofreeRecent": "the entryway of her home with a shoe bench — lying on her front; inside a knightly order's campaign pavilion — sitting on the ground; a desert oasis at golden hour — drinks from a water bottle; the stone stairway up to an old city gate tower — raises a camera to her eye to take a photo; a Korean jjimjilbang hall with heated floors and sleeping mats — standing"
+   }
+  }
+ },
+ "execution": "sam-hejin-1d0ca-20261115",
+ "imported": "2026-11-15",
+ "generation": {
+  "tool": "image_gen",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "8e25c1409e83a720b859cf7157dc1541afca7596c7f56c8188d6e63be448352e",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "prompt_form": "en-prompt",
+  "prompt_sha256": "5ec85768bf357ed5209eadfb56885d944062e3be3892f5043cbebde085d171ee",
+  "retries": [],
+  "ref_sha256": "046b8fd417196e27ad966934d9a88441d9af16b4222b2bae9ba4b5e873621b96",
+  "free_design": {
+   "Place": "a present-day open-air pottery picnic in a quiet coastal olive grove, a low cloth spread on the grass",
+   "Activity": "savouring a ripe peach at a leisurely picnic, relishing a moment when her only decision is which fruit to eat",
+   "Pose": "seated sideways on a low cushion, torso turned three-quarters toward the camera; her own right hand holds a peach near her lips and her own left hand rests open on the picnic cloth beside her knee; both arms are in front or beside her, no hidden supporting arm",
+   "Framing": "three-quarter portrait from eye level including her face, both hands, knees and picnic setting",
+   "Outfit": "a pale pistachio terry halter playsuit with a deep softly folded V neckline, an open back, a cut-out crescent beneath the bust and loose petal-shaped short legs, secured by one fabric waist knot, with woven slides; an original opaque summer design absent from the catalogue"
+  },
+  "free_prompt": "INPUT: the attached image is the approved character — her Medieval fantasy card; keep her. Do not reuse earlier conversation images.\n\nCHARACTER: the same woman as the attached image — the female personification of He Jin of the Three Kingdoms, seen in her everyday life. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change, and her hair may be worn differently only as SCENE's Hair line says. Her Three Kingdoms identity shows ONLY as a small accessory, an object around her, or the object PROP says she holds — never in the outfit's colours, patterns or cut, never as armor, regalia or a costume.\n\nDESIGN (accessory hints only): her legend — coarse power, rich armor over a butcher's build — may inform at most one small accessory, a hair ornament or an object beside her, in its palette (Han black and vermilion, gold and jade). The clothes keep the chosen outfit's own colours; her skin, hair and eyes stay as in the attached image.\n\nSIGNATURE ACCESSORY: off duty she carries no weapon — no sword, saber, spear, glaive, halberd, bow, axe, shield or any blade in her hands, on her back or anywhere in the scene. Her signature weapon (a butcher's cleaver of gold) appears only as one small worn accessory modelled on its shape and colours — a hair ornament, pendant, earring, brooch or belt charm a few centimetres long, clearly jewellery and not a usable weapon.\n\nSTYLE: Korean MMORPG character artwork. A recognisably drawn face with gently simplified anatomical structure. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\n\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nAGE: the same adult woman as in the attached image — keep her own face shape, cheekbones, eye proportions and skin tone exactly; minimal facial lines (no nasolabial folds, crow's feet, under-eye bags or cheek creases). Keep her face soft, feminine and attractive in every framing — never elongated, gaunt, mannish or heavy-jawed, even in close-ups, profiles or low angles.\n\nOUTPUT: one standalone off-duty scene of her in the outfit chosen in SCENE; her legend shows only through accessories and objects around her — never in the outfit's colours, patterns or cut, never as armor, regalia or a costume. Everything else follows SCENE (chosen).\n\nFRAME: a vertical 2:3 (1024×1536) image. Compose the image for this frame; COMPOSITION in SCENE sets how much of her shows.\n\nSCENE (chosen):\nFREE DESIGN: design the place, activity, pose, framing and outfit yourself. Start from who she is — her legend, traits and personality — and show an everyday moment that is unexpected yet feels natural for her. Make it fresh through the situation and what she is doing, not through more decoration. Avoid scenes like the recent ones listed below. Keep her face, the art style and the body and anatomy rules exactly as stated. Before drawing, write your design into the lines below, then draw it. In your pose, give each hand one job only and say plainly where each arm goes; avoid poses where it is unclear which shoulder an arm comes from — an arm behind her back, behind her head or pinned under her body — and never state where a foot sits under water. Do not make it another small repair, adjusting, measuring or sorting task at a workbench, repair stall, equipment room or locker room — those scenes are already in our own list; choose another kind of everyday moment (rest, play, a meal, travel, weather, getting ready, simply being in the place).\nRecent scenes to avoid: the entryway of her home with a shoe bench — lying on her front; inside a knightly order's campaign pavilion — sitting on the ground; a desert oasis at golden hour — drinks from a water bottle; the stone stairway up to an old city gate tower — raises a camera to her eye to take a photo; a Korean jjimjilbang hall with heated floors and sleeping mats — standing.\nPlace: a present-day open-air pottery picnic in a quiet coastal olive grove, a low cloth spread on the grass\nActivity: savouring a ripe peach at a leisurely picnic, relishing a moment when her only decision is which fruit to eat\nPose: seated sideways on a low cushion, torso turned three-quarters toward the camera; her own right hand holds a peach near her lips and her own left hand rests open on the picnic cloth beside her knee; both arms are in front or beside her, no hidden supporting arm\nFraming: three-quarter portrait from eye level including her face, both hands, knees and picnic setting\nOutfit: a pale pistachio terry halter playsuit with a deep softly folded V neckline, an open back, a cut-out crescent beneath the bust and loose petal-shaped short legs, secured by one fabric waist knot, with woven slides; an original opaque summer design absent from the catalogue\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing; nothing slipped off; intimate areas covered\n\nWARDROBE: change her clothes completely. From the attached image take only her face, hair and body — not its garment, armor, regalia, ornaments, mecha plates or background. Dress her exactly as SCENE describes; that outfit must read at first glance, keeping its own recognisable colours and parts. Do not carry the attached image's palette, patterns or trim into the outfit; her Three Kingdoms identity belongs in accessories and props, never in the clothes — never restyle the chosen outfit into her faction's palette, armor, robes or regalia.\n\nANGLE: the attached image fixes who she is, not how she is posed or shot. Do not copy its head angle, head tilt, gaze direction, face size in frame, camera height or crop — turn her head, set her gaze and place the camera exactly as SCENE describes, and let her face read naturally from that new angle (profile, three-quarter, looking down or away), with her features staying the same. No default card pose, no default front-facing portrait.\n\nONE MAIN FIGURE: she is the only character in focus. Where the place is busy, other people may appear only as small, soft-focus background extras — never posed with her. No logo, no watermark, no speech bubble, no frame border. No readable text or numbers.\n\nANATOMY: natural adult proportions, about 7.5 heads tall — height from the legs, never a smaller head or a longer neck. The neck is a natural length and the head sits close to the shoulders. No body-part enlargement, no extra limbs.\n\nFIGURE: voluptuous, generously curved at bust, hips and thighs — keep this exact build from the attached image, neither slimmer nor fuller.\n\nBODY: a normal human body — one head, two arms and two legs, each joined at its natural joint; elbows, knees and wrists bend the human way. Hands and feet may be partly hidden by the pose, what she holds or the frame. Right and left mean her own right and left, not the viewer's.\n\nHANDS: natural human hands, no extra or duplicated limbs; each visible hand joins through its wrist and forearm to the matching shoulder. A hand may stay outside the crop, and fingers may be partly hidden by a grip.\n\nAVOID: a blue or bruise-like tint on the skin around the eyes, glossy or shiny highlights on the face, sweaty, oily or plastic-looking skin."
+ },
+ "qa": {
+  "reviewer": "gpt-session",
+  "image_sha256": "8e25c1409e83a720b859cf7157dc1541afca7596c7f56c8188d6e63be448352e",
+  "passed": true,
+  "anatomy": "ok",
+  "exposure": "match",
+  "observations": [
+   "Olive-grove peach picnic, original pistachio terry playsuit, two connected arms and seated legs."
+  ]
+ },
+ "acceptance": "user_approval_2026-11-15 — character images and catalog main fast-forward publication authorized",
+ "review": {
+  "reviewed": false,
+  "by": "user",
+  "result": "pending"
+ }
+}

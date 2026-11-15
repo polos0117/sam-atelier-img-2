@@ -1,0 +1,18 @@
+{
+ "card": "하진",
+ "style": "kr_drawn_rim_dewy",
+ "selected": {
+  "samguk": 3,
+  "fantasy": 1,
+  "mecha": 1
+ },
+ "user_response": "3,1,1",
+ "world_images": 3,
+ "casual_images": 21,
+ "own_images": 3,
+ "total": 27,
+ "all_sizes": [
+  1024,
+  1536
+ ]
+}

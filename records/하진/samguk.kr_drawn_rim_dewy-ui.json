@@ -1,0 +1,118 @@
+{
+ "atelier": "samguk",
+ "card": "하진",
+ "faction": "qun",
+ "role": "lord",
+ "world": "samguk",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v1",
+ "notes": {},
+ "look": {
+  "params": {},
+  "faceDesignOn": true,
+  "silhouetteOn": true,
+  "exposure": "bold"
+ },
+ "design": {
+  "face": {
+   "eye_color": "coral",
+   "impression": "rugged",
+   "expr": "smug",
+   "skin_tone": "golden_tan",
+   "age": "mid_20s",
+   "eye_size": "medium",
+   "eye_tilt": "down",
+   "mark": "mole_eye",
+   "brows": "straight_thick",
+   "nose": "upturned",
+   "lips": "heart_full",
+   "face_shape": "heart",
+   "eyes": "droopy_soft"
+  },
+  "silhouette": {
+   "body": "voluptuous",
+   "hair_color": "ombre_azure",
+   "hair": "cloud_updo",
+   "bangs": "curtain"
+  }
+ },
+ "shot": {
+  "scene": "",
+  "time": "",
+  "pose": "",
+  "expr": "",
+  "frame": ""
+ },
+ "file": "하진_samguk_kr_drawn_rim_dewy_f.webp",
+ "prompt": "Design brief — your own take on this character. A full-body vertical 2:3 (1024×1536) character card image of He Jin from the Romance of the Three Kingdoms, reimagined as an adult woman — the butcher-turned-generalissimo who tried to purge the eunuchs. Age: mid-twenties — a clear adult face; no facial lines. She is a woman — no beard, moustache or facial hair.\n\nUse the original character design specified below, preserving all fixed constraints.\n\nStyle (fixed): Korean MMORPG character artwork. A recognisably drawn face with gently simplified anatomical structure. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\n\nInspiration only: coarse power, rich armor over a butcher's build.\n\nWorld (fixed): the chaos of the late Eastern Han, around 184–200 AD: burning Luoyang, the Hulao Pass, Yellow Turban fields, warlord camps of rival banners, frontier steppe and the southern jungles of the Nanman. Her costume, weapon and setting belong to this world.\n\nCostume (choose one of ours, then add your own idea): pick ONE of these costume shapes from our set and keep its overall silhouette — 1) layered laced lamellar armor, big heavy beast-head pauldrons and armored skirts to the knees — a broad, weighty general's silhouette; 2) layered trailing court regalia with a tall crown, long hanging sashes and jade pendants — a ceremonial, stately silhouette; 3) a great war cape spreading from the shoulders to the ankles as the main shape, lamellar armor beneath; 4) a lamellar breastplate above, many layers of silk skirt flaring wide below the waist — firm above, flowing below; 5) a large phoenix crown with hanging bead strands and a weighty ceremonial robe — the headdress is the main shape. Then add one signature idea of your own drawn from her legend, built into the construction of the outfit itself rather than as a print or a loose accessory — e.g. plates or cloth layered like feathers, scales or petals, a hem or sleeve cut into a motif from her story. Build it in this world's materials and our colours below.\n\nWeapon (fixed — ours): a butcher's cleaver of gold.\n\nHair colour (fixed — ours): silver hair fading to azure at the tips. Keep exactly this hair colour; only the hairstyle is yours.\n\nSkin tone (fixed — ours): light warm-beige skin with a golden undertone. Keep exactly this skin tone.\n\nCostume colours (ours): Han black and vermilion, gold and jade.\n\nRank (fixed): she is a ruler — her costume must read her sovereign rank at first glance: layered, richly ornate and regal, with flagship-card detail, fine engraving and jewellery, never plain or sparse.\n\nExposure (fixed): bold — her outfit shows skin by design (a deep neckline, bare shoulders or arms, a high slit or short hem); intimate areas covered.\n\nFace proportions: a short midface and a soft, gently rounded jawline with a small soft chin — never a long face or a long, pointed or heavy jaw; any crown or headpiece sits above her hairline and never lengthens her face. Her eyes stay at a natural open size — never squeezed into narrow slits.\n\nComposition: vertical 2:3 full-body framing with modest headroom and clear space below the boots — the whole figure from the top of her crown or headpiece to both boots stays inside the frame, occupying about four-fifths of the image height, with the same camera distance in every genre; her hands and her signature item stay inside the frame. Camera at chest height with natural portrait perspective — no wide-angle distortion, no low angle, no close crop.\n\nIf you have already drawn a free design of her in this session, make this one clearly different — another face and hairstyle (the same hair colour and skin tone), another costume shape from the list with another signature idea, another pose and setting.\n\nDraw this detailed original design. One figure only, natural hands with five fingers; a banner or seal may carry a single faction character, no other text; no logo or watermark.\n\nORIGINAL CHARACTER DESIGN:\nAn imposing sovereign woman with a compact oval face, warm amber eyes, full lips and a bold, easy smile. Silver hair fading to azure tips is braided into a high ponytail beneath a jade court coronet. Choose silhouette 1, broad layered lamellar armor with heavy beast-head pauldrons and knee-length armored skirts. Build the skirt from wide rectangular cleaver-shaped lamellae with bevelled gold edges, expressing her butcher-to-general rise through construction. Her bare upper arms and deep neckline contrast with the richly engraved breastplate. She stands squarely on palace steps at dawn, holding one golden butcher cleaver beside her right hip, her other open hand relaxed beside her. Black, vermilion, gold and jade; lavish sovereign detail.",
+ "date": "2026-11-15",
+ "record": "records/하진/samguk.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "하진",
+  "out": "world",
+  "world": "samguk",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {
+   "하진|samguk": {}
+  },
+  "looks": {
+   "하진|samguk": {
+    "params": {},
+    "faceDesignOn": true,
+    "silhouetteOn": true,
+    "exposure": "bold"
+   }
+  },
+  "shots": {
+   "하진|samguk": {
+    "scene": "",
+    "time": "",
+    "pose": "",
+    "expr": "",
+    "frame": ""
+   }
+  },
+  "walked": {},
+  "casualN": 1,
+  "scenes": {}
+ },
+ "execution": "sam-hejin-1d0ca-20261115",
+ "imported": "2026-11-15",
+ "generation": {
+  "tool": "image_gen",
+  "endpoint": "images/generations",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "4d0cbcd9841004b58c2367f48fff1af3cb8bbb10539abd6bd2217ad59d998e47",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "prompt_form": "en-prompt",
+  "prompt_sha256": "07f8c0407165cad0d44e0ef96b561df05da9c3ffddc2fd13020fdba58ba6cb42",
+  "retries": [],
+  "selection": 3,
+  "design": "gpt_free",
+  "free_prompt": "Design brief — your own take on this character. A full-body vertical 2:3 (1024×1536) character card image of He Jin from the Romance of the Three Kingdoms, reimagined as an adult woman — the butcher-turned-generalissimo who tried to purge the eunuchs. Age: mid-twenties — a clear adult face; no facial lines. She is a woman — no beard, moustache or facial hair.\n\nUse the original character design specified below, preserving all fixed constraints.\n\nStyle (fixed): Korean MMORPG character artwork. A recognisably drawn face with gently simplified anatomical structure. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\n\nInspiration only: coarse power, rich armor over a butcher's build.\n\nWorld (fixed): the chaos of the late Eastern Han, around 184–200 AD: burning Luoyang, the Hulao Pass, Yellow Turban fields, warlord camps of rival banners, frontier steppe and the southern jungles of the Nanman. Her costume, weapon and setting belong to this world.\n\nCostume (choose one of ours, then add your own idea): pick ONE of these costume shapes from our set and keep its overall silhouette — 1) layered laced lamellar armor, big heavy beast-head pauldrons and armored skirts to the knees — a broad, weighty general's silhouette; 2) layered trailing court regalia with a tall crown, long hanging sashes and jade pendants — a ceremonial, stately silhouette; 3) a great war cape spreading from the shoulders to the ankles as the main shape, lamellar armor beneath; 4) a lamellar breastplate above, many layers of silk skirt flaring wide below the waist — firm above, flowing below; 5) a large phoenix crown with hanging bead strands and a weighty ceremonial robe — the headdress is the main shape. Then add one signature idea of your own drawn from her legend, built into the construction of the outfit itself rather than as a print or a loose accessory — e.g. plates or cloth layered like feathers, scales or petals, a hem or sleeve cut into a motif from her story. Build it in this world's materials and our colours below.\n\nWeapon (fixed — ours): a butcher's cleaver of gold.\n\nHair colour (fixed — ours): silver hair fading to azure at the tips. Keep exactly this hair colour; only the hairstyle is yours.\n\nSkin tone (fixed — ours): light warm-beige skin with a golden undertone. Keep exactly this skin tone.\n\nCostume colours (ours): Han black and vermilion, gold and jade.\n\nRank (fixed): she is a ruler — her costume must read her sovereign rank at first glance: layered, richly ornate and regal, with flagship-card detail, fine engraving and jewellery, never plain or sparse.\n\nExposure (fixed): bold — her outfit shows skin by design (a deep neckline, bare shoulders or arms, a high slit or short hem); intimate areas covered.\n\nFace proportions: a short midface and a soft, gently rounded jawline with a small soft chin — never a long face or a long, pointed or heavy jaw; any crown or headpiece sits above her hairline and never lengthens her face. Her eyes stay at a natural open size — never squeezed into narrow slits.\n\nComposition: vertical 2:3 full-body framing with modest headroom and clear space below the boots — the whole figure from the top of her crown or headpiece to both boots stays inside the frame, occupying about four-fifths of the image height, with the same camera distance in every genre; her hands and her signature item stay inside the frame. Camera at chest height with natural portrait perspective — no wide-angle distortion, no low angle, no close crop.\n\nIf you have already drawn a free design of her in this session, make this one clearly different — another face and hairstyle (the same hair colour and skin tone), another costume shape from the list with another signature idea, another pose and setting.\n\nDraw this detailed original design. One figure only, natural hands with five fingers; a banner or seal may carry a single faction character, no other text; no logo or watermark.\n\nORIGINAL CHARACTER DESIGN:\nAn imposing sovereign woman with a compact oval face, warm amber eyes, full lips and a bold, easy smile. Silver hair fading to azure tips is braided into a high ponytail beneath a jade court coronet. Choose silhouette 1, broad layered lamellar armor with heavy beast-head pauldrons and knee-length armored skirts. Build the skirt from wide rectangular cleaver-shaped lamellae with bevelled gold edges, expressing her butcher-to-general rise through construction. Her bare upper arms and deep neckline contrast with the richly engraved breastplate. She stands squarely on palace steps at dawn, holding one golden butcher cleaver beside her right hip, her other open hand relaxed beside her. Black, vermilion, gold and jade; lavish sovereign detail."
+ },
+ "qa": {
+  "reviewer": "gpt-session",
+  "image_sha256": "4d0cbcd9841004b58c2367f48fff1af3cb8bbb10539abd6bd2217ad59d998e47",
+  "passed": false,
+  "anatomy": "ok",
+  "exposure": "match",
+  "observations": [
+   "Selected samguk candidate 3, GPT free design; full figure, connected arms and legs, one cleaver.",
+   "Banner carries 漢 rather than requested 雄 or 何. Original retained."
+  ],
+  "cause": "Generated faction glyph differs from the fixed banner constraint."
+ },
+ "acceptance": "user_approval_2026-11-15 — character images and catalog main fast-forward publication authorized",
+ "review": {
+  "reviewed": false,
+  "by": "user",
+  "result": "pending"
+ }
+}
