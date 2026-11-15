@@ -1,0 +1,16 @@
+{
+ "execution": "sam-zhanghong-64874be9",
+ "selected": {
+  "samguk": 1,
+  "fantasy": 2,
+  "mecha": 1
+ },
+ "completed": 27,
+ "regenerated_completed_images": 0,
+ "collection_interruption": {
+  "reason": "One request in the initial samguk batch was rejected before the other tool results returned; one completed image was recovered from its saved original, and only slots without a returned original were retried.",
+  "request_id": "0a8ab236-7aba-4c85-b6fe-1406c449c0a4",
+  "slot": "not identified by the interrupted batch response"
+ },
+ "qa": "Scene, pose or prop differences recorded per image; no anatomy-triggered or exposure-triggered regeneration of completed outputs."
+}
