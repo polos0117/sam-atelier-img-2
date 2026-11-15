@@ -1,0 +1,137 @@
+{
+ "atelier": "samguk",
+ "card": "하후돈",
+ "faction": "wei",
+ "slot": "casual7",
+ "treeV": 2,
+ "world": "mecha",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v1",
+ "ref": "하후돈_mecha_kr_drawn_rim_dewy_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "heritage",
+  "place": "heritage_teahouse",
+  "ofam": "dongtan",
+  "item": "dongtan_tube_leggings",
+  "posture": "sit_chair",
+  "support": "back_seat",
+  "frame": "face_close",
+  "body": "front_3q",
+  "head": "with_body",
+  "camera": "eye",
+  "right": "prop",
+  "left": "out",
+  "use": "cup_sip",
+  "kind": "raise",
+  "legs": "",
+  "gaze": "camera",
+  "ofree": true,
+  "ofreeFamily": "roleplay",
+  "ofreeSitu": "free",
+  "ofreeRecent": "a small mountain-path shrine at the Slope of the Fallen Phoenix — holds a towel folded against her chest; her crew cabin aboard a starship — holds a cup at chest height; a riverside seating area waiting for festival fireworks — standing; the deck of a tall wooden sailing ship at sea — holds a small hand lantern low at her side; a Three Kingdoms film-set street — standing",
+  "expr": "curious",
+  "preset": "sip_close",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "하후돈_mecha_kr_drawn_rim_dewy_f_casual7.webp",
+ "prompt": "INPUT: the attached image is the approved character — her Mecha card; keep her. Do not reuse earlier conversation images.\n\nCHARACTER: the same woman as the attached image — the female personification of Xiahou Dun of the Three Kingdoms, seen in her everyday life. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change, and her hair may be worn differently only as SCENE's Hair line says. Her Three Kingdoms identity shows ONLY as a small accessory, an object around her, or the object PROP says she holds — never in the outfit's colours, patterns or cut, never as armor, regalia or a costume.\n\nDESIGN (accessory hints only): her legend — lost her left eye to an arrow and swallowed it saying it was her parents' gift, a black leather eyepatch over her left eye, unshakable loyalty, a hot-blooded vanguard charge — may inform at most one small accessory, a hair ornament or an object beside her, in its palette (deep navy blue, black lacquer, cold steel silver, ivory white). The clothes keep the chosen outfit's own colours; her skin, hair and eyes stay as in the attached image.\n\nSIGNATURE ACCESSORY: off duty she carries no weapon — no sword, saber, spear, glaive, halberd, bow, axe, shield or any blade in her hands, on her back or anywhere in the scene. Her signature weapon (a heavy broad-bladed podao saber) appears only as one small worn accessory modelled on its shape and colours — a hair ornament, pendant, earring, brooch or belt charm a few centimetres long, clearly jewellery and not a usable weapon.\n\nSTYLE: Korean MMORPG character artwork. A recognisably drawn face with gently simplified anatomical structure. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\n\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nAGE: the same adult woman as in the attached image — keep her own face shape, cheekbones, eye proportions and skin tone exactly; minimal facial lines (no nasolabial folds, crow's feet, under-eye bags or cheek creases). Keep her face soft, feminine and attractive in every framing — never elongated, gaunt, mannish or heavy-jawed, even in close-ups, profiles or low angles.\n\nOUTPUT: one standalone off-duty scene of her in the outfit chosen in SCENE; her legend shows only through accessories and objects around her — never in the outfit's colours, patterns or cut, never as armor, regalia or a costume. Everything else follows SCENE (chosen).\n\nFRAME: a vertical 2:3 (1024×1536) image. Compose the image for this frame; COMPOSITION in SCENE sets how much of her shows.\n\nSCENE (chosen):\nFREE DESIGN: design the place, activity, pose, framing and outfit yourself. Start from who she is — her legend, traits and personality — and show an everyday moment that is unexpected yet feels natural for her. Make it fresh through the situation and what she is doing, not through more decoration. Avoid scenes like the recent ones listed below. Keep her face, the art style and the body and anatomy rules exactly as stated. Before drawing, write your design into the lines below, then draw it. In your pose, give each hand one job only and say plainly where each arm goes; avoid poses where it is unclear which shoulder an arm comes from — an arm behind her back, behind her head or pinned under her body — and never state where a foot sits under water. Do not make it another small repair, adjusting, measuring or sorting task at a workbench, repair stall, equipment room or locker room — those scenes are already in our own list; choose another kind of everyday moment (rest, play, a meal, travel, weather, getting ready, simply being in the place).\nRecent scenes to avoid: a small mountain-path shrine at the Slope of the Fallen Phoenix — holds a towel folded against her chest; her crew cabin aboard a starship — holds a cup at chest height; a riverside seating area waiting for festival fireworks — standing; the deck of a tall wooden sailing ship at sea — holds a small hand lantern low at her side; a Three Kingdoms film-set street — standing.\nPlace: …\nActivity: …\nPose: …\nFraming: …\nOutfit family (required): role-play costume — any role-play costume outfit; you may pick one from our outfit catalog (outfit-catalog.md in this pack) or design your own, but prefer one that is not in it.\nSituation (required): a situational exposure moment of your own design that fits the scene — prefer one that is not among ours: clothes soaked by rain or a splash, clothes caught by a strong gust of wind, a top worn half undone, a strap slipped off the shoulder, a hem knotted up under the bust, an outer layer tied around the waist, a sheen of sweat from heat, a backlit silhouette through thin fabric, a skirt slit fallen open, sleeves pushed up with one more button undone, a tie or scarf pulled loose.\nOutfit: …\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing; intimate areas covered\n\nWARDROBE: change her clothes completely. From the attached image take only her face, hair and body — not its garment, armor, regalia, ornaments, mecha plates or background. Dress her exactly as SCENE describes; that outfit must read at first glance, keeping its own recognisable colours and parts. Do not carry the attached image's palette, patterns or trim into the outfit; her Three Kingdoms identity belongs in accessories and props, never in the clothes — never restyle the chosen outfit into her faction's palette, armor, robes or regalia.\n\nANGLE: the attached image fixes who she is, not how she is posed or shot. Do not copy its head angle, head tilt, gaze direction, face size in frame, camera height or crop — turn her head, set her gaze and place the camera exactly as SCENE describes, and let her face read naturally from that new angle (profile, three-quarter, looking down or away), with her features staying the same. No default card pose, no default front-facing portrait.\n\nONE MAIN FIGURE: she is the only character in focus. Where the place is busy, other people may appear only as small, soft-focus background extras — never posed with her. No logo, no watermark, no speech bubble, no frame border. No readable text or numbers.\n\nANATOMY: natural adult proportions, about 7.5 heads tall — height from the legs, never a smaller head or a longer neck. The neck is a natural length and the head sits close to the shoulders. No body-part enlargement, no extra limbs.\n\nFIGURE: strong and broad-shouldered with firm muscle, yet full-busted with wide rounded hips and a defined waist — keep this exact build from the attached image, neither slimmer nor fuller.\n\nBODY: a normal human body — one head, two arms and two legs, each joined at its natural joint; elbows, knees and wrists bend the human way. Hands and feet may be partly hidden by the pose, what she holds or the frame. Right and left mean her own right and left, not the viewer's.\n\nHANDS: natural human hands, no extra or duplicated limbs; each visible hand joins through its wrist and forearm to the matching shoulder. A hand may stay outside the crop, and fingers may be partly hidden by a grip.\n\nAVOID: a blue or bruise-like tint on the skin around the eyes, glossy or shiny highlights on the face, sweaty, oily or plastic-looking skin.",
+ "date": "2026-11-15",
+ "record": "records/하후돈/mecha-casual7.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "하후돈",
+  "out": "casual",
+  "world": "mecha",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 7,
+  "scenes": {
+   "하후돈": {
+    "era": "heritage",
+    "place": "heritage_teahouse",
+    "ofam": "dongtan",
+    "treeV": 2,
+    "prop": "",
+    "preset": "sip_close",
+    "use": "cup_sip",
+    "kind": "raise",
+    "posture": "sit_chair",
+    "support": "back_seat",
+    "frame": "face_close",
+    "body": "front_3q",
+    "head": "with_body",
+    "camera": "eye",
+    "right": "prop",
+    "left": "out",
+    "legs": "",
+    "gaze": "camera",
+    "item": "dongtan_tube_leggings",
+    "expr": "curious",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "ofree": true,
+    "ofreeFamily": "roleplay",
+    "ofreeSitu": "free",
+    "ofreeRecent": "a small mountain-path shrine at the Slope of the Fallen Phoenix — holds a towel folded against her chest; her crew cabin aboard a starship — holds a cup at chest height; a riverside seating area waiting for festival fireworks — standing; the deck of a tall wooden sailing ship at sea — holds a small hand lantern low at her side; a Three Kingdoms film-set street — standing"
+   }
+  }
+ },
+ "generation": {
+  "free_design": {
+   "Place": "a small vintage cinema lobby after a private costume-film event, velvet curtain and an unlettered glass ticket booth",
+   "Activity": "she pauses to hold a strip of blank paper tickets up to the light and smiles at the memory of the screening",
+   "Pose": "standing at a slight three-quarter angle, right hand holds one strip of blank tickets at chest height, left hand gathers the edge of her short jacket near her own waist, each arm visibly joined",
+   "Framing": "a three-quarter shot from head to mid-thigh, camera at eye height and both hands inside frame",
+   "Outfit": "an original adult retro projectionist event costume: a cherry-red cropped bolero with scalloped lapels over a fully opaque black sweetheart bralette, high-waisted tailored charcoal skort, a small film-reel-shaped brooch and oxford heels; a velvet curtain lightly catches the bolero hem as she passes, pulling it aside to reveal the bralette and bare midriff while intimate areas remain securely covered; no real uniform insignia, no letters"
+  },
+  "free_prompt": "INPUT: the attached image is the approved character — her Mecha card; keep her. Do not reuse earlier conversation images.\n\nCHARACTER: the same woman as the attached image — the female personification of Xiahou Dun of the Three Kingdoms, seen in her everyday life. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change, and her hair may be worn differently only as SCENE's Hair line says. Her Three Kingdoms identity shows ONLY as a small accessory, an object around her, or the object PROP says she holds — never in the outfit's colours, patterns or cut, never as armor, regalia or a costume.\n\nDESIGN (accessory hints only): her legend — lost her left eye to an arrow and swallowed it saying it was her parents' gift, a black leather eyepatch over her left eye, unshakable loyalty, a hot-blooded vanguard charge — may inform at most one small accessory, a hair ornament or an object beside her, in its palette (deep navy blue, black lacquer, cold steel silver, ivory white). The clothes keep the chosen outfit's own colours; her skin, hair and eyes stay as in the attached image.\n\nSIGNATURE ACCESSORY: off duty she carries no weapon — no sword, saber, spear, glaive, halberd, bow, axe, shield or any blade in her hands, on her back or anywhere in the scene. Her signature weapon (a heavy broad-bladed podao saber) appears only as one small worn accessory modelled on its shape and colours — a hair ornament, pendant, earring, brooch or belt charm a few centimetres long, clearly jewellery and not a usable weapon.\n\nSTYLE: Korean MMORPG character artwork. A recognisably drawn face with gently simplified anatomical structure. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\n\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nAGE: the same adult woman as in the attached image — keep her own face shape, cheekbones, eye proportions and skin tone exactly; minimal facial lines (no nasolabial folds, crow's feet, under-eye bags or cheek creases). Keep her face soft, feminine and attractive in every framing — never elongated, gaunt, mannish or heavy-jawed, even in close-ups, profiles or low angles.\n\nOUTPUT: one standalone off-duty scene of her in the outfit chosen in SCENE; her legend shows only through accessories and objects around her — never in the outfit's colours, patterns or cut, never as armor, regalia or a costume. Everything else follows SCENE (chosen).\n\nFRAME: a vertical 2:3 (1024×1536) image. Compose the image for this frame; COMPOSITION in SCENE sets how much of her shows.\n\nSCENE (chosen):\nFREE DESIGN: design the place, activity, pose, framing and outfit yourself. Start from who she is — her legend, traits and personality — and show an everyday moment that is unexpected yet feels natural for her. Make it fresh through the situation and what she is doing, not through more decoration. Avoid scenes like the recent ones listed below. Keep her face, the art style and the body and anatomy rules exactly as stated. Before drawing, write your design into the lines below, then draw it. In your pose, give each hand one job only and say plainly where each arm goes; avoid poses where it is unclear which shoulder an arm comes from — an arm behind her back, behind her head or pinned under her body — and never state where a foot sits under water. Do not make it another small repair, adjusting, measuring or sorting task at a workbench, repair stall, equipment room or locker room — those scenes are already in our own list; choose another kind of everyday moment (rest, play, a meal, travel, weather, getting ready, simply being in the place).\nRecent scenes to avoid: a small mountain-path shrine at the Slope of the Fallen Phoenix — holds a towel folded against her chest; her crew cabin aboard a starship — holds a cup at chest height; a riverside seating area waiting for festival fireworks — standing; the deck of a tall wooden sailing ship at sea — holds a small hand lantern low at her side; a Three Kingdoms film-set street — standing.\nPlace: a small vintage cinema lobby after a private costume-film event, velvet curtain and an unlettered glass ticket booth\nActivity: she pauses to hold a strip of blank paper tickets up to the light and smiles at the memory of the screening\nPose: standing at a slight three-quarter angle, right hand holds one strip of blank tickets at chest height, left hand gathers the edge of her short jacket near her own waist, each arm visibly joined\nFraming: a three-quarter shot from head to mid-thigh, camera at eye height and both hands inside frame\nOutfit family (required): role-play costume — any role-play costume outfit; you may pick one from our outfit catalog (outfit-catalog.md in this pack) or design your own, but prefer one that is not in it.\nSituation (required): a situational exposure moment of your own design that fits the scene — prefer one that is not among ours: clothes soaked by rain or a splash, clothes caught by a strong gust of wind, a top worn half undone, a strap slipped off the shoulder, a hem knotted up under the bust, an outer layer tied around the waist, a sheen of sweat from heat, a backlit silhouette through thin fabric, a skirt slit fallen open, sleeves pushed up with one more button undone, a tie or scarf pulled loose.\nOutfit: an original adult retro projectionist event costume: a cherry-red cropped bolero with scalloped lapels over a fully opaque black sweetheart bralette, high-waisted tailored charcoal skort, a small film-reel-shaped brooch and oxford heels; a velvet curtain lightly catches the bolero hem as she passes, pulling it aside to reveal the bralette and bare midriff while intimate areas remain securely covered; no real uniform insignia, no letters\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing; intimate areas covered\n\nWARDROBE: change her clothes completely. From the attached image take only her face, hair and body — not its garment, armor, regalia, ornaments, mecha plates or background. Dress her exactly as SCENE describes; that outfit must read at first glance, keeping its own recognisable colours and parts. Do not carry the attached image's palette, patterns or trim into the outfit; her Three Kingdoms identity belongs in accessories and props, never in the clothes — never restyle the chosen outfit into her faction's palette, armor, robes or regalia.\n\nANGLE: the attached image fixes who she is, not how she is posed or shot. Do not copy its head angle, head tilt, gaze direction, face size in frame, camera height or crop — turn her head, set her gaze and place the camera exactly as SCENE describes, and let her face read naturally from that new angle (profile, three-quarter, looking down or away), with her features staying the same. No default card pose, no default front-facing portrait.\n\nONE MAIN FIGURE: she is the only character in focus. Where the place is busy, other people may appear only as small, soft-focus background extras — never posed with her. No logo, no watermark, no speech bubble, no frame border. No readable text or numbers.\n\nANATOMY: natural adult proportions, about 7.5 heads tall — height from the legs, never a smaller head or a longer neck. The neck is a natural length and the head sits close to the shoulders. No body-part enlargement, no extra limbs.\n\nFIGURE: strong and broad-shouldered with firm muscle, yet full-busted with wide rounded hips and a defined waist — keep this exact build from the attached image, neither slimmer nor fuller.\n\nBODY: a normal human body — one head, two arms and two legs, each joined at its natural joint; elbows, knees and wrists bend the human way. Hands and feet may be partly hidden by the pose, what she holds or the frame. Right and left mean her own right and left, not the viewer's.\n\nHANDS: natural human hands, no extra or duplicated limbs; each visible hand joins through its wrist and forearm to the matching shoulder. A hand may stay outside the crop, and fingers may be partly hidden by a grip.\n\nAVOID: a blue or bruise-like tint on the skin around the eyes, glossy or shiny highlights on the face, sweaty, oily or plastic-looking skin.",
+  "tool": "image_gen",
+  "endpoint": "images/edits",
+  "ref_sha256": "cdcb249159c69183196badb754d078e7e99926cc605bb67ae2a9d1cd18158a3b",
+  "png_sha256": "87241fb834b2097720a1c395c9425bc8d115d2d6a63ccb32da4343bdd32c4cc1",
+  "prompt_sha256": "b6e5fd3a8e2c54c97e285b6abdc7a7b43901ce909538d3af2811fcf478c6775f",
+  "prompt_form": "en-prompt",
+  "size": [
+   1024,
+   1536
+  ],
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "retries": []
+ },
+ "execution": "sam-xiahoudun-5037",
+ "imported": "2026-11-15",
+ "qa": {
+  "reviewer": "gpt-session",
+  "image_sha256": "87241fb834b2097720a1c395c9425bc8d115d2d6a63ccb32da4343bdd32c4cc1",
+  "passed": true,
+  "anatomy": "ok",
+  "exposure": "match",
+  "observations": [
+   "Same adult character and eyepatch retained.",
+   "Visible arms and hands are connected naturally.",
+   "No usable weapon visible."
+  ]
+ },
+ "acceptance": "User authorized committing images and data and ordinary main push",
+ "review": {
+  "reviewed": false,
+  "by": "user",
+  "result": "pending"
+ }
+}

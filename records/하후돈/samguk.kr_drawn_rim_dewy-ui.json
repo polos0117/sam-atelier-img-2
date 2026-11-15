@@ -1,0 +1,113 @@
+{
+ "atelier": "samguk",
+ "card": "하후돈",
+ "faction": "wei",
+ "role": "general",
+ "world": "samguk",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v1",
+ "notes": {},
+ "look": {
+  "params": {},
+  "faceDesignOn": true,
+  "silhouetteOn": true,
+  "exposure": "bold"
+ },
+ "design": {
+  "face": {
+   "eye_color": "steel_blue",
+   "age": "mid_20s",
+   "impression": "fierce",
+   "skin_tone": "warm_beige",
+   "eye_size": "small",
+   "eye_tilt": "up",
+   "mark": "scar",
+   "expr": "serious",
+   "brows": "angled_sharp",
+   "nose": "straight_narrow",
+   "lips": "thin_long",
+   "face_shape": "square_soft",
+   "eyes": "deep_set"
+  },
+  "silhouette": {
+   "body": "strong_curvy",
+   "hair_color": "jet_black",
+   "hair": "short_crop",
+   "bangs": "choppy"
+  }
+ },
+ "shot": {
+  "scene": "",
+  "time": "",
+  "pose": "",
+  "expr": "",
+  "frame": ""
+ },
+ "file": "하후돈_samguk_kr_drawn_rim_dewy_f.webp",
+ "prompt": "A full-body character image, vertical 2:3 (1024×1536): Xiahou Dun of the Romance of the Three Kingdoms, reimagined as an adult woman — Cao Cao's fiercest general, who swallowed her own eye on the battlefield.\n\n1. STYLE\nKorean MMORPG character artwork. A recognisably drawn face with gently simplified anatomical structure. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nHer face is small and soft: a short midface, a softly rounded jaw and a small chin, about 1.3 times as long as it is wide, with her eyes open at their natural size. Bangs, side locks and headpieces frame the face without lengthening it.\nSkin finish: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\n2. CHARACTER\nAge: mid-twenties — a clear adult face.\nFace — her own, recognisably this character, a woman's face with no beard or facial hair: a fierce, wild ferocity; warm beige skin; softly squared face with a rounded jaw; smaller, narrower eyes than usual anime proportion — deep-set eyes, outer eye corners slightly lifted; sharp angled brows; straight narrow nose; thin long lips; steel-blue eyes; a thin faint scar through one eyebrow.\nBody and hair: strong and broad-shouldered with firm muscle, yet full-busted with wide rounded hips and a defined waist build; short cropped hair with choppy uneven bangs; glossy jet-black hair.\nExpression: a level, steady look, mouth closed, subtle and relaxed.\nLegend, carried in her design and bearing: lost her left eye to an arrow and swallowed it saying it was her parents' gift, a black leather eyepatch over her left eye, unshakable loyalty, a hot-blooded vanguard charge.\nAnatomy: one head, two arms and two legs, each joined at its natural joint; natural hands with five fingers.\n\n3. COSTUME AND EQUIPMENT — THREE KINGDOMS\nCostume: Three Kingdoms war general's armor — lamellar scale armor laced over a silk battle robe, beast-head shoulder guards, a plumed helmet or a war headband, a long war cape, her weapon at hand. Late-Han Chinese dress — cross-collared silk robes with wide sleeves and a broad sash, lamellar or scale armor laced with cords where armor is worn, bronze, jade and lacquer ornament, Han court hair ornaments; silk, lacquered leather, bronze and iron.\nSilhouette: a dark close-fitting light outfit with minimal ornament and wrapped arms and legs — a sleek silhouette, face uncovered. This silhouette sets the overall shape of the costume above — keep its materials, ornaments and rank in this shape; the details are free.\nColours: deep navy blue, black lacquer, cold steel silver, ivory white.\nSignature item: a heavy broad-bladed podao saber. She holds it at full scale: one whole object, drawn once, held in front of or beside her body; a long weapon keeps one straight, unbroken shaft with a single head or blade.\nExposure (bold): her robes open to show skin — the cross collar opened into a deep neckline with natural cleavage, bare upper arms above detached wide sleeves (and bare shoulders where no shoulder guard sits), the skirt panels cut with a high side slit at full length — it shows the side line of one leg as she stands, no leg pushed out or knee bent for it; any armor pieces stay on and symmetrical. Intimate areas covered; keep the costume material and palette.\n\n4. SCENE\nWorld: Cao Wei in northern China, around 200–235 AD: the walled capitals of Xuchang, Ye and Luoyang, rammed-earth ramparts and tiled watchtowers, black-and-navy banners over vast northern plains, armoured cavalry, bronze ritual vessels and lacquered halls.\nPose: standing confidently, her body turned slightly while her face looks toward the viewer.\nLight: a soft key light with a strong rim light tracing her hair, shoulders and armour; bright, crisp specular highlights on metal and jewellery, and a clean, warm-neutral sheen on her skin.\nComposition: her whole figure from the top of her head or headpiece to both feet inside the frame with clear margins, about four-fifths of the image height; camera at chest height with natural portrait perspective.\n\n5. CONSTRAINTS\nOne figure only — no second character, horse or other creature. No readable text or numbers, except that a banner, seal or emblem may carry the single character 魏 or 夏侯. No logo, watermark, speech bubble or frame border. Three Kingdoms-era Chinese dress, architecture and materials only.\nAvoid: a blue or bruise-like tint on the skin around the eyes, glossy or shiny highlights on the face, sweaty, oily or plastic-looking skin.",
+ "date": "2026-11-15",
+ "record": "records/하후돈/samguk.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "하후돈",
+  "out": "world",
+  "world": "samguk",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {
+   "하후돈|samguk": {}
+  },
+  "looks": {
+   "하후돈|samguk": {
+    "params": {},
+    "faceDesignOn": true,
+    "silhouetteOn": true,
+    "exposure": "bold"
+   }
+  },
+  "shots": {
+   "하후돈|samguk": {
+    "scene": "",
+    "time": "",
+    "pose": "",
+    "expr": "",
+    "frame": ""
+   }
+  },
+  "walked": {},
+  "casualN": 1,
+  "scenes": {}
+ },
+ "generation": {
+  "tool": "image_gen",
+  "endpoint": "images/generations",
+  "design": "gpt_free",
+  "free_prompt": "Generate this original character design. A full-body vertical 2:3 (1024×1536) character card image of Xiahou Dun from the Romance of the Three Kingdoms, reimagined as an adult woman — Cao Cao's fiercest general, who swallowed her own eye on the battlefield. Age: mid-twenties — a clear adult face; no facial lines. She is a woman — no beard, moustache or facial hair.\n\nOriginal character design and scene:\nHer face is a compact soft oval, small rounded chin, a cool emerald right eye with softly curved brows, fine nose and naturally defined lips. A black leather eyepatch covers the left eye. Her jet-black hair is a long loose side braid with a blunt short fringe and a few windblown locks. A strong curvy adult physique, powerful arms, full bust and a narrow waist. Choose silhouette 6: a heavy fur mantle, leather straps and beast ornaments, a rugged frontier commander. One signature construction: silver-edged leather ribs curve toward a single central polished shoulder boss like the sheltering walls around an eye, integrated into the mantle's collar; layered laced armour protects the torso. Dense black fur, navy silk, black lacquer and ivory lining, a deep neckline, bare forearms and a high-cut wrap opening showing one thigh while feet remain naturally planted. She holds the complete heavy broad-bladed podao diagonally downward beside her in her left hand, blade tip above the ground and within frame; right hand rests loosely on the wide belt. She stands on a northern supply-road stone bridge, pale winter grasses and a distant tiled military storehouse, no people or creatures, bright late-afternoon sun. A steady closed-mouth expression, frontal stance with relaxed shoulders.\n\nStyle (fixed): Korean MMORPG character artwork. A recognisably drawn face with gently simplified anatomical structure. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\n\nInspiration only: lost her left eye to an arrow and swallowed it saying it was her parents' gift, a black leather eyepatch over her left eye, unshakable loyalty, a hot-blooded vanguard charge.\n\nWorld (fixed): Cao Wei in northern China, around 200–235 AD: the walled capitals of Xuchang, Ye and Luoyang, rammed-earth ramparts and tiled watchtowers, black-and-navy banners over vast northern plains, armoured cavalry, bronze ritual vessels and lacquered halls. Her costume, weapon and setting belong to this world.\n\nCostume: use the selected silhouette and construction described above.\n\nWeapon (fixed — ours): a heavy broad-bladed podao saber.\n\nHair colour (fixed — ours): glossy jet-black hair. Keep exactly this hair colour; only the hairstyle is yours.\n\nSkin tone (fixed — ours): warm beige skin. Keep exactly this skin tone.\n\nCostume colours (ours): deep navy blue, black lacquer, cold steel silver, ivory white.\n\nRank (fixed): she is a famed war general — her costume must read battlefield might at first glance: imposing, richly worked armour and cloth with flagship-card detail, never plain or sparse.\n\nExposure (fixed): bold — her outfit shows skin by design (a deep neckline, bare shoulders or arms, a high slit or short hem); intimate areas covered.\n\nFace proportions: a short midface and a soft, gently rounded jawline with a small soft chin — never a long face or a long, pointed or heavy jaw; any crown or headpiece sits above her hairline and never lengthens her face. Her eyes stay at a natural open size — never squeezed into narrow slits.\n\nComposition: vertical 2:3 full-body framing with modest headroom and clear space below the boots — the whole figure from the top of her crown or headpiece to both boots stays inside the frame, occupying about four-fifths of the image height, with the same camera distance in every genre; her hands and her signature item stay inside the frame. Camera at chest height with natural portrait perspective — no wide-angle distortion, no low angle, no close crop.\n\nOne figure only, natural hands with five fingers; a banner or seal may carry a single faction character, no other text; no logo or watermark.",
+  "prompt_sha256": "b2490957cc855566bf019bed3f048d1e0e5aec1a9c13d63be44bae753f676de6",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "b3014491586c81223e868b31ba4e375087cc6ba51ffb04981267bca509af3a85",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "selection": 4
+ },
+ "execution": "sam-xiahoudun-5037",
+ "qa": {
+  "passed": true,
+  "anatomy": "ok",
+  "exposure": "match",
+  "observations": [
+   "One adult woman in foreground; both arms and legs connected.",
+   "Full figure and both boots visible."
+  ]
+ },
+ "imported": "2026-11-15",
+ "acceptance": "User selected 4,4,4 and authorized ordinary main push",
+ "review": {
+  "reviewed": true,
+  "by": "user",
+  "result": "selected"
+ }
+}
