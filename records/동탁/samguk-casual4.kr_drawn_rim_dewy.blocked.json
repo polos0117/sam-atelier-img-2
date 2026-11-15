@@ -1,0 +1,13 @@
+{
+ "card": "동탁",
+ "world": "samguk",
+ "slot": "samguk-casual4",
+ "style": "kr_drawn_rim_dewy",
+ "execution": "sam-dongzhuo-20261115",
+ "status": "blocked",
+ "tries": 1,
+ "prompt_sha256": "e2b02d3df03891e636f778d4ed15f36f39613c0bf0eccf8a52ad505500679bfa",
+ "response_code": "moderation_blocked",
+ "request_id": "024c1215-d6cd-4d51-8e03-627a54f97a82",
+ "reason": "Image generation rejected by safety system; no image returned. Slot left empty; other completed images preserved."
+}

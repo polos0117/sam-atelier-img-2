@@ -1,0 +1,13 @@
+{
+ "card": "동탁",
+ "world": "mecha",
+ "slot": "mecha-casual7",
+ "style": "kr_drawn_rim_dewy",
+ "execution": "sam-dongzhuo-20261115",
+ "status": "blocked",
+ "tries": 1,
+ "prompt_sha256": "cdbce27fb8580a95dc35b7939b5fc92bd7a09a8ed529ffc54afe9834f9324cf1",
+ "response_code": "moderation_blocked",
+ "request_id": "bb2b7abd-db49-4970-9252-15887d6d5388",
+ "reason": "Image generation rejected by safety system; no image returned. Slot left empty; completed images preserved."
+}
