@@ -1,0 +1,116 @@
+{
+  "atelier": "samguk",
+  "card": "태사자",
+  "faction": "wu",
+  "role": "general",
+  "world": "mecha",
+  "style": "kr_drawn_rim_dewy",
+  "styleVersion": "v1",
+  "notes": {},
+  "look": {
+    "params": {},
+    "faceDesignOn": true,
+    "silhouetteOn": true,
+    "exposure": "bold"
+  },
+  "design": {
+    "face": {
+      "eye_color": "amber",
+      "impression": "rugged",
+      "expr": "determined",
+      "skin_tone": "olive",
+      "age": "early_20s",
+      "eye_size": "medium",
+      "eye_tilt": "down",
+      "mark": "bare",
+      "brows": "low_heavy",
+      "nose": "broad_soft",
+      "lips": "small_bow",
+      "face_shape": "heart",
+      "eyes": "almond_wide"
+    },
+    "silhouette": {
+      "body": "tall_curvy",
+      "hair_color": "dark_brown",
+      "hair": "slicked_back",
+      "bangs": "swept_back"
+    }
+  },
+  "shot": {
+    "scene": "",
+    "time": "",
+    "pose": "",
+    "expr": "",
+    "frame": ""
+  },
+  "file": "태사자_mecha_kr_drawn_rim_dewy_f.webp",
+  "prompt": "A full-body character image, vertical 2:3 (1024×1536): Taishi Ci of the Romance of the Three Kingdoms, reimagined as an adult woman — the trustworthy warrior who wrestled Sun Ce bare-handed and became her ally.\n\n1. STYLE\nKorean MMORPG character artwork. A recognisably drawn face with gently simplified anatomical structure. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nHer face is small and soft: a short midface, a softly rounded jaw and a small chin, about 1.3 times as long as it is wide, with her eyes open at their natural size. Bangs, side locks and headpieces frame the face without lengthening it.\nSkin finish: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\n2. CHARACTER\nAge: about twenty — a fresh young-adult face.\nFace — her own, recognisably this character, a woman's face with no beard or facial hair: a rugged, tough, outdoorsy look; olive skin; heart-shaped face; medium-sized eyes — wide almond eyes, outer eye corners drooping downward; low heavy brows; broad soft nose; small bow lips; amber eyes; a bare, makeup-free face.\nBody and hair: tall and statuesque with long legs and a full, curvaceous figure — full bust and hips, narrow waist build; sleek slicked-back hair with hair swept back off the forehead; dark brown hair.\nExpression: a firm, resolute look with calm, steady eyes, subtle and relaxed.\nLegend, carried in her design and bearing: honor and archery, a pair of short halberds, a vow kept to the letter.\nAnatomy: one head, two arms and two legs, each joined at its natural joint; natural hands with five fingers.\n\n3. COSTUME AND EQUIPMENT — MECHA\nCostume: a female mecha personification built as an assault-type mecha frame — heavy armor plates, thruster packs, reinforced limbs, her weapon rebuilt as a large mecha armament. Solid hard-surface plates with visible joints cover her frame except at the openings named under Exposure; any cape or skirt is made of rigid armored plates; her face and hair stay human.\nSilhouette: a sleek armored bodysuit — thin, long plates on the shoulders, arms and legs that follow her curves closely. This silhouette sets the overall shape of the costume above — keep its materials, ornaments and rank in this shape; the details are free.\nColours: crimson red, gold, river teal, black lacquer, with small accents of Han black and vermilion (the Han court). Faction frame: crimson and black lacquer plating with gold edges, streamlined naval hull shapes and fin binders, hydrojet thrusters, flame-orange glow lines.\nSignature item: a pair of short halberds and a bow on her back, rebuilt as a far-future high-tech version of the same kind of object with the same silhouette — hard-surface alloy plates with panel lines, mechanical joints, vents and emitter nodes, an energy edge, plasma blade or glowing core in her glow-line colour and small status lights, with any animal motif re-sculpted as sleek machined armour. She holds it at full scale: one whole object, drawn once, held in front of or beside her body; a long weapon keeps one straight, unbroken shaft with a single head or blade.\nExposure (bold): her mecha frame is cut open by design in only these places — bare upper arms below the pauldrons, which stay seated on top of her shoulders, and a bare waist and midriff between the bust plate and the hip armor; everywhere else she stays fully plated. The plates stay on, fitted and symmetrical, with skin clearly showing in each opening. Intimate areas covered; keep the plate material and palette.\n\n4. SCENE\nWorld: year 2190, the Wu carrier fleet in orbit above an ocean world: crimson starships and carriers, a glowing nebula, the planet's blue oceans and storm clouds below, neon running lights on the hulls.\nPose: standing confidently, her body turned slightly while her face looks toward the viewer.\nLight: a soft key light with a strong rim light tracing her hair, shoulders and armour; bright, crisp specular highlights on metal and jewellery, and a clean, warm-neutral sheen on her skin.\nComposition: her whole figure from the top of her head or headpiece to both feet inside the frame with clear margins, about four-fifths of the image height; camera at chest height with natural portrait perspective.\n\n5. CONSTRAINTS\nOne figure only — no second character, horse or other creature. No readable text or numbers — emblems are abstract insignia shapes only, never letters or Chinese characters. No logo, watermark, speech bubble or frame border. A far-future setting only — space stations, starships and high-tech structures — with no traditional East-Asian architecture.\nAvoid: a blue or bruise-like tint on the skin around the eyes, glossy or shiny highlights on the face, sweaty, oily or plastic-looking skin.",
+  "date": "2026-11-15",
+  "record": "records/태사자/mecha.kr_drawn_rim_dewy-ui.json",
+  "storage": {
+    "card": "태사자",
+    "out": "world",
+    "world": "mecha",
+    "style": "kr_drawn_rim_dewy",
+    "notes": {
+      "태사자|mecha": {}
+    },
+    "looks": {
+      "태사자|mecha": {
+        "params": {},
+        "faceDesignOn": true,
+        "silhouetteOn": true,
+        "exposure": "bold"
+      }
+    },
+    "shots": {
+      "태사자|mecha": {
+        "scene": "",
+        "time": "",
+        "pose": "",
+        "expr": "",
+        "frame": ""
+      }
+    },
+    "walked": {},
+    "casualN": 1,
+    "scenes": {}
+  },
+  "execution": "sam-taishici-f98f827-20261115",
+  "imported": "2026-11-15",
+  "acceptance": "user_selection_1_2_2_and_authorized_main_push",
+  "review": {
+    "reviewed": true,
+    "by": "user",
+    "result": "selected"
+  },
+  "generation": {
+    "tool": "image_gen",
+    "endpoint": "images/generations",
+    "size": [
+      1024,
+      1536
+    ],
+    "png_sha256": "d8e4a8526cc1afa4f0bcfd55d0cc4b203f8b69a15a74122db9d589d09e6c87fa",
+    "webp": {
+      "quality": 90,
+      "method": 6
+    },
+    "prompt_form": "en-prompt",
+    "prompt_sha256": "744545a65444707e8da974c59c866e796480cd0f8c480ec5cba8d60ff6de77cf",
+    "selected_candidate": 2,
+    "design": "generator",
+    "source_png": "/workspace/scratch/f98f827a041e/generated_images/exec-76fddbff-32b7-44c7-9167-ba69d23906ea.png"
+  },
+  "qa": {
+    "anatomy": "ok",
+    "exposure": "match",
+    "observations": [
+      "One human figure; two connected arms and legs; both hands visible; complete boots and weapons in frame.",
+      "Glowing edges lean orange instead of river teal; design deviation retained."
+    ],
+    "reviewer": "gpt-session",
+    "passed": true,
+    "image_sha256": "d8e4a8526cc1afa4f0bcfd55d0cc4b203f8b69a15a74122db9d589d09e6c87fa"
+  }
+}
