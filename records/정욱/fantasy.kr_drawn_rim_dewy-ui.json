@@ -1,0 +1,116 @@
+{
+ "atelier": "samguk",
+ "card": "정욱",
+ "faction": "wei",
+ "role": "strategist",
+ "world": "fantasy",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v1",
+ "notes": {},
+ "look": {
+  "params": {},
+  "faceDesignOn": true,
+  "silhouetteOn": true,
+  "exposure": "bold"
+ },
+ "design": {
+  "face": {
+   "eye_color": "obsidian",
+   "impression": "sharp",
+   "expr": "serious",
+   "skin_tone": "porcelain",
+   "age": "early_30s",
+   "eye_size": "medium",
+   "eye_tilt": "up",
+   "mark": "dark_lip",
+   "brows": "straight_thin",
+   "nose": "high_bridge",
+   "lips": "thin_bow",
+   "face_shape": "inverted_triangle",
+   "eyes": "hooded"
+  },
+  "silhouette": {
+   "body": "tall_curvy",
+   "hair_color": "chestnut",
+   "hair": "side_ponytail",
+   "bangs": "asymmetric"
+  }
+ },
+ "shot": {
+  "scene": "",
+  "time": "",
+  "pose": "",
+  "expr": "",
+  "frame": ""
+ },
+ "file": "정욱_fantasy_kr_drawn_rim_dewy_f.webp",
+ "prompt": "Design brief — your own take on this character. A full-body vertical 2:3 (1024×1536) character card image of Cheng Yu from the Romance of the Three Kingdoms, reimagined as an adult woman — the strategist who stood beside Cao Cao in every crisis. Age: early thirties — a poised, graceful face with soft contours; at most faint lines, no deep folds or under-eye bags. She is a woman — no beard, moustache or facial hair.\n\nYou design her yourself: invent her face, eye colour, hairstyle, makeup, expression, pose and setting as a fresh, original take — do not follow any earlier design of this character. Her hair colour, skin tone, costume and weapon are NOT free: take them from our designs below.\n\nStyle (fixed): Korean MMORPG character artwork. A recognisably drawn face with gently simplified anatomical structure. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\n\nInspiration only: fierce resolve and ruthless plans, tall and severe.\n\nWorld (fixed): a stern northern empire of medieval high fantasy: black-stone citadels with blue banners, iron-shod heavy cavalry, snowy plains and pine forests, a court ruled by strict law, cold blue sigil-magic. Her costume, weapon and setting belong to this world.\n\nCostume (choose one of ours, then add your own idea): pick ONE of these costume shapes from our set and keep its overall silhouette — 1) a long floor-length robe with a high collar, wide sleeves and a shoulder mantle — a tall, mysterious mage's silhouette; 2) a light breastplate and bracers with robe panels split from the waist — half armor, half robe; 3) thin leaf-patterned armor plates and flowing light fabric panels with a slender circlet — a slender, graceful silhouette; 4) a long coat below the knees with epaulettes, a belt, gloves and tall boots — a crisp, commanding officer's silhouette; 5) a floor-length priestly vestment with gold-trimmed stoles and a tall head ornament — a long, devout silhouette. Then add one signature idea of your own drawn from her legend, built into the construction of the outfit itself rather than as a print or a loose accessory — e.g. plates or cloth layered like feathers, scales or petals, a hem or sleeve cut into a motif from her story. Build it in this world's materials and our colours below.\n\nWeapon (fixed — ours): a war map of the Central Plains, reimagined as a Western high-fantasy version of the same kind of object with the same silhouette: polished steel and silvered mithril throughout, the shaft or hilt also forged metal with engraved runes (never plain wood), a faint magical glow running along the edge and the runes, a gem-set guard or socket, a leather-wrapped grip and heraldic or elven ornament, with any animal motif re-sculpted in Western heraldic style and no Chinese fittings, silk tassels or hanzi.\n\nHair colour (fixed — ours): warm chestnut-brown hair. Keep exactly this hair colour; only the hairstyle is yours.\n\nSkin tone (fixed — ours): porcelain-pale skin. Keep exactly this skin tone.\n\nCostume colours (ours): deep navy blue, black lacquer, cold steel silver, ivory white.\n\nRank (fixed): she is a master strategist — her costume must read scholarly prestige at first glance: elegant, layered and finely ornamented, with flagship-card detail, never plain or sparse.\n\nExposure (fixed): bold — her outfit shows skin by design (a deep neckline, bare shoulders or arms, a high slit or short hem); intimate areas covered.\n\nFace proportions: a short midface and a soft, gently rounded jawline with a small soft chin — never a long face or a long, pointed or heavy jaw; any crown or headpiece sits above her hairline and never lengthens her face. Her eyes stay at a natural open size — never squeezed into narrow slits.\n\nComposition: vertical 2:3 full-body framing with modest headroom and clear space below the boots — the whole figure from the top of her crown or headpiece to both boots stays inside the frame, occupying about four-fifths of the image height, with the same camera distance in every genre; her hands and her signature item stay inside the frame. Camera at chest height with natural portrait perspective — no wide-angle distortion, no low angle, no close crop.\n\nIf you have already drawn a free design of her in this session, make this one clearly different — another face and hairstyle (the same hair colour and skin tone), another costume shape from the list with another signature idea, another pose and setting.\n\nWrite your own detailed image prompt from this brief, then draw it. One figure only, natural hands with five fingers; Western medieval setting and dress only — no Chinese architecture, robes, junks or hanzi; no logo or watermark.\n\nDetailed original design for this image:\nOriginal design 1: choose silhouette 4, the commanding officer's long coat, epaulettes, belt, gloves and tall boots. The navy coat has interlocking black and silver double-front storm panels built like a bastion's closing gates, her signature of standing firm in crises. Deep open neckline and high split coat reveal skin by design, intimate areas covered. Warm chestnut hair in a thick high ponytail, grey-violet naturally open eyes, softly rounded compact face, small chin, muted burgundy lips. Tall curvaceous adult woman. She stands facing the viewer in a black-stone citadel observatory, holding one open silvered-mithril war map with glowing abstract terrain contours and no letters, both hands visible. Snowy pines and distant gothic towers outside; warm-neutral skin, cool sigil glow. Layered flagship scholarly detail.",
+ "date": "2026-11-15",
+ "record": "records/정욱/fantasy.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "정욱",
+  "out": "world",
+  "world": "fantasy",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {
+   "정욱|fantasy": {}
+  },
+  "looks": {
+   "정욱|fantasy": {
+    "params": {},
+    "faceDesignOn": true,
+    "silhouetteOn": true,
+    "exposure": "bold"
+   }
+  },
+  "shots": {
+   "정욱|fantasy": {
+    "scene": "",
+    "time": "",
+    "pose": "",
+    "expr": "",
+    "frame": ""
+   }
+  },
+  "walked": {},
+  "casualN": 1,
+  "scenes": {}
+ },
+ "generation": {
+  "tool": "image_gen",
+  "endpoint": "images/generations",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "6d1d5c0da53dd31ca932e96036c215e024051bb25ca38b5e5a10e9914bc7a6d8",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "prompt_form": "en-prompt",
+  "prompt_sha256": "3cbdc5a2546b50e7e5124f0ab368ce41af28f5d9570356d3489aa0c639c55f00",
+  "retries": [],
+  "selected_number": 3,
+  "selected_design": "gpt_free"
+ },
+ "execution": "sam-chengyu-c4b6-20261115",
+ "imported": "2026-11-15",
+ "qa": {
+  "reviewer": "gpt-session",
+  "image_sha256": "6d1d5c0da53dd31ca932e96036c215e024051bb25ca38b5e5a10e9914bc7a6d8",
+  "passed": true,
+  "anatomy": "ok",
+  "exposure": "match",
+  "observations": [
+   "Selected world card matches its genre; two connected arms and natural hands; signature map is continuous."
+  ],
+  "cause": ""
+ },
+ "acceptance": "user approval: commit and ordinary main push; preserve generated images",
+ "review": {
+  "reviewed": false,
+  "by": "user",
+  "result": "pending"
+ }
+}
