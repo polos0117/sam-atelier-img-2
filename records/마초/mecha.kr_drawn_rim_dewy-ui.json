@@ -1,0 +1,119 @@
+{
+ "atelier": "samguk",
+ "card": "마초",
+ "faction": "shu",
+ "role": "general",
+ "world": "mecha",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v1",
+ "notes": {},
+ "look": {
+  "params": {},
+  "faceDesignOn": true,
+  "silhouetteOn": true,
+  "exposure": "bold"
+ },
+ "design": {
+  "face": {
+   "eye_color": "ice_blue",
+   "impression": "glamorous",
+   "expr": "determined",
+   "skin_tone": "fair",
+   "age": "mid_20s",
+   "eye_size": "small",
+   "eye_tilt": "down",
+   "mark": "red_lip",
+   "brows": "straight_thick",
+   "nose": "upturned",
+   "lips": "heart_full",
+   "face_shape": "round",
+   "eyes": "droopy_soft"
+  },
+  "silhouette": {
+   "body": "curvy_athletic",
+   "hair_color": "antique_gold",
+   "hair": "shag_layers",
+   "bangs": "parted"
+  }
+ },
+ "shot": {
+  "scene": "",
+  "time": "",
+  "pose": "",
+  "expr": "",
+  "frame": ""
+ },
+ "file": "마초_mecha_kr_drawn_rim_dewy_f.webp",
+ "prompt": "A full-body character image, vertical 2:3 (1024×1536): Ma Chao of the Romance of the Three Kingdoms, reimagined as an adult woman — the splendid Ma Chao of Xiliang, the brocade-armored warrior who once sent Cao Cao fleeing.\n\n1. STYLE\nKorean MMORPG character artwork. A recognisably drawn face with gently simplified anatomical structure. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nHer face is small and soft: a short midface, a softly rounded jaw and a small chin, about 1.3 times as long as it is wide, with her eyes open at their natural size. Bangs, side locks and headpieces frame the face without lengthening it.\nSkin finish: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\n2. CHARACTER\nAge: mid-twenties — a clear adult face.\nFace — her own, recognisably this character, a woman's face with no beard or facial hair: a glamorous, sultry allure; fair skin; round face; smaller, narrower eyes than usual anime proportion — soft droopy eyes, outer eye corners drooping downward; thick straight brows; upturned nose; full heart-shaped lips; ice-blue eyes; a soft rose-red tint on the lips.\nBody and hair: toned athletic-curvy, full-busted with rounded hips build; a layered shag with face-framing pieces with center-parted bangs framing the face; antique-gold hair.\nExpression: a firm, resolute look with calm, steady eyes, subtle and relaxed.\nLegend, carried in her design and bearing: dazzling beauty and pride of the western frontier, silver armor trimmed with brocade and a lion-head belt, a white plume, vengeance for her slain family, fierce charges across the Liang steppe.\nAnatomy: one head, two arms and two legs, each joined at its natural joint; natural hands with five fingers.\n\n3. COSTUME AND EQUIPMENT — MECHA\nCostume: a female mecha personification built as an assault-type mecha frame — heavy armor plates, thruster packs, reinforced limbs, her weapon rebuilt as a large mecha armament. Solid hard-surface plates with visible joints cover her frame except at the openings named under Exposure; any cape or skirt is made of rigid armored plates; her face and hair stay human.\nSilhouette: mecha armor shaped like a medieval knight's plate — big rounded pauldrons, a breastplate, layered plates below the waist, a head ornament instead of a helmet so her face shows. This silhouette sets the overall shape of the costume above — keep its materials, ornaments and rank in this shape; the details are free.\nColours: jade green, imperial gold, earthen brown, white jade, with small accents of desert sand and rust orange (the Liang frontier), Taoist indigo and white (Zhang Lu). Faction frame: jade-green and white plating with imperial-gold trims, organic layered armor like overlapping leaves, a resilient all-terrain frame, warm green glow lines.\nSignature item: a silver dragon-tipped spear with a white tassel, rebuilt as a far-future high-tech version of the same kind of object with the same silhouette — hard-surface alloy plates with panel lines, mechanical joints, vents and emitter nodes, an energy edge, plasma blade or glowing core in her glow-line colour and small status lights, with any animal motif re-sculpted as sleek machined armour. She holds it at full scale: one whole object, drawn once, held in front of or beside her body; a long weapon keeps one straight, unbroken shaft with a single head or blade.\nExposure (bold): her mecha frame is cut open by design in only these places — bare upper arms below the pauldrons, which stay seated on top of her shoulders, and a deep open chest window with natural cleavage framed by the chest plates; everywhere else she stays fully plated. The plates stay on, fitted and symmetrical, with skin clearly showing in each opening. Intimate areas covered; keep the plate material and palette.\n\n4. SCENE\nWorld: year 2190, the Shu frontier colony on a jade-green moon: terraced garden cities under vast glass domes, a ringed gas giant filling the sky, an orbital elevator climbing into space, starship docks glowing green.\nPose: standing confidently, her body turned slightly while her face looks toward the viewer.\nLight: a soft key light with a strong rim light tracing her hair, shoulders and armour; bright, crisp specular highlights on metal and jewellery, and a clean, warm-neutral sheen on her skin.\nComposition: her whole figure from the top of her head or headpiece to both feet inside the frame with clear margins, about four-fifths of the image height; camera at chest height with natural portrait perspective.\n\n5. CONSTRAINTS\nOne figure only — no second character, horse or other creature. No readable text or numbers — emblems are abstract insignia shapes only, never letters or Chinese characters. No logo, watermark, speech bubble or frame border. A far-future setting only — space stations, starships and high-tech structures — with no traditional East-Asian architecture.\nAvoid: a blue or bruise-like tint on the skin around the eyes, glossy or shiny highlights on the face, sweaty, oily or plastic-looking skin.",
+ "date": "2026-11-15",
+ "record": "records/마초/mecha.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "마초",
+  "out": "world",
+  "world": "mecha",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {
+   "마초|mecha": {}
+  },
+  "looks": {
+   "마초|mecha": {
+    "params": {},
+    "faceDesignOn": true,
+    "silhouetteOn": true,
+    "exposure": "bold"
+   }
+  },
+  "shots": {
+   "마초|mecha": {
+    "scene": "",
+    "time": "",
+    "pose": "",
+    "expr": "",
+    "frame": ""
+   }
+  },
+  "walked": {},
+  "casualN": 1,
+  "scenes": {}
+ },
+ "execution": "sam-machao-727d66074bea",
+ "imported": "2026-11-15",
+ "acceptance": "user_approval_current_task — 이미지·도감 변경 커밋 및 원격 main 반영 승인",
+ "review": {
+  "reviewed": true,
+  "by": "user",
+  "result": "selected",
+  "selection": 1
+ },
+ "generation": {
+  "tool": "image_gen",
+  "endpoint": "images/generations",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "aa4d2d8e6e6dd12691b723f02baed21675534054bb7b0d353ab2fb2ded893fd1",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "prompt_form": "en-prompt",
+  "design": "generator",
+  "selected_candidate": 1,
+  "source_recovery": "Library original recovered after workspace reset",
+  "prompt_sha256": "1192dd50b88d24b97631e6ac297cf019ff4ae930bbaa33da2a40648bdac4129c"
+ },
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "aa4d2d8e6e6dd12691b723f02baed21675534054bb7b0d353ab2fb2ded893fd1",
+  "passed": true,
+  "anatomy": "ok",
+  "exposure": "match",
+  "observations": [
+   "성인 여성 1명, 두 팔·두 다리 연결 확인",
+   "선택 시트의 1번 원본과 일치",
+   "세계별 의상·배경 확인",
+   "무기 끝이 프레임 가장자리에 가까움; 재생성하지 않음"
+  ]
+ }
+}

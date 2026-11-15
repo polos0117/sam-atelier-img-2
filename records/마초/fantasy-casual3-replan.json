@@ -1,0 +1,50 @@
+{
+ "card": "마초",
+ "world": "fantasy",
+ "seed": 751278999,
+ "tree": 2,
+ "style": "kr_drawn_rim_dewy",
+ "required": "swimwear · nation · cosplay:overwatch/bodysuit · free:roleplay+free",
+ "slots": [
+  3
+ ],
+ "fresh": false,
+ "cuts": [
+  {
+   "n": 3,
+   "era": "fantasy",
+   "place": "fx_starstage",
+   "ofam": "game_cosplay",
+   "treeV": 2,
+   "prop": "",
+   "preset": "floor_horizon",
+   "use": "",
+   "posture": "sit_floor",
+   "support": "none",
+   "frame": "environmental",
+   "body": "side",
+   "head": "with_body",
+   "camera": "high",
+   "right": "lap",
+   "left": "floor_brace",
+   "legs": "cross_legged",
+   "gaze": "horizon",
+   "item": "gc_bodysuit",
+   "cosplay": {
+    "game": "overwatch",
+    "character": "",
+    "cut": "bodysuit",
+    "round": 1,
+    "used": []
+   },
+   "expr": "proud",
+   "axes": {
+    "overall_intensity": "strong",
+    "skin_exposure": "bold"
+   },
+   "aspect": "2:3",
+   "unlocked": [],
+   "light": "side"
+  }
+ ]
+}
