@@ -1,0 +1,115 @@
+{
+ "atelier": "samguk",
+ "card": "진궁",
+ "faction": "qun",
+ "role": "strategist",
+ "world": "mecha",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v1",
+ "notes": {},
+ "look": {
+  "params": {},
+  "faceDesignOn": true,
+  "silhouetteOn": true,
+  "exposure": "bold"
+ },
+ "design": {
+  "face": {
+   "eye_color": "violet",
+   "impression": "sharp",
+   "expr": "serious",
+   "skin_tone": "fair",
+   "age": "late_20s",
+   "eye_size": "large",
+   "eye_tilt": "level",
+   "mark": "winged_liner",
+   "brows": "straight_thin",
+   "nose": "small_button",
+   "lips": "plush_pout",
+   "face_shape": "v_line",
+   "eyes": "round_large"
+  },
+  "silhouette": {
+   "body": "tall_curvy",
+   "hair_color": "jet_black",
+   "hair": "spiky_wild",
+   "bangs": "curtain"
+  }
+ },
+ "shot": {
+  "scene": "",
+  "time": "",
+  "pose": "",
+  "expr": "",
+  "frame": ""
+ },
+ "file": "진궁_mecha_kr_drawn_rim_dewy_f.webp",
+ "prompt": "A full-body character image, vertical 2:3 (1024×1536): Chen Gong of the Romance of the Three Kingdoms, reimagined as an adult woman — the strategist who once saved Cao Cao and then turned against her.\n\n1. STYLE\nKorean MMORPG character artwork. A recognisably drawn face with gently simplified anatomical structure. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nHer face is small and soft: a short midface, a softly rounded jaw and a small chin, about 1.3 times as long as it is wide, with her eyes open at their natural size. Bangs, side locks and headpieces frame the face without lengthening it.\nSkin finish: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\n2. CHARACTER\nAge: late twenties — a graceful grown-up face with soft, smooth contours.\nFace — her own, recognisably this character, a woman's face with no beard or facial hair: a sharp, striking, intense look; fair skin; delicate V-line face with a small, soft chin; large eyes — large round eyes, level outer eye corners; thin straight brows; small button nose; soft, full lips; pale violet eyes; sharp winged eyeliner.\nBody and hair: tall and statuesque with long legs and a full, curvaceous figure — full bust and hips, narrow waist build; big, wild spiky hair with curtain bangs; glossy jet-black hair.\nExpression: a level, steady look, mouth closed, subtle and relaxed.\nLegend, carried in her design and bearing: principled pride, a scholar-strategist's robe, a stern refusal.\nAnatomy: one head, two arms and two legs, each joined at its natural joint; natural hands with five fingers.\n\n3. COSTUME AND EQUIPMENT — MECHA\nCostume: a female mecha personification built as a tactical electronic-warfare mecha frame — slender plating, a sensor-array head unit, holographic map projectors and floating drone bits. Solid hard-surface plates with visible joints cover her frame except at the openings named under Exposure; any cape or skirt is made of rigid armored plates; her face and hair stay human.\nSilhouette: a large ring halo behind her head and a tall crown-like head unit, with long hanging shoulder plates — a ceremonial, elegant shape. This silhouette sets the overall shape of the costume above — keep its materials, ornaments and rank in this shape; the details are free.\nColours: scarlet red, black lacquer, burnished gold and white plume accents, with small accents of deep navy blue and cold steel silver (Cao Wei). Faction frame: scarlet and black-lacquer plating with burnished-gold edges, long pheasant-plume antenna fins, sleek fast-assault silhouette, red glow lines.\nSignature item: a strategy scroll, rebuilt as a far-future high-tech version of the same kind of object with the same silhouette — hard-surface alloy plates with panel lines, mechanical joints, vents and emitter nodes, an energy edge, plasma blade or glowing core in her glow-line colour and small status lights, with any animal motif re-sculpted as sleek machined armour. She holds it at full scale: one whole object, drawn once, held in front of or beside her body; a long weapon keeps one straight, unbroken shaft with a single head or blade.\nExposure (bold): her mecha frame is cut open by design in only these places — bare upper arms below the pauldrons, which stay seated on top of her shoulders, and a deep open chest window with natural cleavage framed by the chest plates; everywhere else she stays fully plated. The plates stay on, fitted and symmetrical, with skin clearly showing in each opening. Intimate areas covered; keep the plate material and palette.\n\n4. SCENE\nWorld: year 2190, the Free Zones — a lawless asteroid belt between the three powers: warlord fortresses carved into asteroids, wrecked starships drifting in the dark, a violet nebula, warning lights blinking.\nPose: standing confidently, her body turned slightly while her face looks toward the viewer.\nLight: a soft key light with a strong rim light tracing her hair, shoulders and armour; bright, crisp specular highlights on metal and jewellery, and a clean, warm-neutral sheen on her skin.\nComposition: her whole figure from the top of her head or headpiece to both feet inside the frame with clear margins, about four-fifths of the image height; camera at chest height with natural portrait perspective.\n\n5. CONSTRAINTS\nOne figure only — no second character, horse or other creature. No readable text or numbers — emblems are abstract insignia shapes only, never letters or Chinese characters. No logo, watermark, speech bubble or frame border. A far-future setting only — space stations, starships and high-tech structures — with no traditional East-Asian architecture.\nAvoid: a blue or bruise-like tint on the skin around the eyes, glossy or shiny highlights on the face, sweaty, oily or plastic-looking skin.",
+ "date": "2026-11-16",
+ "record": "records/진궁/mecha.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "진궁",
+  "out": "world",
+  "world": "mecha",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {
+   "진궁|mecha": {}
+  },
+  "looks": {
+   "진궁|mecha": {
+    "params": {},
+    "faceDesignOn": true,
+    "silhouetteOn": true,
+    "exposure": "bold"
+   }
+  },
+  "shots": {
+   "진궁|mecha": {
+    "scene": "",
+    "time": "",
+    "pose": "",
+    "expr": "",
+    "frame": ""
+   }
+  },
+  "walked": {},
+  "casualN": 1,
+  "scenes": {}
+ },
+ "execution": "sam-chengong-59d027",
+ "imported": "2026-11-16",
+ "qa": {
+  "reviewer": "gpt-session",
+  "image_sha256": "42f15678355d4fd5f08987ee2c2e96fa01cdeb00ba8fd1c15d7fba38d68d66ba",
+  "passed": true,
+  "anatomy": "ok",
+  "exposure": "match",
+  "observations": [
+   "1024x1536, one main adult woman; natural connected arms and legs.",
+   "User selected world candidate 1."
+  ]
+ },
+ "generation": {
+  "tool": "image_gen",
+  "endpoint": "images/generations",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "42f15678355d4fd5f08987ee2c2e96fa01cdeb00ba8fd1c15d7fba38d68d66ba",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "prompt_form": "en-prompt",
+  "prompt_sha256": "ee960d2fdf2e7834102f0175eef833c9e75cca30c32e0d17a91bed1c0ade7116",
+  "retries": [],
+  "selection": 1
+ },
+ "acceptance": "User approved 2,4,1; AI QA then publish without additional confirmation.",
+ "review": {
+  "reviewed": false,
+  "by": "user",
+  "result": "pending"
+ }
+}
