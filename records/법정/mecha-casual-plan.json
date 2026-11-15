@@ -1,0 +1,50 @@
+{
+ "card": "법정",
+ "world": "mecha",
+ "seed": 781794214,
+ "tree": 2,
+ "style": "kr_drawn_rim_dewy",
+ "required": "roleplay · nation · cosplay:langrisser_2/idol · free:swimwear+free",
+ "slots": [
+  3
+ ],
+ "fresh": false,
+ "cuts": [
+  {
+   "n": 3,
+   "era": "fantasy",
+   "place": "fx_starstage",
+   "ofam": "game_cosplay",
+   "treeV": 2,
+   "prop": "",
+   "preset": "floor_horizon",
+   "use": "",
+   "posture": "sit_floor",
+   "support": "none",
+   "frame": "environmental",
+   "body": "side",
+   "head": "with_body",
+   "camera": "high",
+   "right": "lap",
+   "left": "floor_brace",
+   "legs": "cross_legged",
+   "gaze": "horizon",
+   "item": "gc_idol",
+   "cosplay": {
+    "game": "langrisser_2",
+    "character": "",
+    "cut": "idol",
+    "round": 1,
+    "used": []
+   },
+   "expr": "candid",
+   "axes": {
+    "overall_intensity": "strong",
+    "skin_exposure": "bold"
+   },
+   "aspect": "2:3",
+   "unlocked": [],
+   "light": "side"
+  }
+ ]
+}
