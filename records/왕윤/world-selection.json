@@ -1,0 +1,52 @@
+{
+ "card": "왕윤",
+ "style": "kr_drawn_rim_dewy",
+ "order": [
+  "samguk",
+  "fantasy",
+  "mecha"
+ ],
+ "selection": [
+  1,
+  1,
+  2
+ ],
+ "user_reply": "1,1,2",
+ "date": "2026-11-15",
+ "execution": "sam-wangyun-20261115-01b47",
+ "chosen": {
+  "samguk": {
+   "world": "samguk",
+   "n": 1,
+   "path": "/workspace/scratch/01b47be8d02f/generated_images/exec-356a887e-8004-4a12-a07b-ed0ea1b9dab7.png",
+   "prompt_file": "pack/samguk-prompt.txt",
+   "sha256": "607240d92d549a9cfbb0b3346f54bdf85de9588713e71da5070541b1d3d9e545",
+   "size": [
+    1024,
+    1536
+   ]
+  },
+  "fantasy": {
+   "world": "fantasy",
+   "n": 1,
+   "path": "/workspace/scratch/01b47be8d02f/generated_images/exec-5aa1c472-a322-4e7c-968b-ef8bbb289a96.png",
+   "prompt_file": "pack/fantasy-prompt.txt",
+   "sha256": "448167b6e1f9027ec330ef8c24b08823f6fc5ba5efae3ae056d9f91d48870bce",
+   "size": [
+    1024,
+    1536
+   ]
+  },
+  "mecha": {
+   "world": "mecha",
+   "n": 2,
+   "path": "/workspace/scratch/01b47be8d02f/generated_images/exec-682e9ca6-bbba-4238-bfd9-ad14d5e01c9f.png",
+   "prompt_file": "pack/mecha-prompt.txt",
+   "sha256": "72c882cff7d19c65b5fb00a4f13afbb085b11aba1a9a5a0e2bbe9aa3b3a7cdfa",
+   "size": [
+    1024,
+    1536
+   ]
+  }
+ }
+}
