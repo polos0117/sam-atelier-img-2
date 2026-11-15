@@ -1,0 +1,14 @@
+{
+ "card": "장합",
+ "style": "kr_drawn_rim_dewy",
+ "execution": "sam-zhanghe-9bf71-20261115",
+ "reply": "3,1,2",
+ "selected": {
+  "samguk": 3,
+  "fantasy": 1,
+  "mecha": 2
+ },
+ "expected_files": 27,
+ "original_pngs_preserved": true,
+ "generation_note": "No returned image regenerated for exposure. Output refusals before any returned image: fantasy casual2 twice and mecha casual1 twice; these two proceeded with generated moderate exposure prompts."
+}
