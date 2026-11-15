@@ -1,0 +1,116 @@
+{
+ "atelier": "samguk",
+ "card": "육손",
+ "faction": "wu",
+ "role": "strategist",
+ "world": "samguk",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v1",
+ "notes": {},
+ "look": {
+  "params": {},
+  "faceDesignOn": true,
+  "silhouetteOn": true,
+  "exposure": "bold"
+ },
+ "design": {
+  "face": {
+   "eye_color": "gold",
+   "impression": "cool",
+   "expr": "calm",
+   "skin_tone": "fair",
+   "age": "early_20s",
+   "eye_size": "medium",
+   "eye_tilt": "up",
+   "mark": "winged_liner",
+   "brows": "arched_thin",
+   "nose": "small_button",
+   "lips": "full_wide",
+   "face_shape": "square_soft",
+   "eyes": "almond_wide"
+  },
+  "silhouette": {
+   "body": "busty_slender",
+   "hair_color": "copper",
+   "hair": "slicked_back",
+   "bangs": "swept_back"
+  }
+ },
+ "shot": {
+  "scene": "",
+  "time": "",
+  "pose": "",
+  "expr": "",
+  "frame": ""
+ },
+ "file": "육손_samguk_kr_drawn_rim_dewy_f.webp",
+ "prompt": "Design brief — your own take on this character. A full-body vertical 2:3 (1024×1536) character card image of Lu Xun from the Romance of the Three Kingdoms, reimagined as an adult woman — the young scholar-general whose fire at Yiling ended Shu's advance. Age: about twenty — a fresh young-adult face; no facial lines. She is a woman — no beard, moustache or facial hair.\n\nYou design her yourself: invent her face, eye colour, hairstyle, makeup, expression, pose and setting as a fresh, original take — do not follow any earlier design of this character. Her hair colour, skin tone, costume and weapon are NOT free: take them from our designs below.\n\nStyle (fixed): Korean MMORPG character artwork. A recognisably drawn face with gently simplified anatomical structure. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\n\nInspiration only: calm genius and patience, scholar's robes over light armor, flames reflected in her eyes.\n\nWorld (fixed): Eastern Wu along the Yangtze, around 200–280 AD: the river capital Jianye, great war junks with crimson sails, river fortresses, southern rain and lotus marshes, the fire ships of the Red Cliffs. Her costume, weapon and setting belong to this world.\n\nCostume (choose one of ours, then add your own idea): pick ONE of these costume shapes from our set and keep its overall silhouette — 1) light armor pieces over a fitted silk martial dress, long silk sashes and a light skirt flowing from the waist and shoulders — a light, dancing silhouette; 2) no armor — a long floor-length robe with wide sleeves and a broad sash, a long elegant falling silhouette; 3) a fitted martial-arts outfit with a wide belt and arm guards, a long silk sash streaming behind — a wandering swordswoman's silhouette; 4) a long silk shawl wrapping the shoulders and arms and floating in the air, light layered robes — an airy, celestial silhouette; 5) very long flowing water sleeves trailing past the hands through the air over a fitted dancer's dress — the sleeves make the shape. Then add one signature idea of your own drawn from her legend, built into the construction of the outfit itself rather than as a print or a loose accessory — e.g. plates or cloth layered like feathers, scales or petals, a hem or sleeve cut into a motif from her story. Build it in this world's materials and our colours below.\n\nWeapon (fixed — ours): a white-feathered fan with a flame motif.\n\nHair colour (fixed — ours): polished copper-red hair. Keep exactly this hair colour; only the hairstyle is yours.\n\nSkin tone (fixed — ours): fair skin. Keep exactly this skin tone.\n\nCostume colours (ours): crimson red, gold, river teal, black lacquer.\n\nRank (fixed): she is a master strategist — her costume must read scholarly prestige at first glance: elegant, layered and finely ornamented, with flagship-card detail, never plain or sparse.\n\nExposure (fixed): bold — her outfit shows skin by design (a deep neckline, bare shoulders or arms, a high slit or short hem); intimate areas covered.\n\nFace proportions: a short midface and a soft, gently rounded jawline with a small soft chin — never a long face or a long, pointed or heavy jaw; any crown or headpiece sits above her hairline and never lengthens her face. Her eyes stay at a natural open size — never squeezed into narrow slits.\n\nComposition: vertical 2:3 full-body framing with modest headroom and clear space below the boots — the whole figure from the top of her crown or headpiece to both boots stays inside the frame, occupying about four-fifths of the image height, with the same camera distance in every genre; her hands and her signature item stay inside the frame. Camera at chest height with natural portrait perspective — no wide-angle distortion, no low angle, no close crop.\n\nIf you have already drawn a free design of her in this session, make this one clearly different — another face and hairstyle (the same hair colour and skin tone), another costume shape from the list with another signature idea, another pose and setting.\n\nWrite your own detailed image prompt from this brief, then draw it. One figure only, natural hands with five fingers; a banner or seal may carry a single faction character, no other text; no logo or watermark.\n\nDetailed original image prompt:\nOriginal design 1: Choose costume shape 2, the floor-length wide-sleeved scholar robe and broad sash. Build the Yiling fire strategy into overlapping tapered silk skirt panels cut like upward flames, crimson outside and river teal lining, gold-edged black lacquer fastenings. The robe has a deep neckline, open shoulders and high side slit, intimate areas covered. Fair-skinned adult woman with a compact oval face, soft rounded jaw, clear amber-green eyes, refined brows and gently closed lips. Copper-red hair in a high braided bun with two softly curled side locks. One hand holds the complete white-feather fan with a flame motif below her chest; the other hand is open beside the broad sash. Stand front three-quarter on a dry stone river-fortress terrace at sunrise, crimson-sailed Chinese war junks far behind, no other figures. Scholarly grandeur through layered fine silk and Han bronze and jade construction. Both hands natural, five fingers each.",
+ "date": "2026-11-16",
+ "record": "records/육손/samguk.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "육손",
+  "out": "world",
+  "world": "samguk",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {
+   "육손|samguk": {}
+  },
+  "looks": {
+   "육손|samguk": {
+    "params": {},
+    "faceDesignOn": true,
+    "silhouetteOn": true,
+    "exposure": "bold"
+   }
+  },
+  "shots": {
+   "육손|samguk": {
+    "scene": "",
+    "time": "",
+    "pose": "",
+    "expr": "",
+    "frame": ""
+   }
+  },
+  "walked": {},
+  "casualN": 1,
+  "scenes": {}
+ },
+ "execution": "sam-luxun-20261116-52407bdc",
+ "imported": "2026-11-16",
+ "acceptance": "user_selected_3,2,4_and_authorized_main_push",
+ "review": {
+  "reviewed": true,
+  "by": "user",
+  "result": "selected candidate 3"
+ },
+ "generation": {
+  "tool": "image_gen",
+  "endpoint": "images/generations",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "c875a47f3c3a92178e051c5abe7658cb60163edb8a049946fc1dd7442dc53816",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "prompt_form": "en-prompt",
+  "prompt_sha256": "e5f086421747d6fee4ffbeca3bf2ae0e11e85808ef2262d73d05f61adc888912",
+  "design": "gpt_free",
+  "selection_number": 3,
+  "retries": [],
+  "free_prompt": "Design brief — your own take on this character. A full-body vertical 2:3 (1024×1536) character card image of Lu Xun from the Romance of the Three Kingdoms, reimagined as an adult woman — the young scholar-general whose fire at Yiling ended Shu's advance. Age: about twenty — a fresh young-adult face; no facial lines. She is a woman — no beard, moustache or facial hair.\n\nYou design her yourself: invent her face, eye colour, hairstyle, makeup, expression, pose and setting as a fresh, original take — do not follow any earlier design of this character. Her hair colour, skin tone, costume and weapon are NOT free: take them from our designs below.\n\nStyle (fixed): Korean MMORPG character artwork. A recognisably drawn face with gently simplified anatomical structure. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\n\nInspiration only: calm genius and patience, scholar's robes over light armor, flames reflected in her eyes.\n\nWorld (fixed): Eastern Wu along the Yangtze, around 200–280 AD: the river capital Jianye, great war junks with crimson sails, river fortresses, southern rain and lotus marshes, the fire ships of the Red Cliffs. Her costume, weapon and setting belong to this world.\n\nCostume (choose one of ours, then add your own idea): pick ONE of these costume shapes from our set and keep its overall silhouette — 1) light armor pieces over a fitted silk martial dress, long silk sashes and a light skirt flowing from the waist and shoulders — a light, dancing silhouette; 2) no armor — a long floor-length robe with wide sleeves and a broad sash, a long elegant falling silhouette; 3) a fitted martial-arts outfit with a wide belt and arm guards, a long silk sash streaming behind — a wandering swordswoman's silhouette; 4) a long silk shawl wrapping the shoulders and arms and floating in the air, light layered robes — an airy, celestial silhouette; 5) very long flowing water sleeves trailing past the hands through the air over a fitted dancer's dress — the sleeves make the shape. Then add one signature idea of your own drawn from her legend, built into the construction of the outfit itself rather than as a print or a loose accessory — e.g. plates or cloth layered like feathers, scales or petals, a hem or sleeve cut into a motif from her story. Build it in this world's materials and our colours below.\n\nWeapon (fixed — ours): a white-feathered fan with a flame motif.\n\nHair colour (fixed — ours): polished copper-red hair. Keep exactly this hair colour; only the hairstyle is yours.\n\nSkin tone (fixed — ours): fair skin. Keep exactly this skin tone.\n\nCostume colours (ours): crimson red, gold, river teal, black lacquer.\n\nRank (fixed): she is a master strategist — her costume must read scholarly prestige at first glance: elegant, layered and finely ornamented, with flagship-card detail, never plain or sparse.\n\nExposure (fixed): bold — her outfit shows skin by design (a deep neckline, bare shoulders or arms, a high slit or short hem); intimate areas covered.\n\nFace proportions: a short midface and a soft, gently rounded jawline with a small soft chin — never a long face or a long, pointed or heavy jaw; any crown or headpiece sits above her hairline and never lengthens her face. Her eyes stay at a natural open size — never squeezed into narrow slits.\n\nComposition: vertical 2:3 full-body framing with modest headroom and clear space below the boots — the whole figure from the top of her crown or headpiece to both boots stays inside the frame, occupying about four-fifths of the image height, with the same camera distance in every genre; her hands and her signature item stay inside the frame. Camera at chest height with natural portrait perspective — no wide-angle distortion, no low angle, no close crop.\n\nIf you have already drawn a free design of her in this session, make this one clearly different — another face and hairstyle (the same hair colour and skin tone), another costume shape from the list with another signature idea, another pose and setting.\n\nWrite your own detailed image prompt from this brief, then draw it. One figure only, natural hands with five fingers; a banner or seal may carry a single faction character, no other text; no logo or watermark.\n\nDetailed original image prompt:\nOriginal design 1: Choose costume shape 2, the floor-length wide-sleeved scholar robe and broad sash. Build the Yiling fire strategy into overlapping tapered silk skirt panels cut like upward flames, crimson outside and river teal lining, gold-edged black lacquer fastenings. The robe has a deep neckline, open shoulders and high side slit, intimate areas covered. Fair-skinned adult woman with a compact oval face, soft rounded jaw, clear amber-green eyes, refined brows and gently closed lips. Copper-red hair in a high braided bun with two softly curled side locks. One hand holds the complete white-feather fan with a flame motif below her chest; the other hand is open beside the broad sash. Stand front three-quarter on a dry stone river-fortress terrace at sunrise, crimson-sailed Chinese war junks far behind, no other figures. Scholarly grandeur through layered fine silk and Han bronze and jade construction. Both hands natural, five fingers each."
+ },
+ "qa": {
+  "reviewer": "gpt-session",
+  "image_sha256": "c875a47f3c3a92178e051c5abe7658cb60163edb8a049946fc1dd7442dc53816",
+  "passed": true,
+  "anatomy": "ok",
+  "exposure": "match",
+  "observations": [
+   "Full-body single adult woman, connected limbs, complete fan; user selected this image."
+  ]
+ }
+}
