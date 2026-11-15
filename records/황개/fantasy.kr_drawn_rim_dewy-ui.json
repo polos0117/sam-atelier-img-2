@@ -1,0 +1,118 @@
+{
+ "atelier": "samguk",
+ "card": "황개",
+ "faction": "wu",
+ "role": "general",
+ "world": "fantasy",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v1",
+ "notes": {},
+ "look": {
+  "params": {},
+  "faceDesignOn": true,
+  "silhouetteOn": true,
+  "exposure": "bold"
+ },
+ "design": {
+  "face": {
+   "eye_color": "azure",
+   "impression": "stoic",
+   "expr": "determined",
+   "skin_tone": "fair",
+   "age": "early_30s",
+   "eye_size": "large",
+   "eye_tilt": "level",
+   "mark": "winged_liner",
+   "brows": "feathered",
+   "nose": "petite_straight",
+   "lips": "soft_medium",
+   "face_shape": "oval",
+   "eyes": "cat"
+  },
+  "silhouette": {
+   "body": "strong_curvy",
+   "hair_color": "violet",
+   "hair": "twin_tails",
+   "bangs": "asymmetric"
+  }
+ },
+ "shot": {
+  "scene": "",
+  "time": "",
+  "pose": "",
+  "expr": "",
+  "frame": ""
+ },
+ "file": "황개_fantasy_kr_drawn_rim_dewy_f.webp",
+ "prompt": "Design brief — your own take on this character. A full-body vertical 2:3 (1024×1536) character card image of Huang Gai from the Romance of the Three Kingdoms, reimagined as an adult woman — the veteran who offered her own back to the lash to light the fire at Red Cliffs. Age: early thirties — a poised, graceful face with soft contours; at most faint lines, no deep folds or under-eye bags. She is a woman — no beard, moustache or facial hair.\n\nYou design her yourself: invent her face, eye colour, hairstyle, makeup, expression, pose and setting as a fresh, original take — do not follow any earlier design of this character. Her hair colour, skin tone, costume and weapon are NOT free: take them from our designs below.\n\nStyle (fixed): Korean MMORPG character artwork. A recognisably drawn face with gently simplified anatomical structure. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\n\nInspiration only: self-sacrificing resolve, healing welts under her armor, an iron whip and fire-ship torches.\n\nWorld (fixed): a river-and-sea kingdom of medieval high fantasy: a vast river delta, crimson-sailed galleons and war galleys, harbor fortresses of red stone, fire magic dancing over dark water. Her costume, weapon and setting belong to this world.\n\nCostume (choose one of ours, then add your own idea): pick ONE of these costume shapes from our set and keep its overall silhouette — 1) full plate armor from neck to feet with big rounded pauldrons and a short heraldic tabard — a solid knight's silhouette; 2) leather armor with a short cloak, a lowered hood, bracers and boots — a light, agile ranger's silhouette; 3) a fitted breastplate and pauldrons above a gown skirt flaring to the floor — an elegant lady-knight silhouette; 4) plate armor under a long heraldic tabard with a white cape to the ankles — a straight, holy silhouette; 5) large metal feathered wing ornaments spreading from the shoulders or back and a wing-shaped head ornament — the wings make the shape; 6) angular, spiked dark plate armor and a long cape with torn edges — a sharp, menacing silhouette; 7) thin leaf-patterned armor plates and flowing light fabric panels with a slender circlet — a slender, graceful silhouette; 8) a fur cloak, leather straps, minimal metal plates and bone and tooth ornaments — a rugged, wild warrior silhouette; 9) dragon-scale armor covering the body with horn-shaped shoulder and head ornaments — a beastly, imposing silhouette. Then add one signature idea of your own drawn from her legend, built into the construction of the outfit itself rather than as a print or a loose accessory — e.g. plates or cloth layered like feathers, scales or petals, a hem or sleeve cut into a motif from her story. Build it in this world's materials and our colours below.\n\nWeapon (fixed — ours): an iron whip, reimagined as a Western high-fantasy version of the same kind of object with the same silhouette: polished steel and silvered mithril throughout, the shaft or hilt also forged metal with engraved runes (never plain wood), a faint magical glow running along the edge and the runes, a gem-set guard or socket, a leather-wrapped grip and heraldic or elven ornament, with any animal motif re-sculpted in Western heraldic style and no Chinese fittings, silk tassels or hanzi.\n\nHair colour (fixed — ours): violet hair. Keep exactly this hair colour; only the hairstyle is yours.\n\nSkin tone (fixed — ours): fair skin. Keep exactly this skin tone.\n\nCostume colours (ours): crimson red, gold, river teal, black lacquer.\n\nRank (fixed): she is a famed war general — her costume must read battlefield might at first glance: imposing, richly worked armour and cloth with flagship-card detail, never plain or sparse.\n\nExposure (fixed): bold — her outfit shows skin by design (a deep neckline, bare shoulders or arms, a high slit or short hem); intimate areas covered.\n\nFace proportions: a short midface and a soft, gently rounded jawline with a small soft chin — never a long face or a long, pointed or heavy jaw; any crown or headpiece sits above her hairline and never lengthens her face. Her eyes stay at a natural open size — never squeezed into narrow slits.\n\nComposition: vertical 2:3 full-body framing with modest headroom and clear space below the boots — the whole figure from the top of her crown or headpiece to both boots stays inside the frame, occupying about four-fifths of the image height, with the same camera distance in every genre; her hands and her signature item stay inside the frame. Camera at chest height with natural portrait perspective — no wide-angle distortion, no low angle, no close crop.\n\nIf you have already drawn a free design of her in this session, make this one clearly different — another face and hairstyle (the same hair colour and skin tone), another costume shape from the list with another signature idea, another pose and setting.\n\nWrite your own detailed image prompt from this brief, then draw it. One figure only, natural hands with five fingers; Western medieval setting and dress only — no Chinese architecture, robes, junks or hanzi; no logo or watermark.\n\nChosen original design: costume shape 6, angular spiked dark plate armor with a long cape with torn edges. Crimson black-lacquer and gold armor constructed from nested flame-shaped plate wedges around the waist and shoulders like the converging bows of fire ships, river-teal velvet inside the cape; deep neckline and bare upper arms, high slit, intimate areas covered. Strong curving adult figure. Violet hair in a short layered pixie cut with a long sweeping fringe, pale silver-blue eyes, compact softly rounded diamond face, small chin, berry lips and a composed challenging expression. Standing three-quarter front in a Gothic red-stone sea-fortress courtyard, both feet planted, one rune-engraved mithril iron whip held diagonally down beside her body, other hand resting on a hip plate. Bright cool daylight and strong gold rim light; crimson-sailed Western galleons visible through an arch.",
+ "date": "2026-11-15",
+ "record": "records/황개/fantasy.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "황개",
+  "out": "world",
+  "world": "fantasy",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {
+   "황개|fantasy": {}
+  },
+  "looks": {
+   "황개|fantasy": {
+    "params": {},
+    "faceDesignOn": true,
+    "silhouetteOn": true,
+    "exposure": "bold"
+   }
+  },
+  "shots": {
+   "황개|fantasy": {
+    "scene": "",
+    "time": "",
+    "pose": "",
+    "expr": "",
+    "frame": ""
+   }
+  },
+  "walked": {},
+  "casualN": 1,
+  "scenes": {}
+ },
+ "generation": {
+  "tool": "image_gen",
+  "endpoint": "images/generations",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "5735e918b55d5ba88079d6b51a36401b3166fe3e5f99728a1408d467923ce0a7",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "prompt_form": "en-prompt",
+  "prompt_sha256": "6d3d6e48b4590be108d2f22c9356303f55d92d005dc862e3ba01f0cf52a48823",
+  "retries": [],
+  "design": "gpt_free",
+  "free_prompt": "Design brief — your own take on this character. A full-body vertical 2:3 (1024×1536) character card image of Huang Gai from the Romance of the Three Kingdoms, reimagined as an adult woman — the veteran who offered her own back to the lash to light the fire at Red Cliffs. Age: early thirties — a poised, graceful face with soft contours; at most faint lines, no deep folds or under-eye bags. She is a woman — no beard, moustache or facial hair.\n\nYou design her yourself: invent her face, eye colour, hairstyle, makeup, expression, pose and setting as a fresh, original take — do not follow any earlier design of this character. Her hair colour, skin tone, costume and weapon are NOT free: take them from our designs below.\n\nStyle (fixed): Korean MMORPG character artwork. A recognisably drawn face with gently simplified anatomical structure. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\n\nInspiration only: self-sacrificing resolve, healing welts under her armor, an iron whip and fire-ship torches.\n\nWorld (fixed): a river-and-sea kingdom of medieval high fantasy: a vast river delta, crimson-sailed galleons and war galleys, harbor fortresses of red stone, fire magic dancing over dark water. Her costume, weapon and setting belong to this world.\n\nCostume (choose one of ours, then add your own idea): pick ONE of these costume shapes from our set and keep its overall silhouette — 1) full plate armor from neck to feet with big rounded pauldrons and a short heraldic tabard — a solid knight's silhouette; 2) leather armor with a short cloak, a lowered hood, bracers and boots — a light, agile ranger's silhouette; 3) a fitted breastplate and pauldrons above a gown skirt flaring to the floor — an elegant lady-knight silhouette; 4) plate armor under a long heraldic tabard with a white cape to the ankles — a straight, holy silhouette; 5) large metal feathered wing ornaments spreading from the shoulders or back and a wing-shaped head ornament — the wings make the shape; 6) angular, spiked dark plate armor and a long cape with torn edges — a sharp, menacing silhouette; 7) thin leaf-patterned armor plates and flowing light fabric panels with a slender circlet — a slender, graceful silhouette; 8) a fur cloak, leather straps, minimal metal plates and bone and tooth ornaments — a rugged, wild warrior silhouette; 9) dragon-scale armor covering the body with horn-shaped shoulder and head ornaments — a beastly, imposing silhouette. Then add one signature idea of your own drawn from her legend, built into the construction of the outfit itself rather than as a print or a loose accessory — e.g. plates or cloth layered like feathers, scales or petals, a hem or sleeve cut into a motif from her story. Build it in this world's materials and our colours below.\n\nWeapon (fixed — ours): an iron whip, reimagined as a Western high-fantasy version of the same kind of object with the same silhouette: polished steel and silvered mithril throughout, the shaft or hilt also forged metal with engraved runes (never plain wood), a faint magical glow running along the edge and the runes, a gem-set guard or socket, a leather-wrapped grip and heraldic or elven ornament, with any animal motif re-sculpted in Western heraldic style and no Chinese fittings, silk tassels or hanzi.\n\nHair colour (fixed — ours): violet hair. Keep exactly this hair colour; only the hairstyle is yours.\n\nSkin tone (fixed — ours): fair skin. Keep exactly this skin tone.\n\nCostume colours (ours): crimson red, gold, river teal, black lacquer.\n\nRank (fixed): she is a famed war general — her costume must read battlefield might at first glance: imposing, richly worked armour and cloth with flagship-card detail, never plain or sparse.\n\nExposure (fixed): bold — her outfit shows skin by design (a deep neckline, bare shoulders or arms, a high slit or short hem); intimate areas covered.\n\nFace proportions: a short midface and a soft, gently rounded jawline with a small soft chin — never a long face or a long, pointed or heavy jaw; any crown or headpiece sits above her hairline and never lengthens her face. Her eyes stay at a natural open size — never squeezed into narrow slits.\n\nComposition: vertical 2:3 full-body framing with modest headroom and clear space below the boots — the whole figure from the top of her crown or headpiece to both boots stays inside the frame, occupying about four-fifths of the image height, with the same camera distance in every genre; her hands and her signature item stay inside the frame. Camera at chest height with natural portrait perspective — no wide-angle distortion, no low angle, no close crop.\n\nIf you have already drawn a free design of her in this session, make this one clearly different — another face and hairstyle (the same hair colour and skin tone), another costume shape from the list with another signature idea, another pose and setting.\n\nWrite your own detailed image prompt from this brief, then draw it. One figure only, natural hands with five fingers; Western medieval setting and dress only — no Chinese architecture, robes, junks or hanzi; no logo or watermark.\n\nChosen original design: costume shape 6, angular spiked dark plate armor with a long cape with torn edges. Crimson black-lacquer and gold armor constructed from nested flame-shaped plate wedges around the waist and shoulders like the converging bows of fire ships, river-teal velvet inside the cape; deep neckline and bare upper arms, high slit, intimate areas covered. Strong curving adult figure. Violet hair in a short layered pixie cut with a long sweeping fringe, pale silver-blue eyes, compact softly rounded diamond face, small chin, berry lips and a composed challenging expression. Standing three-quarter front in a Gothic red-stone sea-fortress courtyard, both feet planted, one rune-engraved mithril iron whip held diagonally down beside her body, other hand resting on a hip plate. Bright cool daylight and strong gold rim light; crimson-sailed Western galleons visible through an arch.",
+  "selected_candidate": 4,
+  "user_selection": "4,4,4"
+ },
+ "execution": "sam-huanggai-a76fa-20261115",
+ "imported": "2026-11-15",
+ "qa": {
+  "reviewer": "sam-huanggai-a76fa-20261115",
+  "image_sha256": "5735e918b55d5ba88079d6b51a36401b3166fe3e5f99728a1408d467923ce0a7",
+  "passed": true,
+  "anatomy": "ok",
+  "exposure": "match",
+  "observations": [
+   "Full-body world candidate 4, one adult woman; violet hair, fair skin and crimson/gold/teal/black palette.",
+   "Weapon remains in frame; both arms and legs visibly connected."
+  ]
+ },
+ "acceptance": "user authorized automatic QA, commit and non-force main update; no exposure-based regeneration",
+ "review": {
+  "reviewed": false,
+  "by": "user",
+  "result": "pending"
+ }
+}

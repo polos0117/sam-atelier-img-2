@@ -1,0 +1,118 @@
+{
+ "atelier": "samguk",
+ "card": "황개",
+ "faction": "wu",
+ "role": "general",
+ "world": "samguk",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v1",
+ "notes": {},
+ "look": {
+  "params": {},
+  "faceDesignOn": true,
+  "silhouetteOn": true,
+  "exposure": "bold"
+ },
+ "design": {
+  "face": {
+   "eye_color": "azure",
+   "impression": "stoic",
+   "expr": "determined",
+   "skin_tone": "fair",
+   "age": "early_30s",
+   "eye_size": "large",
+   "eye_tilt": "level",
+   "mark": "winged_liner",
+   "brows": "feathered",
+   "nose": "petite_straight",
+   "lips": "soft_medium",
+   "face_shape": "v_line",
+   "eyes": "deep_set"
+  },
+  "silhouette": {
+   "body": "strong_curvy",
+   "hair_color": "violet",
+   "hair": "double_buns",
+   "bangs": "wispy"
+  }
+ },
+ "shot": {
+  "scene": "",
+  "time": "",
+  "pose": "",
+  "expr": "",
+  "frame": ""
+ },
+ "file": "황개_samguk_kr_drawn_rim_dewy_f.webp",
+ "prompt": "Design brief — your own take on this character. A full-body vertical 2:3 (1024×1536) character card image of Huang Gai from the Romance of the Three Kingdoms, reimagined as an adult woman — the veteran who offered her own back to the lash to light the fire at Red Cliffs. Age: early thirties — a poised, graceful face with soft contours; at most faint lines, no deep folds or under-eye bags. She is a woman — no beard, moustache or facial hair.\n\nYou design her yourself: invent her face, eye colour, hairstyle, makeup, expression, pose and setting as a fresh, original take — do not follow any earlier design of this character. Her hair colour, skin tone, costume and weapon are NOT free: take them from our designs below.\n\nStyle (fixed): Korean MMORPG character artwork. A recognisably drawn face with gently simplified anatomical structure. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\n\nInspiration only: self-sacrificing resolve, healing welts under her armor, an iron whip and fire-ship torches.\n\nWorld (fixed): Eastern Wu along the Yangtze, around 200–280 AD: the river capital Jianye, great war junks with crimson sails, river fortresses, southern rain and lotus marshes, the fire ships of the Red Cliffs. Her costume, weapon and setting belong to this world.\n\nCostume (choose one of ours, then add your own idea): pick ONE of these costume shapes from our set and keep its overall silhouette — 1) light armor pieces over a fitted silk martial dress, long silk sashes and a light skirt flowing from the waist and shoulders — a light, dancing silhouette; 2) layered laced lamellar armor, big heavy beast-head pauldrons and armored skirts to the knees — a broad, weighty general's silhouette; 3) fitted light lamellar armor with short armored skirts slit for riding, bracers and greaves — a lean, practical cavalry silhouette; 4) a fitted martial-arts outfit with a wide belt and arm guards, a long silk sash streaming behind — a wandering swordswoman's silhouette; 5) a great war cape spreading from the shoulders to the ankles as the main shape, lamellar armor beneath; 6) a heavy fur mantle over the shoulders with leather straps and beast ornaments — a rugged frontier silhouette; 7) a lamellar breastplate above, many layers of silk skirt flaring wide below the waist — firm above, flowing below; 8) a dark close-fitting light outfit with minimal ornament and wrapped arms and legs — a sleek silhouette, face uncovered; 9) a chest guard, a quiver, a fitted short robe and leg wraps — a light, upright archer's silhouette. Then add one signature idea of your own drawn from her legend, built into the construction of the outfit itself rather than as a print or a loose accessory — e.g. plates or cloth layered like feathers, scales or petals, a hem or sleeve cut into a motif from her story. Build it in this world's materials and our colours below.\n\nWeapon (fixed — ours): an iron whip.\n\nHair colour (fixed — ours): violet hair. Keep exactly this hair colour; only the hairstyle is yours.\n\nSkin tone (fixed — ours): fair skin. Keep exactly this skin tone.\n\nCostume colours (ours): crimson red, gold, river teal, black lacquer.\n\nRank (fixed): she is a famed war general — her costume must read battlefield might at first glance: imposing, richly worked armour and cloth with flagship-card detail, never plain or sparse.\n\nExposure (fixed): bold — her outfit shows skin by design (a deep neckline, bare shoulders or arms, a high slit or short hem); intimate areas covered.\n\nFace proportions: a short midface and a soft, gently rounded jawline with a small soft chin — never a long face or a long, pointed or heavy jaw; any crown or headpiece sits above her hairline and never lengthens her face. Her eyes stay at a natural open size — never squeezed into narrow slits.\n\nComposition: vertical 2:3 full-body framing with modest headroom and clear space below the boots — the whole figure from the top of her crown or headpiece to both boots stays inside the frame, occupying about four-fifths of the image height, with the same camera distance in every genre; her hands and her signature item stay inside the frame. Camera at chest height with natural portrait perspective — no wide-angle distortion, no low angle, no close crop.\n\nIf you have already drawn a free design of her in this session, make this one clearly different — another face and hairstyle (the same hair colour and skin tone), another costume shape from the list with another signature idea, another pose and setting.\n\nWrite your own detailed image prompt from this brief, then draw it. One figure only, natural hands with five fingers; a banner or seal may carry a single faction character, no other text; no logo or watermark.\n\nChosen original design: costume shape 5, an immense crimson war cape from shoulders to ankles over richly detailed black-lacquer lamellar armor. The cape is constructed from overlapping triangular silk gores like folded fire-ship sails, gold seam ribs with river-teal lining, a deep neckline, bare arms and a long high side opening. Strong curving adult figure. Violet hair cut into a voluminous shoulder-length wavy bob, side-swept fringe; jade-green eyes, softly rounded heart face with short midface, a small chin, rose lips and a calm serious expression. She stands in a three-quarter frontal stance on a Late-Han wooden flagship deck, looking directly toward the viewer, one iron whip held across the front at hip height with both hands. Red sails and broad sunlit river behind her, crisp daylight and luminous rim light.",
+ "date": "2026-11-15",
+ "record": "records/황개/samguk.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "황개",
+  "out": "world",
+  "world": "samguk",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {
+   "황개|samguk": {}
+  },
+  "looks": {
+   "황개|samguk": {
+    "params": {},
+    "faceDesignOn": true,
+    "silhouetteOn": true,
+    "exposure": "bold"
+   }
+  },
+  "shots": {
+   "황개|samguk": {
+    "scene": "",
+    "time": "",
+    "pose": "",
+    "expr": "",
+    "frame": ""
+   }
+  },
+  "walked": {},
+  "casualN": 1,
+  "scenes": {}
+ },
+ "generation": {
+  "tool": "image_gen",
+  "endpoint": "images/generations",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "413b57dd2d5f6146f5f9723427356277e8e7395c8535848d7b21db43b0534c42",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "prompt_form": "en-prompt",
+  "prompt_sha256": "faf557fd14109caf6a0cc0a10050fc45f14651225a75b85206ec80b6a486f71d",
+  "retries": [],
+  "design": "gpt_free",
+  "free_prompt": "Design brief — your own take on this character. A full-body vertical 2:3 (1024×1536) character card image of Huang Gai from the Romance of the Three Kingdoms, reimagined as an adult woman — the veteran who offered her own back to the lash to light the fire at Red Cliffs. Age: early thirties — a poised, graceful face with soft contours; at most faint lines, no deep folds or under-eye bags. She is a woman — no beard, moustache or facial hair.\n\nYou design her yourself: invent her face, eye colour, hairstyle, makeup, expression, pose and setting as a fresh, original take — do not follow any earlier design of this character. Her hair colour, skin tone, costume and weapon are NOT free: take them from our designs below.\n\nStyle (fixed): Korean MMORPG character artwork. A recognisably drawn face with gently simplified anatomical structure. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\n\nInspiration only: self-sacrificing resolve, healing welts under her armor, an iron whip and fire-ship torches.\n\nWorld (fixed): Eastern Wu along the Yangtze, around 200–280 AD: the river capital Jianye, great war junks with crimson sails, river fortresses, southern rain and lotus marshes, the fire ships of the Red Cliffs. Her costume, weapon and setting belong to this world.\n\nCostume (choose one of ours, then add your own idea): pick ONE of these costume shapes from our set and keep its overall silhouette — 1) light armor pieces over a fitted silk martial dress, long silk sashes and a light skirt flowing from the waist and shoulders — a light, dancing silhouette; 2) layered laced lamellar armor, big heavy beast-head pauldrons and armored skirts to the knees — a broad, weighty general's silhouette; 3) fitted light lamellar armor with short armored skirts slit for riding, bracers and greaves — a lean, practical cavalry silhouette; 4) a fitted martial-arts outfit with a wide belt and arm guards, a long silk sash streaming behind — a wandering swordswoman's silhouette; 5) a great war cape spreading from the shoulders to the ankles as the main shape, lamellar armor beneath; 6) a heavy fur mantle over the shoulders with leather straps and beast ornaments — a rugged frontier silhouette; 7) a lamellar breastplate above, many layers of silk skirt flaring wide below the waist — firm above, flowing below; 8) a dark close-fitting light outfit with minimal ornament and wrapped arms and legs — a sleek silhouette, face uncovered; 9) a chest guard, a quiver, a fitted short robe and leg wraps — a light, upright archer's silhouette. Then add one signature idea of your own drawn from her legend, built into the construction of the outfit itself rather than as a print or a loose accessory — e.g. plates or cloth layered like feathers, scales or petals, a hem or sleeve cut into a motif from her story. Build it in this world's materials and our colours below.\n\nWeapon (fixed — ours): an iron whip.\n\nHair colour (fixed — ours): violet hair. Keep exactly this hair colour; only the hairstyle is yours.\n\nSkin tone (fixed — ours): fair skin. Keep exactly this skin tone.\n\nCostume colours (ours): crimson red, gold, river teal, black lacquer.\n\nRank (fixed): she is a famed war general — her costume must read battlefield might at first glance: imposing, richly worked armour and cloth with flagship-card detail, never plain or sparse.\n\nExposure (fixed): bold — her outfit shows skin by design (a deep neckline, bare shoulders or arms, a high slit or short hem); intimate areas covered.\n\nFace proportions: a short midface and a soft, gently rounded jawline with a small soft chin — never a long face or a long, pointed or heavy jaw; any crown or headpiece sits above her hairline and never lengthens her face. Her eyes stay at a natural open size — never squeezed into narrow slits.\n\nComposition: vertical 2:3 full-body framing with modest headroom and clear space below the boots — the whole figure from the top of her crown or headpiece to both boots stays inside the frame, occupying about four-fifths of the image height, with the same camera distance in every genre; her hands and her signature item stay inside the frame. Camera at chest height with natural portrait perspective — no wide-angle distortion, no low angle, no close crop.\n\nIf you have already drawn a free design of her in this session, make this one clearly different — another face and hairstyle (the same hair colour and skin tone), another costume shape from the list with another signature idea, another pose and setting.\n\nWrite your own detailed image prompt from this brief, then draw it. One figure only, natural hands with five fingers; a banner or seal may carry a single faction character, no other text; no logo or watermark.\n\nChosen original design: costume shape 5, an immense crimson war cape from shoulders to ankles over richly detailed black-lacquer lamellar armor. The cape is constructed from overlapping triangular silk gores like folded fire-ship sails, gold seam ribs with river-teal lining, a deep neckline, bare arms and a long high side opening. Strong curving adult figure. Violet hair cut into a voluminous shoulder-length wavy bob, side-swept fringe; jade-green eyes, softly rounded heart face with short midface, a small chin, rose lips and a calm serious expression. She stands in a three-quarter frontal stance on a Late-Han wooden flagship deck, looking directly toward the viewer, one iron whip held across the front at hip height with both hands. Red sails and broad sunlit river behind her, crisp daylight and luminous rim light.",
+  "selected_candidate": 4,
+  "user_selection": "4,4,4"
+ },
+ "execution": "sam-huanggai-a76fa-20261115",
+ "imported": "2026-11-15",
+ "qa": {
+  "reviewer": "sam-huanggai-a76fa-20261115",
+  "image_sha256": "413b57dd2d5f6146f5f9723427356277e8e7395c8535848d7b21db43b0534c42",
+  "passed": true,
+  "anatomy": "ok",
+  "exposure": "match",
+  "observations": [
+   "Full-body world candidate 4, one adult woman; violet hair, fair skin and crimson/gold/teal/black palette.",
+   "Weapon remains in frame; both arms and legs visibly connected."
+  ]
+ },
+ "acceptance": "user authorized automatic QA, commit and non-force main update; no exposure-based regeneration",
+ "review": {
+  "reviewed": false,
+  "by": "user",
+  "result": "pending"
+ }
+}
