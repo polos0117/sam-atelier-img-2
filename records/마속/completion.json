@@ -1,0 +1,28 @@
+{
+ "card": "마속",
+ "execution": "sam-masu-dd79c293",
+ "world_selection": {
+  "samguk": 3,
+  "fantasy": 3,
+  "mecha": 4
+ },
+ "world_images": 3,
+ "casual_images": 24,
+ "total": 27,
+ "reference_design": "gpt_free",
+ "checks": {
+  "webp_dimensions": [
+   1024,
+   1536
+  ],
+  "webp_decode": "all passed",
+  "planner": "all three seven-cut bundles passed",
+  "casual_check": "zero invalid worlds; own90 shares a location alias in two worlds but uses different prescribed poses and world-specific workplaces"
+ },
+ "retry": "fantasy-casual2: one initial blocked response with no returned image, then one successful identical-prompt retry; no generated image was replaced for exposure.",
+ "qa_deviations": [
+  "samguk casual5: costume interpretation and bows/arrows in archery-ground background",
+  "fantasy casual1/7 and mecha casual5/7: framing differs from requested crop"
+ ],
+ "publication": "new files only; normal fast-forward main update; no deletions or forced updates"
+}

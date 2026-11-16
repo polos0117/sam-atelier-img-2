@@ -1,0 +1,153 @@
+{
+ "atelier": "samguk",
+ "card": "마속",
+ "faction": "shu",
+ "slot": "casual3",
+ "treeV": 2,
+ "world": "samguk",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v1",
+ "ref": "마속_samguk_kr_drawn_rim_dewy_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "now",
+  "place": "arcade_hall",
+  "ofam": "game_cosplay",
+  "item": "gc_one_piece",
+  "posture": "sit_edge",
+  "support": "hip_edge",
+  "frame": "three_quarter",
+  "body": "front",
+  "head": "with_body",
+  "camera": "eye",
+  "right": "edge_brace_both",
+  "left": "edge_brace_both",
+  "use": "",
+  "legs": "knees_together",
+  "gaze": "camera",
+  "time": "lamplight",
+  "light": "top",
+  "depth": "flat",
+  "view": "foreground",
+  "cosplay": {
+   "game": "nier_automata",
+   "character": "2B",
+   "cut": "one_piece",
+   "round": 1
+  },
+  "expr": "nostalgic",
+  "preset": "edge_brace",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "마속_samguk_kr_drawn_rim_dewy_f_casual3.webp",
+ "prompt": "INPUT: the attached image is the approved character — her Three kingdoms card; keep her. Do not reuse earlier conversation images.\n\nCHARACTER: the same woman as the attached image — the female personification of Ma Su of the Three Kingdoms, off duty in a game cosplay. Keep her face, eye and hair colours, skin tone and body proportions; expression and hair motion may change. In this cut she wears another character's costume: she is herself in that character's cosplay, not that character — her own face, hair colour and body stay exactly as in the attached image.\n\nSTYLE: Korean MMORPG character artwork. A recognisably drawn face with gently simplified anatomical structure. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\n\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nAGE: the same adult woman as in the attached image — keep her own face shape, cheekbones, eye proportions and skin tone exactly; minimal facial lines (no nasolabial folds, crow's feet, under-eye bags or cheek creases). Keep her face soft, feminine and attractive in every framing — never elongated, gaunt, mannish or heavy-jawed, even in close-ups, profiles or low angles.\n\nOUTPUT: one standalone off-duty scene of her wearing the game cosplay chosen in SCENE — a daring adult cosplay of the video game character named there, as worn to a cosplay event, an arcade night or a photo shoot. In this cut the outfit itself shows that game character: its recognisable colours, shapes and parts. Everything else follows SCENE (chosen).\n\nFRAME: a vertical 2:3 (1024×1536) image. Compose the image for this frame; COMPOSITION in SCENE sets how much of her shows.\n\nERA: the present-day real world — today's clothing, hair, devices and interiors; an ordinary woman of today, nothing of her legend in her clothes.\n\nSCENE (chosen):\nPlace: a neon-lit game arcade — rows of glowing cabinets, a claw machine and a dance-game stage, coloured light on the floor\nTime of day: warm lamplight or candlelight indoors, the rest in shadow.\nLight direction: a pool of light from above, the surroundings dimmer.\nOutfit: a daring adult cosplay of 2B from Nier: Automata — 2B's look — a black gothic combat dress with feather-trimmed puffed sleeves and a split skirt, black thigh-high boots, white gloves and a black blindfold pushed up onto the forehead, cut as a high-cut one-piece swimsuit\nPOSTURE: perched on a ledge or edge.\nSUPPORT: she sits on the edge, her weight on her hips.\nCOMPOSITION: a three-quarter shot from her head to just above the knees; body facing the camera; camera at her eye level; a wall or backdrop of the place close behind her; a soft out-of-focus object of the place sits in the near foreground at one edge of the frame.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nBOTH HANDS: both hands brace on the edge on either side of her hips.\nLEGS: knees together, feet slightly apart.\nGAZE: she looks into the camera.\nEXPRESSION: a soft faraway look with a faint wistful smile. Keep it subtle and natural, a light touch rather than acting: no sneer, glare, smirk-pulled cheek or chin lifted to look down at the viewer; her face stays relaxed and attractive. Her eyes are naturally open and clear, not heavy-lidded or half-closed; brows relaxed and even, neither raised on one side nor furrowed; lips softly closed or only just parted.\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing; nothing slipped off; intimate areas covered\n\nWARDROBE: change her clothes completely into the cosplay SCENE describes. From the attached image take only her face, hair colour and body — not its garment, armor, regalia, ornaments, mecha plates or background, and none of her Three Kingdoms colours or emblems. The costume must read at first glance as that game character's look, rebuilt as a glamorous adult outfit in the cut SCENE names; she is a real woman in a cosplay, not the character — never the character's face, body or creature shape, no logo or readable text, and no weapon or prop weapon in her hands.\n\nANGLE: the attached image fixes who she is, not how she is posed or shot. Do not copy its head angle, head tilt, gaze direction, face size in frame, camera height or crop — turn her head, set her gaze and place the camera exactly as SCENE describes, and let her face read naturally from that new angle (profile, three-quarter, looking down or away), with her features staying the same. No default card pose, no default front-facing portrait.\n\nONE MAIN FIGURE: she is the only character in focus. Where the place is busy, other people may appear only as small, soft-focus background extras — never posed with her. No logo, no watermark, no speech bubble, no frame border. No readable text or numbers.\n\nANATOMY: natural adult proportions, about 7.5 heads tall — height from the legs, never a smaller head or a longer neck. The neck is a natural length and the head sits close to the shoulders. No body-part enlargement, no extra limbs.\n\nFIGURE: keep her exact build from the attached image, neither slimmer nor fuller.\n\nBODY: a normal human body — one head, two arms and two legs, each joined at its natural joint; elbows, knees and wrists bend the human way. Hands and feet may be partly hidden by the pose, what she holds or the frame. Right and left mean her own right and left, not the viewer's.\n\nHANDS: natural human hands, no extra or duplicated limbs; each visible hand joins through its wrist and forearm to the matching shoulder. A hand may stay outside the crop, and fingers may be partly hidden by a grip.\n\nAVOID: a blue or bruise-like tint on the skin around the eyes, glossy or shiny highlights on the face, sweaty, oily or plastic-looking skin.\n",
+ "date": "2026-11-16",
+ "record": "records/마속/samguk-casual3.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "마속",
+  "out": "casual",
+  "world": "samguk",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 3,
+  "scenes": {
+   "마속": {
+    "era": "now",
+    "place": "arcade_hall",
+    "ofam": "game_cosplay",
+    "treeV": 2,
+    "prop": "",
+    "preset": "edge_brace",
+    "use": "",
+    "posture": "sit_edge",
+    "support": "hip_edge",
+    "frame": "three_quarter",
+    "body": "front",
+    "head": "with_body",
+    "camera": "eye",
+    "right": "edge_brace_both",
+    "left": "edge_brace_both",
+    "legs": "knees_together",
+    "gaze": "camera",
+    "item": "gc_one_piece",
+    "cosplay": {
+     "game": "nier_automata",
+     "character": "2B",
+     "cut": "one_piece",
+     "round": 1
+    },
+    "expr": "nostalgic",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "time": "lamplight",
+    "light": "top",
+    "depth": "flat",
+    "view": "foreground"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen",
+  "endpoint": "images/edits",
+  "ref_sha256": "79ea9344e1113ca1f2f19ccbcd8a573219631f8afb2282df46a444e1cc7bbf1b",
+  "refDesign": "gpt_free",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "8d6c397ef0269eda65ff1a43db962c05504f34776cd0d354d44b102cee6eb9d5",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "prompt_form": "gpt-structured",
+  "prompt_sha256": "18d6ab7d274743afba6b534d6cddbcf3117f851766eceb49d99bc0319e396452",
+  "free_prompt": "INPUT: the attached image is the approved character — her Three kingdoms card; keep her. Do not reuse earlier conversation images.\n\nCHARACTER: the same woman as the attached image — the female personification of Ma Su of the Three Kingdoms, off duty in a game cosplay. Keep her face, eye and hair colours, skin tone and body proportions; expression and hair motion may change. In this cut she wears another character's costume: she is herself in that character's cosplay, not that character — her own face, hair colour and body stay exactly as in the attached image.\n\nSTYLE: Korean MMORPG character artwork. A recognisably drawn face with gently simplified anatomical structure. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\n\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nAGE: the same adult woman as in the attached image — keep her own face shape, cheekbones, eye proportions and skin tone exactly; minimal facial lines (no nasolabial folds, crow's feet, under-eye bags or cheek creases). Keep her face soft, feminine and attractive in every framing — never elongated, gaunt, mannish or heavy-jawed, even in close-ups, profiles or low angles.\n\nOUTPUT: one standalone off-duty scene of her wearing the game cosplay chosen in SCENE — a daring adult cosplay of the video game character named there, as worn to a cosplay event, an arcade night or a photo shoot. In this cut the outfit itself shows that game character: its recognisable colours, shapes and parts. Everything else follows SCENE (chosen).\n\nFRAME: a vertical 2:3 (1024×1536) image. Compose the image for this frame; COMPOSITION in SCENE sets how much of her shows.\n\nERA: the present-day real world — today's clothing, hair, devices and interiors; an ordinary woman of today, nothing of her legend in her clothes.\n\nSCENE (chosen):\nPlace: a neon-lit game arcade — rows of glowing cabinets, a claw machine and a dance-game stage, coloured light on the floor\nTime of day: warm lamplight or candlelight indoors, the rest in shadow.\nLight direction: a pool of light from above, the surroundings dimmer.\nOutfit: a daring adult cosplay of 2B from Nier: Automata — 2B's look — a black gothic combat dress with feather-trimmed puffed sleeves and a split skirt, black thigh-high boots, white gloves and a black blindfold pushed up onto the forehead, cut as a high-cut one-piece swimsuit\nPOSTURE: perched on a ledge or edge.\nSUPPORT: she sits on the edge, her weight on her hips.\nCOMPOSITION: a three-quarter shot from her head to just above the knees; body facing the camera; camera at her eye level; a wall or backdrop of the place close behind her; a soft out-of-focus object of the place sits in the near foreground at one edge of the frame.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nBOTH HANDS: both hands brace on the edge on either side of her hips.\nLEGS: knees together, feet slightly apart.\nGAZE: she looks into the camera.\nEXPRESSION: a soft faraway look with a faint wistful smile. Keep it subtle and natural, a light touch rather than acting: no sneer, glare, smirk-pulled cheek or chin lifted to look down at the viewer; her face stays relaxed and attractive. Her eyes are naturally open and clear, not heavy-lidded or half-closed; brows relaxed and even, neither raised on one side nor furrowed; lips softly closed or only just parted.\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing; nothing slipped off; intimate areas covered\n\nWARDROBE: change her clothes completely into the cosplay SCENE describes. From the attached image take only her face, hair colour and body — not its garment, armor, regalia, ornaments, mecha plates or background, and none of her Three Kingdoms colours or emblems. The costume must read at first glance as that game character's look, rebuilt as a glamorous adult outfit in the cut SCENE names; she is a real woman in a cosplay, not the character — never the character's face, body or creature shape, no logo or readable text, and no weapon or prop weapon in her hands.\n\nANGLE: the attached image fixes who she is, not how she is posed or shot. Do not copy its head angle, head tilt, gaze direction, face size in frame, camera height or crop — turn her head, set her gaze and place the camera exactly as SCENE describes, and let her face read naturally from that new angle (profile, three-quarter, looking down or away), with her features staying the same. No default card pose, no default front-facing portrait.\n\nONE MAIN FIGURE: she is the only character in focus. Where the place is busy, other people may appear only as small, soft-focus background extras — never posed with her. No logo, no watermark, no speech bubble, no frame border. No readable text or numbers.\n\nANATOMY: natural adult proportions, about 7.5 heads tall — height from the legs, never a smaller head or a longer neck. The neck is a natural length and the head sits close to the shoulders. No body-part enlargement, no extra limbs.\n\nFIGURE: keep her exact build from the attached image, neither slimmer nor fuller.\n\nBODY: a normal human body — one head, two arms and two legs, each joined at its natural joint; elbows, knees and wrists bend the human way. Hands and feet may be partly hidden by the pose, what she holds or the frame. Right and left mean her own right and left, not the viewer's.\n\nHANDS: natural human hands, no extra or duplicated limbs; each visible hand joins through its wrist and forearm to the matching shoulder. A hand may stay outside the crop, and fingers may be partly hidden by a grip.\n\nAVOID: a blue or bruise-like tint on the skin around the eyes, glossy or shiny highlights on the face, sweaty, oily or plastic-looking skin.\n",
+  "retries": [],
+  "prompt_adjustments": [
+   "FIGURE preserves the selected GPT-free design; other generator lines unchanged except the authorized FREE DESIGN block where present."
+  ],
+  "cosplay": {
+   "game": "nier_automata",
+   "character": "2B",
+   "cut": "one_piece",
+   "round": 1
+  }
+ },
+ "execution": "sam-masu-dd79c293",
+ "imported": "2026-11-16",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "8d6c397ef0269eda65ff1a43db962c05504f34776cd0d354d44b102cee6eb9d5",
+  "passed": true,
+  "anatomy": "ok",
+  "exposure": "match",
+  "observations": [
+   "One adult main figure; selected reference face, royal-purple hair and body retained. Natural connected visible limbs; fingers may be hidden by the prescribed grip or crop. No logo, watermark or clearly readable text.",
+   "Seated at the arcade ledge in a black 2B-inspired one-piece cosplay with detached sleeves; both palms support her on the ledge and knees remain together."
+  ]
+ },
+ "acceptance": "User authorized character completion and non-force main publication; existing images preserved without exposure-driven regeneration.",
+ "review": {
+  "reviewed": false,
+  "by": "user",
+  "result": "pending"
+ },
+ "planning_context": {
+  "usage": "Read existing local worktree records through deduplicated symlinks; no other character images or full history copied.",
+  "source_world_selection": 3
+ }
+}
