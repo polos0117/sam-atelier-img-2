@@ -1,0 +1,48 @@
+{
+ "card": "하후패",
+ "world": "mecha",
+ "seed": 20261116,
+ "tree": 2,
+ "style": "kr_drawn_rim_dewy",
+ "required": "nation · cosplay:starcraft/bodysuit · lingerie · situ:strap · free:swimwear+free",
+ "slots": [
+  1
+ ],
+ "fresh": false,
+ "cosplayRead": "usage-snapshot/sam-atelier-img,usage-snapshot/sam-atelier-img-2",
+ "cuts": [
+  {
+   "n": 1,
+   "era": "now",
+   "place": "spa_footbath",
+   "ofam": "lingerie",
+   "treeV": 2,
+   "prop": "",
+   "preset": "lookback_raise",
+   "use": "brush_hair",
+   "kind": "raise",
+   "posture": "stand",
+   "support": "none",
+   "frame": "chest_up",
+   "body": "side",
+   "head": "over_shoulder",
+   "camera": "eye",
+   "right": "prop",
+   "left": "out",
+   "legs": "",
+   "gaze": "camera",
+   "item": "silk_pajama",
+   "expr": "pensive",
+   "axes": {
+    "overall_intensity": "strong",
+    "skin_exposure": "bold"
+   },
+   "aspect": "2:3",
+   "unlocked": [],
+   "color": "mono",
+   "denier": "d80",
+   "time": "morning",
+   "hair": "hat"
+  }
+ ]
+}
