@@ -1,0 +1,118 @@
+{
+ "atelier": "samguk",
+ "card": "황월영",
+ "faction": "shu",
+ "role": "strategist",
+ "world": "fantasy",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v1",
+ "notes": {},
+ "look": {
+  "params": {},
+  "faceDesignOn": true,
+  "silhouetteOn": true,
+  "exposure": "bold"
+ },
+ "design": {
+  "face": {
+   "eye_color": "gold",
+   "impression": "boyish",
+   "expr": "curious",
+   "skin_tone": "olive",
+   "age": "early_20s",
+   "eye_size": "medium",
+   "eye_tilt": "up",
+   "mark": "winged_liner",
+   "brows": "straight_thin",
+   "nose": "high_bridge",
+   "lips": "thin_bow",
+   "face_shape": "inverted_triangle",
+   "eyes": "phoenix"
+  },
+  "silhouette": {
+   "body": "pear_curvy",
+   "hair_color": "golden_blonde",
+   "hair": "finger_waves",
+   "bangs": "wispy"
+  }
+ },
+ "shot": {
+  "scene": "",
+  "time": "",
+  "pose": "",
+  "expr": "",
+  "frame": ""
+ },
+ "file": "황월영_fantasy_kr_drawn_rim_dewy_f.webp",
+ "prompt": "A full-body character card image, vertical 2:3 (1024×1536), Huang Yueying from the Romance of the Three Kingdoms reimagined as an adult woman, about twenty, a fresh young-adult face with no facial lines, no beard, moustache or facial hair. Korean MMORPG character artwork. A recognisably drawn face with gently simplified anatomical structure. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume. Short midface, soft gently rounded jawline, small soft chin, natural-sized open eyes; no long, pointed or heavy jaw. Golden blonde hair and olive skin. Costume palette: jade green, imperial gold, earthen brown, white jade. Her costume reads master strategist scholarly prestige at first glance: elegant, layered, finely ornamented, flagship-card detail. One figure only, no other person, horse or creature. One head, two naturally joined arms and two legs, both hands visible with five natural fingers each. Bold exposure by design: deep neckline, bare shoulders or arms, high slit or short hem; intimate areas covered. Full body from crown to both boots inside the frame with modest headroom and clear space below the boots; figure occupies about four-fifths image height, chest-height camera, natural portrait perspective, no wide angle, low angle or close crop. Hands and signature item stay inside the frame. No text, logo or watermark.\n\nWESTERN MEDIEVAL HIGH FANTASY: righteous highland kingdom, sunlit oak-ringed courtyard before a fortified grey-stone castle, green hills and white waterfall beyond. Face: small soft heart shape, clear violet almond eyes, fine straight brows, short refined nose and a defined cupid's bow, subtle bronze eyeliner, alert raised-brow expression. Golden blonde hair in long loose waves gathered into a high half ponytail with a small gold circlet. Costume shape 4: long coat below knees with epaulettes, belt, gloves and tall boots, crisp commanding officer silhouette. Rich jade-green velvet coat with imperial-gold articulated seams, earthen-brown leather belt, white-jade fittings, layered finely ornamented shoulder mantle. Signature construction: interlocked sliding coat-tail segments form a deployable compass-like arc of graduated panels, not a gear print or loose ornament. Deep neckline, bare upper arms between epaulettes and detached sleeves, coat front opened high on one leg, intimate areas covered. She supports a single full-scale polished steel and silvered mithril gear-and-lever device beside her front, engraved runes, subtle green glow, gem-set socket, leather-wrapped handle; no wood or Chinese fittings. Upright stance, one foot a small step forward, face toward viewer, both boots grounded and visible. Western medieval architecture and dress only, no Chinese robes or hanzi. Crisp bright sunlight with rim illumination.\n",
+ "date": "2026-11-16",
+ "record": "records/황월영/fantasy.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "황월영",
+  "out": "world",
+  "world": "fantasy",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {
+   "황월영|fantasy": {}
+  },
+  "looks": {
+   "황월영|fantasy": {
+    "params": {},
+    "faceDesignOn": true,
+    "silhouetteOn": true,
+    "exposure": "bold"
+   }
+  },
+  "shots": {
+   "황월영|fantasy": {
+    "scene": "",
+    "time": "",
+    "pose": "",
+    "expr": "",
+    "frame": ""
+   }
+  },
+  "walked": {},
+  "casualN": 1,
+  "scenes": {}
+ },
+ "generation": {
+  "tool": "image_gen",
+  "endpoint": "images/generations",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "6d8353b0f13154e614fcc125e2338787e7831c287504c16844da07c640ee5325",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "prompt_form": "en-prompt",
+  "prompt_sha256": "5a69bf8c292320ec54de0b6bcc6e93104a221e024bd209f7e77bee3a514b9398",
+  "selected_number": 4,
+  "design": "gpt_free",
+  "retries": [],
+  "free_prompt": "A full-body character card image, vertical 2:3 (1024×1536), Huang Yueying from the Romance of the Three Kingdoms reimagined as an adult woman, about twenty, a fresh young-adult face with no facial lines, no beard, moustache or facial hair. Korean MMORPG character artwork. A recognisably drawn face with gently simplified anatomical structure. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume. Short midface, soft gently rounded jawline, small soft chin, natural-sized open eyes; no long, pointed or heavy jaw. Golden blonde hair and olive skin. Costume palette: jade green, imperial gold, earthen brown, white jade. Her costume reads master strategist scholarly prestige at first glance: elegant, layered, finely ornamented, flagship-card detail. One figure only, no other person, horse or creature. One head, two naturally joined arms and two legs, both hands visible with five natural fingers each. Bold exposure by design: deep neckline, bare shoulders or arms, high slit or short hem; intimate areas covered. Full body from crown to both boots inside the frame with modest headroom and clear space below the boots; figure occupies about four-fifths image height, chest-height camera, natural portrait perspective, no wide angle, low angle or close crop. Hands and signature item stay inside the frame. No text, logo or watermark.\n\nWESTERN MEDIEVAL HIGH FANTASY: righteous highland kingdom, sunlit oak-ringed courtyard before a fortified grey-stone castle, green hills and white waterfall beyond. Face: small soft heart shape, clear violet almond eyes, fine straight brows, short refined nose and a defined cupid's bow, subtle bronze eyeliner, alert raised-brow expression. Golden blonde hair in long loose waves gathered into a high half ponytail with a small gold circlet. Costume shape 4: long coat below knees with epaulettes, belt, gloves and tall boots, crisp commanding officer silhouette. Rich jade-green velvet coat with imperial-gold articulated seams, earthen-brown leather belt, white-jade fittings, layered finely ornamented shoulder mantle. Signature construction: interlocked sliding coat-tail segments form a deployable compass-like arc of graduated panels, not a gear print or loose ornament. Deep neckline, bare upper arms between epaulettes and detached sleeves, coat front opened high on one leg, intimate areas covered. She supports a single full-scale polished steel and silvered mithril gear-and-lever device beside her front, engraved runes, subtle green glow, gem-set socket, leather-wrapped handle; no wood or Chinese fittings. Upright stance, one foot a small step forward, face toward viewer, both boots grounded and visible. Western medieval architecture and dress only, no Chinese robes or hanzi. Crisp bright sunlight with rim illumination.\n"
+ },
+ "execution": "sam-huangyueying-20261116",
+ "imported": "2026-11-16",
+ "acceptance": "사용자 2026-11-16: 캐릭터 완료 후 이미지·도감 변경 커밋 및 원격 main 일반 반영 승인. 선택 1,4,3. 노출검열 사유 재생성 금지.",
+ "review": {
+  "reviewed": true,
+  "by": "user",
+  "result": "selected",
+  "selection_number": 4
+ },
+ "qa": {
+  "reviewer": "gpt-session",
+  "image_sha256": "6d8353b0f13154e614fcc125e2338787e7831c287504c16844da07c640ee5325",
+  "passed": true,
+  "anatomy": "ok",
+  "exposure": "match",
+  "observations": [
+   "Full body and both feet inside frame. One adult woman, coherent gear-and-lever signature item.",
+   "Selected by user as world reference."
+  ]
+ }
+}
