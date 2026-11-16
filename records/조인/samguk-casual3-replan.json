@@ -1,0 +1,48 @@
+{
+ "card": "조인",
+ "world": "samguk",
+ "seed": 812314678,
+ "tree": 2,
+ "style": "kr_drawn_rim_dewy",
+ "required": "roleplay · nation · situ:wet · free:swimwear+free",
+ "slots": [
+  3
+ ],
+ "fresh": false,
+ "cosplayRead": "sam-atelier-img,sam-atelier-img-2",
+ "cuts": [
+  {
+   "n": 3,
+   "era": "fantasy",
+   "place": "fx_marble_bath",
+   "ofam": "drape",
+   "treeV": 2,
+   "prop": "",
+   "preset": "step_pause",
+   "use": "",
+   "posture": "step_up",
+   "support": "none",
+   "frame": "full_body",
+   "body": "front_3q",
+   "head": "turn_side",
+   "camera": "low",
+   "right": "hip",
+   "left": "natural",
+   "legs": "",
+   "gaze": "horizon",
+   "item": "arabian_nights",
+   "expr": "proud",
+   "axes": {
+    "overall_intensity": "strong",
+    "skin_exposure": "bold"
+   },
+   "aspect": "2:3",
+   "unlocked": [],
+   "color": "pattern",
+   "denier": "d40",
+   "hair": "braid",
+   "depth": "deep",
+   "view": "foreground"
+  }
+ ]
+}
