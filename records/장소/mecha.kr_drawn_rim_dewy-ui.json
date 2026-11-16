@@ -1,0 +1,116 @@
+{
+ "atelier": "samguk",
+ "card": "장소",
+ "faction": "wu",
+ "role": "official",
+ "world": "mecha",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v1",
+ "notes": {},
+ "look": {
+  "params": {},
+  "faceDesignOn": true,
+  "silhouetteOn": true,
+  "exposure": "bold"
+ },
+ "design": {
+  "face": {
+   "eye_color": "navy",
+   "impression": "mature",
+   "expr": "serious",
+   "skin_tone": "fair",
+   "age": "early_30s",
+   "eye_size": "medium",
+   "eye_tilt": "down",
+   "mark": "bare",
+   "brows": "low_heavy",
+   "nose": "broad_soft",
+   "lips": "small_bow",
+   "face_shape": "heart",
+   "eyes": "almond_wide"
+  },
+  "silhouette": {
+   "body": "willowy_curvy",
+   "hair_color": "magenta",
+   "hair": "jellyfish_cut",
+   "bangs": "swept_back"
+  }
+ },
+ "shot": {
+  "scene": "",
+  "time": "",
+  "pose": "",
+  "expr": "",
+  "frame": ""
+ },
+ "file": "장소_mecha_kr_drawn_rim_dewy_f.webp",
+ "prompt": "A full-body character image, vertical 2:3 (1024×1536): Zhang Zhao of the Romance of the Three Kingdoms, reimagined as an adult woman — the senior minister whose blunt advice often angered Sun Quan.\n\n1. STYLE\nKorean MMORPG character artwork. A recognisably drawn face with gently simplified anatomical structure. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nHer face is small and soft: a short midface, a softly rounded jaw and a small chin, about 1.3 times as long as it is wide, with her eyes open at their natural size. Bangs, side locks and headpieces frame the face without lengthening it.\nSkin finish: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\n2. CHARACTER\nAge: early thirties — a poised, graceful face with soft contours.\nFace — her own, recognisably this character, a woman's face with no beard or facial hair: a mature, poised woman; fair skin; heart-shaped face; medium-sized eyes — wide almond eyes, outer eye corners drooping downward; low heavy brows; broad soft nose; small bow lips; navy-blue eyes; a bare, makeup-free face.\nBody and hair: willowy and long-limbed with soft curves — a full bust, rounded hips and a slender waist build; a jellyfish cut — a short rounded top layer over long straight lower hair with hair swept back off the forehead; vivid magenta hair.\nExpression: a level, steady look, mouth closed, subtle and relaxed.\nLegend, carried in her design and bearing: stern integrity, heavy scholar's robes, a frown.\nAnatomy: one head, two arms and two legs, each joined at its natural joint; natural hands with five fingers.\n\n3. COSTUME AND EQUIPMENT — MECHA\nCostume: a female mecha personification built as a support and logistics mecha frame — lighter plating, data panels and shield units, utility sub-arms. Solid hard-surface plates with visible joints cover her frame except at the openings named under Exposure; any cape or skirt is made of rigid armored plates; her face and hair stay human.\nSilhouette: a large equipment unit worn on the back (tanks, a cannon barrel or antennae) rising above her head as the main shape, with medium body armor. This silhouette sets the overall shape of the costume above — keep its materials, ornaments and rank in this shape; the details are free.\nColours: crimson red, gold, river teal, black lacquer. Faction frame: crimson and black lacquer plating with gold edges, streamlined naval hull shapes and fin binders, hydrojet thrusters, flame-orange glow lines.\nSignature item: a bamboo tablet of remonstrance, rebuilt as a far-future high-tech version of the same kind of object with the same silhouette — hard-surface alloy plates with panel lines, mechanical joints, vents and emitter nodes, an energy edge, plasma blade or glowing core in her glow-line colour and small status lights, with any animal motif re-sculpted as sleek machined armour. She holds it at full scale: one whole object, drawn once, held in front of or beside her body; a long weapon keeps one straight, unbroken shaft with a single head or blade.\nExposure (bold): her mecha frame is cut open by design in only these places — a deep open chest window with natural cleavage framed by the chest plates, and bare upper thighs between the hip armor and thigh-high leg plates; everywhere else she stays fully plated. The plates stay on, fitted and symmetrical, with skin clearly showing in each opening. Intimate areas covered; keep the plate material and palette.\n\n4. SCENE\nWorld: year 2190, the Wu carrier fleet in orbit above an ocean world: crimson starships and carriers, a glowing nebula, the planet's blue oceans and storm clouds below, neon running lights on the hulls.\nPose: standing confidently, her body turned slightly while her face looks toward the viewer.\nLight: a soft key light with a strong rim light tracing her hair, shoulders and armour; bright, crisp specular highlights on metal and jewellery, and a clean, warm-neutral sheen on her skin.\nComposition: her whole figure from the top of her head or headpiece to both feet inside the frame with clear margins, about four-fifths of the image height; camera at chest height with natural portrait perspective.\n\n5. CONSTRAINTS\nOne figure only — no second character, horse or other creature. No readable text or numbers — emblems are abstract insignia shapes only, never letters or Chinese characters. No logo, watermark, speech bubble or frame border. A far-future setting only — space stations, starships and high-tech structures — with no traditional East-Asian architecture.\nAvoid: a blue or bruise-like tint on the skin around the eyes, glossy or shiny highlights on the face, sweaty, oily or plastic-looking skin.",
+ "date": "2026-11-16",
+ "record": "records/장소/mecha.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "장소",
+  "out": "world",
+  "world": "mecha",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {
+   "장소|mecha": {}
+  },
+  "looks": {
+   "장소|mecha": {
+    "params": {},
+    "faceDesignOn": true,
+    "silhouetteOn": true,
+    "exposure": "bold"
+   }
+  },
+  "shots": {
+   "장소|mecha": {
+    "scene": "",
+    "time": "",
+    "pose": "",
+    "expr": "",
+    "frame": ""
+   }
+  },
+  "walked": {},
+  "casualN": 1,
+  "scenes": {}
+ },
+ "generation": {
+  "tool": "image_gen",
+  "endpoint": "images/generations",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "b5dd7a8dcc58c774797853ab610f99642715e0dd166f4a74f86cf9f3b367dd85",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "prompt_form": "en-prompt",
+  "prompt_sha256": "c404c2ca57ad81682739001b640a34ca82cc2022fa326a722e8efa0d943d5474",
+  "design": "our_design",
+  "selected_candidate": 2
+ },
+ "execution": "sam-zhangzhao-e082",
+ "imported": "2026-11-16",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "b5dd7a8dcc58c774797853ab610f99642715e0dd166f4a74f86cf9f3b367dd85",
+  "passed": true,
+  "anatomy": "ok",
+  "exposure": "match",
+  "observations": [
+   "User selected world candidate 2.",
+   "One adult woman, full figure within frame, continuous signature tablet, world-appropriate costume and background.",
+   "Mechanical auxiliary manipulator arms are attached to the backpack; two human arms remain."
+  ]
+ },
+ "acceptance": "user_selected_4_2_2; user_authorized_commit_and_normal_push",
+ "review": {
+  "reviewed": true,
+  "by": "user",
+  "result": "selected_world"
+ }
+}

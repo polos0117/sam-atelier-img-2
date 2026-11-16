@@ -1,0 +1,116 @@
+{
+ "atelier": "samguk",
+ "card": "장소",
+ "faction": "wu",
+ "role": "official",
+ "world": "samguk",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v1",
+ "notes": {},
+ "look": {
+  "params": {},
+  "faceDesignOn": true,
+  "silhouetteOn": true,
+  "exposure": "bold"
+ },
+ "design": {
+  "face": {
+   "eye_color": "navy",
+   "impression": "mature",
+   "expr": "serious",
+   "skin_tone": "fair",
+   "age": "early_30s",
+   "eye_size": "large",
+   "eye_tilt": "down",
+   "mark": "bare",
+   "brows": "low_heavy",
+   "nose": "broad_soft",
+   "lips": "small_bow",
+   "face_shape": "inverted_triangle",
+   "eyes": "round_large"
+  },
+  "silhouette": {
+   "body": "willowy_curvy",
+   "hair_color": "magenta",
+   "hair": "twin_tails",
+   "bangs": "wispy"
+  }
+ },
+ "shot": {
+  "scene": "",
+  "time": "",
+  "pose": "",
+  "expr": "",
+  "frame": ""
+ },
+ "file": "장소_samguk_kr_drawn_rim_dewy_f.webp",
+ "prompt": "Design brief — your own take on this character. A full-body vertical 2:3 (1024×1536) character card image of Zhang Zhao from the Romance of the Three Kingdoms, reimagined as an adult woman — the senior minister whose blunt advice often angered Sun Quan. Age: early thirties — a poised, graceful face with soft contours; at most faint lines, no deep folds or under-eye bags. She is a woman — no beard, moustache or facial hair.\n\nYou design her yourself: invent her face, eye colour, hairstyle, makeup, expression, pose and setting as a fresh, original take — do not follow any earlier design of this character. Her hair colour, skin tone, costume and weapon are NOT free: take them from our designs below.\n\nStyle (fixed): Korean MMORPG character artwork. A recognisably drawn face with gently simplified anatomical structure. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\n\nInspiration only: stern integrity, heavy scholar's robes, a frown.\n\nWorld (fixed): Eastern Wu along the Yangtze, around 200–280 AD: the river capital Jianye, great war junks with crimson sails, river fortresses, southern rain and lotus marshes, the fire ships of the Red Cliffs. Her costume, weapon and setting belong to this world.\n\nCostume (choose one of ours, then add your own idea): pick ONE of these costume shapes from our set and keep its overall silhouette — 1) light armor pieces over a fitted silk martial dress, long silk sashes and a light skirt flowing from the waist and shoulders — a light, dancing silhouette; 2) no armor — a long floor-length robe with wide sleeves and a broad sash, a long elegant falling silhouette; 3) layered trailing court regalia with a tall crown, long hanging sashes and jade pendants — a ceremonial, stately silhouette; 4) a long silk shawl wrapping the shoulders and arms and floating in the air, light layered robes — an airy, celestial silhouette; 5) very long flowing water sleeves trailing past the hands through the air over a fitted dancer's dress — the sleeves make the shape; 6) a dark close-fitting light outfit with minimal ornament and wrapped arms and legs — a sleek silhouette, face uncovered; 7) a large phoenix crown with hanging bead strands and a weighty ceremonial robe — the headdress is the main shape; 8) a chest guard, a quiver, a fitted short robe and leg wraps — a light, upright archer's silhouette. Then add one signature idea of your own drawn from her legend, built into the construction of the outfit itself rather than as a print or a loose accessory — e.g. plates or cloth layered like feathers, scales or petals, a hem or sleeve cut into a motif from her story. Build it in this world's materials and our colours below.\n\nWeapon (fixed — ours): a bamboo tablet of remonstrance.\n\nHair colour (fixed — ours): vivid magenta hair. Keep exactly this hair colour; only the hairstyle is yours.\n\nSkin tone (fixed — ours): fair skin. Keep exactly this skin tone.\n\nCostume colours (ours): crimson red, gold, river teal, black lacquer.\n\nRank (fixed): she is a high court official — her costume must read dignified office at first glance: refined, layered and finely ornamented, with flagship-card detail, never plain or sparse.\n\nExposure (fixed): bold — her outfit shows skin by design (a deep neckline, bare shoulders or arms, a high slit or short hem); intimate areas covered.\n\nFace proportions: a short midface and a soft, gently rounded jawline with a small soft chin — never a long face or a long, pointed or heavy jaw; any crown or headpiece sits above her hairline and never lengthens her face. Her eyes stay at a natural open size — never squeezed into narrow slits.\n\nComposition: vertical 2:3 full-body framing with modest headroom and clear space below the boots — the whole figure from the top of her crown or headpiece to both boots stays inside the frame, occupying about four-fifths of the image height, with the same camera distance in every genre; her hands and her signature item stay inside the frame. Camera at chest height with natural portrait perspective — no wide-angle distortion, no low angle, no close crop.\n\nIf you have already drawn a free design of her in this session, make this one clearly different — another face and hairstyle (the same hair colour and skin tone), another costume shape from the list with another signature idea, another pose and setting.\n\nDraw the detailed design specified below, following all fixed requirements above. One figure only, natural hands with five fingers; a banner or seal may carry a single faction character, no other text; no logo or watermark.\n\nChosen design: silhouette 4, a long silk shawl floating from bare shoulders over light layered robes. The split shoulder shawl and long rectangular robe panels interlock like opposing sides of a formal debate, an idea built into their construction. Deep neckline and high side slit, intimate areas covered. Vivid magenta hair in a short wavy bob with a braided crown; fair skin; green eyes, softly rounded heart face, small chin, straight brows and coral lips, a restrained knowing smile. Standing front three-quarter on a bright lotus-water terrace in Eastern Wu, both feet naturally planted, right hand holding one whole bamboo remonstrance tablet upright beside her waist, left hand lowering the edge of the shawl. Rich crimson silk, river teal linings, black lacquer belt and intricate gold edging.",
+ "date": "2026-11-16",
+ "record": "records/장소/samguk.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "장소",
+  "out": "world",
+  "world": "samguk",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {
+   "장소|samguk": {}
+  },
+  "looks": {
+   "장소|samguk": {
+    "params": {},
+    "faceDesignOn": true,
+    "silhouetteOn": true,
+    "exposure": "bold"
+   }
+  },
+  "shots": {
+   "장소|samguk": {
+    "scene": "",
+    "time": "",
+    "pose": "",
+    "expr": "",
+    "frame": ""
+   }
+  },
+  "walked": {},
+  "casualN": 1,
+  "scenes": {}
+ },
+ "generation": {
+  "tool": "image_gen",
+  "endpoint": "images/generations",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "ba7d87f287e1cd3b2311da78218233aade21bf78e5b9f9a5ed4a61067e8badc7",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "prompt_form": "en-prompt",
+  "prompt_sha256": "636a2cd0d849a1d3b085829c4c850df3eb89fb02a30b25f663f3ca1599720c11",
+  "design": "gpt_free",
+  "selected_candidate": 4,
+  "free_prompt": "Design brief — your own take on this character. A full-body vertical 2:3 (1024×1536) character card image of Zhang Zhao from the Romance of the Three Kingdoms, reimagined as an adult woman — the senior minister whose blunt advice often angered Sun Quan. Age: early thirties — a poised, graceful face with soft contours; at most faint lines, no deep folds or under-eye bags. She is a woman — no beard, moustache or facial hair.\n\nYou design her yourself: invent her face, eye colour, hairstyle, makeup, expression, pose and setting as a fresh, original take — do not follow any earlier design of this character. Her hair colour, skin tone, costume and weapon are NOT free: take them from our designs below.\n\nStyle (fixed): Korean MMORPG character artwork. A recognisably drawn face with gently simplified anatomical structure. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\n\nInspiration only: stern integrity, heavy scholar's robes, a frown.\n\nWorld (fixed): Eastern Wu along the Yangtze, around 200–280 AD: the river capital Jianye, great war junks with crimson sails, river fortresses, southern rain and lotus marshes, the fire ships of the Red Cliffs. Her costume, weapon and setting belong to this world.\n\nCostume (choose one of ours, then add your own idea): pick ONE of these costume shapes from our set and keep its overall silhouette — 1) light armor pieces over a fitted silk martial dress, long silk sashes and a light skirt flowing from the waist and shoulders — a light, dancing silhouette; 2) no armor — a long floor-length robe with wide sleeves and a broad sash, a long elegant falling silhouette; 3) layered trailing court regalia with a tall crown, long hanging sashes and jade pendants — a ceremonial, stately silhouette; 4) a long silk shawl wrapping the shoulders and arms and floating in the air, light layered robes — an airy, celestial silhouette; 5) very long flowing water sleeves trailing past the hands through the air over a fitted dancer's dress — the sleeves make the shape; 6) a dark close-fitting light outfit with minimal ornament and wrapped arms and legs — a sleek silhouette, face uncovered; 7) a large phoenix crown with hanging bead strands and a weighty ceremonial robe — the headdress is the main shape; 8) a chest guard, a quiver, a fitted short robe and leg wraps — a light, upright archer's silhouette. Then add one signature idea of your own drawn from her legend, built into the construction of the outfit itself rather than as a print or a loose accessory — e.g. plates or cloth layered like feathers, scales or petals, a hem or sleeve cut into a motif from her story. Build it in this world's materials and our colours below.\n\nWeapon (fixed — ours): a bamboo tablet of remonstrance.\n\nHair colour (fixed — ours): vivid magenta hair. Keep exactly this hair colour; only the hairstyle is yours.\n\nSkin tone (fixed — ours): fair skin. Keep exactly this skin tone.\n\nCostume colours (ours): crimson red, gold, river teal, black lacquer.\n\nRank (fixed): she is a high court official — her costume must read dignified office at first glance: refined, layered and finely ornamented, with flagship-card detail, never plain or sparse.\n\nExposure (fixed): bold — her outfit shows skin by design (a deep neckline, bare shoulders or arms, a high slit or short hem); intimate areas covered.\n\nFace proportions: a short midface and a soft, gently rounded jawline with a small soft chin — never a long face or a long, pointed or heavy jaw; any crown or headpiece sits above her hairline and never lengthens her face. Her eyes stay at a natural open size — never squeezed into narrow slits.\n\nComposition: vertical 2:3 full-body framing with modest headroom and clear space below the boots — the whole figure from the top of her crown or headpiece to both boots stays inside the frame, occupying about four-fifths of the image height, with the same camera distance in every genre; her hands and her signature item stay inside the frame. Camera at chest height with natural portrait perspective — no wide-angle distortion, no low angle, no close crop.\n\nIf you have already drawn a free design of her in this session, make this one clearly different — another face and hairstyle (the same hair colour and skin tone), another costume shape from the list with another signature idea, another pose and setting.\n\nDraw the detailed design specified below, following all fixed requirements above. One figure only, natural hands with five fingers; a banner or seal may carry a single faction character, no other text; no logo or watermark.\n\nChosen design: silhouette 4, a long silk shawl floating from bare shoulders over light layered robes. The split shoulder shawl and long rectangular robe panels interlock like opposing sides of a formal debate, an idea built into their construction. Deep neckline and high side slit, intimate areas covered. Vivid magenta hair in a short wavy bob with a braided crown; fair skin; green eyes, softly rounded heart face, small chin, straight brows and coral lips, a restrained knowing smile. Standing front three-quarter on a bright lotus-water terrace in Eastern Wu, both feet naturally planted, right hand holding one whole bamboo remonstrance tablet upright beside her waist, left hand lowering the edge of the shawl. Rich crimson silk, river teal linings, black lacquer belt and intricate gold edging."
+ },
+ "execution": "sam-zhangzhao-e082",
+ "imported": "2026-11-16",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "ba7d87f287e1cd3b2311da78218233aade21bf78e5b9f9a5ed4a61067e8badc7",
+  "passed": true,
+  "anatomy": "ok",
+  "exposure": "match",
+  "observations": [
+   "User selected world candidate 4.",
+   "One adult woman, full figure within frame, continuous signature tablet, world-appropriate costume and background."
+  ]
+ },
+ "acceptance": "user_selected_4_2_2; user_authorized_commit_and_normal_push",
+ "review": {
+  "reviewed": true,
+  "by": "user",
+  "result": "selected_world"
+ }
+}
