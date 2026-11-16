@@ -1,0 +1,135 @@
+{
+  "atelier": "samguk",
+  "card": "하후연",
+  "faction": "wei",
+  "slot": "casual7",
+  "treeV": 2,
+  "world": "mecha",
+  "style": "kr_drawn_rim_dewy",
+  "styleVersion": "v1",
+  "ref": "하후연_mecha_kr_drawn_rim_dewy_f.webp",
+  "scene": {
+    "treeV": 2,
+    "era": "fantasy",
+    "place": "fx_marble_bath",
+    "ofam": "evening",
+    "item": "silk_robe_slip",
+    "posture": "sit_floor",
+    "support": "none",
+    "frame": "environmental",
+    "body": "side",
+    "head": "with_body",
+    "camera": "high",
+    "right": "lap",
+    "left": "floor_brace",
+    "use": "",
+    "legs": "cross_legged",
+    "gaze": "horizon",
+    "ofree": true,
+    "ofreeFamily": "swimwear",
+    "ofreeSitu": "free",
+    "ofreeRecent": "standing; a castle bathhouse with a stone pool — standing; a stage under a painted night sky of crystal stars — holds a microphone close to her lips; holds her keepsake up beside her face; her own room in a house of her world — standing; a starship data archive — holds a small hand lantern low at her side; a museum hands-on workshop table before opening — standing; a coin laundromat late at night — holds a cup at chest height; the stone stairway up to an old city gate tower — standing; a starship galley and mess hall — holds a bowl of hot food at chest height; her bedroom — touches one ear cup of a pair of over-ear headphones hung around her neck; the deck of a tall wooden sailing ship at sea — holds a small hand lantern low at her side; a Roman marble bath hall — standing",
+    "expr": "calm",
+    "preset": "floor_horizon",
+    "prop": "",
+    "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    },
+    "unlocked": [],
+    "aspect": "2:3"
+  },
+  "file": "하후연_mecha_kr_drawn_rim_dewy_f_casual7.webp",
+  "prompt": "INPUT: the attached image is the approved character — her Mecha card; keep her. Do not reuse earlier conversation images.\n\nCHARACTER: the same woman as the attached image — the female personification of Xiahou Yuan of the Three Kingdoms, seen in her everyday life. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change, and her hair may be worn differently only as SCENE's Hair line says. Her Three Kingdoms identity shows ONLY as a small accessory, an object around her, or the object PROP says she holds — never in the outfit's colours, patterns or cut, never as armor, regalia or a costume.\n\nDESIGN (accessory hints only): her legend — astonishing speed and daring raids, a sleek light armor built for movement, wind always in her hair, fallen at Dingjun Mountain — may inform at most one small accessory, a hair ornament or an object beside her, in its palette (deep navy blue, black lacquer, cold steel silver, ivory white). The clothes keep the chosen outfit's own colours; her skin, hair and eyes stay as in the attached image.\n\nSIGNATURE ACCESSORY: off duty she carries no weapon — no sword, saber, spear, glaive, halberd, bow, axe, shield or any blade in her hands, on her back or anywhere in the scene. Her signature weapon (a pair of light sabers) appears only as one small worn accessory modelled on its shape and colours — a hair ornament, pendant, earring, brooch or belt charm a few centimetres long, clearly jewellery and not a usable weapon.\n\nSTYLE: Korean MMORPG character artwork. A recognisably drawn face with gently simplified anatomical structure. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\n\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nAGE: the same adult woman as in the attached image — keep her own face shape, cheekbones, eye proportions and skin tone exactly; minimal facial lines (no nasolabial folds, crow's feet, under-eye bags or cheek creases). Keep her face soft, feminine and attractive in every framing — never elongated, gaunt, mannish or heavy-jawed, even in close-ups, profiles or low angles.\n\nOUTPUT: one standalone off-duty scene of her in the outfit chosen in SCENE; her legend shows only through accessories and objects around her — never in the outfit's colours, patterns or cut, never as armor, regalia or a costume. Everything else follows SCENE (chosen).\n\nFRAME: a vertical 2:3 (1024×1536) image. Compose the image for this frame; COMPOSITION in SCENE sets how much of her shows.\n\nSCENE (chosen):\nFREE DESIGN: design the place, activity, pose, framing and outfit yourself. Start from who she is — her legend, traits and personality — and show an everyday moment that is unexpected yet feels natural for her. Make it fresh through the situation and what she is doing, not through more decoration. Avoid scenes like the recent ones listed below. Keep her face, the art style and the body and anatomy rules exactly as stated. Before drawing, write your design into the lines below, then draw it. In your pose, give each hand one job only and say plainly where each arm goes; avoid poses where it is unclear which shoulder an arm comes from — an arm behind her back, behind her head or pinned under her body — and never state where a foot sits under water. Do not make it another small repair, adjusting, measuring or sorting task at a workbench, repair stall, equipment room or locker room — those scenes are already in our own list; choose another kind of everyday moment (rest, play, a meal, travel, weather, getting ready, simply being in the place).\nRecent scenes to avoid: standing; a castle bathhouse with a stone pool — standing; a stage under a painted night sky of crystal stars — holds a microphone close to her lips; holds her keepsake up beside her face; her own room in a house of her world — standing; a starship data archive — holds a small hand lantern low at her side; a museum hands-on workshop table before opening — standing; a coin laundromat late at night — holds a cup at chest height; the stone stairway up to an old city gate tower — standing; a starship galley and mess hall — holds a bowl of hot food at chest height; her bedroom — touches one ear cup of a pair of over-ear headphones hung around her neck; the deck of a tall wooden sailing ship at sea — holds a small hand lantern low at her side; a Roman marble bath hall — standing.\nPlace: …\nActivity: …\nPose: …\nFraming: …\nOutfit family (required): swimwear — any swimwear outfit; you may pick one from our outfit catalog (outfit-catalog.md in this pack) or design your own, but prefer one that is not in it.\nSituation (required): a situational exposure moment of your own design that fits the scene — prefer one that is not among ours: clothes soaked by rain or a splash, clothes caught by a strong gust of wind, a top worn half undone, a strap slipped off the shoulder, a hem knotted up under the bust, an outer layer tied around the waist, a sheen of sweat from heat, a backlit silhouette through thin fabric, a skirt slit fallen open, sleeves pushed up with one more button undone, a tie or scarf pulled loose.\nOutfit: …\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing; intimate areas covered\n\nWARDROBE: change her clothes completely. From the attached image take only her face, hair and body — not its garment, armor, regalia, ornaments, mecha plates or background. Dress her exactly as SCENE describes; that outfit must read at first glance, keeping its own recognisable colours and parts. Do not carry the attached image's palette, patterns or trim into the outfit; her Three Kingdoms identity belongs in accessories and props, never in the clothes — never restyle the chosen outfit into her faction's palette, armor, robes or regalia.\n\nANGLE: the attached image fixes who she is, not how she is posed or shot. Do not copy its head angle, head tilt, gaze direction, face size in frame, camera height or crop — turn her head, set her gaze and place the camera exactly as SCENE describes, and let her face read naturally from that new angle (profile, three-quarter, looking down or away), with her features staying the same. No default card pose, no default front-facing portrait.\n\nONE MAIN FIGURE: she is the only character in focus. Where the place is busy, other people may appear only as small, soft-focus background extras — never posed with her. No logo, no watermark, no speech bubble, no frame border. No readable text or numbers.\n\nANATOMY: natural adult proportions, about 7.5 heads tall — height from the legs, never a smaller head or a longer neck. The neck is a natural length and the head sits close to the shoulders. No body-part enlargement, no extra limbs.\n\nFIGURE: lean and toned — a slim, firm waist with softly defined vertical abs and lightly sculpted arms and shoulders, a full bust — keep this exact build from the attached image, neither slimmer nor fuller.\n\nMIDRIFF: wherever her stomach is bare, it shows a soft, subtle six-pack — lightly defined abdominal segments in two neat columns of three on a flat, firm, toned midriff; feminine and gently shaded, an athletic woman's abs, never a hard, deeply carved bodybuilder six-pack. If her outfit covers her stomach, keep it covered.\n\nBODY: a normal human body — one head, two arms and two legs, each joined at its natural joint; elbows, knees and wrists bend the human way. Hands and feet may be partly hidden by the pose, what she holds or the frame. Right and left mean her own right and left, not the viewer's.\n\nHANDS: natural human hands, no extra or duplicated limbs; each visible hand joins through its wrist and forearm to the matching shoulder. A hand may stay outside the crop, and fingers may be partly hidden by a grip.\n\nAVOID: a blue or bruise-like tint on the skin around the eyes, glossy or shiny highlights on the face, sweaty, oily or plastic-looking skin.",
+  "date": "2026-11-16",
+  "record": "records/하후연/mecha-casual7.kr_drawn_rim_dewy-ui.json",
+  "storage": {
+    "card": "하후연",
+    "out": "casual",
+    "world": "mecha",
+    "style": "kr_drawn_rim_dewy",
+    "notes": {},
+    "looks": {},
+    "shots": {},
+    "walked": {},
+    "casualN": 7,
+    "scenes": {
+      "하후연": {
+        "era": "fantasy",
+        "place": "fx_marble_bath",
+        "ofam": "evening",
+        "treeV": 2,
+        "prop": "",
+        "preset": "floor_horizon",
+        "use": "",
+        "posture": "sit_floor",
+        "support": "none",
+        "frame": "environmental",
+        "body": "side",
+        "head": "with_body",
+        "camera": "high",
+        "right": "lap",
+        "left": "floor_brace",
+        "legs": "cross_legged",
+        "gaze": "horizon",
+        "item": "silk_robe_slip",
+        "expr": "calm",
+        "axes": {
+          "overall_intensity": "strong",
+          "skin_exposure": "bold"
+        },
+        "aspect": "2:3",
+        "unlocked": [],
+        "ofree": true,
+        "ofreeFamily": "swimwear",
+        "ofreeSitu": "free",
+        "ofreeRecent": "standing; a castle bathhouse with a stone pool — standing; a stage under a painted night sky of crystal stars — holds a microphone close to her lips; holds her keepsake up beside her face; her own room in a house of her world — standing; a starship data archive — holds a small hand lantern low at her side; a museum hands-on workshop table before opening — standing; a coin laundromat late at night — holds a cup at chest height; the stone stairway up to an old city gate tower — standing; a starship galley and mess hall — holds a bowl of hot food at chest height; her bedroom — touches one ear cup of a pair of over-ear headphones hung around her neck; the deck of a tall wooden sailing ship at sea — holds a small hand lantern low at her side; a Roman marble bath hall — standing"
+      }
+    }
+  },
+  "generation": {
+    "tool": "image_gen",
+    "endpoint": "images/edits",
+    "size": [
+      1024,
+      1536
+    ],
+    "png_sha256": "6068726c8fc0a1db99a0d8ec972bbc3507289c611eec60866f19104a397ae0f5",
+    "webp": {
+      "quality": 90,
+      "method": 6
+    },
+    "prompt_form": "gpt-structured",
+    "prompt_sha256": "45f476931b20e8d8fb9a2094b3889fa91b2e8501794c580966bdb86f127f0396",
+    "submitted_prompt_sha256": "b43054cd4d21584c79cc99fc459615a2097b20e1c53fe1b012bb285f5df5a5e3",
+    "retries": [],
+    "source_file": "final-png/mecha-casual7.png",
+    "ref_sha256": "6106d518b966303d2c2ccbb74baf1e59af763aae3a6c56f0b0e3eb6bb2030b05",
+    "free_design": {
+      "Place": "a private outdoor mineral-spring footpath on a volcanic island, warm stone deck and a cooling mist arch",
+      "Activity": "she pauses under the mist arch; tiny cooled droplets make the pleated outer hip fins of her swimsuit spring outward, revealing the high-cut fully opaque base beneath as she enjoys the unexpected cool air",
+      "Pose": "standing nearly frontal with shoulders relaxed, both arms forward and apart; right hand cups a few droplets at waist level, left hand gently touches the outer hip fin, both arms and wrists visible and connected",
+      "Framing": "a knees-up three-quarter front shot, face and both hands clearly visible with the mist arch and dark rock background",
+      "Outfit": "an opaque pearl-white swim set with a turquoise plunge halter top and high-waisted high-cut briefs, short translucent aqua pleated outer hip fins sewn only over the opaque briefs; secure opaque intimate coverage, open midriff, a new swimwear shape"
+    },
+    "free_prompt": "INPUT: the attached image is the approved character — her Mecha card; keep her. Do not reuse earlier conversation images.\n\nCHARACTER: the same woman as the attached image — the female personification of Xiahou Yuan of the Three Kingdoms, seen in her everyday life. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change, and her hair may be worn differently only as SCENE's Hair line says. Her Three Kingdoms identity shows ONLY as a small accessory, an object around her, or the object PROP says she holds — never in the outfit's colours, patterns or cut, never as armor, regalia or a costume.\n\nDESIGN (accessory hints only): her legend — astonishing speed and daring raids, a sleek light armor built for movement, wind always in her hair, fallen at Dingjun Mountain — may inform at most one small accessory, a hair ornament or an object beside her, in its palette (deep navy blue, black lacquer, cold steel silver, ivory white). The clothes keep the chosen outfit's own colours; her skin, hair and eyes stay as in the attached image.\n\nSIGNATURE ACCESSORY: off duty she carries no weapon — no sword, saber, spear, glaive, halberd, bow, axe, shield or any blade in her hands, on her back or anywhere in the scene. Her signature weapon (a pair of light sabers) appears only as one small worn accessory modelled on its shape and colours — a hair ornament, pendant, earring, brooch or belt charm a few centimetres long, clearly jewellery and not a usable weapon.\n\nSTYLE: Korean MMORPG character artwork. A recognisably drawn face with gently simplified anatomical structure. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\n\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nAGE: the same adult woman as in the attached image — keep her own face shape, cheekbones, eye proportions and skin tone exactly; minimal facial lines (no nasolabial folds, crow's feet, under-eye bags or cheek creases). Keep her face soft, feminine and attractive in every framing — never elongated, gaunt, mannish or heavy-jawed, even in close-ups, profiles or low angles.\n\nOUTPUT: one standalone off-duty scene of her in the outfit chosen in SCENE; her legend shows only through accessories and objects around her — never in the outfit's colours, patterns or cut, never as armor, regalia or a costume. Everything else follows SCENE (chosen).\n\nFRAME: a vertical 2:3 (1024×1536) image. Compose the image for this frame; COMPOSITION in SCENE sets how much of her shows.\n\nSCENE (chosen):\nFREE DESIGN: design the place, activity, pose, framing and outfit yourself. Start from who she is — her legend, traits and personality — and show an everyday moment that is unexpected yet feels natural for her. Make it fresh through the situation and what she is doing, not through more decoration. Avoid scenes like the recent ones listed below. Keep her face, the art style and the body and anatomy rules exactly as stated. Before drawing, write your design into the lines below, then draw it. In your pose, give each hand one job only and say plainly where each arm goes; avoid poses where it is unclear which shoulder an arm comes from — an arm behind her back, behind her head or pinned under her body — and never state where a foot sits under water. Do not make it another small repair, adjusting, measuring or sorting task at a workbench, repair stall, equipment room or locker room — those scenes are already in our own list; choose another kind of everyday moment (rest, play, a meal, travel, weather, getting ready, simply being in the place).\nRecent scenes to avoid: standing; a castle bathhouse with a stone pool — standing; a stage under a painted night sky of crystal stars — holds a microphone close to her lips; holds her keepsake up beside her face; her own room in a house of her world — standing; a starship data archive — holds a small hand lantern low at her side; a museum hands-on workshop table before opening — standing; a coin laundromat late at night — holds a cup at chest height; the stone stairway up to an old city gate tower — standing; a starship galley and mess hall — holds a bowl of hot food at chest height; her bedroom — touches one ear cup of a pair of over-ear headphones hung around her neck; the deck of a tall wooden sailing ship at sea — holds a small hand lantern low at her side; a Roman marble bath hall — standing.\nPlace: a private outdoor mineral-spring footpath on a volcanic island, warm stone deck and a cooling mist arch\nActivity: she pauses under the mist arch; tiny cooled droplets make the pleated outer hip fins of her swimsuit spring outward, revealing the high-cut fully opaque base beneath as she enjoys the unexpected cool air\nPose: standing nearly frontal with shoulders relaxed, both arms forward and apart; right hand cups a few droplets at waist level, left hand gently touches the outer hip fin, both arms and wrists visible and connected\nFraming: a knees-up three-quarter front shot, face and both hands clearly visible with the mist arch and dark rock background\nOutfit family (required): swimwear — any swimwear outfit; you may pick one from our outfit catalog (outfit-catalog.md in this pack) or design your own, but prefer one that is not in it.\nSituation (required): a situational exposure moment of your own design that fits the scene — prefer one that is not among ours: clothes soaked by rain or a splash, clothes caught by a strong gust of wind, a top worn half undone, a strap slipped off the shoulder, a hem knotted up under the bust, an outer layer tied around the waist, a sheen of sweat from heat, a backlit silhouette through thin fabric, a skirt slit fallen open, sleeves pushed up with one more button undone, a tie or scarf pulled loose.\nOutfit: an opaque pearl-white swim set with a turquoise plunge halter top and high-waisted high-cut briefs, short translucent aqua pleated outer hip fins sewn only over the opaque briefs; secure opaque intimate coverage, open midriff, a new swimwear shape\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing; intimate areas covered\n\nWARDROBE: change her clothes completely. From the attached image take only her face, hair and body — not its garment, armor, regalia, ornaments, mecha plates or background. Dress her exactly as SCENE describes; that outfit must read at first glance, keeping its own recognisable colours and parts. Do not carry the attached image's palette, patterns or trim into the outfit; her Three Kingdoms identity belongs in accessories and props, never in the clothes — never restyle the chosen outfit into her faction's palette, armor, robes or regalia.\n\nANGLE: the attached image fixes who she is, not how she is posed or shot. Do not copy its head angle, head tilt, gaze direction, face size in frame, camera height or crop — turn her head, set her gaze and place the camera exactly as SCENE describes, and let her face read naturally from that new angle (profile, three-quarter, looking down or away), with her features staying the same. No default card pose, no default front-facing portrait.\n\nONE MAIN FIGURE: she is the only character in focus. Where the place is busy, other people may appear only as small, soft-focus background extras — never posed with her. No logo, no watermark, no speech bubble, no frame border. No readable text or numbers.\n\nANATOMY: natural adult proportions, about 7.5 heads tall — height from the legs, never a smaller head or a longer neck. The neck is a natural length and the head sits close to the shoulders. No body-part enlargement, no extra limbs.\n\nFIGURE: lean and toned — a slim, firm waist with softly defined vertical abs and lightly sculpted arms and shoulders, a full bust — keep this exact build from the attached image, neither slimmer nor fuller.\n\nMIDRIFF: wherever her stomach is bare, it shows a soft, subtle six-pack — lightly defined abdominal segments in two neat columns of three on a flat, firm, toned midriff; feminine and gently shaded, an athletic woman's abs, never a hard, deeply carved bodybuilder six-pack. If her outfit covers her stomach, keep it covered.\n\nBODY: a normal human body — one head, two arms and two legs, each joined at its natural joint; elbows, knees and wrists bend the human way. Hands and feet may be partly hidden by the pose, what she holds or the frame. Right and left mean her own right and left, not the viewer's.\n\nHANDS: natural human hands, no extra or duplicated limbs; each visible hand joins through its wrist and forearm to the matching shoulder. A hand may stay outside the crop, and fingers may be partly hidden by a grip.\n\nAVOID: a blue or bruise-like tint on the skin around the eyes, glossy or shiny highlights on the face, sweaty, oily or plastic-looking skin."
+  },
+  "execution": "sam-xiahouyuan-603d-20261116",
+  "imported": "2026-11-16",
+  "qa": {
+    "reviewer": "gpt-session",
+    "image_sha256": "6068726c8fc0a1db99a0d8ec972bbc3507289c611eec60866f19104a397ae0f5",
+    "passed": true,
+    "anatomy": "ok",
+    "exposure": "match",
+    "observations": [
+      "Mist arch at volcanic spring, one hand cups droplets, other lifts outer swim fin; opaque base covers intimate areas."
+    ]
+  },
+  "acceptance": "User selected 1,2,1 and authorized character commits/main update; preserve generated images.",
+  "review": {
+    "reviewed": false,
+    "by": "user",
+    "result": "pending"
+  }
+}
