@@ -1,0 +1,117 @@
+{
+ "atelier": "samguk",
+ "card": "공손찬",
+ "faction": "qun",
+ "role": "lord",
+ "world": "fantasy",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v1",
+ "notes": {},
+ "look": {
+  "params": {},
+  "faceDesignOn": true,
+  "silhouetteOn": true,
+  "exposure": "bold"
+ },
+ "design": {
+  "face": {
+   "eye_color": "jade",
+   "impression": "cool",
+   "expr": "proud",
+   "skin_tone": "warm_beige",
+   "age": "mid_20s",
+   "eye_size": "medium",
+   "eye_tilt": "up",
+   "mark": "mole_eye",
+   "brows": "straight_thick",
+   "nose": "upturned",
+   "lips": "heart_full",
+   "face_shape": "oval",
+   "eyes": "monolid_long"
+  },
+  "silhouette": {
+   "body": "tall_curvy",
+   "hair_color": "grass_green",
+   "hair": "drill_curls",
+   "bangs": "one_eye"
+  }
+ },
+ "shot": {
+  "scene": "",
+  "time": "",
+  "pose": "",
+  "expr": "",
+  "frame": ""
+ },
+ "file": "공손찬_fantasy_kr_drawn_rim_dewy_f.webp",
+ "prompt": "A full-body vertical 2:3 (1024×1536) character image of Gongsun Zan, the White General of the northern frontier, reimagined as an adult woman in her mid-twenties. One woman only, no facial hair, no second figure, horse or creature. Her grass-green hair and warm beige skin are fixed. Tall, full curvaceous figure, a narrow waist and long naturally proportioned legs. A small soft face, short midface, softly rounded jaw and small chin, naturally open eyes; headpieces sit above the hairline. Korean MMORPG character artwork, a recognisably drawn face with gently simplified anatomy, 2D painting with visible layered brushstrokes, soft broken edges, thin coloured linework and crisp face and costume accents. Pure white, silver, pale sky blue and steel costume colours. She is a ruler: sovereign rank immediately visible, rich layered regalia, fine engraving and jewellery. Bold exposure built into the outfit: deep neckline, bare shoulders or arms and a high slit or short hem, intimate areas covered. Full body including crown and both boots inside the frame, modest headroom and clear space below her feet, figure about four-fifths of image height. Chest-height camera, natural portrait perspective, no low angle or wide-angle distortion. Both hands and her whole signature weapon in frame, natural hands with five fingers, two arms and two legs joined naturally. No logo, watermark, border or readable text.\n\nWestern medieval high fantasy frontier. Choose our great crown and fur-trimmed royal mantle over ornate breastplate silhouette. Her signature construction is a mantle divided into long, narrow white banner folds radiating from silver shoulder clasps, evoking a united elite cavalry formation; polished silver breastplate, engraved heraldic trim, pale sky-blue velvet, rich white fur. A low breastplate neckline, exposed upper arms and high-slit skirt panels retain regal bold exposure with intimate areas covered. Grass-green hair in a long, loose wavy cascade with a slim central braid, turquoise eyes, a soft heart-shaped face and small rounded chin, poised friendly smile. Front-facing, left hand lifting a single mantle edge, right hand holding her double-ended spear upright; the spear is silvered mithril with engraved runes along one continuous metal shaft, gem-set sockets, faint ice-blue magic along its two blades and leather grip. Stand on the sunlit bridge of a Gothic border citadel with distant snow peaks and abstract heraldic banners. Only Western medieval clothing and architecture, no Chinese robes, hanzi or fittings.",
+ "date": "2026-11-16",
+ "record": "records/공손찬/fantasy.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "공손찬",
+  "out": "world",
+  "world": "fantasy",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {
+   "공손찬|fantasy": {}
+  },
+  "looks": {
+   "공손찬|fantasy": {
+    "params": {},
+    "faceDesignOn": true,
+    "silhouetteOn": true,
+    "exposure": "bold"
+   }
+  },
+  "shots": {
+   "공손찬|fantasy": {
+    "scene": "",
+    "time": "",
+    "pose": "",
+    "expr": "",
+    "frame": ""
+   }
+  },
+  "walked": {},
+  "casualN": 1,
+  "scenes": {}
+ },
+ "generation": {
+  "tool": "image_gen",
+  "endpoint": "images/generations",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "13b69615d77c83e4b676edfefccbb6df477578f5fa972fb78e457acd12e1b48d",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "prompt_form": "en-prompt",
+  "prompt_sha256": "b5e6b346bc57c035ab63126c715a633346928d6051c16407c9f6199b9f4cd69a",
+  "submitted_prompt": "A full-body vertical 2:3 (1024×1536) character image of Gongsun Zan, the White General of the northern frontier, reimagined as an adult woman in her mid-twenties. One woman only, no facial hair, no second figure, horse or creature. Her grass-green hair and warm beige skin are fixed. Tall, full curvaceous figure, a narrow waist and long naturally proportioned legs. A small soft face, short midface, softly rounded jaw and small chin, naturally open eyes; headpieces sit above the hairline. Korean MMORPG character artwork, a recognisably drawn face with gently simplified anatomy, 2D painting with visible layered brushstrokes, soft broken edges, thin coloured linework and crisp face and costume accents. Pure white, silver, pale sky blue and steel costume colours. She is a ruler: sovereign rank immediately visible, rich layered regalia, fine engraving and jewellery. Bold exposure built into the outfit: deep neckline, bare shoulders or arms and a high slit or short hem, intimate areas covered. Full body including crown and both boots inside the frame, modest headroom and clear space below her feet, figure about four-fifths of image height. Chest-height camera, natural portrait perspective, no low angle or wide-angle distortion. Both hands and her whole signature weapon in frame, natural hands with five fingers, two arms and two legs joined naturally. No logo, watermark, border or readable text.\n\nWestern medieval high fantasy frontier. Choose our great crown and fur-trimmed royal mantle over ornate breastplate silhouette. Her signature construction is a mantle divided into long, narrow white banner folds radiating from silver shoulder clasps, evoking a united elite cavalry formation; polished silver breastplate, engraved heraldic trim, pale sky-blue velvet, rich white fur. A low breastplate neckline, exposed upper arms and high-slit skirt panels retain regal bold exposure with intimate areas covered. Grass-green hair in a long, loose wavy cascade with a slim central braid, turquoise eyes, a soft heart-shaped face and small rounded chin, poised friendly smile. Front-facing, left hand lifting a single mantle edge, right hand holding her double-ended spear upright; the spear is silvered mithril with engraved runes along one continuous metal shaft, gem-set sockets, faint ice-blue magic along its two blades and leather grip. Stand on the sunlit bridge of a Gothic border citadel with distant snow peaks and abstract heraldic banners. Only Western medieval clothing and architecture, no Chinese robes, hanzi or fittings.",
+  "retries": [],
+  "design": "gpt_free",
+  "selected_number": 3,
+  "free_prompt": "A full-body vertical 2:3 (1024×1536) character image of Gongsun Zan, the White General of the northern frontier, reimagined as an adult woman in her mid-twenties. One woman only, no facial hair, no second figure, horse or creature. Her grass-green hair and warm beige skin are fixed. Tall, full curvaceous figure, a narrow waist and long naturally proportioned legs. A small soft face, short midface, softly rounded jaw and small chin, naturally open eyes; headpieces sit above the hairline. Korean MMORPG character artwork, a recognisably drawn face with gently simplified anatomy, 2D painting with visible layered brushstrokes, soft broken edges, thin coloured linework and crisp face and costume accents. Pure white, silver, pale sky blue and steel costume colours. She is a ruler: sovereign rank immediately visible, rich layered regalia, fine engraving and jewellery. Bold exposure built into the outfit: deep neckline, bare shoulders or arms and a high slit or short hem, intimate areas covered. Full body including crown and both boots inside the frame, modest headroom and clear space below her feet, figure about four-fifths of image height. Chest-height camera, natural portrait perspective, no low angle or wide-angle distortion. Both hands and her whole signature weapon in frame, natural hands with five fingers, two arms and two legs joined naturally. No logo, watermark, border or readable text.\n\nWestern medieval high fantasy frontier. Choose our great crown and fur-trimmed royal mantle over ornate breastplate silhouette. Her signature construction is a mantle divided into long, narrow white banner folds radiating from silver shoulder clasps, evoking a united elite cavalry formation; polished silver breastplate, engraved heraldic trim, pale sky-blue velvet, rich white fur. A low breastplate neckline, exposed upper arms and high-slit skirt panels retain regal bold exposure with intimate areas covered. Grass-green hair in a long, loose wavy cascade with a slim central braid, turquoise eyes, a soft heart-shaped face and small rounded chin, poised friendly smile. Front-facing, left hand lifting a single mantle edge, right hand holding her double-ended spear upright; the spear is silvered mithril with engraved runes along one continuous metal shaft, gem-set sockets, faint ice-blue magic along its two blades and leather grip. Stand on the sunlit bridge of a Gothic border citadel with distant snow peaks and abstract heraldic banners. Only Western medieval clothing and architecture, no Chinese robes, hanzi or fittings."
+ },
+ "execution": "sam-gongsunzan-82cacc",
+ "imported": "2026-11-16",
+ "qa": {
+  "passed": true,
+  "anatomy": "ok",
+  "exposure": "match",
+  "observations": [
+   "User-selected world variant retained. One adult woman, both feet in frame; no extra or detached limbs observed."
+  ],
+  "image_sha256": "13b69615d77c83e4b676edfefccbb6df477578f5fa972fb78e457acd12e1b48d",
+  "reviewer": "gpt"
+ },
+ "acceptance": "User selected 2,3,1 and authorized ordinary main update; no regeneration for exposure censorship.",
+ "review": {
+  "reviewed": false,
+  "by": "user",
+  "result": "pending"
+ }
+}
