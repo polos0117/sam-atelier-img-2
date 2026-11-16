@@ -1,0 +1,115 @@
+{
+ "atelier": "samguk",
+ "card": "손상향",
+ "faction": "wu",
+ "role": "general",
+ "world": "mecha",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v1",
+ "notes": {},
+ "look": {
+  "params": {},
+  "faceDesignOn": true,
+  "silhouetteOn": true,
+  "exposure": "bold"
+ },
+ "design": {
+  "face": {
+   "eye_color": "amber",
+   "age": "early_20s",
+   "impression": "cool",
+   "skin_tone": "fair",
+   "eye_size": "medium",
+   "eye_tilt": "up",
+   "mark": "winged_liner",
+   "expr": "confident",
+   "brows": "angled_sharp",
+   "nose": "straight_narrow",
+   "lips": "thin_long",
+   "face_shape": "long",
+   "eyes": "monolid_long"
+  },
+  "silhouette": {
+   "body": "curvy_athletic",
+   "hair_color": "flame_orange",
+   "hair": "short_crop",
+   "bangs": "side_swept"
+  }
+ },
+ "shot": {
+  "scene": "",
+  "time": "",
+  "pose": "",
+  "expr": "",
+  "frame": ""
+ },
+ "file": "손상향_mecha_kr_drawn_rim_dewy_f.webp",
+ "prompt": "Design brief — your own take on this character. A full-body vertical 2:3 (1024×1536) character card image of Sun Shangxiang from the Romance of the Three Kingdoms, reimagined as an adult woman — the bow-waist princess of Wu, a warrior princess who married Liu Bei. Age: about twenty — a fresh young-adult face; no facial lines. She is a woman — no beard, moustache or facial hair.\n\nStyle (fixed): Korean MMORPG character artwork. A recognisably drawn face with gently simplified anatomical structure. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\n\nInspiration only: a martial princess who keeps armed maidservants, bow and blades always at hand, the cool, haughty pride of the Sun clan's only daughter who looks down on any suitor, a wedding across enemy lines.\n\nWorld (fixed): year 2190, the Wu carrier fleet in orbit above an ocean world: crimson starships and carriers, a glowing nebula, the planet's blue oceans and storm clouds below, neon running lights on the hulls. Her costume, weapon and setting belong to this world.\n\nWeapon (fixed — ours): a pair of bladed chakram rings, rebuilt as a far-future high-tech version of the same kind of object with the same silhouette: hard-surface alloy plates with panel lines, mechanical joints, vents and emitter nodes, an energy edge, plasma blade or glowing core in her glow-line colour and small status lights, with any animal motif re-sculpted as sleek machined armour and no wood, silk tassels or forged-bronze fittings.\n\nHair colour (fixed — ours): flame-orange hair. Keep exactly this hair colour; only the hairstyle is yours.\n\nSkin tone (fixed — ours): fair skin. Keep exactly this skin tone.\n\nCostume colours (ours): crimson red, gold, river teal, black lacquer.\n\nMecha (fixed): she is a female mecha personification — her whole body is covered in solid hard-surface mecha armour plates with visible thickness, joints, panel lines and glow lines, never cloth or a gown; no cloth robe, gown, skirt or long fabric over the plates — any cape, skirt or wing is rigid armoured plates. Her face and hair stay human.\n\nRank (fixed): she is a famed war general — her costume must read battlefield might at first glance: imposing, richly worked armour and cloth with flagship-card detail, never plain or sparse.\n\nExposure (fixed): bold — her outfit shows skin by design (a deep neckline, bare shoulders or arms, a high slit or short hem); intimate areas covered.\n\nFace proportions: a short midface and a soft, gently rounded jawline with a small soft chin — never a long face or a long, pointed or heavy jaw; any crown or headpiece sits above her hairline and never lengthens her face. Her eyes stay at a natural open size — never squeezed into narrow slits.\n\nComposition: vertical 2:3 full-body framing with modest headroom and clear space below the boots — the whole figure from the top of her crown or headpiece to both boots stays inside the frame, occupying about four-fifths of the image height, with the same camera distance in every genre; her hands and her signature item stay inside the frame. Camera at chest height with natural portrait perspective — no wide-angle distortion, no low angle, no close crop.\n\nChosen original design:\nHer face is softly heart-shaped with wide teal-green eyes, a small rounded chin and a restrained confident smile. Flame-orange hair is styled in a long high twin-tail arrangement with airy blunt bangs, natural human hair. Choose silhouette 3: several rigid jointed armor plates flaring from the waist like a skirt — plates, not cloth — with the legs showing between them. Crimson and black lacquer-colored alloy, gold beveled edges and river-teal inset panels. The articulated skirt plates each follow a crescent arc, interlocking like her twin ring weapons; naval fin binders and compact hydrojet thrusters at her back. Dense machine joints, vents, orange glow lines; rich flagship detail. Bare upper arms and waist openings, a fitted bust plate covers intimate areas, all other visible costume is rigid armor with fully armored lower legs. She stands facing the viewer on an orbital carrier's observation deck above a blue ocean planet, two intact alloy energy chakrams held low beside her body. Clear warm rim light, no other figures.\n\nOne figure only, natural hands with five fingers, no logo or watermark.",
+ "date": "2026-11-16",
+ "record": "records/손상향/mecha.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "손상향",
+  "out": "world",
+  "world": "mecha",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {
+   "손상향|mecha": {}
+  },
+  "looks": {
+   "손상향|mecha": {
+    "params": {},
+    "faceDesignOn": true,
+    "silhouetteOn": true,
+    "exposure": "bold"
+   }
+  },
+  "shots": {
+   "손상향|mecha": {
+    "scene": "",
+    "time": "",
+    "pose": "",
+    "expr": "",
+    "frame": ""
+   }
+  },
+  "walked": {},
+  "casualN": 1,
+  "scenes": {}
+ },
+ "generation": {
+  "tool": "image_gen",
+  "endpoint": "images/generations",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "124592d9ca45b5cd191f0fb570ce8f2d695c6e18eb27695f6424f947339f7ca8",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "prompt_form": "en-prompt",
+  "prompt_sha256": "0bd470c209a8ff4a2a242ae92a67c787296de38218f8135dc8a656d81b8edf58",
+  "design": "gpt_free",
+  "selection_number": 3,
+  "free_prompt": "Design brief — your own take on this character. A full-body vertical 2:3 (1024×1536) character card image of Sun Shangxiang from the Romance of the Three Kingdoms, reimagined as an adult woman — the bow-waist princess of Wu, a warrior princess who married Liu Bei. Age: about twenty — a fresh young-adult face; no facial lines. She is a woman — no beard, moustache or facial hair.\n\nStyle (fixed): Korean MMORPG character artwork. A recognisably drawn face with gently simplified anatomical structure. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\n\nInspiration only: a martial princess who keeps armed maidservants, bow and blades always at hand, the cool, haughty pride of the Sun clan's only daughter who looks down on any suitor, a wedding across enemy lines.\n\nWorld (fixed): year 2190, the Wu carrier fleet in orbit above an ocean world: crimson starships and carriers, a glowing nebula, the planet's blue oceans and storm clouds below, neon running lights on the hulls. Her costume, weapon and setting belong to this world.\n\nWeapon (fixed — ours): a pair of bladed chakram rings, rebuilt as a far-future high-tech version of the same kind of object with the same silhouette: hard-surface alloy plates with panel lines, mechanical joints, vents and emitter nodes, an energy edge, plasma blade or glowing core in her glow-line colour and small status lights, with any animal motif re-sculpted as sleek machined armour and no wood, silk tassels or forged-bronze fittings.\n\nHair colour (fixed — ours): flame-orange hair. Keep exactly this hair colour; only the hairstyle is yours.\n\nSkin tone (fixed — ours): fair skin. Keep exactly this skin tone.\n\nCostume colours (ours): crimson red, gold, river teal, black lacquer.\n\nMecha (fixed): she is a female mecha personification — her whole body is covered in solid hard-surface mecha armour plates with visible thickness, joints, panel lines and glow lines, never cloth or a gown; no cloth robe, gown, skirt or long fabric over the plates — any cape, skirt or wing is rigid armoured plates. Her face and hair stay human.\n\nRank (fixed): she is a famed war general — her costume must read battlefield might at first glance: imposing, richly worked armour and cloth with flagship-card detail, never plain or sparse.\n\nExposure (fixed): bold — her outfit shows skin by design (a deep neckline, bare shoulders or arms, a high slit or short hem); intimate areas covered.\n\nFace proportions: a short midface and a soft, gently rounded jawline with a small soft chin — never a long face or a long, pointed or heavy jaw; any crown or headpiece sits above her hairline and never lengthens her face. Her eyes stay at a natural open size — never squeezed into narrow slits.\n\nComposition: vertical 2:3 full-body framing with modest headroom and clear space below the boots — the whole figure from the top of her crown or headpiece to both boots stays inside the frame, occupying about four-fifths of the image height, with the same camera distance in every genre; her hands and her signature item stay inside the frame. Camera at chest height with natural portrait perspective — no wide-angle distortion, no low angle, no close crop.\n\nChosen original design:\nHer face is softly heart-shaped with wide teal-green eyes, a small rounded chin and a restrained confident smile. Flame-orange hair is styled in a long high twin-tail arrangement with airy blunt bangs, natural human hair. Choose silhouette 3: several rigid jointed armor plates flaring from the waist like a skirt — plates, not cloth — with the legs showing between them. Crimson and black lacquer-colored alloy, gold beveled edges and river-teal inset panels. The articulated skirt plates each follow a crescent arc, interlocking like her twin ring weapons; naval fin binders and compact hydrojet thrusters at her back. Dense machine joints, vents, orange glow lines; rich flagship detail. Bare upper arms and waist openings, a fitted bust plate covers intimate areas, all other visible costume is rigid armor with fully armored lower legs. She stands facing the viewer on an orbital carrier's observation deck above a blue ocean planet, two intact alloy energy chakrams held low beside her body. Clear warm rim light, no other figures.\n\nOne figure only, natural hands with five fingers, no logo or watermark."
+ },
+ "qa": {
+  "reviewer": "gpt-session",
+  "passed": true,
+  "anatomy": "ok",
+  "exposure": "match",
+  "observations": [
+   "Selected by user: mecha 3",
+   "1024x1536, one adult woman, limbs connected, no regeneration"
+  ]
+ },
+ "execution": "sam-sunshangxiang-6ba31d",
+ "imported": "2026-11-16",
+ "acceptance": "user_selection_4,2,3; user_authorized_normal_main_push",
+ "review": {
+  "reviewed": true,
+  "by": "user",
+  "result": "selected"
+ }
+}

@@ -1,0 +1,127 @@
+{
+ "atelier": "samguk",
+ "card": "손상향",
+ "faction": "wu",
+ "slot": "casual7",
+ "treeV": 2,
+ "world": "mecha",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v1",
+ "ref": "손상향_mecha_kr_drawn_rim_dewy_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "fantasy",
+  "place": "fx_runway",
+  "ofam": "retro",
+  "item": "boho_crochet",
+  "posture": "stand",
+  "support": "none",
+  "frame": "waist_up",
+  "body": "front",
+  "head": "with_body",
+  "camera": "eye",
+  "right": "thumbs_up",
+  "left": "hip",
+  "use": "",
+  "legs": "",
+  "gaze": "camera",
+  "ofree": true,
+  "ofreeRecent": "a Han-era workshop beside a smithy — holds her keepsake in both hands in front of her; a riverside cycle path with a parked bicycle — perched on a ledge or edge; the yard of a Han-era relay station — standing; a bus shelter on a quiet street — holds a cup in both hands; a chandelier ballroom at a masquerade — holds a folding fan open near her chest; her bedroom — standing; the upper balcony of a wooden pavilion with upturned eaves — lifts a small hand lantern to chest height; a small mountain-path shrine at the Slope of the Fallen Phoenix — perched on a ledge or edge; terraced tea fields on a misty Sichuan hillside — standing; a walkway through a forest dome inside a colony ship — lifts a small hand lantern to chest height; a neon-lit game arcade — holds a cocktail glass by the stem at chest height; a festival street of lanterns — standing with one foot up on a step; a night river covered with floating paper lanterns — standing",
+  "expr": "soft_smile",
+  "preset": "thumbs_waist",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "손상향_mecha_kr_drawn_rim_dewy_f_casual7.webp",
+ "prompt": "INPUT: the attached image is the approved character — her Mecha card; keep her. Do not reuse earlier conversation images.\n\nCHARACTER: the same woman as the attached image — the female personification of Sun Shangxiang of the Three Kingdoms, seen in her everyday life. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change, and her hair may be worn differently only as SCENE's Hair line says. Her Three Kingdoms identity shows ONLY as a small accessory, an object around her, or the object PROP says she holds — never in the outfit's colours, patterns or cut, never as armor, regalia or a costume.\n\nDESIGN (accessory hints only): her legend — a martial princess who keeps armed maidservants, bow and blades always at hand, the cool, haughty pride of the Sun clan's only daughter who looks down on any suitor, a wedding across enemy lines — may inform at most one small accessory, a hair ornament or an object beside her, in its palette (crimson red, gold, river teal, black lacquer). The clothes keep the chosen outfit's own colours; her skin, hair and eyes stay as in the attached image.\n\nSIGNATURE ACCESSORY: off duty she carries no weapon — no sword, saber, spear, glaive, halberd, bow, axe, shield or any blade in her hands, on her back or anywhere in the scene. Her signature weapon (a pair of bladed chakram rings) appears only as one small worn accessory modelled on its shape and colours — a hair ornament, pendant, earring, brooch or belt charm a few centimetres long, clearly jewellery and not a usable weapon.\n\nSTYLE: Korean MMORPG character artwork. A recognisably drawn face with gently simplified anatomical structure. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\n\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nAGE: the same adult woman as in the attached image — keep her own face shape, cheekbones, eye proportions and skin tone exactly; minimal facial lines (no nasolabial folds, crow's feet, under-eye bags or cheek creases). Keep her face soft, feminine and attractive in every framing — never elongated, gaunt, mannish or heavy-jawed, even in close-ups, profiles or low angles.\n\nOUTPUT: one standalone off-duty scene of her in the outfit chosen in SCENE; her legend shows only through accessories and objects around her — never in the outfit's colours, patterns or cut, never as armor, regalia or a costume. Everything else follows SCENE (chosen).\n\nFRAME: a vertical 2:3 (1024×1536) image. Compose the image for this frame; COMPOSITION in SCENE sets how much of her shows.\n\nSCENE (chosen):\nFREE DESIGN: design the place, activity, pose, framing and outfit yourself. Start from who she is — her legend, traits and personality — and show an everyday moment that is unexpected yet feels natural for her. Make it fresh through the situation and what she is doing, not through more decoration. Avoid scenes like the recent ones listed below. Keep her face, the art style and the body and anatomy rules exactly as stated. Before drawing, write your design into the lines below, then draw it. In your pose, give each hand one job only and say plainly where each arm goes; avoid poses where it is unclear which shoulder an arm comes from — an arm behind her back, behind her head or pinned under her body — and never state where a foot sits under water. Do not make it another small repair, adjusting, measuring or sorting task at a workbench, repair stall, equipment room or locker room — those scenes are already in our own list; choose another kind of everyday moment (rest, play, a meal, travel, weather, getting ready, simply being in the place).\nRecent scenes to avoid: a Han-era workshop beside a smithy — holds her keepsake in both hands in front of her; a riverside cycle path with a parked bicycle — perched on a ledge or edge; the yard of a Han-era relay station — standing; a bus shelter on a quiet street — holds a cup in both hands; a chandelier ballroom at a masquerade — holds a folding fan open near her chest; her bedroom — standing; the upper balcony of a wooden pavilion with upturned eaves — lifts a small hand lantern to chest height; a small mountain-path shrine at the Slope of the Fallen Phoenix — perched on a ledge or edge; terraced tea fields on a misty Sichuan hillside — standing; a walkway through a forest dome inside a colony ship — lifts a small hand lantern to chest height; a neon-lit game arcade — holds a cocktail glass by the stem at chest height; a festival street of lanterns — standing with one foot up on a step; a night river covered with floating paper lanterns — standing.\nPlace: a modern indoor mini-golf course with a gently curved obstacle shaped like a wave, warm colourful lights and no visible signage\nActivity: she crouches beside the cup to retrieve a golf ball after a perfect putt, quietly pleased by another accurate shot\nPose: in a balanced low squat facing three-quarter toward the viewer, her right arm reaches down in front to pick a ball from the cup, her left hand rests lightly on her own left knee, both elbows visible; no club in the scene\nFraming: full-body vertical view with natural eye-level perspective lowered to her seated face height, face and both hands readable\nOutfit: an original mint geometric halter romper with an opaque wrap bust, triangular open waist sections and short petal-cut culotte legs over fitted inner shorts, a softly structured belt fastened at the side with a resin toggle, white low sneakers; bare shoulders, a deep neckline and upper thighs, secure intimate coverage; one tiny ring-shaped bracelet charm\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing; nothing slipped off; intimate areas covered\n\nWARDROBE: change her clothes completely. From the attached image take only her face, hair and body — not its garment, armor, regalia, ornaments, mecha plates or background. Dress her exactly as SCENE describes; that outfit must read at first glance, keeping its own recognisable colours and parts. Do not carry the attached image's palette, patterns or trim into the outfit; her Three Kingdoms identity belongs in accessories and props, never in the clothes — never restyle the chosen outfit into her faction's palette, armor, robes or regalia.\n\nANGLE: the attached image fixes who she is, not how she is posed or shot. Do not copy its head angle, head tilt, gaze direction, face size in frame, camera height or crop — turn her head, set her gaze and place the camera exactly as SCENE describes, and let her face read naturally from that new angle (profile, three-quarter, looking down or away), with her features staying the same. No default card pose, no default front-facing portrait.\n\nONE MAIN FIGURE: she is the only character in focus. Where the place is busy, other people may appear only as small, soft-focus background extras — never posed with her. No logo, no watermark, no speech bubble, no frame border. No readable text or numbers.\n\nANATOMY: natural adult proportions, about 7.5 heads tall — height from the legs, never a smaller head or a longer neck. The neck is a natural length and the head sits close to the shoulders. No body-part enlargement, no extra limbs.\n\nFIGURE: keep her exact build from the attached image, neither slimmer nor fuller.\n\nBODY: a normal human body — one head, two arms and two legs, each joined at its natural joint; elbows, knees and wrists bend the human way. Hands and feet may be partly hidden by the pose, what she holds or the frame. Right and left mean her own right and left, not the viewer's.\n\nHANDS: natural human hands, no extra or duplicated limbs; each visible hand joins through its wrist and forearm to the matching shoulder. A hand may stay outside the crop, and fingers may be partly hidden by a grip.\n\nAVOID: a blue or bruise-like tint on the skin around the eyes, glossy or shiny highlights on the face, sweaty, oily or plastic-looking skin.",
+ "date": "2026-11-16",
+ "record": "records/손상향/mecha-casual7.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "손상향",
+  "out": "casual",
+  "world": "mecha",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 7,
+  "scenes": {
+   "손상향": {
+    "era": "fantasy",
+    "place": "fx_runway",
+    "ofam": "retro",
+    "treeV": 2,
+    "prop": "",
+    "preset": "thumbs_waist",
+    "use": "",
+    "posture": "stand",
+    "support": "none",
+    "frame": "waist_up",
+    "body": "front",
+    "head": "with_body",
+    "camera": "eye",
+    "right": "thumbs_up",
+    "left": "hip",
+    "legs": "",
+    "gaze": "camera",
+    "item": "boho_crochet",
+    "expr": "soft_smile",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "ofree": true,
+    "ofreeRecent": "a Han-era workshop beside a smithy — holds her keepsake in both hands in front of her; a riverside cycle path with a parked bicycle — perched on a ledge or edge; the yard of a Han-era relay station — standing; a bus shelter on a quiet street — holds a cup in both hands; a chandelier ballroom at a masquerade — holds a folding fan open near her chest; her bedroom — standing; the upper balcony of a wooden pavilion with upturned eaves — lifts a small hand lantern to chest height; a small mountain-path shrine at the Slope of the Fallen Phoenix — perched on a ledge or edge; terraced tea fields on a misty Sichuan hillside — standing; a walkway through a forest dome inside a colony ship — lifts a small hand lantern to chest height; a neon-lit game arcade — holds a cocktail glass by the stem at chest height; a festival street of lanterns — standing with one foot up on a step; a night river covered with floating paper lanterns — standing"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen",
+  "endpoint": "images/edits",
+  "ref_sha256": "124592d9ca45b5cd191f0fb570ce8f2d695c6e18eb27695f6424f947339f7ca8",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "2857b45bbaf654f4ddba4b4adcfe2cb61503a29261bcb63c0152368aff441e4e",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "prompt_form": "en-prompt",
+  "prompt_sha256": "9be2dfd647dfc0635b3da5198d3a04dce2cf35f196c484d862b73ce3771010d4",
+  "refDesign": "gpt_free",
+  "retries": [],
+  "free_design": " design the place, activity, pose, framing and outfit yourself. Start from who she is — her legend, traits and personality — and show an everyday moment that is unexpected yet feels natural for her. Make it fresh through the situation and what she is doing, not through more decoration. Avoid scenes like the recent ones listed below. Keep her face, the art style and the body and anatomy rules exactly as stated. Before drawing, write your design into the lines below, then draw it. In your pose, give each hand one job only and say plainly where each arm goes; avoid poses where it is unclear which shoulder an arm comes from — an arm behind her back, behind her head or pinned under her body — and never state where a foot sits under water. Do not make it another small repair, adjusting, measuring or sorting task at a workbench, repair stall, equipment room or locker room — those scenes are already in our own list; choose another kind of everyday moment (rest, play, a meal, travel, weather, getting ready, simply being in the place).\nRecent scenes to avoid: a Han-era workshop beside a smithy — holds her keepsake in both hands in front of her; a riverside cycle path with a parked bicycle — perched on a ledge or edge; the yard of a Han-era relay station — standing; a bus shelter on a quiet street — holds a cup in both hands; a chandelier ballroom at a masquerade — holds a folding fan open near her chest; her bedroom — standing; the upper balcony of a wooden pavilion with upturned eaves — lifts a small hand lantern to chest height; a small mountain-path shrine at the Slope of the Fallen Phoenix — perched on a ledge or edge; terraced tea fields on a misty Sichuan hillside — standing; a walkway through a forest dome inside a colony ship — lifts a small hand lantern to chest height; a neon-lit game arcade — holds a cocktail glass by the stem at chest height; a festival street of lanterns — standing with one foot up on a step; a night river covered with floating paper lanterns — standing.\nPlace: a modern indoor mini-golf course with a gently curved obstacle shaped like a wave, warm colourful lights and no visible signage\nActivity: she crouches beside the cup to retrieve a golf ball after a perfect putt, quietly pleased by another accurate shot\nPose: in a balanced low squat facing three-quarter toward the viewer, her right arm reaches down in front to pick a ball from the cup, her left hand rests lightly on her own left knee, both elbows visible; no club in the scene\nFraming: full-body vertical view with natural eye-level perspective lowered to her seated face height, face and both hands readable\nOutfit: an original mint geometric halter romper with an opaque wrap bust, triangular open waist sections and short petal-cut culotte legs over fitted inner shorts, a softly structured belt fastened at the side with a resin toggle, white low sneakers; bare shoulders, a deep neckline and upper thighs, secure intimate coverage; one tiny ring-shaped bracelet charm\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing; nothing slipped off; intimate areas covered\n",
+  "free_prompt": "INPUT: the attached image is the approved character — her Mecha card; keep her. Do not reuse earlier conversation images.\n\nCHARACTER: the same woman as the attached image — the female personification of Sun Shangxiang of the Three Kingdoms, seen in her everyday life. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change, and her hair may be worn differently only as SCENE's Hair line says. Her Three Kingdoms identity shows ONLY as a small accessory, an object around her, or the object PROP says she holds — never in the outfit's colours, patterns or cut, never as armor, regalia or a costume.\n\nDESIGN (accessory hints only): her legend — a martial princess who keeps armed maidservants, bow and blades always at hand, the cool, haughty pride of the Sun clan's only daughter who looks down on any suitor, a wedding across enemy lines — may inform at most one small accessory, a hair ornament or an object beside her, in its palette (crimson red, gold, river teal, black lacquer). The clothes keep the chosen outfit's own colours; her skin, hair and eyes stay as in the attached image.\n\nSIGNATURE ACCESSORY: off duty she carries no weapon — no sword, saber, spear, glaive, halberd, bow, axe, shield or any blade in her hands, on her back or anywhere in the scene. Her signature weapon (a pair of bladed chakram rings) appears only as one small worn accessory modelled on its shape and colours — a hair ornament, pendant, earring, brooch or belt charm a few centimetres long, clearly jewellery and not a usable weapon.\n\nSTYLE: Korean MMORPG character artwork. A recognisably drawn face with gently simplified anatomical structure. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\n\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nAGE: the same adult woman as in the attached image — keep her own face shape, cheekbones, eye proportions and skin tone exactly; minimal facial lines (no nasolabial folds, crow's feet, under-eye bags or cheek creases). Keep her face soft, feminine and attractive in every framing — never elongated, gaunt, mannish or heavy-jawed, even in close-ups, profiles or low angles.\n\nOUTPUT: one standalone off-duty scene of her in the outfit chosen in SCENE; her legend shows only through accessories and objects around her — never in the outfit's colours, patterns or cut, never as armor, regalia or a costume. Everything else follows SCENE (chosen).\n\nFRAME: a vertical 2:3 (1024×1536) image. Compose the image for this frame; COMPOSITION in SCENE sets how much of her shows.\n\nSCENE (chosen):\nFREE DESIGN: design the place, activity, pose, framing and outfit yourself. Start from who she is — her legend, traits and personality — and show an everyday moment that is unexpected yet feels natural for her. Make it fresh through the situation and what she is doing, not through more decoration. Avoid scenes like the recent ones listed below. Keep her face, the art style and the body and anatomy rules exactly as stated. Before drawing, write your design into the lines below, then draw it. In your pose, give each hand one job only and say plainly where each arm goes; avoid poses where it is unclear which shoulder an arm comes from — an arm behind her back, behind her head or pinned under her body — and never state where a foot sits under water. Do not make it another small repair, adjusting, measuring or sorting task at a workbench, repair stall, equipment room or locker room — those scenes are already in our own list; choose another kind of everyday moment (rest, play, a meal, travel, weather, getting ready, simply being in the place).\nRecent scenes to avoid: a Han-era workshop beside a smithy — holds her keepsake in both hands in front of her; a riverside cycle path with a parked bicycle — perched on a ledge or edge; the yard of a Han-era relay station — standing; a bus shelter on a quiet street — holds a cup in both hands; a chandelier ballroom at a masquerade — holds a folding fan open near her chest; her bedroom — standing; the upper balcony of a wooden pavilion with upturned eaves — lifts a small hand lantern to chest height; a small mountain-path shrine at the Slope of the Fallen Phoenix — perched on a ledge or edge; terraced tea fields on a misty Sichuan hillside — standing; a walkway through a forest dome inside a colony ship — lifts a small hand lantern to chest height; a neon-lit game arcade — holds a cocktail glass by the stem at chest height; a festival street of lanterns — standing with one foot up on a step; a night river covered with floating paper lanterns — standing.\nPlace: a modern indoor mini-golf course with a gently curved obstacle shaped like a wave, warm colourful lights and no visible signage\nActivity: she crouches beside the cup to retrieve a golf ball after a perfect putt, quietly pleased by another accurate shot\nPose: in a balanced low squat facing three-quarter toward the viewer, her right arm reaches down in front to pick a ball from the cup, her left hand rests lightly on her own left knee, both elbows visible; no club in the scene\nFraming: full-body vertical view with natural eye-level perspective lowered to her seated face height, face and both hands readable\nOutfit: an original mint geometric halter romper with an opaque wrap bust, triangular open waist sections and short petal-cut culotte legs over fitted inner shorts, a softly structured belt fastened at the side with a resin toggle, white low sneakers; bare shoulders, a deep neckline and upper thighs, secure intimate coverage; one tiny ring-shaped bracelet charm\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing; nothing slipped off; intimate areas covered\n\nWARDROBE: change her clothes completely. From the attached image take only her face, hair and body — not its garment, armor, regalia, ornaments, mecha plates or background. Dress her exactly as SCENE describes; that outfit must read at first glance, keeping its own recognisable colours and parts. Do not carry the attached image's palette, patterns or trim into the outfit; her Three Kingdoms identity belongs in accessories and props, never in the clothes — never restyle the chosen outfit into her faction's palette, armor, robes or regalia.\n\nANGLE: the attached image fixes who she is, not how she is posed or shot. Do not copy its head angle, head tilt, gaze direction, face size in frame, camera height or crop — turn her head, set her gaze and place the camera exactly as SCENE describes, and let her face read naturally from that new angle (profile, three-quarter, looking down or away), with her features staying the same. No default card pose, no default front-facing portrait.\n\nONE MAIN FIGURE: she is the only character in focus. Where the place is busy, other people may appear only as small, soft-focus background extras — never posed with her. No logo, no watermark, no speech bubble, no frame border. No readable text or numbers.\n\nANATOMY: natural adult proportions, about 7.5 heads tall — height from the legs, never a smaller head or a longer neck. The neck is a natural length and the head sits close to the shoulders. No body-part enlargement, no extra limbs.\n\nFIGURE: keep her exact build from the attached image, neither slimmer nor fuller.\n\nBODY: a normal human body — one head, two arms and two legs, each joined at its natural joint; elbows, knees and wrists bend the human way. Hands and feet may be partly hidden by the pose, what she holds or the frame. Right and left mean her own right and left, not the viewer's.\n\nHANDS: natural human hands, no extra or duplicated limbs; each visible hand joins through its wrist and forearm to the matching shoulder. A hand may stay outside the crop, and fingers may be partly hidden by a grip.\n\nAVOID: a blue or bruise-like tint on the skin around the eyes, glossy or shiny highlights on the face, sweaty, oily or plastic-looking skin."
+ },
+ "refDesign": "gpt_free",
+ "execution": "sam-sunshangxiang-6ba31d",
+ "imported": "2026-11-16",
+ "qa": {
+  "reviewer": "gpt-session",
+  "image_sha256": "2857b45bbaf654f4ddba4b4adcfe2cb61503a29261bcb63c0152368aff441e4e",
+  "passed": false,
+  "anatomy": "ok",
+  "exposure": "match",
+  "observations": [
+   "1024x1536; visual review completed; original preserved without regeneration",
+   "Full-body view is closely cropped at the feet."
+  ],
+  "cause": "Generated scene differs from one or more requested scene, wardrobe or text constraints; preserved per project rules."
+ },
+ "acceptance": "user_authorized_normal_main_push; user_selected_worlds_4,2,3",
+ "review": {
+  "reviewed": false,
+  "by": "user",
+  "result": "pending"
+ }
+}

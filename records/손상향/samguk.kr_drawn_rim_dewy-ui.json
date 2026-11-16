@@ -1,0 +1,115 @@
+{
+ "atelier": "samguk",
+ "card": "손상향",
+ "faction": "wu",
+ "role": "general",
+ "world": "samguk",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v1",
+ "notes": {},
+ "look": {
+  "params": {},
+  "faceDesignOn": true,
+  "silhouetteOn": true,
+  "exposure": "bold"
+ },
+ "design": {
+  "face": {
+   "eye_color": "amber",
+   "age": "early_20s",
+   "impression": "cool",
+   "skin_tone": "fair",
+   "eye_size": "medium",
+   "eye_tilt": "up",
+   "mark": "winged_liner",
+   "expr": "confident",
+   "brows": "angled_sharp",
+   "nose": "straight_narrow",
+   "lips": "thin_long",
+   "face_shape": "oval",
+   "eyes": "narrow_upturned"
+  },
+  "silhouette": {
+   "body": "curvy_athletic",
+   "hair_color": "flame_orange",
+   "hair": "ponytail",
+   "bangs": "side_swept"
+  }
+ },
+ "shot": {
+  "scene": "",
+  "time": "",
+  "pose": "",
+  "expr": "",
+  "frame": ""
+ },
+ "file": "손상향_samguk_kr_drawn_rim_dewy_f.webp",
+ "prompt": "Design brief — your own take on this character. A full-body vertical 2:3 (1024×1536) character card image of Sun Shangxiang from the Romance of the Three Kingdoms, reimagined as an adult woman — the bow-waist princess of Wu, a warrior princess who married Liu Bei. Age: about twenty — a fresh young-adult face; no facial lines. She is a woman — no beard, moustache or facial hair.\n\nStyle (fixed): Korean MMORPG character artwork. A recognisably drawn face with gently simplified anatomical structure. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\n\nInspiration only: a martial princess who keeps armed maidservants, bow and blades always at hand, the cool, haughty pride of the Sun clan's only daughter who looks down on any suitor, a wedding across enemy lines.\n\nWorld (fixed): Eastern Wu along the Yangtze, around 200–280 AD: the river capital Jianye, great war junks with crimson sails, river fortresses, southern rain and lotus marshes, the fire ships of the Red Cliffs. Her costume, weapon and setting belong to this world.\n\nWeapon (fixed — ours): a pair of bladed chakram rings.\n\nHair colour (fixed — ours): flame-orange hair. Keep exactly this hair colour; only the hairstyle is yours.\n\nSkin tone (fixed — ours): fair skin. Keep exactly this skin tone.\n\nCostume colours (ours): crimson red, gold, river teal, black lacquer.\n\nRank (fixed): she is a famed war general — her costume must read battlefield might at first glance: imposing, richly worked armour and cloth with flagship-card detail, never plain or sparse.\n\nExposure (fixed): bold — her outfit shows skin by design (a deep neckline, bare shoulders or arms, a high slit or short hem); intimate areas covered.\n\nFace proportions: a short midface and a soft, gently rounded jawline with a small soft chin — never a long face or a long, pointed or heavy jaw; any crown or headpiece sits above her hairline and never lengthens her face. Her eyes stay at a natural open size — never squeezed into narrow slits.\n\nComposition: vertical 2:3 full-body framing with modest headroom and clear space below the boots — the whole figure from the top of her crown or headpiece to both boots stays inside the frame, occupying about four-fifths of the image height, with the same camera distance in every genre; her hands and her signature item stay inside the frame. Camera at chest height with natural portrait perspective — no wide-angle distortion, no low angle, no close crop.\n\nChosen original design:\nHer face is softly oval with a small rounded chin, blue-grey open eyes and a faint confident smile. Flame-orange hair is cut into a flowing shoulder-length layered bob, swept away from one temple by a gold comb. Choose silhouette 5: a great war cape spreading from the shoulders to the ankles as the main shape, lamellar armor beneath. Her crimson silk cape is constructed from two sweeping overlapping panels joined at the upper back like two banks of a river, edged in river-teal piping and intricate gold lacing; fitted black lacquer lamellar armor and a short crimson battle robe beneath. Deep neckline, bare arms and a high side opening, intimate areas covered. She stands on a broad stone stair of a Late-Han riverside palace, facing the viewer with one intact chakram held low in each hand, cape billowing outward; clear daylight after rain, no other figures.\n\nOne figure only, natural hands with five fingers, no logo or watermark.",
+ "date": "2026-11-16",
+ "record": "records/손상향/samguk.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "손상향",
+  "out": "world",
+  "world": "samguk",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {
+   "손상향|samguk": {}
+  },
+  "looks": {
+   "손상향|samguk": {
+    "params": {},
+    "faceDesignOn": true,
+    "silhouetteOn": true,
+    "exposure": "bold"
+   }
+  },
+  "shots": {
+   "손상향|samguk": {
+    "scene": "",
+    "time": "",
+    "pose": "",
+    "expr": "",
+    "frame": ""
+   }
+  },
+  "walked": {},
+  "casualN": 1,
+  "scenes": {}
+ },
+ "generation": {
+  "tool": "image_gen",
+  "endpoint": "images/generations",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "e92bf2aab3619498c0cbe4979d209ec7472f796718d6d654ebc9b63ece42e660",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "prompt_form": "en-prompt",
+  "prompt_sha256": "6b0d3cce2e62c136a997510ef368dbaa9054d9271841f6252935d0fb47b38b3c",
+  "design": "gpt_free",
+  "selection_number": 4,
+  "free_prompt": "Design brief — your own take on this character. A full-body vertical 2:3 (1024×1536) character card image of Sun Shangxiang from the Romance of the Three Kingdoms, reimagined as an adult woman — the bow-waist princess of Wu, a warrior princess who married Liu Bei. Age: about twenty — a fresh young-adult face; no facial lines. She is a woman — no beard, moustache or facial hair.\n\nStyle (fixed): Korean MMORPG character artwork. A recognisably drawn face with gently simplified anatomical structure. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\n\nInspiration only: a martial princess who keeps armed maidservants, bow and blades always at hand, the cool, haughty pride of the Sun clan's only daughter who looks down on any suitor, a wedding across enemy lines.\n\nWorld (fixed): Eastern Wu along the Yangtze, around 200–280 AD: the river capital Jianye, great war junks with crimson sails, river fortresses, southern rain and lotus marshes, the fire ships of the Red Cliffs. Her costume, weapon and setting belong to this world.\n\nWeapon (fixed — ours): a pair of bladed chakram rings.\n\nHair colour (fixed — ours): flame-orange hair. Keep exactly this hair colour; only the hairstyle is yours.\n\nSkin tone (fixed — ours): fair skin. Keep exactly this skin tone.\n\nCostume colours (ours): crimson red, gold, river teal, black lacquer.\n\nRank (fixed): she is a famed war general — her costume must read battlefield might at first glance: imposing, richly worked armour and cloth with flagship-card detail, never plain or sparse.\n\nExposure (fixed): bold — her outfit shows skin by design (a deep neckline, bare shoulders or arms, a high slit or short hem); intimate areas covered.\n\nFace proportions: a short midface and a soft, gently rounded jawline with a small soft chin — never a long face or a long, pointed or heavy jaw; any crown or headpiece sits above her hairline and never lengthens her face. Her eyes stay at a natural open size — never squeezed into narrow slits.\n\nComposition: vertical 2:3 full-body framing with modest headroom and clear space below the boots — the whole figure from the top of her crown or headpiece to both boots stays inside the frame, occupying about four-fifths of the image height, with the same camera distance in every genre; her hands and her signature item stay inside the frame. Camera at chest height with natural portrait perspective — no wide-angle distortion, no low angle, no close crop.\n\nChosen original design:\nHer face is softly oval with a small rounded chin, blue-grey open eyes and a faint confident smile. Flame-orange hair is cut into a flowing shoulder-length layered bob, swept away from one temple by a gold comb. Choose silhouette 5: a great war cape spreading from the shoulders to the ankles as the main shape, lamellar armor beneath. Her crimson silk cape is constructed from two sweeping overlapping panels joined at the upper back like two banks of a river, edged in river-teal piping and intricate gold lacing; fitted black lacquer lamellar armor and a short crimson battle robe beneath. Deep neckline, bare arms and a high side opening, intimate areas covered. She stands on a broad stone stair of a Late-Han riverside palace, facing the viewer with one intact chakram held low in each hand, cape billowing outward; clear daylight after rain, no other figures.\n\nOne figure only, natural hands with five fingers, no logo or watermark."
+ },
+ "qa": {
+  "reviewer": "gpt-session",
+  "passed": true,
+  "anatomy": "ok",
+  "exposure": "match",
+  "observations": [
+   "Selected by user: samguk 4",
+   "1024x1536, one adult woman, limbs connected, no regeneration"
+  ]
+ },
+ "execution": "sam-sunshangxiang-6ba31d",
+ "imported": "2026-11-16",
+ "acceptance": "user_selection_4,2,3; user_authorized_normal_main_push",
+ "review": {
+  "reviewed": true,
+  "by": "user",
+  "result": "selected"
+ }
+}
