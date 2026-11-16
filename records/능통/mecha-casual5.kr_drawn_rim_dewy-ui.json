@@ -1,0 +1,129 @@
+{
+  "atelier": "samguk",
+  "card": "능통",
+  "faction": "wu",
+  "slot": "casual5",
+  "treeV": 2,
+  "world": "mecha",
+  "style": "kr_drawn_rim_dewy",
+  "styleVersion": "v1",
+  "ref": "능통_mecha_kr_drawn_rim_dewy_f.webp",
+  "scene": {
+    "treeV": 2,
+    "era": "fantasy",
+    "place": "fx_skygarden",
+    "ofam": "resort",
+    "item": "palazzo_bandeau",
+    "posture": "lie_side",
+    "support": "side_floor",
+    "frame": "full_body",
+    "body": "front",
+    "head": "tilt",
+    "camera": "high",
+    "right": "floor_front",
+    "left": "head_rest",
+    "use": "",
+    "legs": "legs_bent_side",
+    "gaze": "camera",
+    "ofree": true,
+    "ofreeRecent": "a Han-era workshop beside a smithy — adjusts a small mechanism on the work surface with a small screwdriver; a Korean jjimjilbang hall with heated floors and sleeping mats — dries her hair with a towel; the open deck of a wooden sightseeing boat on the Yangtze — standing; the back seat of a taxi at night — touches one ear cup of a pair of over-ear headphones hung around her neck; a club powder room with a lit mirror and neon on the tiles — touches one ear cup of a pair of over-ear headphones hung around her neck; an editorial photo studio with a seamless backdrop and dramatic lights — standing; a narrow path through a tall bamboo grove — standing; a candlelit gala dinner hall — holds a cup in both hands; a city rooftop party under string lights — perched on a ledge or edge; a starship galley and mess hall — standing; a Peking opera dressing room — standing; a vast fantasy library of towering shelves — holds a small hand lantern low at her side",
+    "expr": "wistful",
+    "preset": "lie_side_full",
+    "prop": "",
+    "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    },
+    "unlocked": [],
+    "aspect": "2:3"
+  },
+  "file": "능통_mecha_kr_drawn_rim_dewy_f_casual5.webp",
+  "prompt": "INPUT: the attached image is the approved character — her Mecha card; keep her. Do not reuse earlier conversation images.\n\nCHARACTER: the same woman as the attached image — the female personification of Ling Tong of the Three Kingdoms, seen in her everyday life. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change, and her hair may be worn differently only as SCENE's Hair line says. Her Three Kingdoms identity shows ONLY as a small accessory, an object around her, or the object PROP says she holds — never in the outfit's colours, patterns or cut, never as armor, regalia or a costume.\n\nDESIGN (accessory hints only): her legend — burning pride, three-section staff, youthful grace — may inform at most one small accessory, a hair ornament or an object beside her, in its palette (crimson red, gold, river teal, black lacquer). The clothes keep the chosen outfit's own colours; her skin, hair and eyes stay as in the attached image.\n\nSIGNATURE ACCESSORY: off duty she carries no weapon — no sword, saber, spear, glaive, halberd, bow, axe, shield or any blade in her hands, on her back or anywhere in the scene. Her signature weapon (a three-section staff) appears only as one small worn accessory modelled on its shape and colours — a hair ornament, pendant, earring, brooch or belt charm a few centimetres long, clearly jewellery and not a usable weapon.\n\nSTYLE: Korean MMORPG character artwork. A recognisably drawn face with gently simplified anatomical structure. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\n\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nAGE: the same adult woman as in the attached image — keep her own face shape, cheekbones, eye proportions and skin tone exactly; minimal facial lines (no nasolabial folds, crow's feet, under-eye bags or cheek creases). Keep her face soft, feminine and attractive in every framing — never elongated, gaunt, mannish or heavy-jawed, even in close-ups, profiles or low angles.\n\nOUTPUT: one standalone off-duty scene of her in the outfit chosen in SCENE; her legend shows only through accessories and objects around her — never in the outfit's colours, patterns or cut, never as armor, regalia or a costume. Everything else follows SCENE (chosen).\n\nFRAME: a vertical 2:3 (1024×1536) image. Compose the image for this frame; COMPOSITION in SCENE sets how much of her shows.\n\nSCENE (chosen):\nFREE DESIGN: design the place, activity, pose, framing and outfit yourself. Start from who she is — her legend, traits and personality — and show an everyday moment that is unexpected yet feels natural for her. Make it fresh through the situation and what she is doing, not through more decoration. Avoid scenes like the recent ones listed below. Keep her face, the art style and the body and anatomy rules exactly as stated. Before drawing, write your design into the lines below, then draw it. In your pose, give each hand one job only and say plainly where each arm goes; avoid poses where it is unclear which shoulder an arm comes from — an arm behind her back, behind her head or pinned under her body — and never state where a foot sits under water. Do not make it another small repair, adjusting, measuring or sorting task at a workbench, repair stall, equipment room or locker room — those scenes are already in our own list; choose another kind of everyday moment (rest, play, a meal, travel, weather, getting ready, simply being in the place).\nRecent scenes to avoid: a Han-era workshop beside a smithy — adjusts a small mechanism on the work surface with a small screwdriver; a Korean jjimjilbang hall with heated floors and sleeping mats — dries her hair with a towel; the open deck of a wooden sightseeing boat on the Yangtze — standing; the back seat of a taxi at night — touches one ear cup of a pair of over-ear headphones hung around her neck; a club powder room with a lit mirror and neon on the tiles — touches one ear cup of a pair of over-ear headphones hung around her neck; an editorial photo studio with a seamless backdrop and dramatic lights — standing; a narrow path through a tall bamboo grove — standing; a candlelit gala dinner hall — holds a cup in both hands; a city rooftop party under string lights — perched on a ledge or edge; a starship galley and mess hall — standing; a Peking opera dressing room — standing; a vast fantasy library of towering shelves — holds a small hand lantern low at her side.\nPlace: a modern outdoor table-tennis court beside a quiet riverside park\nActivity: she pauses before a casual serve, balancing the small white ball on her open palm and watching it with a lively competitive smile\nPose: standing facing three-quarter toward the viewer, left upper arm relaxed and left forearm forward with the ball on her open left palm at waist height, right elbow bent beside her ribs and right hand holding a table-tennis paddle near her hip, both feet comfortably planted\nFraming: head to knees from chest height, her face and both hands clearly visible, table edge beside her\nOutfit: an original coral scarf-neck cropped athletic romper with a wide asymmetric shoulder band, secure opaque fitted bust, cut-out waist sides and wide folded short-leg cuffs, white low sneakers; bare arms and waist, one tiny three-link pendant\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing; nothing slipped off; intimate areas covered\n\nWARDROBE: change her clothes completely. From the attached image take only her face, hair and body — not its garment, armor, regalia, ornaments, mecha plates or background. Dress her exactly as SCENE describes; that outfit must read at first glance, keeping its own recognisable colours and parts. Do not carry the attached image's palette, patterns or trim into the outfit; her Three Kingdoms identity belongs in accessories and props, never in the clothes — never restyle the chosen outfit into her faction's palette, armor, robes or regalia.\n\nANGLE: the attached image fixes who she is, not how she is posed or shot. Do not copy its head angle, head tilt, gaze direction, face size in frame, camera height or crop — turn her head, set her gaze and place the camera exactly as SCENE describes, and let her face read naturally from that new angle (profile, three-quarter, looking down or away), with her features staying the same. No default card pose, no default front-facing portrait.\n\nONE MAIN FIGURE: she is the only character in focus. Where the place is busy, other people may appear only as small, soft-focus background extras — never posed with her. No logo, no watermark, no speech bubble, no frame border. No readable text or numbers.\n\nANATOMY: natural adult proportions, about 7.5 heads tall — height from the legs, never a smaller head or a longer neck. The neck is a natural length and the head sits close to the shoulders. No body-part enlargement, no extra limbs.\n\nFIGURE: keep her exact build from the attached image, neither slimmer nor fuller.\n\nMIDRIFF: wherever her stomach is bare, it shows a soft, subtle six-pack — lightly defined abdominal segments in two neat columns of three on a flat, firm, toned midriff; feminine and gently shaded, an athletic woman's abs, never a hard, deeply carved bodybuilder six-pack. If her outfit covers her stomach, keep it covered.\n\nBODY: a normal human body — one head, two arms and two legs, each joined at its natural joint; elbows, knees and wrists bend the human way. Hands and feet may be partly hidden by the pose, what she holds or the frame. Right and left mean her own right and left, not the viewer's.\n\nHANDS: natural human hands, no extra or duplicated limbs; each visible hand joins through its wrist and forearm to the matching shoulder. A hand may stay outside the crop, and fingers may be partly hidden by a grip.\n\nAVOID: a blue or bruise-like tint on the skin around the eyes, glossy or shiny highlights on the face, sweaty, oily or plastic-looking skin.",
+  "date": "2026-11-16",
+  "record": "records/능통/mecha-casual5.kr_drawn_rim_dewy-ui.json",
+  "storage": {
+    "card": "능통",
+    "out": "casual",
+    "world": "mecha",
+    "style": "kr_drawn_rim_dewy",
+    "notes": {},
+    "looks": {},
+    "shots": {},
+    "walked": {},
+    "casualN": 5,
+    "scenes": {
+      "능통": {
+        "era": "fantasy",
+        "place": "fx_skygarden",
+        "ofam": "resort",
+        "treeV": 2,
+        "prop": "",
+        "preset": "lie_side_full",
+        "use": "",
+        "posture": "lie_side",
+        "support": "side_floor",
+        "frame": "full_body",
+        "body": "front",
+        "head": "tilt",
+        "camera": "high",
+        "right": "floor_front",
+        "left": "head_rest",
+        "legs": "legs_bent_side",
+        "gaze": "camera",
+        "item": "palazzo_bandeau",
+        "expr": "wistful",
+        "axes": {
+          "overall_intensity": "strong",
+          "skin_exposure": "bold"
+        },
+        "aspect": "2:3",
+        "unlocked": [],
+        "ofree": true,
+        "ofreeRecent": "a Han-era workshop beside a smithy — adjusts a small mechanism on the work surface with a small screwdriver; a Korean jjimjilbang hall with heated floors and sleeping mats — dries her hair with a towel; the open deck of a wooden sightseeing boat on the Yangtze — standing; the back seat of a taxi at night — touches one ear cup of a pair of over-ear headphones hung around her neck; a club powder room with a lit mirror and neon on the tiles — touches one ear cup of a pair of over-ear headphones hung around her neck; an editorial photo studio with a seamless backdrop and dramatic lights — standing; a narrow path through a tall bamboo grove — standing; a candlelit gala dinner hall — holds a cup in both hands; a city rooftop party under string lights — perched on a ledge or edge; a starship galley and mess hall — standing; a Peking opera dressing room — standing; a vast fantasy library of towering shelves — holds a small hand lantern low at her side"
+      }
+    }
+  },
+  "execution": "sam-lingtong-7b217381",
+  "imported": "2026-11-16",
+  "acceptance": "user authorized images, catalog commit and non-force main push; world selection 2,3,3",
+  "review": {
+    "reviewed": false,
+    "by": "user",
+    "result": "pending"
+  },
+  "refDesign": "gpt_free",
+  "generation": {
+    "tool": "image_gen",
+    "endpoint": "images/edits",
+    "size": [
+      1024,
+      1536
+    ],
+    "png_sha256": "8e6e96eef3ed2fe0198c102de162fed5ac9f0c924bc18041304de55c537a6f58",
+    "ref_sha256": "5021e9961da832f9a51223db23e7095dfb58a9efdeeb29fccc796656563db332",
+    "prompt_form": "en-prompt",
+    "prompt_sha256": "376db02a3579c9fc568456689507f2e5f5fe3d109047bd03517339217007652e",
+    "webp": {
+      "quality": 90,
+      "method": 6
+    },
+    "free_design": {
+      "Place": "a modern outdoor table-tennis court beside a quiet riverside park",
+      "Activity": "she pauses before a casual serve, balancing the small white ball on her open palm and watching it with a lively competitive smile",
+      "Pose": "standing facing three-quarter toward the viewer, left upper arm relaxed and left forearm forward with the ball on her open left palm at waist height, right elbow bent beside her ribs and right hand holding a table-tennis paddle near her hip, both feet comfortably planted",
+      "Framing": "head to knees from chest height, her face and both hands clearly visible, table edge beside her",
+      "Outfit": "an original coral scarf-neck cropped athletic romper with a wide asymmetric shoulder band, secure opaque fitted bust, cut-out waist sides and wide folded short-leg cuffs, white low sneakers; bare arms and waist, one tiny three-link pendant"
+    },
+    "free_prompt": "INPUT: the attached image is the approved character — her Mecha card; keep her. Do not reuse earlier conversation images.\n\nCHARACTER: the same woman as the attached image — the female personification of Ling Tong of the Three Kingdoms, seen in her everyday life. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change, and her hair may be worn differently only as SCENE's Hair line says. Her Three Kingdoms identity shows ONLY as a small accessory, an object around her, or the object PROP says she holds — never in the outfit's colours, patterns or cut, never as armor, regalia or a costume.\n\nDESIGN (accessory hints only): her legend — burning pride, three-section staff, youthful grace — may inform at most one small accessory, a hair ornament or an object beside her, in its palette (crimson red, gold, river teal, black lacquer). The clothes keep the chosen outfit's own colours; her skin, hair and eyes stay as in the attached image.\n\nSIGNATURE ACCESSORY: off duty she carries no weapon — no sword, saber, spear, glaive, halberd, bow, axe, shield or any blade in her hands, on her back or anywhere in the scene. Her signature weapon (a three-section staff) appears only as one small worn accessory modelled on its shape and colours — a hair ornament, pendant, earring, brooch or belt charm a few centimetres long, clearly jewellery and not a usable weapon.\n\nSTYLE: Korean MMORPG character artwork. A recognisably drawn face with gently simplified anatomical structure. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\n\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nAGE: the same adult woman as in the attached image — keep her own face shape, cheekbones, eye proportions and skin tone exactly; minimal facial lines (no nasolabial folds, crow's feet, under-eye bags or cheek creases). Keep her face soft, feminine and attractive in every framing — never elongated, gaunt, mannish or heavy-jawed, even in close-ups, profiles or low angles.\n\nOUTPUT: one standalone off-duty scene of her in the outfit chosen in SCENE; her legend shows only through accessories and objects around her — never in the outfit's colours, patterns or cut, never as armor, regalia or a costume. Everything else follows SCENE (chosen).\n\nFRAME: a vertical 2:3 (1024×1536) image. Compose the image for this frame; COMPOSITION in SCENE sets how much of her shows.\n\nSCENE (chosen):\nFREE DESIGN: design the place, activity, pose, framing and outfit yourself. Start from who she is — her legend, traits and personality — and show an everyday moment that is unexpected yet feels natural for her. Make it fresh through the situation and what she is doing, not through more decoration. Avoid scenes like the recent ones listed below. Keep her face, the art style and the body and anatomy rules exactly as stated. Before drawing, write your design into the lines below, then draw it. In your pose, give each hand one job only and say plainly where each arm goes; avoid poses where it is unclear which shoulder an arm comes from — an arm behind her back, behind her head or pinned under her body — and never state where a foot sits under water. Do not make it another small repair, adjusting, measuring or sorting task at a workbench, repair stall, equipment room or locker room — those scenes are already in our own list; choose another kind of everyday moment (rest, play, a meal, travel, weather, getting ready, simply being in the place).\nRecent scenes to avoid: a Han-era workshop beside a smithy — adjusts a small mechanism on the work surface with a small screwdriver; a Korean jjimjilbang hall with heated floors and sleeping mats — dries her hair with a towel; the open deck of a wooden sightseeing boat on the Yangtze — standing; the back seat of a taxi at night — touches one ear cup of a pair of over-ear headphones hung around her neck; a club powder room with a lit mirror and neon on the tiles — touches one ear cup of a pair of over-ear headphones hung around her neck; an editorial photo studio with a seamless backdrop and dramatic lights — standing; a narrow path through a tall bamboo grove — standing; a candlelit gala dinner hall — holds a cup in both hands; a city rooftop party under string lights — perched on a ledge or edge; a starship galley and mess hall — standing; a Peking opera dressing room — standing; a vast fantasy library of towering shelves — holds a small hand lantern low at her side.\nPlace: a modern outdoor table-tennis court beside a quiet riverside park\nActivity: she pauses before a casual serve, balancing the small white ball on her open palm and watching it with a lively competitive smile\nPose: standing facing three-quarter toward the viewer, left upper arm relaxed and left forearm forward with the ball on her open left palm at waist height, right elbow bent beside her ribs and right hand holding a table-tennis paddle near her hip, both feet comfortably planted\nFraming: head to knees from chest height, her face and both hands clearly visible, table edge beside her\nOutfit: an original coral scarf-neck cropped athletic romper with a wide asymmetric shoulder band, secure opaque fitted bust, cut-out waist sides and wide folded short-leg cuffs, white low sneakers; bare arms and waist, one tiny three-link pendant\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing; nothing slipped off; intimate areas covered\n\nWARDROBE: change her clothes completely. From the attached image take only her face, hair and body — not its garment, armor, regalia, ornaments, mecha plates or background. Dress her exactly as SCENE describes; that outfit must read at first glance, keeping its own recognisable colours and parts. Do not carry the attached image's palette, patterns or trim into the outfit; her Three Kingdoms identity belongs in accessories and props, never in the clothes — never restyle the chosen outfit into her faction's palette, armor, robes or regalia.\n\nANGLE: the attached image fixes who she is, not how she is posed or shot. Do not copy its head angle, head tilt, gaze direction, face size in frame, camera height or crop — turn her head, set her gaze and place the camera exactly as SCENE describes, and let her face read naturally from that new angle (profile, three-quarter, looking down or away), with her features staying the same. No default card pose, no default front-facing portrait.\n\nONE MAIN FIGURE: she is the only character in focus. Where the place is busy, other people may appear only as small, soft-focus background extras — never posed with her. No logo, no watermark, no speech bubble, no frame border. No readable text or numbers.\n\nANATOMY: natural adult proportions, about 7.5 heads tall — height from the legs, never a smaller head or a longer neck. The neck is a natural length and the head sits close to the shoulders. No body-part enlargement, no extra limbs.\n\nFIGURE: keep her exact build from the attached image, neither slimmer nor fuller.\n\nMIDRIFF: wherever her stomach is bare, it shows a soft, subtle six-pack — lightly defined abdominal segments in two neat columns of three on a flat, firm, toned midriff; feminine and gently shaded, an athletic woman's abs, never a hard, deeply carved bodybuilder six-pack. If her outfit covers her stomach, keep it covered.\n\nBODY: a normal human body — one head, two arms and two legs, each joined at its natural joint; elbows, knees and wrists bend the human way. Hands and feet may be partly hidden by the pose, what she holds or the frame. Right and left mean her own right and left, not the viewer's.\n\nHANDS: natural human hands, no extra or duplicated limbs; each visible hand joins through its wrist and forearm to the matching shoulder. A hand may stay outside the crop, and fingers may be partly hidden by a grip.\n\nAVOID: a blue or bruise-like tint on the skin around the eyes, glossy or shiny highlights on the face, sweaty, oily or plastic-looking skin."
+  },
+  "qa": {
+    "passed": true,
+    "anatomy": "ok",
+    "exposure": "match",
+    "observations": [
+      "Standing at riverside table-tennis table holding paddle and ball in separate hands, coral cropped romper."
+    ],
+    "reviewer": "gpt-session",
+    "image_sha256": "8e6e96eef3ed2fe0198c102de162fed5ac9f0c924bc18041304de55c537a6f58"
+  }
+}
