@@ -1,0 +1,133 @@
+{
+ "atelier": "samguk",
+ "card": "조비",
+ "faction": "wei",
+ "slot": "casual7",
+ "treeV": 2,
+ "world": "samguk",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v1",
+ "ref": "조비_samguk_kr_drawn_rim_dewy_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "nation",
+  "place": "nation_balcony",
+  "ofam": "resort",
+  "item": "crochet_set",
+  "posture": "stand",
+  "support": "none",
+  "frame": "chest_up",
+  "body": "side",
+  "head": "tilt",
+  "camera": "low",
+  "right": "prop",
+  "left": "out",
+  "use": "lantern_raise",
+  "legs": "",
+  "gaze": "at_prop",
+  "ofree": true,
+  "ofreeRecent": "a moonlit lotus pond with stepping stones and glowing fireflies — sitting on the ground; a terrace on a castle wall overlooking the valley — seated sideways on a stool or bench; her living room with a deep sofa — holds a magnifying glass by its handle at chest height; a present-day coastal tidal bathing pool carved into pale limestone — standing on a dry step after a swim; a modern glass-walled office at dusk — holds a cup in both hands; the Changban Bridge memorial — holds a red oil-paper umbrella open over her shoulder; a present-day outdoor orchard picnic clearing on a sunny hillside — taking a first bite of a peach after a long walk; a medieval tavern — seated on a chair; an old brush-and-ink shop in a heritage quarter — brings a cup to her lips; her private chamber in a Han-era residence — carries a pipa lute by its neck at her side; a convention photo zone under ring lights — checks the photo on the back screen of a camera at chest height; an airport lounge — holds her keepsake up beside her face; a moonlit lotus pond with stepping stones and glowing fireflies — seated sideways on a stool or bench",
+  "expr": "focused",
+  "preset": "light_check",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "조비_samguk_kr_drawn_rim_dewy_f_casual7.webp",
+ "prompt": "INPUT: the attached image is the approved character — her Three kingdoms card; keep her. Do not reuse earlier conversation images.\n\nCHARACTER: the same woman as the attached image — the female personification of Cao Pi of the Three Kingdoms, seen in her everyday life. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change, and her hair may be worn differently only as SCENE's Hair line says. Her Three Kingdoms identity shows ONLY as a small accessory, an object around her, or the object PROP says she holds — never in the outfit's colours, patterns or cut, never as armor, regalia or a costume.\n\nDESIGN (accessory hints only): her legend — cool literary talent and imperial ambition, the first Wei emperor's regalia, a poet's brush — may inform at most one small accessory, a hair ornament or an object beside her, in its palette (deep navy blue, black lacquer, cold steel silver, ivory white). The clothes keep the chosen outfit's own colours; her skin, hair and eyes stay as in the attached image.\n\nSTYLE: Korean MMORPG character artwork. A recognisably drawn face with gently simplified anatomical structure. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\n\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nAGE: the same adult woman as in the attached image — keep her own face shape, cheekbones, eye proportions and skin tone exactly; minimal facial lines (no nasolabial folds, crow's feet, under-eye bags or cheek creases). Keep her face soft, feminine and attractive in every framing — never elongated, gaunt, mannish or heavy-jawed, even in close-ups, profiles or low angles.\n\nOUTPUT: one standalone off-duty scene of her in the outfit chosen in SCENE; her legend shows only through accessories and objects around her — never in the outfit's colours, patterns or cut, never as armor, regalia or a costume. Everything else follows SCENE (chosen).\n\nFRAME: a vertical 2:3 (1024×1536) image. Compose the image for this frame; COMPOSITION in SCENE sets how much of her shows.\n\nSCENE (chosen):\nFREE DESIGN: design the place, activity, pose, framing and outfit yourself. Start from who she is — her legend, traits and personality — and show an everyday moment that is unexpected yet feels natural for her. Make it fresh through the situation and what she is doing, not through more decoration. Avoid scenes like the recent ones listed below. Keep her face, the art style and the body and anatomy rules exactly as stated. Before drawing, write your design into the lines below, then draw it. In your pose, give each hand one job only and say plainly where each arm goes; avoid poses where it is unclear which shoulder an arm comes from — an arm behind her back, behind her head or pinned under her body — and never state where a foot sits under water. Do not make it another small repair, adjusting, measuring or sorting task at a workbench, repair stall, equipment room or locker room — those scenes are already in our own list; choose another kind of everyday moment (rest, play, a meal, travel, weather, getting ready, simply being in the place).\nRecent scenes to avoid: a moonlit lotus pond with stepping stones and glowing fireflies — sitting on the ground; a terrace on a castle wall overlooking the valley — seated sideways on a stool or bench; her living room with a deep sofa — holds a magnifying glass by its handle at chest height; a present-day coastal tidal bathing pool carved into pale limestone — standing on a dry step after a swim; a modern glass-walled office at dusk — holds a cup in both hands; the Changban Bridge memorial — holds a red oil-paper umbrella open over her shoulder; a present-day outdoor orchard picnic clearing on a sunny hillside — taking a first bite of a peach after a long walk; a medieval tavern — seated on a chair; an old brush-and-ink shop in a heritage quarter — brings a cup to her lips; her private chamber in a Han-era residence — carries a pipa lute by its neck at her side; a convention photo zone under ring lights — checks the photo on the back screen of a camera at chest height; an airport lounge — holds her keepsake up beside her face; a moonlit lotus pond with stepping stones and glowing fireflies — seated sideways on a stool or bench.\nPlace: a present-day covered streetcar stop on a gentle rainy afternoon, glazed tiles and water reflections\nActivity: folding an unprinted paper ticket into a small boat while waiting for her ride, a quiet playful echo of a poet turning ordinary paper into a story\nPose: standing with her weight evenly supported, both upper arms beside her body and both forearms forward, right hand folding the upper corner of one small paper boat while left hand supports its base at chest height\nFraming: vertical waist-up portrait from a front three-quarter angle at eye level, both hands and her relaxed face clearly visible\nOutfit: a plum-coloured sculpted halter romper with overlapping fan-pleated short legs, a deep curved neckline, open shoulders and a narrow inset waist, short translucent rain-capelet resting on the shoulders over the fully opaque romper, polished ankle boots\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing; nothing slipped off; intimate areas covered\n\nWARDROBE: change her clothes completely. From the attached image take only her face, hair and body — not its garment, armor, regalia, ornaments, mecha plates or background. Dress her exactly as SCENE describes; that outfit must read at first glance, keeping its own recognisable colours and parts. Do not carry the attached image's palette, patterns or trim into the outfit; her Three Kingdoms identity belongs in accessories and props, never in the clothes — never restyle the chosen outfit into her faction's palette, armor, robes or regalia.\n\nANGLE: the attached image fixes who she is, not how she is posed or shot. Do not copy its head angle, head tilt, gaze direction, face size in frame, camera height or crop — turn her head, set her gaze and place the camera exactly as SCENE describes, and let her face read naturally from that new angle (profile, three-quarter, looking down or away), with her features staying the same. No default card pose, no default front-facing portrait.\n\nONE MAIN FIGURE: she is the only character in focus. Where the place is busy, other people may appear only as small, soft-focus background extras — never posed with her. No logo, no watermark, no speech bubble, no frame border. No readable text or numbers.\n\nANATOMY: natural adult proportions, about 7.5 heads tall — height from the legs, never a smaller head or a longer neck. The neck is a natural length and the head sits close to the shoulders. No body-part enlargement, no extra limbs.\n\nFIGURE: keep her exact build from the attached image, neither slimmer nor fuller.\n\nBODY: a normal human body — one head, two arms and two legs, each joined at its natural joint; elbows, knees and wrists bend the human way. Hands and feet may be partly hidden by the pose, what she holds or the frame. Right and left mean her own right and left, not the viewer's.\n\nHANDS: natural human hands, no extra or duplicated limbs; each visible hand joins through its wrist and forearm to the matching shoulder. A hand may stay outside the crop, and fingers may be partly hidden by a grip.\n\nAVOID: a blue or bruise-like tint on the skin around the eyes, glossy or shiny highlights on the face, sweaty, oily or plastic-looking skin.",
+ "date": "2026-11-16",
+ "record": "records/조비/samguk-casual7.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "조비",
+  "out": "casual",
+  "world": "samguk",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 7,
+  "scenes": {
+   "조비": {
+    "era": "nation",
+    "place": "nation_balcony",
+    "ofam": "resort",
+    "treeV": 2,
+    "prop": "",
+    "preset": "light_check",
+    "use": "lantern_raise",
+    "posture": "stand",
+    "support": "none",
+    "frame": "chest_up",
+    "body": "side",
+    "head": "tilt",
+    "camera": "low",
+    "right": "prop",
+    "left": "out",
+    "legs": "",
+    "gaze": "at_prop",
+    "item": "crochet_set",
+    "expr": "focused",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "ofree": true,
+    "ofreeRecent": "a moonlit lotus pond with stepping stones and glowing fireflies — sitting on the ground; a terrace on a castle wall overlooking the valley — seated sideways on a stool or bench; her living room with a deep sofa — holds a magnifying glass by its handle at chest height; a present-day coastal tidal bathing pool carved into pale limestone — standing on a dry step after a swim; a modern glass-walled office at dusk — holds a cup in both hands; the Changban Bridge memorial — holds a red oil-paper umbrella open over her shoulder; a present-day outdoor orchard picnic clearing on a sunny hillside — taking a first bite of a peach after a long walk; a medieval tavern — seated on a chair; an old brush-and-ink shop in a heritage quarter — brings a cup to her lips; her private chamber in a Han-era residence — carries a pipa lute by its neck at her side; a convention photo zone under ring lights — checks the photo on the back screen of a camera at chest height; an airport lounge — holds her keepsake up beside her face; a moonlit lotus pond with stepping stones and glowing fireflies — seated sideways on a stool or bench"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "7d7bd1e1fed6f42823d0e7277ec4468d611efd005977585e4ef2381f654557e5",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "prompt_form": "en-prompt",
+  "prompt_sha256": "458b702398504bf44b18976a925fc15e0d632b199a1cb8a6310bd4149a6c6ab6",
+  "submitted_prefix": "아래 지시문을 고치지 말고 그대로 그려라.",
+  "retries": [],
+  "ref_sha256": "14ccb0d8103f9d62a047de36549afd227f45f8656b70edc8983de5f5da392978",
+  "free_design": {
+   "Place": "a present-day covered streetcar stop on a gentle rainy afternoon, glazed tiles and water reflections",
+   "Activity": "folding an unprinted paper ticket into a small boat while waiting for her ride, a quiet playful echo of a poet turning ordinary paper into a story",
+   "Pose": "standing with her weight evenly supported, both upper arms beside her body and both forearms forward, right hand folding the upper corner of one small paper boat while left hand supports its base at chest height",
+   "Framing": "vertical waist-up portrait from a front three-quarter angle at eye level, both hands and her relaxed face clearly visible",
+   "Outfit": "a plum-coloured sculpted halter romper with overlapping fan-pleated short legs, a deep curved neckline, open shoulders and a narrow inset waist, short translucent rain-capelet resting on the shoulders over the fully opaque romper, polished ankle boots"
+  },
+  "free_prompt": "INPUT: the attached image is the approved character — her Three kingdoms card; keep her. Do not reuse earlier conversation images.\n\nCHARACTER: the same woman as the attached image — the female personification of Cao Pi of the Three Kingdoms, seen in her everyday life. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change, and her hair may be worn differently only as SCENE's Hair line says. Her Three Kingdoms identity shows ONLY as a small accessory, an object around her, or the object PROP says she holds — never in the outfit's colours, patterns or cut, never as armor, regalia or a costume.\n\nDESIGN (accessory hints only): her legend — cool literary talent and imperial ambition, the first Wei emperor's regalia, a poet's brush — may inform at most one small accessory, a hair ornament or an object beside her, in its palette (deep navy blue, black lacquer, cold steel silver, ivory white). The clothes keep the chosen outfit's own colours; her skin, hair and eyes stay as in the attached image.\n\nSTYLE: Korean MMORPG character artwork. A recognisably drawn face with gently simplified anatomical structure. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\n\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nAGE: the same adult woman as in the attached image — keep her own face shape, cheekbones, eye proportions and skin tone exactly; minimal facial lines (no nasolabial folds, crow's feet, under-eye bags or cheek creases). Keep her face soft, feminine and attractive in every framing — never elongated, gaunt, mannish or heavy-jawed, even in close-ups, profiles or low angles.\n\nOUTPUT: one standalone off-duty scene of her in the outfit chosen in SCENE; her legend shows only through accessories and objects around her — never in the outfit's colours, patterns or cut, never as armor, regalia or a costume. Everything else follows SCENE (chosen).\n\nFRAME: a vertical 2:3 (1024×1536) image. Compose the image for this frame; COMPOSITION in SCENE sets how much of her shows.\n\nSCENE (chosen):\nFREE DESIGN: design the place, activity, pose, framing and outfit yourself. Start from who she is — her legend, traits and personality — and show an everyday moment that is unexpected yet feels natural for her. Make it fresh through the situation and what she is doing, not through more decoration. Avoid scenes like the recent ones listed below. Keep her face, the art style and the body and anatomy rules exactly as stated. Before drawing, write your design into the lines below, then draw it. In your pose, give each hand one job only and say plainly where each arm goes; avoid poses where it is unclear which shoulder an arm comes from — an arm behind her back, behind her head or pinned under her body — and never state where a foot sits under water. Do not make it another small repair, adjusting, measuring or sorting task at a workbench, repair stall, equipment room or locker room — those scenes are already in our own list; choose another kind of everyday moment (rest, play, a meal, travel, weather, getting ready, simply being in the place).\nRecent scenes to avoid: a moonlit lotus pond with stepping stones and glowing fireflies — sitting on the ground; a terrace on a castle wall overlooking the valley — seated sideways on a stool or bench; her living room with a deep sofa — holds a magnifying glass by its handle at chest height; a present-day coastal tidal bathing pool carved into pale limestone — standing on a dry step after a swim; a modern glass-walled office at dusk — holds a cup in both hands; the Changban Bridge memorial — holds a red oil-paper umbrella open over her shoulder; a present-day outdoor orchard picnic clearing on a sunny hillside — taking a first bite of a peach after a long walk; a medieval tavern — seated on a chair; an old brush-and-ink shop in a heritage quarter — brings a cup to her lips; her private chamber in a Han-era residence — carries a pipa lute by its neck at her side; a convention photo zone under ring lights — checks the photo on the back screen of a camera at chest height; an airport lounge — holds her keepsake up beside her face; a moonlit lotus pond with stepping stones and glowing fireflies — seated sideways on a stool or bench.\nPlace: a present-day covered streetcar stop on a gentle rainy afternoon, glazed tiles and water reflections\nActivity: folding an unprinted paper ticket into a small boat while waiting for her ride, a quiet playful echo of a poet turning ordinary paper into a story\nPose: standing with her weight evenly supported, both upper arms beside her body and both forearms forward, right hand folding the upper corner of one small paper boat while left hand supports its base at chest height\nFraming: vertical waist-up portrait from a front three-quarter angle at eye level, both hands and her relaxed face clearly visible\nOutfit: a plum-coloured sculpted halter romper with overlapping fan-pleated short legs, a deep curved neckline, open shoulders and a narrow inset waist, short translucent rain-capelet resting on the shoulders over the fully opaque romper, polished ankle boots\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing; nothing slipped off; intimate areas covered\n\nWARDROBE: change her clothes completely. From the attached image take only her face, hair and body — not its garment, armor, regalia, ornaments, mecha plates or background. Dress her exactly as SCENE describes; that outfit must read at first glance, keeping its own recognisable colours and parts. Do not carry the attached image's palette, patterns or trim into the outfit; her Three Kingdoms identity belongs in accessories and props, never in the clothes — never restyle the chosen outfit into her faction's palette, armor, robes or regalia.\n\nANGLE: the attached image fixes who she is, not how she is posed or shot. Do not copy its head angle, head tilt, gaze direction, face size in frame, camera height or crop — turn her head, set her gaze and place the camera exactly as SCENE describes, and let her face read naturally from that new angle (profile, three-quarter, looking down or away), with her features staying the same. No default card pose, no default front-facing portrait.\n\nONE MAIN FIGURE: she is the only character in focus. Where the place is busy, other people may appear only as small, soft-focus background extras — never posed with her. No logo, no watermark, no speech bubble, no frame border. No readable text or numbers.\n\nANATOMY: natural adult proportions, about 7.5 heads tall — height from the legs, never a smaller head or a longer neck. The neck is a natural length and the head sits close to the shoulders. No body-part enlargement, no extra limbs.\n\nFIGURE: keep her exact build from the attached image, neither slimmer nor fuller.\n\nBODY: a normal human body — one head, two arms and two legs, each joined at its natural joint; elbows, knees and wrists bend the human way. Hands and feet may be partly hidden by the pose, what she holds or the frame. Right and left mean her own right and left, not the viewer's.\n\nHANDS: natural human hands, no extra or duplicated limbs; each visible hand joins through its wrist and forearm to the matching shoulder. A hand may stay outside the crop, and fingers may be partly hidden by a grip.\n\nAVOID: a blue or bruise-like tint on the skin around the eyes, glossy or shiny highlights on the face, sweaty, oily or plastic-looking skin."
+ },
+ "refDesign": "gpt_free",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "7d7bd1e1fed6f42823d0e7277ec4468d611efd005977585e4ef2381f654557e5",
+  "passed": false,
+  "anatomy": "ok",
+  "exposure": "match",
+  "observations": [
+   "비 오는 정류장·종이배·두 손의 역할·자주색 롬퍼 확인. waist_up보다 아래까지 보이는 구도.",
+   "선택 세계컷의 얼굴·머리색·눈색 유지. 보이는 팔·손·다리의 연결에 추가 팔다리 없음."
+  ],
+  "cause": "지정 구도·장소·의상·소품 또는 제약 일부와 생성 결과가 다름. 완성 원본을 보존하고 재생성하지 않음."
+ },
+ "execution": "sam-caopi-20261116T1654",
+ "imported": "2026-11-16",
+ "acceptance": "사용자 세계 선택 4,3,1 및 이미지·도감 커밋/main 일반 반영 승인",
+ "review": {
+  "reviewed": false,
+  "by": "user",
+  "result": "pending"
+ }
+}

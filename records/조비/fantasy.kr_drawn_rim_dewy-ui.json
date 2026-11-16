@@ -1,0 +1,118 @@
+{
+ "atelier": "samguk",
+ "card": "조비",
+ "faction": "wei",
+ "role": "lord",
+ "world": "fantasy",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v1",
+ "notes": {},
+ "look": {
+  "params": {},
+  "faceDesignOn": true,
+  "silhouetteOn": true,
+  "exposure": "bold"
+ },
+ "design": {
+  "face": {
+   "eye_color": "forest_green",
+   "impression": "regal",
+   "expr": "cold_smile",
+   "skin_tone": "fair",
+   "age": "mid_20s",
+   "eye_size": "medium",
+   "eye_tilt": "level",
+   "mark": "red_lip",
+   "brows": "soft_round",
+   "nose": "high_bridge",
+   "lips": "plush_pout",
+   "face_shape": "v_line",
+   "eyes": "phoenix"
+  },
+  "silhouette": {
+   "body": "hourglass",
+   "hair_color": "copper",
+   "hair": "long_wavy",
+   "bangs": "swept_back"
+  }
+ },
+ "shot": {
+  "scene": "",
+  "time": "",
+  "pose": "",
+  "expr": "",
+  "frame": ""
+ },
+ "file": "조비_fantasy_kr_drawn_rim_dewy_f.webp",
+ "prompt": "Design brief — your own take on this character. A full-body vertical 2:3 (1024×1536) character card image of Cao Pi from the Romance of the Three Kingdoms, reimagined as an adult woman — the first emperor of Wei, who outdid her siblings even with the brush. Age: mid-twenties — a clear adult face; no facial lines. She is a woman — no beard, moustache or facial hair.\n\nYou design her yourself: invent her face, eye colour, hairstyle, makeup, expression, pose and setting as a fresh, original take — do not follow any earlier design of this character. Her hair colour, skin tone, costume and weapon are NOT free: take them from our designs below.\n\nStyle (fixed): Korean MMORPG character artwork. A recognisably drawn face with gently simplified anatomical structure. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\n\nInspiration only: cool literary talent and imperial ambition, the first Wei emperor's regalia, a poet's brush.\n\nWorld (fixed): a stern northern empire of medieval high fantasy: black-stone citadels with blue banners, iron-shod heavy cavalry, snowy plains and pine forests, a court ruled by strict law, cold blue sigil-magic. Her costume, weapon and setting belong to this world.\n\nCostume (choose one of ours, then add your own idea): pick ONE of these costume shapes from our set and keep its overall silhouette — 1) a fitted breastplate and pauldrons above a gown skirt flaring to the floor — an elegant lady-knight silhouette; 2) plate armor under a long heraldic tabard with a white cape to the ankles — a straight, holy silhouette; 3) large metal feathered wing ornaments spreading from the shoulders or back and a wing-shaped head ornament — the wings make the shape; 4) angular, spiked dark plate armor and a long cape with torn edges — a sharp, menacing silhouette; 5) a long coat below the knees with epaulettes, a belt, gloves and tall boots — a crisp, commanding officer's silhouette; 6) dragon-scale armor covering the body with horn-shaped shoulder and head ornaments — a beastly, imposing silhouette; 7) a great crown and a fur-trimmed royal mantle over an ornate breastplate — a ceremonial, regal silhouette. Then add one signature idea of your own drawn from her legend, built into the construction of the outfit itself rather than as a print or a loose accessory — e.g. plates or cloth layered like feathers, scales or petals, a hem or sleeve cut into a motif from her story. Build it in this world's materials and our colours below.\n\nWeapon (fixed — ours): an imperial brush of jade, reimagined as a Western high-fantasy version of the same kind of object with the same silhouette: polished steel and silvered mithril throughout, the shaft or hilt also forged metal with engraved runes (never plain wood), a faint magical glow running along the edge and the runes, a gem-set guard or socket, a leather-wrapped grip and heraldic or elven ornament, with any animal motif re-sculpted in Western heraldic style and no Chinese fittings, silk tassels or hanzi.\n\nHair colour (fixed — ours): polished copper-red hair. Keep exactly this hair colour; only the hairstyle is yours.\n\nSkin tone (fixed — ours): fair skin. Keep exactly this skin tone.\n\nCostume colours (ours): deep navy blue, black lacquer, cold steel silver, ivory white.\n\nRank (fixed): she is a ruler — her costume must read her sovereign rank at first glance: layered, richly ornate and regal, with flagship-card detail, fine engraving and jewellery, never plain or sparse.\n\nExposure (fixed): bold — her outfit shows skin by design (a deep neckline, bare shoulders or arms, a high slit or short hem); intimate areas covered.\n\nFace proportions: a short midface and a soft, gently rounded jawline with a small soft chin — never a long face or a long, pointed or heavy jaw; any crown or headpiece sits above her hairline and never lengthens her face. Her eyes stay at a natural open size — never squeezed into narrow slits.\n\nComposition: vertical 2:3 full-body framing with modest headroom and clear space below the boots — the whole figure from the top of her crown or headpiece to both boots stays inside the frame, occupying about four-fifths of the image height, with the same camera distance in every genre; her hands and her signature item stay inside the frame. Camera at chest height with natural portrait perspective — no wide-angle distortion, no low angle, no close crop.\n\nIf you have already drawn a free design of her in this session, make this one clearly different — another face and hairstyle (the same hair colour and skin tone), another costume shape from the list with another signature idea, another pose and setting.\n\nWrite your own detailed image prompt from this brief, then draw it. One figure only, natural hands with five fingers; Western medieval setting and dress only — no Chinese architecture, robes, junks or hanzi; no logo or watermark.\n\nDetailed design for this image:\nChoose silhouette 7: a great silver crown and fur-trimmed ivory royal mantle over an ornate navy breastplate. The rigid silver waist plates interleave like the leaves of a royal codex, opening into a sculpted long ceremonial skirt of navy fabric with black-lacquer edging. Polished copper-red hair in a thick crown braid with a low long tail, fair skin, clear violet eyes, an oval softly rounded face and small chin, calm benevolent confidence. Stand facing the viewer on a snowy black-stone citadel balcony with blue banners, both feet visible. Hold one full-scale imperial brush reimagined in silvered mithril, engraved runes, leather grip, blue gemstone socket and faint glowing bristle tip; the free hand rests open beside her waist. A deep neckline, bare shoulders between mantle and armour, one high skirt slit, intimate areas covered. Full bust and narrow waist, natural hips and long legs. Strong rim lighting and soft key, dewy highlights on the body, softly painted natural face. Entirely Western medieval high fantasy.",
+ "date": "2026-11-16",
+ "record": "records/조비/fantasy.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "조비",
+  "out": "world",
+  "world": "fantasy",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {
+   "조비|fantasy": {}
+  },
+  "looks": {
+   "조비|fantasy": {
+    "params": {},
+    "faceDesignOn": true,
+    "silhouetteOn": true,
+    "exposure": "bold"
+   }
+  },
+  "shots": {
+   "조비|fantasy": {
+    "scene": "",
+    "time": "",
+    "pose": "",
+    "expr": "",
+    "frame": ""
+   }
+  },
+  "walked": {},
+  "casualN": 1,
+  "scenes": {}
+ },
+ "generation": {
+  "tool": "image_gen",
+  "endpoint": "images/generations",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "02603b64f9899465daf8f340f38e9cdf5170b3d98d0744e58a92ab6547aec4a8",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "prompt_form": "en-prompt",
+  "prompt_sha256": "8d30513587f235832bcd68169de96cb62c2f17151555df3626d5afd95e8ece5d",
+  "submitted_prefix": "아래 지시문을 고치지 말고 그대로 그려라.",
+  "retries": [],
+  "selected_candidate": 3,
+  "design": "gpt_free",
+  "free_prompt": "Design brief — your own take on this character. A full-body vertical 2:3 (1024×1536) character card image of Cao Pi from the Romance of the Three Kingdoms, reimagined as an adult woman — the first emperor of Wei, who outdid her siblings even with the brush. Age: mid-twenties — a clear adult face; no facial lines. She is a woman — no beard, moustache or facial hair.\n\nYou design her yourself: invent her face, eye colour, hairstyle, makeup, expression, pose and setting as a fresh, original take — do not follow any earlier design of this character. Her hair colour, skin tone, costume and weapon are NOT free: take them from our designs below.\n\nStyle (fixed): Korean MMORPG character artwork. A recognisably drawn face with gently simplified anatomical structure. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\n\nInspiration only: cool literary talent and imperial ambition, the first Wei emperor's regalia, a poet's brush.\n\nWorld (fixed): a stern northern empire of medieval high fantasy: black-stone citadels with blue banners, iron-shod heavy cavalry, snowy plains and pine forests, a court ruled by strict law, cold blue sigil-magic. Her costume, weapon and setting belong to this world.\n\nCostume (choose one of ours, then add your own idea): pick ONE of these costume shapes from our set and keep its overall silhouette — 1) a fitted breastplate and pauldrons above a gown skirt flaring to the floor — an elegant lady-knight silhouette; 2) plate armor under a long heraldic tabard with a white cape to the ankles — a straight, holy silhouette; 3) large metal feathered wing ornaments spreading from the shoulders or back and a wing-shaped head ornament — the wings make the shape; 4) angular, spiked dark plate armor and a long cape with torn edges — a sharp, menacing silhouette; 5) a long coat below the knees with epaulettes, a belt, gloves and tall boots — a crisp, commanding officer's silhouette; 6) dragon-scale armor covering the body with horn-shaped shoulder and head ornaments — a beastly, imposing silhouette; 7) a great crown and a fur-trimmed royal mantle over an ornate breastplate — a ceremonial, regal silhouette. Then add one signature idea of your own drawn from her legend, built into the construction of the outfit itself rather than as a print or a loose accessory — e.g. plates or cloth layered like feathers, scales or petals, a hem or sleeve cut into a motif from her story. Build it in this world's materials and our colours below.\n\nWeapon (fixed — ours): an imperial brush of jade, reimagined as a Western high-fantasy version of the same kind of object with the same silhouette: polished steel and silvered mithril throughout, the shaft or hilt also forged metal with engraved runes (never plain wood), a faint magical glow running along the edge and the runes, a gem-set guard or socket, a leather-wrapped grip and heraldic or elven ornament, with any animal motif re-sculpted in Western heraldic style and no Chinese fittings, silk tassels or hanzi.\n\nHair colour (fixed — ours): polished copper-red hair. Keep exactly this hair colour; only the hairstyle is yours.\n\nSkin tone (fixed — ours): fair skin. Keep exactly this skin tone.\n\nCostume colours (ours): deep navy blue, black lacquer, cold steel silver, ivory white.\n\nRank (fixed): she is a ruler — her costume must read her sovereign rank at first glance: layered, richly ornate and regal, with flagship-card detail, fine engraving and jewellery, never plain or sparse.\n\nExposure (fixed): bold — her outfit shows skin by design (a deep neckline, bare shoulders or arms, a high slit or short hem); intimate areas covered.\n\nFace proportions: a short midface and a soft, gently rounded jawline with a small soft chin — never a long face or a long, pointed or heavy jaw; any crown or headpiece sits above her hairline and never lengthens her face. Her eyes stay at a natural open size — never squeezed into narrow slits.\n\nComposition: vertical 2:3 full-body framing with modest headroom and clear space below the boots — the whole figure from the top of her crown or headpiece to both boots stays inside the frame, occupying about four-fifths of the image height, with the same camera distance in every genre; her hands and her signature item stay inside the frame. Camera at chest height with natural portrait perspective — no wide-angle distortion, no low angle, no close crop.\n\nIf you have already drawn a free design of her in this session, make this one clearly different — another face and hairstyle (the same hair colour and skin tone), another costume shape from the list with another signature idea, another pose and setting.\n\nWrite your own detailed image prompt from this brief, then draw it. One figure only, natural hands with five fingers; Western medieval setting and dress only — no Chinese architecture, robes, junks or hanzi; no logo or watermark.\n\nDetailed design for this image:\nChoose silhouette 7: a great silver crown and fur-trimmed ivory royal mantle over an ornate navy breastplate. The rigid silver waist plates interleave like the leaves of a royal codex, opening into a sculpted long ceremonial skirt of navy fabric with black-lacquer edging. Polished copper-red hair in a thick crown braid with a low long tail, fair skin, clear violet eyes, an oval softly rounded face and small chin, calm benevolent confidence. Stand facing the viewer on a snowy black-stone citadel balcony with blue banners, both feet visible. Hold one full-scale imperial brush reimagined in silvered mithril, engraved runes, leather grip, blue gemstone socket and faint glowing bristle tip; the free hand rests open beside her waist. A deep neckline, bare shoulders between mantle and armour, one high skirt slit, intimate areas covered. Full bust and narrow waist, natural hips and long legs. Strong rim lighting and soft key, dewy highlights on the body, softly painted natural face. Entirely Western medieval high fantasy."
+ },
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "02603b64f9899465daf8f340f38e9cdf5170b3d98d0744e58a92ab6547aec4a8",
+  "passed": false,
+  "anatomy": "ok",
+  "exposure": "match",
+  "observations": [
+   "사용자 선택 세계컷 원본. 성인 여성 한 명·두 팔과 두 다리·전신·붓 확인. 인물 높이가 지정 4/5보다 크고 붓칠보다 반실사 렌더가 두드러짐."
+  ],
+  "cause": "지정 구도·장소·의상·소품 또는 제약 일부와 생성 결과가 다름. 완성 원본을 보존하고 재생성하지 않음."
+ },
+ "execution": "sam-caopi-20261116T1654",
+ "imported": "2026-11-16",
+ "acceptance": "사용자 세계 선택 4,3,1 및 이미지·도감 커밋/main 일반 반영 승인",
+ "review": {
+  "reviewed": false,
+  "by": "user",
+  "result": "pending"
+ }
+}
