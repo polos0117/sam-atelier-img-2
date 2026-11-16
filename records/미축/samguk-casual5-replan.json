@@ -1,0 +1,48 @@
+{
+ "card": "미축",
+ "world": "samguk",
+ "seed": 716254,
+ "tree": 2,
+ "style": "kr_drawn_rim_dewy",
+ "required": "roleplay · nation · cosplay:league_of_legends/leotard · situ:strap · free:swimwear+free",
+ "slots": [
+  5
+ ],
+ "fresh": false,
+ "cosplayRead": "usage/sam-atelier-img/records,usage/sam-atelier-img-2/records",
+ "cuts": [
+  {
+   "n": 5,
+   "era": "now",
+   "place": "car_wash",
+   "ofam": "halloween",
+   "treeV": 2,
+   "prop": "",
+   "preset": "camera_shot",
+   "use": "sig_both",
+   "kind": "both",
+   "posture": "stand",
+   "support": "none",
+   "frame": "three_quarter",
+   "body": "front_3q",
+   "head": "with_body",
+   "camera": "eye",
+   "right": "prop",
+   "left": "prop",
+   "legs": "stand_relaxed",
+   "gaze": "",
+   "item": "hw_dark_angel",
+   "expr": "wink",
+   "axes": {
+    "overall_intensity": "strong",
+    "skin_exposure": "bold"
+   },
+   "aspect": "2:3",
+   "unlocked": [],
+   "hair": "braid",
+   "light": "side",
+   "spot": "left_third",
+   "depth": "deep"
+  }
+ ]
+}

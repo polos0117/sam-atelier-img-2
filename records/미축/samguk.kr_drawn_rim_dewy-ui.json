@@ -1,0 +1,111 @@
+{
+  "atelier": "samguk",
+  "card": "미축",
+  "faction": "shu",
+  "role": "official",
+  "world": "samguk",
+  "style": "kr_drawn_rim_dewy",
+  "styleVersion": "v1",
+  "notes": {},
+  "look": {
+    "params": {},
+    "faceDesignOn": true,
+    "silhouetteOn": true,
+    "exposure": "bold"
+  },
+  "design": {
+    "face": {
+      "eye_color": "hazel",
+      "impression": "glamorous",
+      "expr": "gentle",
+      "skin_tone": "porcelain",
+      "age": "late_20s",
+      "eye_size": "large",
+      "eye_tilt": "level",
+      "mark": "winged_liner",
+      "brows": "straight_thin",
+      "nose": "high_bridge",
+      "lips": "plush_pout",
+      "face_shape": "inverted_triangle",
+      "eyes": "hooded"
+    },
+    "silhouette": {
+      "body": "willowy_curvy",
+      "hair_color": "ink_blue",
+      "hair": "messy_bun",
+      "bangs": "baby"
+    }
+  },
+  "shot": {
+    "scene": "",
+    "time": "",
+    "pose": "",
+    "expr": "",
+    "frame": ""
+  },
+  "file": "미축_samguk_kr_drawn_rim_dewy_f.webp",
+  "prompt": "A full-body character image, vertical 2:3 (1024×1536): Mi Zhu of the Romance of the Three Kingdoms, reimagined as an adult woman — the wealthy merchant who spent her fortune to feed Liu Bei's wandering army.\n\n1. STYLE\nKorean MMORPG character artwork. A recognisably drawn face with gently simplified anatomical structure. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nHer face is small and soft: a short midface, a softly rounded jaw and a small chin, about 1.3 times as long as it is wide, with her eyes open at their natural size. Bangs, side locks and headpieces frame the face without lengthening it.\nSkin finish: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\n2. CHARACTER\nAge: late twenties — a graceful grown-up face with soft, smooth contours.\nFace — her own, recognisably this character, a woman's face with no beard or facial hair: a glamorous, sultry allure; porcelain-pale skin; softly tapered face narrowing to a small, soft chin; large eyes — hooded eyes, level outer eye corners; thin straight brows; slim, delicate nose with a refined bridge; soft, full lips; hazel eyes; sharp winged eyeliner.\nBody and hair: willowy and long-limbed with soft curves — a full bust, rounded hips and a slender waist build; a loose messy bun with fallen strands with short baby bangs; deep ink-blue hair.\nExpression: a warm, gentle look with a faint smile, subtle and relaxed.\nLegend, carried in her design and bearing: luxurious silk and gold ornaments, generous warmth.\nAnatomy: one head, two arms and two legs, each joined at its natural joint; natural hands with five fingers.\n\n3. COSTUME AND EQUIPMENT — THREE KINGDOMS\nCostume: a Han court official's dress — layered robes with a broad belt and a hanging seal cord, a black jinxian guan cap, an ink brush and bound bamboo slips. Late-Han Chinese dress — cross-collared silk robes with wide sleeves and a broad sash, lamellar or scale armor laced with cords where armor is worn, bronze, jade and lacquer ornament, Han court hair ornaments; silk, lacquered leather, bronze and iron.\nSilhouette: no armor — a long floor-length robe with wide sleeves and a broad sash, a long elegant falling silhouette. This silhouette sets the overall shape of the costume above — keep its materials, ornaments and rank in this shape; the details are free.\nColours: jade green, imperial gold, earthen brown, white jade, with small accents of sea-salt blue and pearl white (Tao Qian).\nSignature item: a string of gold coins. She holds it at full scale: one whole object, drawn once, held in front of or beside her body; a long weapon keeps one straight, unbroken shaft with a single head or blade.\nExposure (bold): her robes open to show skin — the cross collar opened into a deep neckline with natural cleavage, bare upper arms above detached wide sleeves (and bare shoulders where no shoulder guard sits), the skirt panels cut with a high side slit at full length — it shows the side line of one leg as she stands, no leg pushed out or knee bent for it; any armor pieces stay on and symmetrical. Intimate areas covered; keep the costume material and palette.\n\n4. SCENE\nWorld: Shu Han in the Sichuan basin, around 208–263 AD: the city of Chengdu, cliffside plank roads over gorges, mist-wrapped mountains and bamboo forests, peach orchards, green-and-gold banners.\nPose: standing confidently, her body turned slightly while her face looks toward the viewer.\nLight: a soft key light with a strong rim light tracing her hair, shoulders and armour; bright, crisp specular highlights on metal and jewellery, and a clean, warm-neutral sheen on her skin.\nComposition: her whole figure from the top of her head or headpiece to both feet inside the frame with clear margins, about four-fifths of the image height; camera at chest height with natural portrait perspective.\n\n5. CONSTRAINTS\nOne figure only — no second character, horse or other creature. No readable text or numbers, except that a banner, seal or emblem may carry the single character 蜀 or 麋. No logo, watermark, speech bubble or frame border. Three Kingdoms-era Chinese dress, architecture and materials only.\nAvoid: a blue or bruise-like tint on the skin around the eyes, glossy or shiny highlights on the face, sweaty, oily or plastic-looking skin.",
+  "date": "2026-11-16",
+  "record": "records/미축/samguk.kr_drawn_rim_dewy-ui.json",
+  "storage": {
+    "card": "미축",
+    "out": "world",
+    "world": "samguk",
+    "style": "kr_drawn_rim_dewy",
+    "notes": {
+      "미축|samguk": {}
+    },
+    "looks": {
+      "미축|samguk": {
+        "params": {},
+        "faceDesignOn": true,
+        "silhouetteOn": true,
+        "exposure": "bold"
+      }
+    },
+    "shots": {
+      "미축|samguk": {
+        "scene": "",
+        "time": "",
+        "pose": "",
+        "expr": "",
+        "frame": ""
+      }
+    },
+    "walked": {},
+    "casualN": 1,
+    "scenes": {}
+  },
+  "execution": "sam-mizhu-4c1a5c",
+  "generation": {
+    "tool": "image_gen",
+    "endpoint": "images/generations",
+    "design": "ours",
+    "selection": 2,
+    "prompt_sha256": "bd13d2a821efd3971ad73cddeb5255e40ab6a54492646123cad2c941bfdf2625",
+    "png_sha256": "820cf2bd062a3059339b59b5cdbcb470bae66884c096a23fdcd72554fc5bbf65",
+    "size": [
+      1024,
+      1536
+    ],
+    "webp": {
+      "quality": 90,
+      "method": 6
+    }
+  },
+  "qa": {
+    "reviewer": "gpt-session",
+    "passed": true,
+    "anatomy": "ok",
+    "exposure": "match",
+    "observations": [
+      "User-selected world image. One adult woman with two arms and two legs, both hands visible; full figure fits the portrait frame."
+    ]
+  },
+  "review": {
+    "reviewed": true,
+    "by": "user",
+    "result": "selected"
+  },
+  "acceptance": "User selected samguk 2, fantasy 1, mecha 4; commit and normal main push authorized."
+}

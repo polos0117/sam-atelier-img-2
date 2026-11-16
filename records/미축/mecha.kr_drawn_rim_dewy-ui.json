@@ -1,0 +1,112 @@
+{
+  "atelier": "samguk",
+  "card": "미축",
+  "faction": "shu",
+  "role": "official",
+  "world": "mecha",
+  "style": "kr_drawn_rim_dewy",
+  "styleVersion": "v1",
+  "notes": {},
+  "look": {
+    "params": {},
+    "faceDesignOn": true,
+    "silhouetteOn": true,
+    "exposure": "bold"
+  },
+  "design": {
+    "face": {
+      "eye_color": "hazel",
+      "impression": "glamorous",
+      "expr": "gentle",
+      "skin_tone": "porcelain",
+      "age": "late_20s",
+      "eye_size": "large",
+      "eye_tilt": "level",
+      "mark": "winged_liner",
+      "brows": "straight_thin",
+      "nose": "high_bridge",
+      "lips": "plush_pout",
+      "face_shape": "v_line",
+      "eyes": "cat"
+    },
+    "silhouette": {
+      "body": "willowy_curvy",
+      "hair_color": "ink_blue",
+      "hair": "triple_tails",
+      "bangs": "swept_back"
+    }
+  },
+  "shot": {
+    "scene": "",
+    "time": "",
+    "pose": "",
+    "expr": "",
+    "frame": ""
+  },
+  "file": "미축_mecha_kr_drawn_rim_dewy_f.webp",
+  "prompt": "A full-body vertical 2:3 (1024×1536) character card image of Mi Zhu from the Romance of the Three Kingdoms, reimagined as an adult woman — the wealthy merchant who spent her fortune to feed Liu Bei's wandering army. Age: late twenties — a graceful grown-up face with soft, smooth contours; no wrinkles, folds or under-eye bags. She is a woman — no beard, moustache or facial hair.\n\nStyle (fixed): Korean MMORPG character artwork. A recognisably drawn face with gently simplified anatomical structure. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\n\nWorld (fixed): year 2190, the Shu frontier colony on a jade-green moon: terraced garden cities under vast glass domes, a ringed gas giant filling the sky, an orbital elevator climbing into space, starship docks glowing green. Her costume, weapon and setting belong to this world.\n\nWeapon (fixed — ours): a string of gold coins, rebuilt as a far-future high-tech version of the same kind of object with the same silhouette: hard-surface alloy plates with panel lines, mechanical joints, vents and emitter nodes, an energy edge, plasma blade or glowing core in her glow-line colour and small status lights, with any animal motif re-sculpted as sleek machined armour and no wood, silk tassels or forged-bronze fittings.\n\nHair colour (fixed — ours): deep ink-blue hair. Keep exactly this hair colour; only the hairstyle is yours.\n\nSkin tone (fixed — ours): porcelain-pale skin. Keep exactly this skin tone.\n\nCostume colours (ours): jade green, imperial gold, earthen brown, white jade, with small accents of sea-salt blue and pearl white (Tao Qian).\n\nMecha (fixed): she is a female mecha personification — her whole body is covered in solid hard-surface mecha armour plates with visible thickness, joints, panel lines and glow lines, never cloth or a gown; no cloth robe, gown, skirt or long fabric over the plates — any cape, skirt or wing is rigid armoured plates. Her face and hair stay human.\n\nRank (fixed): she is a high court official — her costume must read dignified office at first glance: refined, layered and finely ornamented, with flagship-card detail, never plain or sparse.\n\nExposure (fixed): bold — her outfit shows skin by design (a deep neckline, bare shoulders or arms, a high slit or short hem); intimate areas covered.\n\nFace proportions: a short midface and a soft, gently rounded jawline with a small soft chin — never a long face or a long, pointed or heavy jaw; any crown or headpiece sits above her hairline and never lengthens her face. Her eyes stay at a natural open size — never squeezed into narrow slits.\n\nComposition: vertical 2:3 full-body framing with modest headroom and clear space below the boots — the whole figure from the top of her crown or headpiece to both boots stays inside the frame, occupying about four-fifths of the image height, with the same camera distance in every genre; her hands and her signature item stay inside the frame. Camera at chest height with natural portrait perspective — no wide-angle distortion, no low angle, no close crop.\n\nCostume: ring-shaped armor bands floating free around her waist and ankles, with light body armor — the floating rings make the shape. Her body armor is thick, rigid jade-green and white-jade alloy with imperial-gold joints, earthen-brown recesses and sea-salt-blue small accent panels. The floating rings consist of interlocking coin-shaped armor segments that separate into small expanding cargo-gate arcs, a structural tribute to sharing her wealth, with visible panel lines, joints and jade-green glow channels. No fabric anywhere. Dignified court-official crest, layered refined metal ornament. Deep ink-blue hair in two high sculpted buns with long flowing trailing locks and a short uneven fringe. A small soft heart-shaped face, open warm golden eyes and softly smiling pale-rose lips. Full bust, slender waist, realistic hips and long legs. Bold deep neckline and open upper arms between armor sections, intimate areas covered. She faces the viewer with feet in a relaxed parallel stance at a bright futuristic terraced garden logistics terminal, holding an unbroken hanging chain of gold alloy coin emitters in front of her body, one natural hand at the top and the other at the bottom. Glass domes and green-lit starship docks in the distance, no other people.\n\nOne figure only, natural hands with five fingers; a far-future setting only — no traditional East-Asian architecture, pagodas or tiled roofs; no hanzi; no logo or watermark.",
+  "date": "2026-11-16",
+  "record": "records/미축/mecha.kr_drawn_rim_dewy-ui.json",
+  "storage": {
+    "card": "미축",
+    "out": "world",
+    "world": "mecha",
+    "style": "kr_drawn_rim_dewy",
+    "notes": {
+      "미축|mecha": {}
+    },
+    "looks": {
+      "미축|mecha": {
+        "params": {},
+        "faceDesignOn": true,
+        "silhouetteOn": true,
+        "exposure": "bold"
+      }
+    },
+    "shots": {
+      "미축|mecha": {
+        "scene": "",
+        "time": "",
+        "pose": "",
+        "expr": "",
+        "frame": ""
+      }
+    },
+    "walked": {},
+    "casualN": 1,
+    "scenes": {}
+  },
+  "execution": "sam-mizhu-4c1a5c",
+  "generation": {
+    "tool": "image_gen",
+    "endpoint": "images/generations",
+    "design": "gpt_free",
+    "selection": 4,
+    "prompt_sha256": "9e118149225c06565d886669e9f1418d53bea7cd20a8d89e0d15db19ab1e0dcc",
+    "png_sha256": "5cca91f4813c77f827da84b8dc018cbfe1cac2c765c56e71a01000e4ec4e570f",
+    "size": [
+      1024,
+      1536
+    ],
+    "webp": {
+      "quality": 90,
+      "method": 6
+    },
+    "free_prompt": "A full-body vertical 2:3 (1024×1536) character card image of Mi Zhu from the Romance of the Three Kingdoms, reimagined as an adult woman — the wealthy merchant who spent her fortune to feed Liu Bei's wandering army. Age: late twenties — a graceful grown-up face with soft, smooth contours; no wrinkles, folds or under-eye bags. She is a woman — no beard, moustache or facial hair.\n\nStyle (fixed): Korean MMORPG character artwork. A recognisably drawn face with gently simplified anatomical structure. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\n\nWorld (fixed): year 2190, the Shu frontier colony on a jade-green moon: terraced garden cities under vast glass domes, a ringed gas giant filling the sky, an orbital elevator climbing into space, starship docks glowing green. Her costume, weapon and setting belong to this world.\n\nWeapon (fixed — ours): a string of gold coins, rebuilt as a far-future high-tech version of the same kind of object with the same silhouette: hard-surface alloy plates with panel lines, mechanical joints, vents and emitter nodes, an energy edge, plasma blade or glowing core in her glow-line colour and small status lights, with any animal motif re-sculpted as sleek machined armour and no wood, silk tassels or forged-bronze fittings.\n\nHair colour (fixed — ours): deep ink-blue hair. Keep exactly this hair colour; only the hairstyle is yours.\n\nSkin tone (fixed — ours): porcelain-pale skin. Keep exactly this skin tone.\n\nCostume colours (ours): jade green, imperial gold, earthen brown, white jade, with small accents of sea-salt blue and pearl white (Tao Qian).\n\nMecha (fixed): she is a female mecha personification — her whole body is covered in solid hard-surface mecha armour plates with visible thickness, joints, panel lines and glow lines, never cloth or a gown; no cloth robe, gown, skirt or long fabric over the plates — any cape, skirt or wing is rigid armoured plates. Her face and hair stay human.\n\nRank (fixed): she is a high court official — her costume must read dignified office at first glance: refined, layered and finely ornamented, with flagship-card detail, never plain or sparse.\n\nExposure (fixed): bold — her outfit shows skin by design (a deep neckline, bare shoulders or arms, a high slit or short hem); intimate areas covered.\n\nFace proportions: a short midface and a soft, gently rounded jawline with a small soft chin — never a long face or a long, pointed or heavy jaw; any crown or headpiece sits above her hairline and never lengthens her face. Her eyes stay at a natural open size — never squeezed into narrow slits.\n\nComposition: vertical 2:3 full-body framing with modest headroom and clear space below the boots — the whole figure from the top of her crown or headpiece to both boots stays inside the frame, occupying about four-fifths of the image height, with the same camera distance in every genre; her hands and her signature item stay inside the frame. Camera at chest height with natural portrait perspective — no wide-angle distortion, no low angle, no close crop.\n\nCostume: ring-shaped armor bands floating free around her waist and ankles, with light body armor — the floating rings make the shape. Her body armor is thick, rigid jade-green and white-jade alloy with imperial-gold joints, earthen-brown recesses and sea-salt-blue small accent panels. The floating rings consist of interlocking coin-shaped armor segments that separate into small expanding cargo-gate arcs, a structural tribute to sharing her wealth, with visible panel lines, joints and jade-green glow channels. No fabric anywhere. Dignified court-official crest, layered refined metal ornament. Deep ink-blue hair in two high sculpted buns with long flowing trailing locks and a short uneven fringe. A small soft heart-shaped face, open warm golden eyes and softly smiling pale-rose lips. Full bust, slender waist, realistic hips and long legs. Bold deep neckline and open upper arms between armor sections, intimate areas covered. She faces the viewer with feet in a relaxed parallel stance at a bright futuristic terraced garden logistics terminal, holding an unbroken hanging chain of gold alloy coin emitters in front of her body, one natural hand at the top and the other at the bottom. Glass domes and green-lit starship docks in the distance, no other people.\n\nOne figure only, natural hands with five fingers; a far-future setting only — no traditional East-Asian architecture, pagodas or tiled roofs; no hanzi; no logo or watermark."
+  },
+  "qa": {
+    "reviewer": "gpt-session",
+    "passed": true,
+    "anatomy": "ok",
+    "exposure": "match",
+    "observations": [
+      "User-selected world image. One adult woman with two arms and two legs, both hands visible; full figure fits the portrait frame."
+    ]
+  },
+  "review": {
+    "reviewed": true,
+    "by": "user",
+    "result": "selected"
+  },
+  "acceptance": "User selected samguk 2, fantasy 1, mecha 4; commit and normal main push authorized."
+}
