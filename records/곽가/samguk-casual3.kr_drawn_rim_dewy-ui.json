@@ -1,0 +1,146 @@
+{
+ "atelier": "samguk",
+ "card": "곽가",
+ "faction": "wei",
+ "slot": "casual3",
+ "treeV": 2,
+ "world": "samguk",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v1",
+ "ref": "곽가_samguk_kr_drawn_rim_dewy_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "fantasy",
+  "place": "fx_studio",
+  "ofam": "game_cosplay",
+  "item": "gc_lingerie",
+  "posture": "sit_sideways",
+  "support": "none",
+  "frame": "full_body",
+  "body": "side",
+  "head": "with_body",
+  "camera": "eye",
+  "right": "lace_tie",
+  "left": "lace_tie",
+  "use": "",
+  "legs": "",
+  "gaze": "down",
+  "time": "lamplight",
+  "hair": "braid",
+  "spot": "left_third",
+  "depth": "flat",
+  "cosplay": {
+   "game": "war_of_genesis_3",
+   "character": "Embla",
+   "cut": "lingerie",
+   "round": 1
+  },
+  "expr": "candid",
+  "preset": "lace_stool",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "곽가_samguk_kr_drawn_rim_dewy_f_casual3.webp",
+ "prompt": "INPUT: the attached image is the approved character — her Three kingdoms card; keep her. Do not reuse earlier conversation images.\n\nCHARACTER: the same woman as the attached image — the female personification of Guo Jia of the Three Kingdoms, off duty in a game cosplay. Keep her face, eye and hair colours, skin tone and body proportions; expression and hair motion may change. In this cut she wears another character's costume: she is herself in that character's cosplay, not that character — her own face, hair colour and body stay exactly as in the attached image.\n\nSTYLE: Korean MMORPG character artwork. A recognisably drawn face with gently simplified anatomical structure. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\n\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nAGE: the same adult woman as in the attached image — keep her own face shape, cheekbones, eye proportions and skin tone exactly; minimal facial lines (no nasolabial folds, crow's feet, under-eye bags or cheek creases). Keep her face soft, feminine and attractive in every framing — never elongated, gaunt, mannish or heavy-jawed, even in close-ups, profiles or low angles.\n\nOUTPUT: one standalone off-duty scene of her wearing the game cosplay chosen in SCENE — a daring adult cosplay of the video game character named there, as worn to a cosplay event, an arcade night or a photo shoot. In this cut the outfit itself shows that game character: its recognisable colours, shapes and parts. Everything else follows SCENE (chosen).\n\nFRAME: a vertical 2:3 (1024×1536) image. Compose the image for this frame; COMPOSITION in SCENE sets how much of her shows.\n\nSETTING: a stylised stage, editorial or fantasy set, not bound to a real year — still one real adult woman in a believable space, no creatures.\n\nSCENE (chosen):\nPlace: an editorial photo studio with a seamless backdrop and dramatic lights\nTime of day: warm lamplight or candlelight indoors, the rest in shadow.\nHair: her hair in a single loose braid over one shoulder — same colour and length as the attached image.\nOutfit: a daring adult cosplay of Embla from The War of Genesis III and The War of Genesis III: Part 2 — the costume's recognisable colours and parts, cut as a lace bralette and high-waisted briefs with garter straps\nPOSTURE: seated sideways on a stool or bench, her torso turned toward the camera.\nCOMPOSITION: a full-body shot, her complete head, hands and feet inside the frame with restrained margins; body in side profile, her face in profile too, not turned toward the camera, facing the right of the frame, so her own right side is toward the camera; camera at her eye level; she is placed in the left third of the frame, open space of the place to her right; a wall or backdrop of the place close behind her.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nBOTH HANDS: both hands tie the lace of one shoe, that foot drawn up toward her.\nGAZE: her eyes are lowered.\nEXPRESSION: a natural, unposed in-between expression. Keep it subtle and natural, a light touch rather than acting: no sneer, glare, smirk-pulled cheek or chin lifted to look down at the viewer; her face stays relaxed and attractive. Her eyes are naturally open and clear, not heavy-lidded or half-closed; brows relaxed and even, neither raised on one side nor furrowed; lips softly closed or only just parted.\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing; nothing slipped off; intimate areas covered\n\nWARDROBE: change her clothes completely into the cosplay SCENE describes. From the attached image take only her face, hair colour and body — not its garment, armor, regalia, ornaments, mecha plates or background, and none of her Three Kingdoms colours or emblems. The costume must read at first glance as that game character's look, rebuilt as a glamorous adult outfit in the cut SCENE names; she is a real woman in a cosplay, not the character — never the character's face, body or creature shape, no logo or readable text, and no weapon or prop weapon in her hands.\n\nANGLE: the attached image fixes who she is, not how she is posed or shot. Do not copy its head angle, head tilt, gaze direction, face size in frame, camera height or crop — turn her head, set her gaze and place the camera exactly as SCENE describes, and let her face read naturally from that new angle (profile, three-quarter, looking down or away), with her features staying the same. No default card pose, no default front-facing portrait.\n\nONE MAIN FIGURE: she is the only character in focus. Where the place is busy, other people may appear only as small, soft-focus background extras — never posed with her. No logo, no watermark, no speech bubble, no frame border. No readable text or numbers.\n\nANATOMY: natural adult proportions, about 7.5 heads tall — height from the legs, never a smaller head or a longer neck. The neck is a natural length and the head sits close to the shoulders. No body-part enlargement, no extra limbs.\n\nFIGURE: slender-limbed yet full-busted with rounded hips and a narrow waist — keep this exact build from the attached image, neither slimmer nor fuller.\n\nBODY: a normal human body — one head, two arms and two legs, each joined at its natural joint; elbows, knees and wrists bend the human way. Hands and feet may be partly hidden by the pose, what she holds or the frame. Right and left mean her own right and left, not the viewer's.\n\nHANDS: natural human hands, no extra or duplicated limbs; each visible hand joins through its wrist and forearm to the matching shoulder. A hand may stay outside the crop, and fingers may be partly hidden by a grip.\n\nAVOID: a blue or bruise-like tint on the skin around the eyes, glossy or shiny highlights on the face, sweaty, oily or plastic-looking skin.",
+ "date": "2026-11-16",
+ "record": "records/곽가/samguk-casual3.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "곽가",
+  "out": "casual",
+  "world": "samguk",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 3,
+  "scenes": {
+   "곽가": {
+    "era": "fantasy",
+    "place": "fx_studio",
+    "ofam": "game_cosplay",
+    "treeV": 2,
+    "prop": "",
+    "preset": "lace_stool",
+    "use": "",
+    "posture": "sit_sideways",
+    "support": "none",
+    "frame": "full_body",
+    "body": "side",
+    "head": "with_body",
+    "camera": "eye",
+    "right": "lace_tie",
+    "left": "lace_tie",
+    "legs": "",
+    "gaze": "down",
+    "item": "gc_lingerie",
+    "cosplay": {
+     "game": "war_of_genesis_3",
+     "character": "Embla",
+     "cut": "lingerie",
+     "round": 1
+    },
+    "expr": "candid",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "time": "lamplight",
+    "hair": "braid",
+    "spot": "left_third",
+    "depth": "flat"
+   }
+  }
+ },
+ "refDesign": "gpt_free",
+ "generation": {
+  "tool": "image_gen",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "4718a0cc6187358292c9276bfbe9fc34ada8bfa101b69a75398872dee4af6dbb",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "prompt_form": "en-prompt",
+  "prompt_sha256": "3d652ff84ea7688d5a9379fe7fe28a7ff6763dbaddcad804274164aa6508af67",
+  "retries": [],
+  "ref_sha256": "7179a07171456606d7ec356541cf0f31fb782da07a32eb17f6c98f2bce882d86",
+  "note": "The original template FIGURE line was retained in this initial group; the actual submitted prompt is preserved verbatim.",
+  "cosplay": {
+   "game": "war_of_genesis_3",
+   "character": "Embla",
+   "cut": "lingerie"
+  }
+ },
+ "execution": "sam-guojia-dff47ee0",
+ "imported": "2026-11-16",
+ "acceptance": "User authorized completed character images and catalogue changes to main without further confirmation.",
+ "review": {
+  "reviewed": false,
+  "by": "user",
+  "result": "pending"
+ },
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "4718a0cc6187358292c9276bfbe9fc34ada8bfa101b69a75398872dee4af6dbb",
+  "passed": false,
+  "anatomy": "ok",
+  "exposure": "match",
+  "observations": [
+   "Adult Embla-inspired lingerie cosplay and shoe-lacing action visible; visible arms and legs join naturally.",
+   "Hair arranged into a thick braid instead of retaining the selected loose hairstyle; original preserved."
+  ],
+  "cause": "Hair styling drift from the reference."
+ }
+}

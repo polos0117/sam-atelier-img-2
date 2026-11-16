@@ -1,0 +1,119 @@
+{
+ "atelier": "samguk",
+ "card": "곽가",
+ "faction": "wei",
+ "role": "strategist",
+ "world": "samguk",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v1",
+ "notes": {},
+ "look": {
+  "params": {},
+  "faceDesignOn": true,
+  "silhouetteOn": true,
+  "exposure": "bold"
+ },
+ "design": {
+  "face": {
+   "eye_color": "ice_blue",
+   "impression": "languid",
+   "expr": "half_smile",
+   "skin_tone": "porcelain",
+   "age": "early_20s",
+   "eye_size": "large",
+   "eye_tilt": "level",
+   "mark": "bare",
+   "brows": "low_heavy",
+   "nose": "broad_soft",
+   "lips": "small_bow",
+   "face_shape": "long",
+   "eyes": "deep_set"
+  },
+  "silhouette": {
+   "body": "busty_slender",
+   "hair_color": "silver_white",
+   "hair": "side_braid",
+   "bangs": "side_swept"
+  }
+ },
+ "shot": {
+  "scene": "",
+  "time": "",
+  "pose": "",
+  "expr": "",
+  "frame": ""
+ },
+ "file": "곽가_samguk_kr_drawn_rim_dewy_f.webp",
+ "prompt": "Design brief — your own take on this character. A full-body vertical 2:3 (1024×1536) character card image of Guo Jia from the Romance of the Three Kingdoms, reimagined as an adult woman — the genius strategist — 'had Guo Jia lived, there would have been no Red Cliffs'. Age: about twenty — a fresh young-adult face; no facial lines. She is a woman — no beard, moustache or facial hair.\n\nYou design her yourself: invent her face, eye colour, hairstyle, makeup, expression, pose and setting as a fresh, original take — do not follow any earlier design of this character. Her hair colour, skin tone, costume and weapon are NOT free: take them from our designs below.\n\nStyle (fixed): Korean MMORPG character artwork. A recognisably drawn face with gently simplified anatomical structure. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\n\nInspiration only: a frail brilliance and reckless charm, a cough hidden behind a smile, wine and foresight.\n\nWorld (fixed): Cao Wei in northern China, around 200–235 AD: the walled capitals of Xuchang, Ye and Luoyang, rammed-earth ramparts and tiled watchtowers, black-and-navy banners over vast northern plains, armoured cavalry, bronze ritual vessels and lacquered halls. Her costume, weapon and setting belong to this world.\n\nCostume (choose one of ours, then add your own idea): pick ONE of these costume shapes from our set and keep its overall silhouette — 1) light armor pieces over a fitted silk martial dress, long silk sashes and a light skirt flowing from the waist and shoulders — a light, dancing silhouette; 2) no armor — a long floor-length robe with wide sleeves and a broad sash, a long elegant falling silhouette; 3) a fitted martial-arts outfit with a wide belt and arm guards, a long silk sash streaming behind — a wandering swordswoman's silhouette; 4) a long silk shawl wrapping the shoulders and arms and floating in the air, light layered robes — an airy, celestial silhouette; 5) very long flowing water sleeves trailing past the hands through the air over a fitted dancer's dress — the sleeves make the shape. Then add one signature idea of your own drawn from her legend, built into the construction of the outfit itself rather than as a print or a loose accessory — e.g. plates or cloth layered like feathers, scales or petals, a hem or sleeve cut into a motif from her story. Build it in this world's materials and our colours below.\n\nWeapon (fixed — ours): a wine cup.\n\nHair colour (fixed — ours): silver-white hair. Keep exactly this hair colour; only the hairstyle is yours.\n\nSkin tone (fixed — ours): porcelain-pale skin. Keep exactly this skin tone.\n\nCostume colours (ours): deep navy blue, black lacquer, cold steel silver, ivory white.\n\nRank (fixed): she is a master strategist — her costume must read scholarly prestige at first glance: elegant, layered and finely ornamented, with flagship-card detail, never plain or sparse.\n\nExposure (fixed): bold — her outfit shows skin by design (a deep neckline, bare shoulders or arms, a high slit or short hem); intimate areas covered.\n\nFace proportions: a short midface and a soft, gently rounded jawline with a small soft chin — never a long face or a long, pointed or heavy jaw; any crown or headpiece sits above her hairline and never lengthens her face. Her eyes stay at a natural open size — never squeezed into narrow slits.\n\nComposition: vertical 2:3 full-body framing with modest headroom and clear space below the boots — the whole figure from the top of her crown or headpiece to both boots stays inside the frame, occupying about four-fifths of the image height, with the same camera distance in every genre; her hands and her signature item stay inside the frame. Camera at chest height with natural portrait perspective — no wide-angle distortion, no low angle, no close crop.\n\nIf you have already drawn a free design of her in this session, make this one clearly different — another face and hairstyle (the same hair colour and skin tone), another costume shape from the list with another signature idea, another pose and setting.\n\nWrite your own detailed image prompt from this brief, then draw it. One figure only, natural hands with five fingers; a banner or seal may carry a single faction character, no other text; no logo or watermark.",
+ "date": "2026-11-16",
+ "record": "records/곽가/samguk.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "곽가",
+  "out": "world",
+  "world": "samguk",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {
+   "곽가|samguk": {}
+  },
+  "looks": {
+   "곽가|samguk": {
+    "params": {},
+    "faceDesignOn": true,
+    "silhouetteOn": true,
+    "exposure": "bold"
+   }
+  },
+  "shots": {
+   "곽가|samguk": {
+    "scene": "",
+    "time": "",
+    "pose": "",
+    "expr": "",
+    "frame": ""
+   }
+  },
+  "walked": {},
+  "casualN": 1,
+  "scenes": {}
+ },
+ "user_selection": "4,4,4",
+ "generation": {
+  "tool": "image_gen",
+  "endpoint": "images/generations",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "7179a07171456606d7ec356541cf0f31fb782da07a32eb17f6c98f2bce882d86",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "prompt_form": "en-prompt",
+  "prompt_sha256": "4331ed51bd9c2fd8faed74f9a5b5e78f1c59038d6e136bafc229f3c309ef4807",
+  "retries": [],
+  "design": "gpt_free",
+  "selected_number": 4,
+  "free_prompt": "Design brief — your own take on this character. A full-body vertical 2:3 (1024×1536) character card image of Guo Jia from the Romance of the Three Kingdoms, reimagined as an adult woman — the genius strategist — 'had Guo Jia lived, there would have been no Red Cliffs'. Age: about twenty — a fresh young-adult face; no facial lines. She is a woman — no beard, moustache or facial hair.\n\nYou design her yourself: invent her face, eye colour, hairstyle, makeup, expression, pose and setting as a fresh, original take — do not follow any earlier design of this character. Her hair colour, skin tone, costume and weapon are NOT free: take them from our designs below.\n\nStyle (fixed): Korean MMORPG character artwork. A recognisably drawn face with gently simplified anatomical structure. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\n\nInspiration only: a frail brilliance and reckless charm, a cough hidden behind a smile, wine and foresight.\n\nWorld (fixed): Cao Wei in northern China, around 200–235 AD: the walled capitals of Xuchang, Ye and Luoyang, rammed-earth ramparts and tiled watchtowers, black-and-navy banners over vast northern plains, armoured cavalry, bronze ritual vessels and lacquered halls. Her costume, weapon and setting belong to this world.\n\nCostume (choose one of ours, then add your own idea): pick ONE of these costume shapes from our set and keep its overall silhouette — 1) light armor pieces over a fitted silk martial dress, long silk sashes and a light skirt flowing from the waist and shoulders — a light, dancing silhouette; 2) no armor — a long floor-length robe with wide sleeves and a broad sash, a long elegant falling silhouette; 3) a fitted martial-arts outfit with a wide belt and arm guards, a long silk sash streaming behind — a wandering swordswoman's silhouette; 4) a long silk shawl wrapping the shoulders and arms and floating in the air, light layered robes — an airy, celestial silhouette; 5) very long flowing water sleeves trailing past the hands through the air over a fitted dancer's dress — the sleeves make the shape. Then add one signature idea of your own drawn from her legend, built into the construction of the outfit itself rather than as a print or a loose accessory — e.g. plates or cloth layered like feathers, scales or petals, a hem or sleeve cut into a motif from her story. Build it in this world's materials and our colours below.\n\nWeapon (fixed — ours): a wine cup.\n\nHair colour (fixed — ours): silver-white hair. Keep exactly this hair colour; only the hairstyle is yours.\n\nSkin tone (fixed — ours): porcelain-pale skin. Keep exactly this skin tone.\n\nCostume colours (ours): deep navy blue, black lacquer, cold steel silver, ivory white.\n\nRank (fixed): she is a master strategist — her costume must read scholarly prestige at first glance: elegant, layered and finely ornamented, with flagship-card detail, never plain or sparse.\n\nExposure (fixed): bold — her outfit shows skin by design (a deep neckline, bare shoulders or arms, a high slit or short hem); intimate areas covered.\n\nFace proportions: a short midface and a soft, gently rounded jawline with a small soft chin — never a long face or a long, pointed or heavy jaw; any crown or headpiece sits above her hairline and never lengthens her face. Her eyes stay at a natural open size — never squeezed into narrow slits.\n\nComposition: vertical 2:3 full-body framing with modest headroom and clear space below the boots — the whole figure from the top of her crown or headpiece to both boots stays inside the frame, occupying about four-fifths of the image height, with the same camera distance in every genre; her hands and her signature item stay inside the frame. Camera at chest height with natural portrait perspective — no wide-angle distortion, no low angle, no close crop.\n\nIf you have already drawn a free design of her in this session, make this one clearly different — another face and hairstyle (the same hair colour and skin tone), another costume shape from the list with another signature idea, another pose and setting.\n\nWrite your own detailed image prompt from this brief, then draw it. One figure only, natural hands with five fingers; a banner or seal may carry a single faction character, no other text; no logo or watermark."
+ },
+ "execution": "sam-guojia-dff47ee0",
+ "imported": "2026-11-16",
+ "acceptance": "User authorized completed character images and catalogue changes to main without further confirmation.",
+ "review": {
+  "reviewed": false,
+  "by": "user",
+  "result": "pending"
+ },
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "7179a07171456606d7ec356541cf0f31fb782da07a32eb17f6c98f2bce882d86",
+  "passed": false,
+  "anatomy": "ok",
+  "exposure": "match",
+  "observations": [
+   "Selected 4 by user. 1024x1536; both arms, hands and feet present.",
+   "Distant mounted figures appear in the background despite the one-figure instruction; retained as generated."
+  ],
+  "cause": "The world background description mentions cavalry while constraints request one figure only."
+ }
+}

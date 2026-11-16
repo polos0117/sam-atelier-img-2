@@ -1,0 +1,136 @@
+{
+ "atelier": "samguk",
+ "card": "곽가",
+ "faction": "wei",
+ "slot": "casual6",
+ "treeV": 2,
+ "world": "samguk",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v1",
+ "ref": "곽가_samguk_kr_drawn_rim_dewy_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "nation",
+  "place": "nation_laundry",
+  "ofam": "resort",
+  "item": "aloha_knot",
+  "posture": "stand",
+  "support": "none",
+  "frame": "face_close",
+  "body": "side",
+  "head": "with_body",
+  "camera": "eye",
+  "right": "hair_tuck",
+  "left": "out",
+  "use": "",
+  "legs": "",
+  "gaze": "down",
+  "ofree": true,
+  "ofreeFamily": "lingerie",
+  "ofreeSitu": "free",
+  "ofreeRecent": "her living room with a deep sofa — holds a magnifying glass by its handle at chest height; a walkway through a forest dome inside a colony ship — standing; the riverside park at the Red Cliffs on the Yangtze — sitting on the ground; a neon-lit game arcade — holds a cup in both hands; a castle kitchen with a great hearth — standing; a stage under a painted night sky of crystal stars — standing; a sunny enclosed veranda with drying racks overhead — lying on her left side; a far-future orbital visitor centre with a miniature rotating planetarium dome and an empty curved demonstration dais — taking a break by pretending to host the planetarium show; the driver's seat of a small car parked on a quiet street — seated on a chair; a narrow path through a tall bamboo grove — sketches in a sketchbook and pencil; an editorial photo studio with a seamless backdrop and dramatic lights — seated sideways on a stool or bench; terraced tea fields on a misty Sichuan hillside — raises a camera to her eye to take a photo; a lakeside of flat rocks and still water — holds her keepsake at chest height",
+  "expr": "nostalgic",
+  "preset": "hair_close",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "곽가_samguk_kr_drawn_rim_dewy_f_casual6.webp",
+ "prompt": "INPUT: the attached image is the approved character — her Three kingdoms card; keep her. Do not reuse earlier conversation images.\n\nCHARACTER: the same woman as the attached image — the female personification of Guo Jia of the Three Kingdoms, seen in her everyday life. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change, and her hair may be worn differently only as SCENE's Hair line says. Her Three Kingdoms identity shows ONLY as a small accessory, an object around her, or the object PROP says she holds — never in the outfit's colours, patterns or cut, never as armor, regalia or a costume.\n\nDESIGN (accessory hints only): her legend — a frail brilliance and reckless charm, a cough hidden behind a smile, wine and foresight — may inform at most one small accessory, a hair ornament or an object beside her, in its palette (deep navy blue, black lacquer, cold steel silver, ivory white). The clothes keep the chosen outfit's own colours; her skin, hair and eyes stay as in the attached image.\n\nSTYLE: Korean MMORPG character artwork. A recognisably drawn face with gently simplified anatomical structure. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\n\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nAGE: the same adult woman as in the attached image — keep her own face shape, cheekbones, eye proportions and skin tone exactly; minimal facial lines (no nasolabial folds, crow's feet, under-eye bags or cheek creases). Keep her face soft, feminine and attractive in every framing — never elongated, gaunt, mannish or heavy-jawed, even in close-ups, profiles or low angles.\n\nOUTPUT: one standalone off-duty scene of her in the outfit chosen in SCENE; her legend shows only through accessories and objects around her — never in the outfit's colours, patterns or cut, never as armor, regalia or a costume. Everything else follows SCENE (chosen).\n\nFRAME: a vertical 2:3 (1024×1536) image. Compose the image for this frame; COMPOSITION in SCENE sets how much of her shows.\n\nSCENE (chosen):\nFREE DESIGN: design the place, activity, pose, framing and outfit yourself. Start from who she is — her legend, traits and personality — and show an everyday moment that is unexpected yet feels natural for her. Make it fresh through the situation and what she is doing, not through more decoration. Avoid scenes like the recent ones listed below. Keep her face, the art style and the body and anatomy rules exactly as stated. Before drawing, write your design into the lines below, then draw it. In your pose, give each hand one job only and say plainly where each arm goes; avoid poses where it is unclear which shoulder an arm comes from — an arm behind her back, behind her head or pinned under her body — and never state where a foot sits under water. Do not make it another small repair, adjusting, measuring or sorting task at a workbench, repair stall, equipment room or locker room — those scenes are already in our own list; choose another kind of everyday moment (rest, play, a meal, travel, weather, getting ready, simply being in the place).\nRecent scenes to avoid: her living room with a deep sofa — holds a magnifying glass by its handle at chest height; a walkway through a forest dome inside a colony ship — standing; the riverside park at the Red Cliffs on the Yangtze — sitting on the ground; a neon-lit game arcade — holds a cup in both hands; a castle kitchen with a great hearth — standing; a stage under a painted night sky of crystal stars — standing; a sunny enclosed veranda with drying racks overhead — lying on her left side; a far-future orbital visitor centre with a miniature rotating planetarium dome and an empty curved demonstration dais — taking a break by pretending to host the planetarium show; the driver's seat of a small car parked on a quiet street — seated on a chair; a narrow path through a tall bamboo grove — sketches in a sketchbook and pencil; an editorial photo studio with a seamless backdrop and dramatic lights — seated sideways on a stool or bench; terraced tea fields on a misty Sichuan hillside — raises a camera to her eye to take a photo; a lakeside of flat rocks and still water — holds her keepsake at chest height.\nPlace: a private sleeper-train compartment at sunrise, with a narrow berth and a window overlooking golden fields\nActivity: enjoying breakfast while predicting where the train will emerge from the morning mist\nPose: seated upright on the berth, her right forearm reaching forward to hold a croissant, her left forearm resting openly on her lap with the palm visible\nFraming: three-quarter front view from eye height, knees-up, her face clearly visible and both hands inside the frame\nOutfit family (required): lingerie-inspired — any lingerie-inspired outfit; you may pick one from our outfit catalog (outfit-catalog.md in this pack) or design your own, but prefer one that is not in it.\nSituation (required): a situational exposure moment of your own design that fits the scene — prefer one that is not among ours: clothes soaked by rain or a splash, clothes caught by a strong gust of wind, a top worn half undone, a strap slipped off the shoulder, a hem knotted up under the bust, an outer layer tied around the waist, a sheen of sweat from heat, a backlit silhouette through thin fabric, a skirt slit fallen open, sleeves pushed up with one more button undone, a tie or scarf pulled loose.\nOutfit: a plum opaque silk lingerie ensemble with a petal-seamed plunge bralette and high-waisted scalloped culotte briefs; a matching short bed jacket has slid down to her elbows as she reached for breakfast, exposing her shoulders while the bralette stays securely fitted; intimate areas fully covered\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing; intimate areas covered\n\nWARDROBE: change her clothes completely. From the attached image take only her face, hair and body — not its garment, armor, regalia, ornaments, mecha plates or background. Dress her exactly as SCENE describes; that outfit must read at first glance, keeping its own recognisable colours and parts. Do not carry the attached image's palette, patterns or trim into the outfit; her Three Kingdoms identity belongs in accessories and props, never in the clothes — never restyle the chosen outfit into her faction's palette, armor, robes or regalia.\n\nANGLE: the attached image fixes who she is, not how she is posed or shot. Do not copy its head angle, head tilt, gaze direction, face size in frame, camera height or crop — turn her head, set her gaze and place the camera exactly as SCENE describes, and let her face read naturally from that new angle (profile, three-quarter, looking down or away), with her features staying the same. No default card pose, no default front-facing portrait.\n\nONE MAIN FIGURE: she is the only character in focus. Where the place is busy, other people may appear only as small, soft-focus background extras — never posed with her. No logo, no watermark, no speech bubble, no frame border. No readable text or numbers.\n\nANATOMY: natural adult proportions, about 7.5 heads tall — height from the legs, never a smaller head or a longer neck. The neck is a natural length and the head sits close to the shoulders. No body-part enlargement, no extra limbs.\n\nFIGURE: keep her exact build from the attached image, neither slimmer nor fuller.\n\nBODY: a normal human body — one head, two arms and two legs, each joined at its natural joint; elbows, knees and wrists bend the human way. Hands and feet may be partly hidden by the pose, what she holds or the frame. Right and left mean her own right and left, not the viewer's.\n\nHANDS: natural human hands, no extra or duplicated limbs; each visible hand joins through its wrist and forearm to the matching shoulder. A hand may stay outside the crop, and fingers may be partly hidden by a grip.\n\nAVOID: a blue or bruise-like tint on the skin around the eyes, glossy or shiny highlights on the face, sweaty, oily or plastic-looking skin.",
+ "date": "2026-11-16",
+ "record": "records/곽가/samguk-casual6.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "곽가",
+  "out": "casual",
+  "world": "samguk",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 6,
+  "scenes": {
+   "곽가": {
+    "era": "nation",
+    "place": "nation_laundry",
+    "ofam": "resort",
+    "treeV": 2,
+    "prop": "",
+    "preset": "hair_close",
+    "use": "",
+    "posture": "stand",
+    "support": "none",
+    "frame": "face_close",
+    "body": "side",
+    "head": "with_body",
+    "camera": "eye",
+    "right": "hair_tuck",
+    "left": "out",
+    "legs": "",
+    "gaze": "down",
+    "item": "aloha_knot",
+    "expr": "nostalgic",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "ofree": true,
+    "ofreeFamily": "lingerie",
+    "ofreeSitu": "free",
+    "ofreeRecent": "her living room with a deep sofa — holds a magnifying glass by its handle at chest height; a walkway through a forest dome inside a colony ship — standing; the riverside park at the Red Cliffs on the Yangtze — sitting on the ground; a neon-lit game arcade — holds a cup in both hands; a castle kitchen with a great hearth — standing; a stage under a painted night sky of crystal stars — standing; a sunny enclosed veranda with drying racks overhead — lying on her left side; a far-future orbital visitor centre with a miniature rotating planetarium dome and an empty curved demonstration dais — taking a break by pretending to host the planetarium show; the driver's seat of a small car parked on a quiet street — seated on a chair; a narrow path through a tall bamboo grove — sketches in a sketchbook and pencil; an editorial photo studio with a seamless backdrop and dramatic lights — seated sideways on a stool or bench; terraced tea fields on a misty Sichuan hillside — raises a camera to her eye to take a photo; a lakeside of flat rocks and still water — holds her keepsake at chest height"
+   }
+  }
+ },
+ "refDesign": "gpt_free",
+ "generation": {
+  "tool": "image_gen",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "5fcefe80478c0cccfb5098188fad311bd9c1e4d98a87f97b12c11fc7148495a1",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "prompt_form": "en-prompt",
+  "prompt_sha256": "8d952b4dc0124098e141b05a4e2f2fbca41d8bbf3c55ab9ef0591f8f44bf1cdd",
+  "retries": [],
+  "ref_sha256": "7179a07171456606d7ec356541cf0f31fb782da07a32eb17f6c98f2bce882d86",
+  "free_design": {
+   "Place": "a private sleeper-train compartment at sunrise, with a narrow berth and a window overlooking golden fields",
+   "Activity": "enjoying breakfast while predicting where the train will emerge from the morning mist",
+   "Pose": "seated upright on the berth, her right forearm reaching forward to hold a croissant, her left forearm resting openly on her lap with the palm visible",
+   "Framing": "three-quarter front view from eye height, knees-up, her face clearly visible and both hands inside the frame",
+   "Outfit": "a plum opaque silk lingerie ensemble with a petal-seamed plunge bralette and high-waisted scalloped culotte briefs; a matching short bed jacket has slid down to her elbows as she reached for breakfast, exposing her shoulders while the bralette stays securely fitted; intimate areas fully covered"
+  },
+  "free_prompt": "INPUT: the attached image is the approved character — her Three kingdoms card; keep her. Do not reuse earlier conversation images.\n\nCHARACTER: the same woman as the attached image — the female personification of Guo Jia of the Three Kingdoms, seen in her everyday life. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change, and her hair may be worn differently only as SCENE's Hair line says. Her Three Kingdoms identity shows ONLY as a small accessory, an object around her, or the object PROP says she holds — never in the outfit's colours, patterns or cut, never as armor, regalia or a costume.\n\nDESIGN (accessory hints only): her legend — a frail brilliance and reckless charm, a cough hidden behind a smile, wine and foresight — may inform at most one small accessory, a hair ornament or an object beside her, in its palette (deep navy blue, black lacquer, cold steel silver, ivory white). The clothes keep the chosen outfit's own colours; her skin, hair and eyes stay as in the attached image.\n\nSTYLE: Korean MMORPG character artwork. A recognisably drawn face with gently simplified anatomical structure. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\n\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nAGE: the same adult woman as in the attached image — keep her own face shape, cheekbones, eye proportions and skin tone exactly; minimal facial lines (no nasolabial folds, crow's feet, under-eye bags or cheek creases). Keep her face soft, feminine and attractive in every framing — never elongated, gaunt, mannish or heavy-jawed, even in close-ups, profiles or low angles.\n\nOUTPUT: one standalone off-duty scene of her in the outfit chosen in SCENE; her legend shows only through accessories and objects around her — never in the outfit's colours, patterns or cut, never as armor, regalia or a costume. Everything else follows SCENE (chosen).\n\nFRAME: a vertical 2:3 (1024×1536) image. Compose the image for this frame; COMPOSITION in SCENE sets how much of her shows.\n\nSCENE (chosen):\nFREE DESIGN: design the place, activity, pose, framing and outfit yourself. Start from who she is — her legend, traits and personality — and show an everyday moment that is unexpected yet feels natural for her. Make it fresh through the situation and what she is doing, not through more decoration. Avoid scenes like the recent ones listed below. Keep her face, the art style and the body and anatomy rules exactly as stated. Before drawing, write your design into the lines below, then draw it. In your pose, give each hand one job only and say plainly where each arm goes; avoid poses where it is unclear which shoulder an arm comes from — an arm behind her back, behind her head or pinned under her body — and never state where a foot sits under water. Do not make it another small repair, adjusting, measuring or sorting task at a workbench, repair stall, equipment room or locker room — those scenes are already in our own list; choose another kind of everyday moment (rest, play, a meal, travel, weather, getting ready, simply being in the place).\nRecent scenes to avoid: her living room with a deep sofa — holds a magnifying glass by its handle at chest height; a walkway through a forest dome inside a colony ship — standing; the riverside park at the Red Cliffs on the Yangtze — sitting on the ground; a neon-lit game arcade — holds a cup in both hands; a castle kitchen with a great hearth — standing; a stage under a painted night sky of crystal stars — standing; a sunny enclosed veranda with drying racks overhead — lying on her left side; a far-future orbital visitor centre with a miniature rotating planetarium dome and an empty curved demonstration dais — taking a break by pretending to host the planetarium show; the driver's seat of a small car parked on a quiet street — seated on a chair; a narrow path through a tall bamboo grove — sketches in a sketchbook and pencil; an editorial photo studio with a seamless backdrop and dramatic lights — seated sideways on a stool or bench; terraced tea fields on a misty Sichuan hillside — raises a camera to her eye to take a photo; a lakeside of flat rocks and still water — holds her keepsake at chest height.\nPlace: a private sleeper-train compartment at sunrise, with a narrow berth and a window overlooking golden fields\nActivity: enjoying breakfast while predicting where the train will emerge from the morning mist\nPose: seated upright on the berth, her right forearm reaching forward to hold a croissant, her left forearm resting openly on her lap with the palm visible\nFraming: three-quarter front view from eye height, knees-up, her face clearly visible and both hands inside the frame\nOutfit family (required): lingerie-inspired — any lingerie-inspired outfit; you may pick one from our outfit catalog (outfit-catalog.md in this pack) or design your own, but prefer one that is not in it.\nSituation (required): a situational exposure moment of your own design that fits the scene — prefer one that is not among ours: clothes soaked by rain or a splash, clothes caught by a strong gust of wind, a top worn half undone, a strap slipped off the shoulder, a hem knotted up under the bust, an outer layer tied around the waist, a sheen of sweat from heat, a backlit silhouette through thin fabric, a skirt slit fallen open, sleeves pushed up with one more button undone, a tie or scarf pulled loose.\nOutfit: a plum opaque silk lingerie ensemble with a petal-seamed plunge bralette and high-waisted scalloped culotte briefs; a matching short bed jacket has slid down to her elbows as she reached for breakfast, exposing her shoulders while the bralette stays securely fitted; intimate areas fully covered\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing; intimate areas covered\n\nWARDROBE: change her clothes completely. From the attached image take only her face, hair and body — not its garment, armor, regalia, ornaments, mecha plates or background. Dress her exactly as SCENE describes; that outfit must read at first glance, keeping its own recognisable colours and parts. Do not carry the attached image's palette, patterns or trim into the outfit; her Three Kingdoms identity belongs in accessories and props, never in the clothes — never restyle the chosen outfit into her faction's palette, armor, robes or regalia.\n\nANGLE: the attached image fixes who she is, not how she is posed or shot. Do not copy its head angle, head tilt, gaze direction, face size in frame, camera height or crop — turn her head, set her gaze and place the camera exactly as SCENE describes, and let her face read naturally from that new angle (profile, three-quarter, looking down or away), with her features staying the same. No default card pose, no default front-facing portrait.\n\nONE MAIN FIGURE: she is the only character in focus. Where the place is busy, other people may appear only as small, soft-focus background extras — never posed with her. No logo, no watermark, no speech bubble, no frame border. No readable text or numbers.\n\nANATOMY: natural adult proportions, about 7.5 heads tall — height from the legs, never a smaller head or a longer neck. The neck is a natural length and the head sits close to the shoulders. No body-part enlargement, no extra limbs.\n\nFIGURE: keep her exact build from the attached image, neither slimmer nor fuller.\n\nBODY: a normal human body — one head, two arms and two legs, each joined at its natural joint; elbows, knees and wrists bend the human way. Hands and feet may be partly hidden by the pose, what she holds or the frame. Right and left mean her own right and left, not the viewer's.\n\nHANDS: natural human hands, no extra or duplicated limbs; each visible hand joins through its wrist and forearm to the matching shoulder. A hand may stay outside the crop, and fingers may be partly hidden by a grip.\n\nAVOID: a blue or bruise-like tint on the skin around the eyes, glossy or shiny highlights on the face, sweaty, oily or plastic-looking skin."
+ },
+ "execution": "sam-guojia-dff47ee0",
+ "imported": "2026-11-16",
+ "acceptance": "User authorized completed character images and catalogue changes to main without further confirmation.",
+ "review": {
+  "reviewed": false,
+  "by": "user",
+  "result": "pending"
+ },
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "5fcefe80478c0cccfb5098188fad311bd9c1e4d98a87f97b12c11fc7148495a1",
+  "passed": true,
+  "anatomy": "ok",
+  "exposure": "match",
+  "observations": [
+   "1024×1536 portrait original verified.",
+   "Selected world-4 reference used; face, hair and skin tones visually checked.",
+   "Visible limbs and hands reviewed; original retained without exposure-related regeneration."
+  ]
+ }
+}

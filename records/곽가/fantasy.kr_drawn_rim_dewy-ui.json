@@ -1,0 +1,119 @@
+{
+ "atelier": "samguk",
+ "card": "곽가",
+ "faction": "wei",
+ "role": "strategist",
+ "world": "fantasy",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v1",
+ "notes": {},
+ "look": {
+  "params": {},
+  "faceDesignOn": true,
+  "silhouetteOn": true,
+  "exposure": "bold"
+ },
+ "design": {
+  "face": {
+   "eye_color": "ice_blue",
+   "impression": "languid",
+   "expr": "half_smile",
+   "skin_tone": "porcelain",
+   "age": "early_20s",
+   "eye_size": "large",
+   "eye_tilt": "level",
+   "mark": "bare",
+   "brows": "low_heavy",
+   "nose": "broad_soft",
+   "lips": "small_bow",
+   "face_shape": "oval",
+   "eyes": "almond_wide"
+  },
+  "silhouette": {
+   "body": "busty_slender",
+   "hair_color": "silver_white",
+   "hair": "long_curly",
+   "bangs": "parted"
+  }
+ },
+ "shot": {
+  "scene": "",
+  "time": "",
+  "pose": "",
+  "expr": "",
+  "frame": ""
+ },
+ "file": "곽가_fantasy_kr_drawn_rim_dewy_f.webp",
+ "prompt": "Design brief — your own take on this character. A full-body vertical 2:3 (1024×1536) character card image of Guo Jia from the Romance of the Three Kingdoms, reimagined as an adult woman — the genius strategist — 'had Guo Jia lived, there would have been no Red Cliffs'. Age: about twenty — a fresh young-adult face; no facial lines. She is a woman — no beard, moustache or facial hair.\n\nYou design her yourself: invent her face, eye colour, hairstyle, makeup, expression, pose and setting as a fresh, original take — do not follow any earlier design of this character. Her hair colour, skin tone, costume and weapon are NOT free: take them from our designs below.\n\nStyle (fixed): Korean MMORPG character artwork. A recognisably drawn face with gently simplified anatomical structure. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\n\nInspiration only: a frail brilliance and reckless charm, a cough hidden behind a smile, wine and foresight.\n\nWorld (fixed): a stern northern empire of medieval high fantasy: black-stone citadels with blue banners, iron-shod heavy cavalry, snowy plains and pine forests, a court ruled by strict law, cold blue sigil-magic. Her costume, weapon and setting belong to this world.\n\nCostume (choose one of ours, then add your own idea): pick ONE of these costume shapes from our set and keep its overall silhouette — 1) a long floor-length robe with a high collar, wide sleeves and a shoulder mantle — a tall, mysterious mage's silhouette; 2) a light breastplate and bracers with robe panels split from the waist — half armor, half robe; 3) thin leaf-patterned armor plates and flowing light fabric panels with a slender circlet — a slender, graceful silhouette; 4) a long coat below the knees with epaulettes, a belt, gloves and tall boots — a crisp, commanding officer's silhouette; 5) a floor-length priestly vestment with gold-trimmed stoles and a tall head ornament — a long, devout silhouette. Then add one signature idea of your own drawn from her legend, built into the construction of the outfit itself rather than as a print or a loose accessory — e.g. plates or cloth layered like feathers, scales or petals, a hem or sleeve cut into a motif from her story. Build it in this world's materials and our colours below.\n\nWeapon (fixed — ours): a wine cup, reimagined as a Western high-fantasy version of the same kind of object with the same silhouette: polished steel and silvered mithril throughout, the shaft or hilt also forged metal with engraved runes (never plain wood), a faint magical glow running along the edge and the runes, a gem-set guard or socket, a leather-wrapped grip and heraldic or elven ornament, with any animal motif re-sculpted in Western heraldic style and no Chinese fittings, silk tassels or hanzi.\n\nHair colour (fixed — ours): silver-white hair. Keep exactly this hair colour; only the hairstyle is yours.\n\nSkin tone (fixed — ours): porcelain-pale skin. Keep exactly this skin tone.\n\nCostume colours (ours): deep navy blue, black lacquer, cold steel silver, ivory white.\n\nRank (fixed): she is a master strategist — her costume must read scholarly prestige at first glance: elegant, layered and finely ornamented, with flagship-card detail, never plain or sparse.\n\nExposure (fixed): bold — her outfit shows skin by design (a deep neckline, bare shoulders or arms, a high slit or short hem); intimate areas covered.\n\nFace proportions: a short midface and a soft, gently rounded jawline with a small soft chin — never a long face or a long, pointed or heavy jaw; any crown or headpiece sits above her hairline and never lengthens her face. Her eyes stay at a natural open size — never squeezed into narrow slits.\n\nComposition: vertical 2:3 full-body framing with modest headroom and clear space below the boots — the whole figure from the top of her crown or headpiece to both boots stays inside the frame, occupying about four-fifths of the image height, with the same camera distance in every genre; her hands and her signature item stay inside the frame. Camera at chest height with natural portrait perspective — no wide-angle distortion, no low angle, no close crop.\n\nIf you have already drawn a free design of her in this session, make this one clearly different — another face and hairstyle (the same hair colour and skin tone), another costume shape from the list with another signature idea, another pose and setting.\n\nWrite your own detailed image prompt from this brief, then draw it. One figure only, natural hands with five fingers; Western medieval setting and dress only — no Chinese architecture, robes, junks or hanzi; no logo or watermark.",
+ "date": "2026-11-16",
+ "record": "records/곽가/fantasy.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "곽가",
+  "out": "world",
+  "world": "fantasy",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {
+   "곽가|fantasy": {}
+  },
+  "looks": {
+   "곽가|fantasy": {
+    "params": {},
+    "faceDesignOn": true,
+    "silhouetteOn": true,
+    "exposure": "bold"
+   }
+  },
+  "shots": {
+   "곽가|fantasy": {
+    "scene": "",
+    "time": "",
+    "pose": "",
+    "expr": "",
+    "frame": ""
+   }
+  },
+  "walked": {},
+  "casualN": 1,
+  "scenes": {}
+ },
+ "user_selection": "4,4,4",
+ "generation": {
+  "tool": "image_gen",
+  "endpoint": "images/generations",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "5753c0d66461b63cfbc2eb6e4cb10843116c60361cfc658df66f239951054428",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "prompt_form": "en-prompt",
+  "prompt_sha256": "6e5dab010acb5f1e536b6b15eafb29020ef251b5d20d5d60d345ca3c362236ff",
+  "retries": [],
+  "design": "gpt_free",
+  "selected_number": 4,
+  "free_prompt": "Design brief — your own take on this character. A full-body vertical 2:3 (1024×1536) character card image of Guo Jia from the Romance of the Three Kingdoms, reimagined as an adult woman — the genius strategist — 'had Guo Jia lived, there would have been no Red Cliffs'. Age: about twenty — a fresh young-adult face; no facial lines. She is a woman — no beard, moustache or facial hair.\n\nYou design her yourself: invent her face, eye colour, hairstyle, makeup, expression, pose and setting as a fresh, original take — do not follow any earlier design of this character. Her hair colour, skin tone, costume and weapon are NOT free: take them from our designs below.\n\nStyle (fixed): Korean MMORPG character artwork. A recognisably drawn face with gently simplified anatomical structure. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\n\nInspiration only: a frail brilliance and reckless charm, a cough hidden behind a smile, wine and foresight.\n\nWorld (fixed): a stern northern empire of medieval high fantasy: black-stone citadels with blue banners, iron-shod heavy cavalry, snowy plains and pine forests, a court ruled by strict law, cold blue sigil-magic. Her costume, weapon and setting belong to this world.\n\nCostume (choose one of ours, then add your own idea): pick ONE of these costume shapes from our set and keep its overall silhouette — 1) a long floor-length robe with a high collar, wide sleeves and a shoulder mantle — a tall, mysterious mage's silhouette; 2) a light breastplate and bracers with robe panels split from the waist — half armor, half robe; 3) thin leaf-patterned armor plates and flowing light fabric panels with a slender circlet — a slender, graceful silhouette; 4) a long coat below the knees with epaulettes, a belt, gloves and tall boots — a crisp, commanding officer's silhouette; 5) a floor-length priestly vestment with gold-trimmed stoles and a tall head ornament — a long, devout silhouette. Then add one signature idea of your own drawn from her legend, built into the construction of the outfit itself rather than as a print or a loose accessory — e.g. plates or cloth layered like feathers, scales or petals, a hem or sleeve cut into a motif from her story. Build it in this world's materials and our colours below.\n\nWeapon (fixed — ours): a wine cup, reimagined as a Western high-fantasy version of the same kind of object with the same silhouette: polished steel and silvered mithril throughout, the shaft or hilt also forged metal with engraved runes (never plain wood), a faint magical glow running along the edge and the runes, a gem-set guard or socket, a leather-wrapped grip and heraldic or elven ornament, with any animal motif re-sculpted in Western heraldic style and no Chinese fittings, silk tassels or hanzi.\n\nHair colour (fixed — ours): silver-white hair. Keep exactly this hair colour; only the hairstyle is yours.\n\nSkin tone (fixed — ours): porcelain-pale skin. Keep exactly this skin tone.\n\nCostume colours (ours): deep navy blue, black lacquer, cold steel silver, ivory white.\n\nRank (fixed): she is a master strategist — her costume must read scholarly prestige at first glance: elegant, layered and finely ornamented, with flagship-card detail, never plain or sparse.\n\nExposure (fixed): bold — her outfit shows skin by design (a deep neckline, bare shoulders or arms, a high slit or short hem); intimate areas covered.\n\nFace proportions: a short midface and a soft, gently rounded jawline with a small soft chin — never a long face or a long, pointed or heavy jaw; any crown or headpiece sits above her hairline and never lengthens her face. Her eyes stay at a natural open size — never squeezed into narrow slits.\n\nComposition: vertical 2:3 full-body framing with modest headroom and clear space below the boots — the whole figure from the top of her crown or headpiece to both boots stays inside the frame, occupying about four-fifths of the image height, with the same camera distance in every genre; her hands and her signature item stay inside the frame. Camera at chest height with natural portrait perspective — no wide-angle distortion, no low angle, no close crop.\n\nIf you have already drawn a free design of her in this session, make this one clearly different — another face and hairstyle (the same hair colour and skin tone), another costume shape from the list with another signature idea, another pose and setting.\n\nWrite your own detailed image prompt from this brief, then draw it. One figure only, natural hands with five fingers; Western medieval setting and dress only — no Chinese architecture, robes, junks or hanzi; no logo or watermark."
+ },
+ "execution": "sam-guojia-dff47ee0",
+ "imported": "2026-11-16",
+ "acceptance": "User authorized completed character images and catalogue changes to main without further confirmation.",
+ "review": {
+  "reviewed": false,
+  "by": "user",
+  "result": "pending"
+ },
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "5753c0d66461b63cfbc2eb6e4cb10843116c60361cfc658df66f239951054428",
+  "passed": false,
+  "anatomy": "ok",
+  "exposure": "match",
+  "observations": [
+   "Selected 4 by user. 1024x1536; both arms and hands visible; feet remain within the image.",
+   "Distant mounted figures appear behind her despite the one-figure instruction; retained as generated."
+  ],
+  "cause": "The world background description mentions cavalry while constraints request one figure only."
+ }
+}
