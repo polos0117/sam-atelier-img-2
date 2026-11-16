@@ -1,0 +1,25 @@
+{
+ "character": "손권",
+ "style": "kr_drawn_rim_dewy",
+ "image_count": 27,
+ "dimensions": [
+  1024,
+  1536
+ ],
+ "world_selection": [
+  1,
+  1,
+  1
+ ],
+ "validation": {
+  "fantasy": "passed",
+  "mecha": "passed",
+  "samguk": {
+   "passed": false,
+   "issue": "casual5 fx_studio duplicates mecha casual3 fx_studio",
+   "origin": "unaltered planner output",
+   "resolution": "recorded as QA failure; original images retained per user no-recreation instruction"
+  }
+ },
+ "successful_images_regenerated": 0
+}

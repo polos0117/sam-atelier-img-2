@@ -1,0 +1,140 @@
+{
+ "atelier": "samguk",
+ "card": "손권",
+ "faction": "wu",
+ "slot": "casual3",
+ "treeV": 2,
+ "world": "fantasy",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v1",
+ "ref": "손권_fantasy_kr_drawn_rim_dewy_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "now",
+  "place": "arcade_hall",
+  "ofam": "game_cosplay",
+  "item": "gc_slit_gown",
+  "posture": "stand",
+  "support": "none",
+  "frame": "chest_up",
+  "body": "side",
+  "head": "tilt",
+  "camera": "low",
+  "right": "prop",
+  "left": "out",
+  "use": "cup_sip",
+  "legs": "",
+  "gaze": "at_prop",
+  "light": "low_warm",
+  "depth": "flat",
+  "cosplay": {
+   "game": "witcher_3",
+   "character": "Geralt of Rivia",
+   "cut": "slit_gown",
+   "round": 1
+  },
+  "expr": "pensive",
+  "preset": "light_check",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "손권_fantasy_kr_drawn_rim_dewy_f_casual3.webp",
+ "prompt": "INPUT: the attached image is the approved character — her Medieval fantasy card; keep her. Do not reuse earlier conversation images.\n\nCHARACTER: the same woman as the attached image — the female personification of Sun Quan of the Three Kingdoms, off duty in a game cosplay. Keep her face, eye and hair colours, skin tone and body proportions; expression and hair motion may change. In this cut she wears another character's costume: she is herself in that character's cosplay, not that character — her own face, hair colour and body stay exactly as in the attached image.\n\nSTYLE: Korean MMORPG character artwork. A recognisably drawn face with gently simplified anatomical structure. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\n\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nAGE: the same adult woman as in the attached image — keep her own face shape, cheekbones, eye proportions and skin tone exactly; minimal facial lines (no nasolabial folds, crow's feet, under-eye bags or cheek creases). Keep her face soft, feminine and attractive in every framing — never elongated, gaunt, mannish or heavy-jawed, even in close-ups, profiles or low angles.\n\nOUTPUT: one standalone off-duty scene of her wearing the game cosplay chosen in SCENE — a daring adult cosplay of the video game character named there, as worn to a cosplay event, an arcade night or a photo shoot. In this cut the outfit itself shows that game character: its recognisable colours, shapes and parts. Everything else follows SCENE (chosen).\n\nFRAME: a vertical 2:3 (1024×1536) image. Compose the image for this frame; COMPOSITION in SCENE sets how much of her shows.\n\nCROP: a chest-up shot — the bottom edge crosses just below her bust; waist, hips and legs are out of frame. This crop wins over every other line: details apply only to the part that shows, and the outfit reads through its visible neckline, straps, fabric and colour. Never widen the framing to show a hidden support, hand or leg; a limb crossing the edge runs naturally on past it, never cut off or fading out inside the image.\n\nERA: the present-day real world — today's clothing, hair, devices and interiors; an ordinary woman of today, nothing of her legend in her clothes.\n\nSCENE (chosen):\nPlace: a neon-lit game arcade — rows of glowing cabinets, a claw machine and a dance-game stage, coloured light on the floor\nLight direction: a low warm light source near her — a lamp, a fire or a screen — glowing on her from below shoulder height.\nOutfit: a daring adult cosplay of Geralt of Rivia from The Witcher 3: Wild Hunt — the witcher's look — dark studded leather armour, crossed sword-belt straps for two swords, a silver wolf-head medallion and tall riding boots, cut as a floor-length gown with a thigh-high slit\nPOSTURE: standing.\nCOMPOSITION: a chest-up shot of her face, shoulders and expression; body in side profile, facing the right of the frame, so her own right side is toward the camera; head tilted slightly; camera slightly below, looking up at her; a wall or backdrop of the place close behind her.\nLens / perspective: 85mm-equivalent short-telephoto perspective from a suitable distance, with gentle background compression.\nRIGHT HAND: her own right hand is in PROP — her near arm, on the camera side.\nLEFT HAND: her own left hand stays outside the frame — her far arm, on the side away from the camera.\nPROP: with her own right hand she brings a cup to her lips; it is all she holds.\nGAZE: her eyes rest on what she holds.\nEXPRESSION: a quiet, thoughtful look, lips lightly closed. Keep it subtle and natural, a light touch rather than acting: no sneer, glare, smirk-pulled cheek or chin lifted to look down at the viewer; her face stays relaxed and attractive. Her eyes are naturally open and clear, not heavy-lidded or half-closed; brows relaxed and even, neither raised on one side nor furrowed; lips softly closed or only just parted.\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — inside the crop, the chosen outfit is worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders and collarbones, skin clearly showing; the crop stays exactly where CROP sets it and never moves down to show more; intimate areas covered\n\nWARDROBE: change her clothes completely into the cosplay SCENE describes. From the attached image take only her face, hair colour and body — not its garment, armor, regalia, ornaments, mecha plates or background, and none of her Three Kingdoms colours or emblems. The costume must read at first glance as that game character's look, rebuilt as a glamorous adult outfit in the cut SCENE names; she is a real woman in a cosplay, not the character — never the character's face, body or creature shape, no logo or readable text, and no weapon or prop weapon in her hands.\n\nANGLE: the attached image fixes who she is, not how she is posed or shot. Do not copy its head angle, head tilt, gaze direction, face size in frame, camera height or crop — turn her head, set her gaze and place the camera exactly as SCENE describes, and let her face read naturally from that new angle (profile, three-quarter, looking down or away), with her features staying the same. No default card pose, no default front-facing portrait.\n\nONE MAIN FIGURE: she is the only character in focus. Where the place is busy, other people may appear only as small, soft-focus background extras — never posed with her. No logo, no watermark, no speech bubble, no frame border. No readable text or numbers.\n\nANATOMY: natural adult proportions, never a smaller head or a longer neck. The neck is a natural length and the head sits close to the shoulders. No body-part enlargement, no extra limbs.\n\nFIGURE: voluptuous, generously curved at bust, hips and thighs — keep this exact build from the attached image, neither slimmer nor fuller.\n\nBODY: a normal human body — one head, two arms and two legs, each joined at its natural joint; elbows, knees and wrists bend the human way. Hands and feet may be partly hidden by the pose, what she holds or the frame. Right and left mean her own right and left, not the viewer's.\n\nHANDS: natural human hands, no extra or duplicated limbs; each visible hand joins through its wrist and forearm to the matching shoulder. A hand may stay outside the crop, and fingers may be partly hidden by a grip.\n\nAVOID: a blue or bruise-like tint on the skin around the eyes, glossy or shiny highlights on the face, sweaty, oily or plastic-looking skin.",
+ "date": "2026-11-16",
+ "record": "records/손권/fantasy-casual3.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "손권",
+  "out": "casual",
+  "world": "fantasy",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 3,
+  "scenes": {
+   "손권": {
+    "era": "now",
+    "place": "arcade_hall",
+    "ofam": "game_cosplay",
+    "treeV": 2,
+    "prop": "",
+    "preset": "light_check",
+    "use": "cup_sip",
+    "posture": "stand",
+    "support": "none",
+    "frame": "chest_up",
+    "body": "side",
+    "head": "tilt",
+    "camera": "low",
+    "right": "prop",
+    "left": "out",
+    "legs": "",
+    "gaze": "at_prop",
+    "item": "gc_slit_gown",
+    "cosplay": {
+     "game": "witcher_3",
+     "character": "Geralt of Rivia",
+     "cut": "slit_gown",
+     "round": 1
+    },
+    "expr": "pensive",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "light": "low_warm",
+    "depth": "flat"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "a88650675bc08739e8821ce777effd8f0efafeed7dc6d1ffb4818047303d30ee",
+  "ref_sha256": "776b5b2b8386ce38d502cc02bccfe5ac4badb9caa1d8f8a2bd3d858d5d4e6190",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "prompt_form": "en-prompt",
+  "prompt_sha256": "7a88170f6079bd26f506d41ff7ccb8482f45d4e694cb642981ee5c9e5abcd070",
+  "retries": [],
+  "cosplay": {
+   "game": "witcher_3",
+   "character": "Geralt of Rivia",
+   "cut": "slit_gown"
+  }
+ },
+ "qa": {
+  "reviewer": "gpt",
+  "passed": false,
+  "anatomy": "ok",
+  "exposure": "match",
+  "observations": [
+   "선택한 세계컷의 와인색 머리·눈색·얼굴 특징을 유지.",
+   "보이는 팔·손·다리의 연결을 확인했으며 추가 팔다리는 보이지 않음.",
+   "게롤트 코스프레의 가죽·늑대 펜던트와 오락실·컵 확인. 가슴 위 구도보다 얼굴 중심으로 잘림."
+  ],
+  "cause": "생성 결과가 지시된 구도·장소·의상 세부 일부를 따르지 않음. 원본을 보존함."
+ },
+ "execution": "sam-sunquan-84dfa4",
+ "imported": "2026-11-16",
+ "acceptance": "user approved 1,1,1 and commits/non-force main publication",
+ "review": {
+  "reviewed": false,
+  "by": "user",
+  "result": "pending"
+ }
+}

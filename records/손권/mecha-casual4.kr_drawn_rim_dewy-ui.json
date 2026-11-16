@@ -1,0 +1,131 @@
+{
+ "atelier": "samguk",
+ "card": "손권",
+ "faction": "wu",
+ "slot": "casual4",
+ "treeV": 2,
+ "world": "mecha",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v1",
+ "ref": "손권_mecha_kr_drawn_rim_dewy_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "now",
+  "place": "street_noodle_stall",
+  "ofam": "resort",
+  "item": "aloha_knot",
+  "posture": "half_kneel",
+  "support": "none",
+  "frame": "full_body",
+  "body": "front_3q",
+  "head": "tilt",
+  "camera": "high",
+  "right": "prop",
+  "left": "floor_brace",
+  "use": "meal_hold",
+  "legs": "",
+  "gaze": "at_prop",
+  "ofree": true,
+  "ofreeRecent": "a medieval tavern — seated on a chair; a bridal room — holds a small bouquet in both hands at her waist; a hydroponic garden dome aboard a starship — standing; a stage under a painted night sky of crystal stars — lying on her front; a present-day seaside arcade with a glass prize-claw machine filled with folded plush stars — using the claw-machine joystick with a sharpshooter’s patience; a lantern-lit old-town street at night — standing; an indoor climbing wall of coloured holds — kneeling on the ground; a far-future orbital hotel recreation pool under a transparent observation dome — trying the low-gravity relaxation deck after a swim; a walk-in closet with open shelves — pins a freshly washed sheet to the line above her; a starship galley and mess hall — dries her hair with a towel; an editorial photo studio with a seamless backdrop and dramatic lights — sitting on the ground; a second-hand book stall under an awning on a quiet street — standing; a riverside pavilion tower over the Yangtze — holds a white feather fan upright at chest height",
+  "expr": "amused",
+  "preset": "half_kneel_use",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "손권_mecha_kr_drawn_rim_dewy_f_casual4.webp",
+ "prompt": "INPUT: the attached image is the approved character — her Mecha card; keep her. Do not reuse earlier conversation images.\n\nCHARACTER: the same woman as the attached image — the female personification of Sun Quan of the Three Kingdoms, seen in her everyday life. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change, and her hair may be worn differently only as SCENE's Hair line says. Her Three Kingdoms identity shows ONLY as a small accessory, an object around her, or the object PROP says she holds — never in the outfit's colours, patterns or cut, never as armor, regalia or a costume.\n\nDESIGN (accessory hints only): her legend — striking deep indigo-blue eyes and dark violet-red hair (her legendary 'blue eyes and purple beard'), steady judgment and trust in her ministers, a fearless tiger hunter, holding the Yangtze against two empires — may inform at most one small accessory, a hair ornament or an object beside her, in its palette (crimson red, gold, river teal, black lacquer). The clothes keep the chosen outfit's own colours; her skin, hair and eyes stay as in the attached image.\n\nSIGNATURE ACCESSORY: off duty she carries no weapon — no sword, saber, spear, glaive, halberd, bow, axe, shield or any blade in her hands, on her back or anywhere in the scene. Her signature weapon (an imperial jian sword with a red tassel) appears only as one small worn accessory modelled on its shape and colours — a hair ornament, pendant, earring, brooch or belt charm a few centimetres long, clearly jewellery and not a usable weapon.\n\nSTYLE: Korean MMORPG character artwork. A recognisably drawn face with gently simplified anatomical structure. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\n\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nAGE: the same adult woman as in the attached image — keep her own face shape, cheekbones, eye proportions and skin tone exactly; minimal facial lines (no nasolabial folds, crow's feet, under-eye bags or cheek creases). Keep her face soft, feminine and attractive in every framing — never elongated, gaunt, mannish or heavy-jawed, even in close-ups, profiles or low angles.\n\nOUTPUT: one standalone off-duty scene of her in the outfit chosen in SCENE; her legend shows only through accessories and objects around her — never in the outfit's colours, patterns or cut, never as armor, regalia or a costume. Everything else follows SCENE (chosen).\n\nFRAME: a vertical 2:3 (1024×1536) image. Compose the image for this frame; COMPOSITION in SCENE sets how much of her shows.\n\nSCENE (chosen):\nFREE DESIGN: design the place, activity, pose, framing and outfit yourself. Start from who she is — her legend, traits and personality — and show an everyday moment that is unexpected yet feels natural for her. Make it fresh through the situation and what she is doing, not through more decoration. Avoid scenes like the recent ones listed below. Keep her face, the art style and the body and anatomy rules exactly as stated. Before drawing, write your design into the lines below, then draw it. In your pose, give each hand one job only and say plainly where each arm goes; avoid poses where it is unclear which shoulder an arm comes from — an arm behind her back, behind her head or pinned under her body — and never state where a foot sits under water. Do not make it another small repair, adjusting, measuring or sorting task at a workbench, repair stall, equipment room or locker room — those scenes are already in our own list; choose another kind of everyday moment (rest, play, a meal, travel, weather, getting ready, simply being in the place).\nRecent scenes to avoid: a medieval tavern — seated on a chair; a bridal room — holds a small bouquet in both hands at her waist; a hydroponic garden dome aboard a starship — standing; a stage under a painted night sky of crystal stars — lying on her front; a present-day seaside arcade with a glass prize-claw machine filled with folded plush stars — using the claw-machine joystick with a sharpshooter’s patience; a lantern-lit old-town street at night — standing; an indoor climbing wall of coloured holds — kneeling on the ground; a far-future orbital hotel recreation pool under a transparent observation dome — trying the low-gravity relaxation deck after a swim; a walk-in closet with open shelves — pins a freshly washed sheet to the line above her; a starship galley and mess hall — dries her hair with a towel; an editorial photo studio with a seamless backdrop and dramatic lights — sitting on the ground; a second-hand book stall under an awning on a quiet street — standing; a riverside pavilion tower over the Yangtze — holds a white feather fan upright at chest height.\nPlace: a present-day pedestrian riverside bridge on a crisp spring afternoon with a public outdoor chess table\nActivity: enjoying a casual chess puzzle alone, lifting the plain wooden rook to test a bold river-crossing move\nPose: seated three-quarter frontal on a bridge bench; right forearm extends toward the chessboard holding one rook between thumb and fingers, left palm rests on the table's near edge, both hands visible\nFraming: vertical environmental portrait showing her full seated figure, face turned toward the viewer, chest-height natural camera, open river and low skyline behind\nOutfit: a sky-blue cropped sailorless boat-neck vest with two offset braided ties, over a fitted opaque cream bandeau, paired with short plum bubble-hem culottes and flat canvas shoes; bare shoulders, waist and thighs; no navy uniform or insignia\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing; nothing slipped off; intimate areas covered\n\nWARDROBE: change her clothes completely. From the attached image take only her face, hair and body — not its garment, armor, regalia, ornaments, mecha plates or background. Dress her exactly as SCENE describes; that outfit must read at first glance, keeping its own recognisable colours and parts. Do not carry the attached image's palette, patterns or trim into the outfit; her Three Kingdoms identity belongs in accessories and props, never in the clothes — never restyle the chosen outfit into her faction's palette, armor, robes or regalia.\n\nANGLE: the attached image fixes who she is, not how she is posed or shot. Do not copy its head angle, head tilt, gaze direction, face size in frame, camera height or crop — turn her head, set her gaze and place the camera exactly as SCENE describes, and let her face read naturally from that new angle (profile, three-quarter, looking down or away), with her features staying the same. No default card pose, no default front-facing portrait.\n\nONE MAIN FIGURE: she is the only character in focus. Where the place is busy, other people may appear only as small, soft-focus background extras — never posed with her. No logo, no watermark, no speech bubble, no frame border. No readable text or numbers.\n\nANATOMY: natural adult proportions, about 7.5 heads tall — height from the legs, never a smaller head or a longer neck. The neck is a natural length and the head sits close to the shoulders. No body-part enlargement, no extra limbs.\n\nFIGURE: voluptuous, generously curved at bust, hips and thighs — keep this exact build from the attached image, neither slimmer nor fuller.\n\nBODY: a normal human body — one head, two arms and two legs, each joined at its natural joint; elbows, knees and wrists bend the human way. Hands and feet may be partly hidden by the pose, what she holds or the frame. Right and left mean her own right and left, not the viewer's.\n\nHANDS: natural human hands, no extra or duplicated limbs; each visible hand joins through its wrist and forearm to the matching shoulder. A hand may stay outside the crop, and fingers may be partly hidden by a grip.\n\nAVOID: a blue or bruise-like tint on the skin around the eyes, glossy or shiny highlights on the face, sweaty, oily or plastic-looking skin.",
+ "date": "2026-11-16",
+ "record": "records/손권/mecha-casual4.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "손권",
+  "out": "casual",
+  "world": "mecha",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 4,
+  "scenes": {
+   "손권": {
+    "era": "now",
+    "place": "street_noodle_stall",
+    "ofam": "resort",
+    "treeV": 2,
+    "prop": "",
+    "preset": "half_kneel_use",
+    "use": "meal_hold",
+    "posture": "half_kneel",
+    "support": "none",
+    "frame": "full_body",
+    "body": "front_3q",
+    "head": "tilt",
+    "camera": "high",
+    "right": "prop",
+    "left": "floor_brace",
+    "legs": "",
+    "gaze": "at_prop",
+    "item": "aloha_knot",
+    "expr": "amused",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "ofree": true,
+    "ofreeRecent": "a medieval tavern — seated on a chair; a bridal room — holds a small bouquet in both hands at her waist; a hydroponic garden dome aboard a starship — standing; a stage under a painted night sky of crystal stars — lying on her front; a present-day seaside arcade with a glass prize-claw machine filled with folded plush stars — using the claw-machine joystick with a sharpshooter’s patience; a lantern-lit old-town street at night — standing; an indoor climbing wall of coloured holds — kneeling on the ground; a far-future orbital hotel recreation pool under a transparent observation dome — trying the low-gravity relaxation deck after a swim; a walk-in closet with open shelves — pins a freshly washed sheet to the line above her; a starship galley and mess hall — dries her hair with a towel; an editorial photo studio with a seamless backdrop and dramatic lights — sitting on the ground; a second-hand book stall under an awning on a quiet street — standing; a riverside pavilion tower over the Yangtze — holds a white feather fan upright at chest height"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "5a37298d4f9256b4469f031c48f4e9a85825d107be46113c325de5f767a6c291",
+  "ref_sha256": "8768cfa6be10d3b02dfc0837ae4756cdc2bbb42811c8be8ac6803f135ee90a3c",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "prompt_form": "en-prompt",
+  "prompt_sha256": "1ff7313ce8d3516096377c8b1a45853ed1afc5010e36313a9d3cabd40a47d9b5",
+  "retries": [],
+  "free_design": {
+   "Place": "a present-day pedestrian riverside bridge on a crisp spring afternoon with a public outdoor chess table",
+   "Activity": "enjoying a casual chess puzzle alone, lifting the plain wooden rook to test a bold river-crossing move",
+   "Pose": "seated three-quarter frontal on a bridge bench; right forearm extends toward the chessboard holding one rook between thumb and fingers, left palm rests on the table's near edge, both hands visible",
+   "Framing": "vertical environmental portrait showing her full seated figure, face turned toward the viewer, chest-height natural camera, open river and low skyline behind",
+   "Outfit": "a sky-blue cropped sailorless boat-neck vest with two offset braided ties, over a fitted opaque cream bandeau, paired with short plum bubble-hem culottes and flat canvas shoes; bare shoulders, waist and thighs; no navy uniform or insignia"
+  },
+  "free_prompt": "INPUT: the attached image is the approved character — her Mecha card; keep her. Do not reuse earlier conversation images.\n\nCHARACTER: the same woman as the attached image — the female personification of Sun Quan of the Three Kingdoms, seen in her everyday life. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change, and her hair may be worn differently only as SCENE's Hair line says. Her Three Kingdoms identity shows ONLY as a small accessory, an object around her, or the object PROP says she holds — never in the outfit's colours, patterns or cut, never as armor, regalia or a costume.\n\nDESIGN (accessory hints only): her legend — striking deep indigo-blue eyes and dark violet-red hair (her legendary 'blue eyes and purple beard'), steady judgment and trust in her ministers, a fearless tiger hunter, holding the Yangtze against two empires — may inform at most one small accessory, a hair ornament or an object beside her, in its palette (crimson red, gold, river teal, black lacquer). The clothes keep the chosen outfit's own colours; her skin, hair and eyes stay as in the attached image.\n\nSIGNATURE ACCESSORY: off duty she carries no weapon — no sword, saber, spear, glaive, halberd, bow, axe, shield or any blade in her hands, on her back or anywhere in the scene. Her signature weapon (an imperial jian sword with a red tassel) appears only as one small worn accessory modelled on its shape and colours — a hair ornament, pendant, earring, brooch or belt charm a few centimetres long, clearly jewellery and not a usable weapon.\n\nSTYLE: Korean MMORPG character artwork. A recognisably drawn face with gently simplified anatomical structure. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\n\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nAGE: the same adult woman as in the attached image — keep her own face shape, cheekbones, eye proportions and skin tone exactly; minimal facial lines (no nasolabial folds, crow's feet, under-eye bags or cheek creases). Keep her face soft, feminine and attractive in every framing — never elongated, gaunt, mannish or heavy-jawed, even in close-ups, profiles or low angles.\n\nOUTPUT: one standalone off-duty scene of her in the outfit chosen in SCENE; her legend shows only through accessories and objects around her — never in the outfit's colours, patterns or cut, never as armor, regalia or a costume. Everything else follows SCENE (chosen).\n\nFRAME: a vertical 2:3 (1024×1536) image. Compose the image for this frame; COMPOSITION in SCENE sets how much of her shows.\n\nSCENE (chosen):\nFREE DESIGN: design the place, activity, pose, framing and outfit yourself. Start from who she is — her legend, traits and personality — and show an everyday moment that is unexpected yet feels natural for her. Make it fresh through the situation and what she is doing, not through more decoration. Avoid scenes like the recent ones listed below. Keep her face, the art style and the body and anatomy rules exactly as stated. Before drawing, write your design into the lines below, then draw it. In your pose, give each hand one job only and say plainly where each arm goes; avoid poses where it is unclear which shoulder an arm comes from — an arm behind her back, behind her head or pinned under her body — and never state where a foot sits under water. Do not make it another small repair, adjusting, measuring or sorting task at a workbench, repair stall, equipment room or locker room — those scenes are already in our own list; choose another kind of everyday moment (rest, play, a meal, travel, weather, getting ready, simply being in the place).\nRecent scenes to avoid: a medieval tavern — seated on a chair; a bridal room — holds a small bouquet in both hands at her waist; a hydroponic garden dome aboard a starship — standing; a stage under a painted night sky of crystal stars — lying on her front; a present-day seaside arcade with a glass prize-claw machine filled with folded plush stars — using the claw-machine joystick with a sharpshooter’s patience; a lantern-lit old-town street at night — standing; an indoor climbing wall of coloured holds — kneeling on the ground; a far-future orbital hotel recreation pool under a transparent observation dome — trying the low-gravity relaxation deck after a swim; a walk-in closet with open shelves — pins a freshly washed sheet to the line above her; a starship galley and mess hall — dries her hair with a towel; an editorial photo studio with a seamless backdrop and dramatic lights — sitting on the ground; a second-hand book stall under an awning on a quiet street — standing; a riverside pavilion tower over the Yangtze — holds a white feather fan upright at chest height.\nPlace: a present-day pedestrian riverside bridge on a crisp spring afternoon with a public outdoor chess table\nActivity: enjoying a casual chess puzzle alone, lifting the plain wooden rook to test a bold river-crossing move\nPose: seated three-quarter frontal on a bridge bench; right forearm extends toward the chessboard holding one rook between thumb and fingers, left palm rests on the table's near edge, both hands visible\nFraming: vertical environmental portrait showing her full seated figure, face turned toward the viewer, chest-height natural camera, open river and low skyline behind\nOutfit: a sky-blue cropped sailorless boat-neck vest with two offset braided ties, over a fitted opaque cream bandeau, paired with short plum bubble-hem culottes and flat canvas shoes; bare shoulders, waist and thighs; no navy uniform or insignia\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing; nothing slipped off; intimate areas covered\n\nWARDROBE: change her clothes completely. From the attached image take only her face, hair and body — not its garment, armor, regalia, ornaments, mecha plates or background. Dress her exactly as SCENE describes; that outfit must read at first glance, keeping its own recognisable colours and parts. Do not carry the attached image's palette, patterns or trim into the outfit; her Three Kingdoms identity belongs in accessories and props, never in the clothes — never restyle the chosen outfit into her faction's palette, armor, robes or regalia.\n\nANGLE: the attached image fixes who she is, not how she is posed or shot. Do not copy its head angle, head tilt, gaze direction, face size in frame, camera height or crop — turn her head, set her gaze and place the camera exactly as SCENE describes, and let her face read naturally from that new angle (profile, three-quarter, looking down or away), with her features staying the same. No default card pose, no default front-facing portrait.\n\nONE MAIN FIGURE: she is the only character in focus. Where the place is busy, other people may appear only as small, soft-focus background extras — never posed with her. No logo, no watermark, no speech bubble, no frame border. No readable text or numbers.\n\nANATOMY: natural adult proportions, about 7.5 heads tall — height from the legs, never a smaller head or a longer neck. The neck is a natural length and the head sits close to the shoulders. No body-part enlargement, no extra limbs.\n\nFIGURE: voluptuous, generously curved at bust, hips and thighs — keep this exact build from the attached image, neither slimmer nor fuller.\n\nBODY: a normal human body — one head, two arms and two legs, each joined at its natural joint; elbows, knees and wrists bend the human way. Hands and feet may be partly hidden by the pose, what she holds or the frame. Right and left mean her own right and left, not the viewer's.\n\nHANDS: natural human hands, no extra or duplicated limbs; each visible hand joins through its wrist and forearm to the matching shoulder. A hand may stay outside the crop, and fingers may be partly hidden by a grip.\n\nAVOID: a blue or bruise-like tint on the skin around the eyes, glossy or shiny highlights on the face, sweaty, oily or plastic-looking skin."
+ },
+ "qa": {
+  "reviewer": "gpt",
+  "passed": false,
+  "anatomy": "ok",
+  "exposure": "match",
+  "observations": [
+   "선택한 세계컷의 와인색 머리·눈색·얼굴 특징을 유지.",
+   "보이는 팔·손·다리의 연결을 확인했으며 추가 팔다리는 보이지 않음.",
+   "체스판·룩·양손과 다리 연결 확인. 전신 환경 구도보다 신발 끝 여백이 좁음."
+  ],
+  "cause": "생성 결과가 지시된 구도·장소·의상 세부 일부를 따르지 않음. 원본을 보존함."
+ },
+ "execution": "sam-sunquan-84dfa4",
+ "imported": "2026-11-16",
+ "acceptance": "user approved 1,1,1 and commits/non-force main publication",
+ "review": {
+  "reviewed": false,
+  "by": "user",
+  "result": "pending"
+ }
+}

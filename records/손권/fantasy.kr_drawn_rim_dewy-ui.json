@@ -1,0 +1,115 @@
+{
+ "atelier": "samguk",
+ "card": "손권",
+ "faction": "wu",
+ "role": "lord",
+ "world": "fantasy",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v1",
+ "notes": {},
+ "look": {
+  "params": {},
+  "faceDesignOn": true,
+  "silhouetteOn": true,
+  "exposure": "bold"
+ },
+ "design": {
+  "face": {
+   "eye_color": "indigo",
+   "age": "early_20s",
+   "impression": "regal",
+   "skin_tone": "fair",
+   "eye_size": "large",
+   "eye_tilt": "level",
+   "mark": "red_lip",
+   "expr": "confident",
+   "brows": "straight_thick",
+   "nose": "straight_narrow",
+   "lips": "heart_full",
+   "face_shape": "heart",
+   "eyes": "round_large"
+  },
+  "silhouette": {
+   "body": "voluptuous",
+   "hair_color": "wine_red",
+   "hair": "voluminous",
+   "bangs": "curtain"
+  }
+ },
+ "shot": {
+  "scene": "",
+  "time": "",
+  "pose": "",
+  "expr": "",
+  "frame": ""
+ },
+ "file": "손권_fantasy_kr_drawn_rim_dewy_f.webp",
+ "prompt": "A full-body character image, vertical 2:3 (1024×1536): Sun Quan of the Romance of the Three Kingdoms, reimagined as an adult woman — the emperor of Wu, master of the Yangtze, famed for her deep indigo eyes and purple beard.\n\n1. STYLE\nKorean MMORPG character artwork. A recognisably drawn face with gently simplified anatomical structure. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nHer face is small and soft: a short midface, a softly rounded jaw and a small chin, about 1.3 times as long as it is wide, with her eyes open at their natural size. Bangs, side locks and headpieces frame the face without lengthening it.\nSkin finish: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\n2. CHARACTER\nAge: about twenty — a fresh young-adult face.\nFace — her own, recognisably this character, a woman's face with no beard or facial hair: a regal, imperious haughtiness; fair skin; heart-shaped face; large eyes — large round eyes, level outer eye corners; thick straight brows; straight narrow nose; full heart-shaped lips; deep indigo-blue eyes; a soft rose-red tint on the lips.\nBody and hair: voluptuous, generously curved at bust, hips and thighs build; voluminous hair with curtain bangs; deep wine-red hair.\nExpression: a composed, self-assured look, subtle and relaxed.\nLegend, carried in her design and bearing: striking deep indigo-blue eyes and dark violet-red hair (her legendary 'blue eyes and purple beard'), steady judgment and trust in her ministers, a fearless tiger hunter, holding the Yangtze against two empires.\nAnatomy: one head, two arms and two legs, each joined at its natural joint; natural hands with five fingers.\n\n3. COSTUME AND EQUIPMENT — MEDIEVAL FANTASY\nCostume: a medieval monarch's regalia — a crown or circlet, an ornate breastplate under a fur-trimmed royal mantle, heraldic embroidery in her faction's colours, a sword of state. Western medieval high-fantasy dress — plate, mail and heraldic tabards, gowns and mantles, circlets and crowns; steel, leather, wool, velvet and gold, with a subtle magical glow along the patterns. Her Three Kingdoms origin shows through her signature item, her colours and her bearing.\nSilhouette: a great crown and a fur-trimmed royal mantle over an ornate breastplate — a ceremonial, regal silhouette. This silhouette sets the overall shape of the costume above — keep its materials, ornaments and rank in this shape; the details are free.\nColours: crimson red, gold, river teal, black lacquer.\nSignature item: an imperial jian sword with a red tassel, reimagined as a Western high-fantasy version of the same kind of object with the same silhouette — polished steel and silvered mithril throughout, the shaft or hilt also forged metal with engraved runes (never plain wood), a faint magical glow running along the edge and the runes, a gem-set guard or socket, a leather-wrapped grip and heraldic or elven ornament, with any animal motif re-sculpted in Western heraldic style. She holds it at full scale: one whole object, drawn once, held in front of or beside her body; a long weapon keeps one straight, unbroken shaft with a single head or blade.\nExposure (bold): her regalia opens to show skin — bare upper arms below the pauldrons, which stay seated on top of her shoulders (bare shoulders only where no shoulder guard sits), a deep open neckline under the gorget with natural cleavage, the tabard or gown cut with a high side slit at full length — it shows the side line of one leg as she stands, no leg pushed out or knee bent for it; armor pieces stay on and symmetrical. Intimate areas covered; no corset; keep the costume material and palette.\n\n4. SCENE\nWorld: a river-and-sea kingdom of medieval high fantasy: a vast river delta, crimson-sailed galleons and war galleys, harbor fortresses of red stone, fire magic dancing over dark water.\nPose: standing confidently, her body turned slightly while her face looks toward the viewer.\nLight: a soft key light with a strong rim light tracing her hair, shoulders and armour; bright, crisp specular highlights on metal and jewellery, and a clean, warm-neutral sheen on her skin.\nComposition: her whole figure from the top of her head or headpiece to both feet inside the frame with clear margins, about four-fifths of the image height; camera at chest height with natural portrait perspective.\n\n5. CONSTRAINTS\nOne figure only — no second character, horse or other creature. No readable text or numbers — banners and shields carry only heraldic devices (a beast or a crest), never letters or Chinese characters. No logo, watermark, speech bubble or frame border. A Western medieval setting and dress only — stone castles, Romanesque or Gothic architecture — with no Chinese architecture, robes or hanzi.\nAvoid: a blue or bruise-like tint on the skin around the eyes, glossy or shiny highlights on the face, sweaty, oily or plastic-looking skin.",
+ "date": "2026-11-16",
+ "record": "records/손권/fantasy.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "손권",
+  "out": "world",
+  "world": "fantasy",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {
+   "손권|fantasy": {}
+  },
+  "looks": {
+   "손권|fantasy": {
+    "params": {},
+    "faceDesignOn": true,
+    "silhouetteOn": true,
+    "exposure": "bold"
+   }
+  },
+  "shots": {
+   "손권|fantasy": {
+    "scene": "",
+    "time": "",
+    "pose": "",
+    "expr": "",
+    "frame": ""
+   }
+  },
+  "walked": {},
+  "casualN": 1,
+  "scenes": {}
+ },
+ "generation": {
+  "tool": "image_gen",
+  "endpoint": "images/generations",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "776b5b2b8386ce38d502cc02bccfe5ac4badb9caa1d8f8a2bd3d858d5d4e6190",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "prompt_form": "en-prompt",
+  "prompt_sha256": "3f01b1b25f894d2886d77d9d990ddd7a52f85e5851a0c3eaee6f7b6ca77404f1",
+  "design": "our_design",
+  "selected_candidate": 1,
+  "retries": []
+ },
+ "qa": {
+  "reviewer": "gpt",
+  "passed": false,
+  "anatomy": "ok",
+  "exposure": "match",
+  "observations": [
+   "성인 여성 한 명, 전신·한 자루 검·양팔과 양다리 연결 확인.",
+   "인물 높이가 지정된 화면의 4/5보다 크고, 붓칠보다 세밀한 반실사 렌더에 가까움."
+  ]
+ },
+ "execution": "sam-sunquan-84dfa4",
+ "imported": "2026-11-16",
+ "acceptance": "user approved 1,1,1 and commits/non-force main publication",
+ "review": {
+  "reviewed": false,
+  "by": "user",
+  "result": "pending"
+ }
+}
