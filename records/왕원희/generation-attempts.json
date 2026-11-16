@@ -1,0 +1,34 @@
+{
+  "execution": "sam-wangyuanji-3d993d",
+  "initial_batch_delivery_error": {
+    "status": "moderation_blocked",
+    "request_id": "5b9c1b6f-197a-433d-be37-a4c41b87e762",
+    "slot": "not identified by the rejected batch response",
+    "returned_originals": [
+      "samguk-casual1",
+      "samguk-casual3"
+    ],
+    "recovery": "Remaining samguk slots were re-requested without replacing any returned image."
+  },
+  "samguk-casual5": [
+    {
+      "n": 1,
+      "status": "moderation_blocked",
+      "request_id": "bff973f1-068f-4e5f-ac71-74db4ce9bc09",
+      "exposure": "bold",
+      "prompt_sha256": "7b61c3b751eb364829d18be2d76655b9125fa7355a2c4f6b0e9db8fb6ba283d4"
+    },
+    {
+      "n": 2,
+      "status": "moderation_blocked",
+      "request_id": "bcbaeaaf-2513-468e-8560-e4f2c5a945dc",
+      "exposure": "bold"
+    },
+    {
+      "n": 3,
+      "status": "moderation_blocked",
+      "request_id": "b5d6bb6d-abbd-4462-8d1b-e867d18e1d26",
+      "exposure": "moderate"
+    }
+  ]
+}
