@@ -1,0 +1,98 @@
+{
+ "atelier": "samguk",
+ "card": "황충",
+ "faction": "shu",
+ "slot": "casual90",
+ "treeV": 2,
+ "world": "fantasy",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v1",
+ "ref": "황충_fantasy_kr_drawn_rim_dewy_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "nation",
+  "place": "nation_inn",
+  "ofam": "everyday",
+  "posture": "sit_chair",
+  "support": "back_seat",
+  "frame": "full_body",
+  "body": "front_3q",
+  "head": "with_body",
+  "camera": "floor",
+  "right": "lap",
+  "left": "natural",
+  "use": "",
+  "legs": "ankles_crossed",
+  "gaze": "camera",
+  "own": "fantasy",
+  "placeText": "a high-fantasy bowyer's workshop — a bench strewn with bamboo strips and horn slivers, bows hung to dry on the wall and a pot of glue on a small stove",
+  "light": "low_warm",
+  "depth": "deep",
+  "expr": "proud",
+  "preset": "ankles_sit",
+  "prop": "",
+  "outfit": "a bowyer look fitted to her body — a short sleeveless work vest tied at the waist, a short split skirt, leather wrist guards and a tool belt, all styled as high-fantasy dress — laced leather, embroidered cloth and metal clasps",
+  "scene": "she is a bowmaker sitting quietly while the pot of glue warms on the small stove",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "황충_fantasy_kr_drawn_rim_dewy_f_casual90.webp",
+ "prompt": "INPUT: the attached image is the approved character — her Medieval fantasy card; keep her. Do not reuse earlier conversation images.\n\nCHARACTER: the same woman as the attached image — the female personification of Huang Zhong of the Three Kingdoms, seen in her everyday life. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change, and her hair may be worn differently only as SCENE's Hair line says. Her Three Kingdoms identity shows ONLY as a small accessory, an object around her, or the object PROP says she holds — never in the outfit's colours, patterns or cut, never as armor, regalia or a costume.\n\nDESIGN (accessory hints only): her legend — a seasoned veteran whose aim never fails, silver-streaked hair worn proudly, a heavy saber at her hip, the victory at Dingjun Mountain — may inform at most one small accessory, a hair ornament or an object beside her, in its palette (jade green, imperial gold, earthen brown, white jade, with small accents of teal green and river blue (Liu Biao)). The clothes keep the chosen outfit's own colours; her skin, hair and eyes stay as in the attached image.\n\nSIGNATURE ACCESSORY: off duty she carries no weapon — no sword, saber, spear, glaive, halberd, bow, axe, shield or any blade in her hands, on her back or anywhere in the scene. Her signature weapon (a great recurved war bow with a quiver of red-fletched arrows) appears only as one small worn accessory modelled on its shape and colours — a hair ornament, pendant, earring, brooch or belt charm a few centimetres long, clearly jewellery and not a usable weapon.\n\nSTYLE: Korean MMORPG character artwork. A recognisably drawn face with gently simplified anatomical structure. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\n\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nAGE: the same adult woman as in the attached image — keep her own face shape, cheekbones, eye proportions and skin tone exactly; minimal facial lines (no nasolabial folds, crow's feet, under-eye bags or cheek creases). Keep her face soft, feminine and attractive in every framing — never elongated, gaunt, mannish or heavy-jawed, even in close-ups, profiles or low angles.\n\nOUTPUT: one standalone off-duty scene of her in the outfit chosen in SCENE; her legend shows only through accessories and objects around her — never in the outfit's colours, patterns or cut, never as armor, regalia or a costume. Everything else follows SCENE (chosen).\n\nFRAME: a vertical 2:3 (1024×1536) image. Compose the image for this frame; COMPOSITION in SCENE sets how much of her shows.\n\nWORLD: this scene happens inside her own world — the world of the attached image — as if she simply lives there: a righteous highland kingdom of Western medieval high fantasy: grey-stone castles and fortified abbeys on green mountain ridges, alpine meadows, waterfalls and oak forests, heraldic banners of green and gold bearing a dragon device, oaths sworn under an ancient oak, gentle green nature-magic. Its architecture, props, light and weather show the world; no creatures, no second character, no readable text other than abstract heraldic or insignia shapes — never letters or Chinese characters. Her clothes stay the everyday outfit SCENE describes, not regalia or armor.\n\nSCENE (chosen):\nPlace: a high-fantasy bowyer's workshop — a bench strewn with bamboo strips and horn slivers, bows hung to dry on the wall and a pot of glue on a small stove\nLight direction: a low warm light source near her — a lamp, a fire or a screen — glowing on her from below shoulder height.\nOutfit: a bowyer look fitted to her body — a short sleeveless work vest tied at the waist, a short split skirt, leather wrist guards and a tool belt, all styled as high-fantasy dress — laced leather, embroidered cloth and metal clasps\nPOSTURE: seated on a chair.\nSUPPORT: her back rests against the seat back.\nCOMPOSITION: a full-body shot, her complete head, hands and feet inside the frame with restrained margins; body turned three-quarters toward the camera; camera low, near the ground, level with her face as she sits or kneels; the space runs far back behind her, its lines receding into the distance.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand rests on her knee.\nLEFT HAND: her own left hand rests naturally for the posture, relaxed and empty.\nLEGS: both legs held close together, one ankle crossed over the other at the feet.\nGAZE: she looks into the camera.\nEXPRESSION: a proud, poised look with a faint closed-lip smile. Keep it subtle and natural, a light touch rather than acting: no sneer, glare, smirk-pulled cheek or chin lifted to look down at the viewer; her face stays relaxed and attractive. Her eyes are naturally open and clear, not heavy-lidded or half-closed; brows relaxed and even, neither raised on one side nor furrowed; lips softly closed or only just parted.\nScene note: she is a bowmaker sitting quietly while the pot of glue warms on the small stove\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing; nothing slipped off; intimate areas covered\n\nWARDROBE: change her clothes completely. From the attached image take only her face, hair and body — not its garment, armor, regalia, ornaments, mecha plates or background. Dress her exactly as SCENE describes; that outfit must read at first glance, keeping its own recognisable colours and parts. Do not carry the attached image's palette, patterns or trim into the outfit; her Three Kingdoms identity belongs in accessories and props, never in the clothes — never restyle the chosen outfit into her faction's palette, armor, robes or regalia.\n\nANGLE: the attached image fixes who she is, not how she is posed or shot. Do not copy its head angle, head tilt, gaze direction, face size in frame, camera height or crop — turn her head, set her gaze and place the camera exactly as SCENE describes, and let her face read naturally from that new angle (profile, three-quarter, looking down or away), with her features staying the same. No default card pose, no default front-facing portrait.\n\nONE MAIN FIGURE: she is the only character in focus. Where the place is busy, other people may appear only as small, soft-focus background extras — never posed with her. No logo, no watermark, no speech bubble, no frame border. No readable text or numbers.\n\nANATOMY: natural adult proportions, about 7.5 heads tall — height from the legs, never a smaller head or a longer neck. The neck is a natural length and the head sits close to the shoulders. No body-part enlargement, no extra limbs.\n\nFIGURE: strong and broad-shouldered with firm muscle, yet full-busted with wide rounded hips and a defined waist — keep this exact build from the attached image, neither slimmer nor fuller.\n\nBODY: a normal human body — one head, two arms and two legs, each joined at its natural joint; elbows, knees and wrists bend the human way. Hands and feet may be partly hidden by the pose, what she holds or the frame. Right and left mean her own right and left, not the viewer's.\n\nHANDS: natural human hands, no extra or duplicated limbs; each visible hand joins through its wrist and forearm to the matching shoulder. A hand may stay outside the crop, and fingers may be partly hidden by a grip.\n\nAVOID: a blue or bruise-like tint on the skin around the eyes, glossy or shiny highlights on the face, sweaty, oily or plastic-looking skin.",
+ "date": "2026-11-16",
+ "record": "records/황충/fantasy-casual90.kr_drawn_rim_dewy-ui.json",
+ "own": {
+  "job_ko": "활방 장인",
+  "level": "bold",
+  "example": false
+ },
+ "generation": {
+  "tool": "image_gen",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "6ed8fba2aacf3534e7739d3ab19eb3ab6cc96b027d0ff638b2c5db89224bdc04",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "prompt_form": "gpt-structured",
+  "prompt_sha256": "5b540cbacd9160991d69670bb548dc221eccd41231113f40250ef2e0dffa1fbe",
+  "submitted_prompt_prefix": "아래 지시문을 고치지 말고 그대로 그려라.\n\n",
+  "retries": [],
+  "ref_sha256": "ca71bf14e97364586e468e73ad4cf5102cd0b468c7953a003b74b5c7662c292f",
+  "own": {
+   "level": "bold",
+   "tries": 1,
+   "blocked": []
+  }
+ },
+ "execution": "sam-huangzhong-20261116",
+ "imported": "2026-11-16",
+ "qa": {
+  "reviewer": "gpt-session",
+  "image_sha256": "6ed8fba2aacf3534e7739d3ab19eb3ab6cc96b027d0ff638b2c5db89224bdc04",
+  "passed": false,
+  "anatomy": "ok",
+  "exposure": "match",
+  "observations": [
+   "1024×1536 세로 원본. 주인공 한 명, 얼굴·회색 머리·피부톤은 해당 선택 원본과 일관되게 보임.",
+   "보이는 팔다리와 손은 자연스럽게 이어지며 추가·끊긴 팔다리는 관찰되지 않음. 가려진 손가락은 확인 범위에서 제외.",
+   "노출은 지정한 bold 범위의 깊은 네크라인·맨팔·허벅지 등으로 표현되고 중요 부위는 가려짐.",
+   "판타지 활방 의자에서 휴식, 두 손·두 발 연결과 도구·아교 가열 환경 확인. 일상 무기 금지 줄과 활방 배경의 건조 중 활 지시가 충돌하며 배경 활이 보임.",
+   "원본보다 피부와 배경 렌더가 매끈하게 보이는 부분이 있으나 받은 원본을 보존."
+  ],
+  "cause": "계획·소품·손 방향·프레이밍 및 일반 제약 사이 차이. observations 참조. 받은 이미지는 임의 재생성하지 않음."
+ },
+ "acceptance": "user_approval_2026-11-16 — 황충 선택 2,1,1; 이미지·도감 커밋과 원격 main 일반 반영 승인, 강제 push·기존 삭제 제외",
+ "review": {
+  "reviewed": false,
+  "by": "user",
+  "result": "pending"
+ }
+}
