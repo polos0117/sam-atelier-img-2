@@ -1,0 +1,117 @@
+{
+ "atelier": "samguk",
+ "card": "사섭",
+ "faction": "qun",
+ "role": "lord",
+ "world": "mecha",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v1",
+ "notes": {},
+ "look": {
+  "params": {},
+  "faceDesignOn": true,
+  "silhouetteOn": true,
+  "exposure": "bold"
+ },
+ "design": {
+  "face": {
+   "eye_color": "obsidian",
+   "impression": "regal",
+   "expr": "gentle",
+   "skin_tone": "bronze",
+   "age": "late_20s",
+   "eye_size": "medium",
+   "eye_tilt": "up",
+   "mark": "bare",
+   "brows": "low_heavy",
+   "nose": "broad_soft",
+   "lips": "small_bow",
+   "face_shape": "heart",
+   "eyes": "deep_set"
+  },
+  "silhouette": {
+   "body": "voluptuous",
+   "hair_color": "ink_blue",
+   "hair": "floor_length",
+   "bangs": "straight"
+  }
+ },
+ "shot": {
+  "scene": "",
+  "time": "",
+  "pose": "",
+  "expr": "",
+  "frame": ""
+ },
+ "file": "사섭_mecha_kr_drawn_rim_dewy_f.webp",
+ "prompt": "Design brief — your own take on this character. A full-body vertical 2:3 (1024×1536) character card image of Shi Xie from the Romance of the Three Kingdoms, reimagined as an adult woman — the long-reigning lord of Jiao province in the far south. Age: late twenties — a graceful grown-up face with soft, smooth contours; no wrinkles, folds or under-eye bags. She is a woman — no beard, moustache or facial hair.\n\nStyle (fixed): Korean MMORPG character artwork. A recognisably drawn face with gently simplified anatomical structure. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\n\nInspiration only: scholarly rule, southern splendor, tropical silks.\n\nWorld (fixed): year 2190, the Free Zones — a lawless asteroid belt between the three powers: warlord fortresses carved into asteroids, wrecked starships drifting in the dark, a violet nebula, warning lights blinking. Her costume, weapon and setting belong to this world.\n\nCharacter: a small oval face, naturally open honey-gold eyes, curved brows, a neat nose and softly full lips; bronze-brown skin; a sculptural ink-blue high ponytail with two short cheek-framing locks; deep ink-blue hair. A warm, thoughtful sovereign expression. Voluptuous adult feminine proportions, balanced natural limbs.\n\nCostume: a large ring halo behind her head and a tall crown-like head unit, with long hanging shoulder plates — a ceremonial, elegant shape. the halo and waist plates unfold as concentric mechanical lotus petals with readable hinges and gold rimmed armor.\n\nWeapon (fixed — ours): a southern lacquered fan, rebuilt as a far-future high-tech version of the same kind of object with the same silhouette: hard-surface alloy plates with panel lines, mechanical joints, vents and emitter nodes, an energy edge, plasma blade or glowing core in her glow-line colour and small status lights, with any animal motif re-sculpted as sleek machined armour and no wood, silk tassels or forged-bronze fittings.\n\nCostume colours (ours): tropical emerald, lotus pink, lacquer red and gold.\n\nMecha (fixed): she is a female mecha personification — her whole body is covered in solid hard-surface mecha armour plates with visible thickness, joints, panel lines and glow lines, never cloth or a gown; no cloth robe, gown, skirt or long fabric over the plates — any cape, skirt or wing is rigid armoured plates. Her face and hair stay human.\n\nRank (fixed): she is a ruler — her costume must read her sovereign rank at first glance: layered, richly ornate and regal, with flagship-card detail, fine engraving and jewellery, never plain or sparse.\n\nExposure (fixed): bold — her outfit shows skin by design (a deep neckline, bare shoulders or arms, a high slit or short hem); intimate areas covered.\n\nFace proportions: a short midface and a soft, gently rounded jawline with a small soft chin — never a long face or a long, pointed or heavy jaw; any crown or headpiece sits above her hairline and never lengthens her face. Her eyes stay at a natural open size — never squeezed into narrow slits.\n\nPose and setting: standing front-facing with her mechanical energy fan open beside her hip and her free hand relaxed. an asteroid fortress observation deck above a bright violet nebula.\n\nComposition: vertical 2:3 full-body framing with modest headroom and clear space below the boots — the whole figure from the top of her crown or headpiece to both boots stays inside the frame, occupying about four-fifths of the image height, with the same camera distance in every genre; her hands and her signature item stay inside the frame. Camera at chest height with natural portrait perspective — no wide-angle distortion, no low angle, no close crop.\n\nOne figure only, natural hands with five fingers. No other person or creature. No text, logo, watermark or border. Far-future setting only, no traditional East-Asian architecture, pagodas, tiled roofs or hanzi.",
+ "date": "2026-11-16",
+ "record": "records/사섭/mecha.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "사섭",
+  "out": "world",
+  "world": "mecha",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {
+   "사섭|mecha": {}
+  },
+  "looks": {
+   "사섭|mecha": {
+    "params": {},
+    "faceDesignOn": true,
+    "silhouetteOn": true,
+    "exposure": "bold"
+   }
+  },
+  "shots": {
+   "사섭|mecha": {
+    "scene": "",
+    "time": "",
+    "pose": "",
+    "expr": "",
+    "frame": ""
+   }
+  },
+  "walked": {},
+  "casualN": 1,
+  "scenes": {}
+ },
+ "execution": "sam-shixie-645842",
+ "imported": "2026-11-16",
+ "generation": {
+  "tool": "image_gen",
+  "endpoint": "images/generations",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "83b0f61cb31046efe64f44f94a48973c1dcff305d32e91d73fcc7c11fc3045b6",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "prompt_form": "en-prompt",
+  "prompt_sha256": "c7395ad9da6901880a09cb5583210d29edf6814135ec5f97288b25f3c81c9356",
+  "retries": [],
+  "design": "gpt_free",
+  "free_prompt": "Design brief — your own take on this character. A full-body vertical 2:3 (1024×1536) character card image of Shi Xie from the Romance of the Three Kingdoms, reimagined as an adult woman — the long-reigning lord of Jiao province in the far south. Age: late twenties — a graceful grown-up face with soft, smooth contours; no wrinkles, folds or under-eye bags. She is a woman — no beard, moustache or facial hair.\n\nStyle (fixed): Korean MMORPG character artwork. A recognisably drawn face with gently simplified anatomical structure. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\n\nInspiration only: scholarly rule, southern splendor, tropical silks.\n\nWorld (fixed): year 2190, the Free Zones — a lawless asteroid belt between the three powers: warlord fortresses carved into asteroids, wrecked starships drifting in the dark, a violet nebula, warning lights blinking. Her costume, weapon and setting belong to this world.\n\nCharacter: a small oval face, naturally open honey-gold eyes, curved brows, a neat nose and softly full lips; bronze-brown skin; a sculptural ink-blue high ponytail with two short cheek-framing locks; deep ink-blue hair. A warm, thoughtful sovereign expression. Voluptuous adult feminine proportions, balanced natural limbs.\n\nCostume: a large ring halo behind her head and a tall crown-like head unit, with long hanging shoulder plates — a ceremonial, elegant shape. the halo and waist plates unfold as concentric mechanical lotus petals with readable hinges and gold rimmed armor.\n\nWeapon (fixed — ours): a southern lacquered fan, rebuilt as a far-future high-tech version of the same kind of object with the same silhouette: hard-surface alloy plates with panel lines, mechanical joints, vents and emitter nodes, an energy edge, plasma blade or glowing core in her glow-line colour and small status lights, with any animal motif re-sculpted as sleek machined armour and no wood, silk tassels or forged-bronze fittings.\n\nCostume colours (ours): tropical emerald, lotus pink, lacquer red and gold.\n\nMecha (fixed): she is a female mecha personification — her whole body is covered in solid hard-surface mecha armour plates with visible thickness, joints, panel lines and glow lines, never cloth or a gown; no cloth robe, gown, skirt or long fabric over the plates — any cape, skirt or wing is rigid armoured plates. Her face and hair stay human.\n\nRank (fixed): she is a ruler — her costume must read her sovereign rank at first glance: layered, richly ornate and regal, with flagship-card detail, fine engraving and jewellery, never plain or sparse.\n\nExposure (fixed): bold — her outfit shows skin by design (a deep neckline, bare shoulders or arms, a high slit or short hem); intimate areas covered.\n\nFace proportions: a short midface and a soft, gently rounded jawline with a small soft chin — never a long face or a long, pointed or heavy jaw; any crown or headpiece sits above her hairline and never lengthens her face. Her eyes stay at a natural open size — never squeezed into narrow slits.\n\nPose and setting: standing front-facing with her mechanical energy fan open beside her hip and her free hand relaxed. an asteroid fortress observation deck above a bright violet nebula.\n\nComposition: vertical 2:3 full-body framing with modest headroom and clear space below the boots — the whole figure from the top of her crown or headpiece to both boots stays inside the frame, occupying about four-fifths of the image height, with the same camera distance in every genre; her hands and her signature item stay inside the frame. Camera at chest height with natural portrait perspective — no wide-angle distortion, no low angle, no close crop.\n\nOne figure only, natural hands with five fingers. No other person or creature. No text, logo, watermark or border. Far-future setting only, no traditional East-Asian architecture, pagodas, tiled roofs or hanzi.",
+  "selected_number": 3
+ },
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "83b0f61cb31046efe64f44f94a48973c1dcff305d32e91d73fcc7c11fc3045b6",
+  "passed": true,
+  "anatomy": "ok",
+  "exposure": "match",
+  "observations": [
+   "Selected by user: 3",
+   "Full figure in frame; world costume and fan present; no extra or detached limbs observed."
+  ]
+ },
+ "acceptance": "User authorized commit and ordinary main update; no regeneration for exposure censorship.",
+ "review": {
+  "reviewed": false,
+  "by": "user",
+  "result": "pending"
+ }
+}

@@ -1,0 +1,117 @@
+{
+ "atelier": "samguk",
+ "card": "사섭",
+ "faction": "qun",
+ "role": "lord",
+ "world": "fantasy",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v1",
+ "notes": {},
+ "look": {
+  "params": {},
+  "faceDesignOn": true,
+  "silhouetteOn": true,
+  "exposure": "bold"
+ },
+ "design": {
+  "face": {
+   "eye_color": "obsidian",
+   "impression": "regal",
+   "expr": "gentle",
+   "skin_tone": "bronze",
+   "age": "late_20s",
+   "eye_size": "medium",
+   "eye_tilt": "up",
+   "mark": "bare",
+   "brows": "low_heavy",
+   "nose": "broad_soft",
+   "lips": "small_bow",
+   "face_shape": "diamond",
+   "eyes": "round_large"
+  },
+  "silhouette": {
+   "body": "voluptuous",
+   "hair_color": "ink_blue",
+   "hair": "drill_curls",
+   "bangs": "asymmetric"
+  }
+ },
+ "shot": {
+  "scene": "",
+  "time": "",
+  "pose": "",
+  "expr": "",
+  "frame": ""
+ },
+ "file": "사섭_fantasy_kr_drawn_rim_dewy_f.webp",
+ "prompt": "Design brief — your own take on this character. A full-body vertical 2:3 (1024×1536) character card image of Shi Xie from the Romance of the Three Kingdoms, reimagined as an adult woman — the long-reigning lord of Jiao province in the far south. Age: late twenties — a graceful grown-up face with soft, smooth contours; no wrinkles, folds or under-eye bags. She is a woman — no beard, moustache or facial hair.\n\nStyle (fixed): Korean MMORPG character artwork. A recognisably drawn face with gently simplified anatomical structure. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\n\nInspiration only: scholarly rule, southern splendor, tropical silks.\n\nWorld (fixed): the shattered realms of medieval high fantasy, an age of rival warlords after a fallen empire: a ruined imperial capital, mercenary camps, border keeps, outlaw marches and wild southern jungles, dark violet battle-magic. Her costume, weapon and setting belong to this world.\n\nCharacter: a soft rounded heart-shaped face, naturally open jade-green eyes, relaxed brows, a softly rounded nose and small coral lips; bronze-brown skin; a shoulder-length ink-blue wavy bob swept to one side; deep ink-blue hair. A warm, thoughtful sovereign expression. Voluptuous adult feminine proportions, balanced natural limbs.\n\nCostume: a fitted breastplate and pauldrons above a gown skirt flaring to the floor — an elegant lady-knight silhouette. fan-rib shaped articulated metal corset seams open into layered silk panels like a tropical flower.\n\nWeapon (fixed — ours): a southern lacquered fan, reimagined as a Western high-fantasy version of the same kind of object with the same silhouette: polished steel and silvered mithril throughout, the shaft or hilt also forged metal with engraved runes (never plain wood), a faint magical glow running along the edge and the runes, a gem-set guard or socket, a leather-wrapped grip and heraldic or elven ornament, with any animal motif re-sculpted in Western heraldic style and no Chinese fittings, silk tassels or hanzi.\n\nCostume colours (ours): tropical emerald, lotus pink, lacquer red and gold.\n\nRank (fixed): she is a ruler — her costume must read her sovereign rank at first glance: layered, richly ornate and regal, with flagship-card detail, fine engraving and jewellery, never plain or sparse.\n\nExposure (fixed): bold — her outfit shows skin by design (a deep neckline, bare shoulders or arms, a high slit or short hem); intimate areas covered.\n\nFace proportions: a short midface and a soft, gently rounded jawline with a small soft chin — never a long face or a long, pointed or heavy jaw; any crown or headpiece sits above her hairline and never lengthens her face. Her eyes stay at a natural open size — never squeezed into narrow slits.\n\nPose and setting: standing in gentle three-quarter front view, holding her metal fan folded in one hand with her other hand open in welcome. a Western medieval southern coastal castle terrace with stone arches and bright sea beyond.\n\nComposition: vertical 2:3 full-body framing with modest headroom and clear space below the boots — the whole figure from the top of her crown or headpiece to both boots stays inside the frame, occupying about four-fifths of the image height, with the same camera distance in every genre; her hands and her signature item stay inside the frame. Camera at chest height with natural portrait perspective — no wide-angle distortion, no low angle, no close crop.\n\nOne figure only, natural hands with five fingers. No other person or creature. No text, logo, watermark or border. Western medieval setting and dress only — no Chinese architecture, robes, junks or hanzi.",
+ "date": "2026-11-16",
+ "record": "records/사섭/fantasy.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "사섭",
+  "out": "world",
+  "world": "fantasy",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {
+   "사섭|fantasy": {}
+  },
+  "looks": {
+   "사섭|fantasy": {
+    "params": {},
+    "faceDesignOn": true,
+    "silhouetteOn": true,
+    "exposure": "bold"
+   }
+  },
+  "shots": {
+   "사섭|fantasy": {
+    "scene": "",
+    "time": "",
+    "pose": "",
+    "expr": "",
+    "frame": ""
+   }
+  },
+  "walked": {},
+  "casualN": 1,
+  "scenes": {}
+ },
+ "execution": "sam-shixie-645842",
+ "imported": "2026-11-16",
+ "generation": {
+  "tool": "image_gen",
+  "endpoint": "images/generations",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "fb00757be21f1768969109e1991468ff353ddca3b6d6ee067d6f06963027ad1d",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "prompt_form": "en-prompt",
+  "prompt_sha256": "bbe45e8a06149cfc73d4d274cef149be09d05c129c3e6caa90b3bb9a81737372",
+  "retries": [],
+  "design": "gpt_free",
+  "free_prompt": "Design brief — your own take on this character. A full-body vertical 2:3 (1024×1536) character card image of Shi Xie from the Romance of the Three Kingdoms, reimagined as an adult woman — the long-reigning lord of Jiao province in the far south. Age: late twenties — a graceful grown-up face with soft, smooth contours; no wrinkles, folds or under-eye bags. She is a woman — no beard, moustache or facial hair.\n\nStyle (fixed): Korean MMORPG character artwork. A recognisably drawn face with gently simplified anatomical structure. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\n\nInspiration only: scholarly rule, southern splendor, tropical silks.\n\nWorld (fixed): the shattered realms of medieval high fantasy, an age of rival warlords after a fallen empire: a ruined imperial capital, mercenary camps, border keeps, outlaw marches and wild southern jungles, dark violet battle-magic. Her costume, weapon and setting belong to this world.\n\nCharacter: a soft rounded heart-shaped face, naturally open jade-green eyes, relaxed brows, a softly rounded nose and small coral lips; bronze-brown skin; a shoulder-length ink-blue wavy bob swept to one side; deep ink-blue hair. A warm, thoughtful sovereign expression. Voluptuous adult feminine proportions, balanced natural limbs.\n\nCostume: a fitted breastplate and pauldrons above a gown skirt flaring to the floor — an elegant lady-knight silhouette. fan-rib shaped articulated metal corset seams open into layered silk panels like a tropical flower.\n\nWeapon (fixed — ours): a southern lacquered fan, reimagined as a Western high-fantasy version of the same kind of object with the same silhouette: polished steel and silvered mithril throughout, the shaft or hilt also forged metal with engraved runes (never plain wood), a faint magical glow running along the edge and the runes, a gem-set guard or socket, a leather-wrapped grip and heraldic or elven ornament, with any animal motif re-sculpted in Western heraldic style and no Chinese fittings, silk tassels or hanzi.\n\nCostume colours (ours): tropical emerald, lotus pink, lacquer red and gold.\n\nRank (fixed): she is a ruler — her costume must read her sovereign rank at first glance: layered, richly ornate and regal, with flagship-card detail, fine engraving and jewellery, never plain or sparse.\n\nExposure (fixed): bold — her outfit shows skin by design (a deep neckline, bare shoulders or arms, a high slit or short hem); intimate areas covered.\n\nFace proportions: a short midface and a soft, gently rounded jawline with a small soft chin — never a long face or a long, pointed or heavy jaw; any crown or headpiece sits above her hairline and never lengthens her face. Her eyes stay at a natural open size — never squeezed into narrow slits.\n\nPose and setting: standing in gentle three-quarter front view, holding her metal fan folded in one hand with her other hand open in welcome. a Western medieval southern coastal castle terrace with stone arches and bright sea beyond.\n\nComposition: vertical 2:3 full-body framing with modest headroom and clear space below the boots — the whole figure from the top of her crown or headpiece to both boots stays inside the frame, occupying about four-fifths of the image height, with the same camera distance in every genre; her hands and her signature item stay inside the frame. Camera at chest height with natural portrait perspective — no wide-angle distortion, no low angle, no close crop.\n\nOne figure only, natural hands with five fingers. No other person or creature. No text, logo, watermark or border. Western medieval setting and dress only — no Chinese architecture, robes, junks or hanzi.",
+  "selected_number": 4
+ },
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "fb00757be21f1768969109e1991468ff353ddca3b6d6ee067d6f06963027ad1d",
+  "passed": true,
+  "anatomy": "ok",
+  "exposure": "match",
+  "observations": [
+   "Selected by user: 4",
+   "Full figure in frame; world costume and fan present; no extra or detached limbs observed."
+  ]
+ },
+ "acceptance": "User authorized commit and ordinary main update; no regeneration for exposure censorship.",
+ "review": {
+  "reviewed": false,
+  "by": "user",
+  "result": "pending"
+ }
+}
