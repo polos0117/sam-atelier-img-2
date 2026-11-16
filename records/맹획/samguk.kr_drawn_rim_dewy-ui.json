@@ -1,0 +1,118 @@
+{
+ "atelier": "samguk",
+ "card": "맹획",
+ "faction": "qun",
+ "role": "general",
+ "world": "samguk",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v1",
+ "notes": {},
+ "look": {
+  "params": {},
+  "faceDesignOn": true,
+  "silhouetteOn": true,
+  "exposure": "bold"
+ },
+ "design": {
+  "face": {
+   "eye_color": "jade",
+   "impression": "regal",
+   "expr": "smug",
+   "skin_tone": "bronze",
+   "age": "mid_20s",
+   "eye_size": "medium",
+   "eye_tilt": "level",
+   "mark": "gloss",
+   "brows": "arched_thin",
+   "nose": "small_button",
+   "lips": "soft_medium",
+   "face_shape": "diamond",
+   "eyes": "narrow_upturned"
+  },
+  "silhouette": {
+   "body": "strong_curvy",
+   "hair_color": "indigo",
+   "hair": "twin_loops",
+   "bangs": "none"
+  }
+ },
+ "shot": {
+  "scene": "",
+  "time": "",
+  "pose": "",
+  "expr": "",
+  "frame": ""
+ },
+ "file": "맹획_samguk_kr_drawn_rim_dewy_f.webp",
+ "prompt": "Design brief — your own take on this character. A full-body vertical 2:3 (1024×1536) character card image of Meng Huo from the Romance of the Three Kingdoms, reimagined as an adult woman — the Nanman king captured seven times and released seven times. Age: mid-twenties — a clear adult face; no facial lines. She is a woman — no beard, moustache or facial hair.\n\nYou design her yourself: invent her face, eye colour, hairstyle, makeup, expression, pose and setting as a fresh, original take — do not follow any earlier design of this character. Her hair colour, skin tone, costume and weapon are NOT free: take them from our designs below.\n\nStyle (fixed): Korean MMORPG character artwork. A recognisably drawn face with gently simplified anatomical structure. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\n\nInspiration only: proud stubbornness and final loyalty, beast-tooth necklace, tribal gold.\n\nWorld (fixed): the chaos of the late Eastern Han, around 184–200 AD: burning Luoyang, the Hulao Pass, Yellow Turban fields, warlord camps of rival banners, frontier steppe and the southern jungles of the Nanman. Her costume, weapon and setting belong to this world.\n\nCostume (choose one of ours, then add your own idea): pick ONE of these costume shapes from our set and keep its overall silhouette — 1) light armor pieces over a fitted silk martial dress, long silk sashes and a light skirt flowing from the waist and shoulders — a light, dancing silhouette; 2) layered laced lamellar armor, big heavy beast-head pauldrons and armored skirts to the knees — a broad, weighty general's silhouette; 3) fitted light lamellar armor with short armored skirts slit for riding, bracers and greaves — a lean, practical cavalry silhouette; 4) a fitted martial-arts outfit with a wide belt and arm guards, a long silk sash streaming behind — a wandering swordswoman's silhouette; 5) a great war cape spreading from the shoulders to the ankles as the main shape, lamellar armor beneath; 6) a heavy fur mantle over the shoulders with leather straps and beast ornaments — a rugged frontier silhouette; 7) a lamellar breastplate above, many layers of silk skirt flaring wide below the waist — firm above, flowing below; 8) a dark close-fitting light outfit with minimal ornament and wrapped arms and legs — a sleek silhouette, face uncovered; 9) a chest guard, a quiver, a fitted short robe and leg wraps — a light, upright archer's silhouette. Then add one signature idea of your own drawn from her legend, built into the construction of the outfit itself rather than as a print or a loose accessory — e.g. plates or cloth layered like feathers, scales or petals, a hem or sleeve cut into a motif from her story. Build it in this world's materials and our colours below.\n\nWeapon (fixed — ours): a great southern broadsword.\n\nHair colour (fixed — ours): deep indigo hair. Keep exactly this hair colour; only the hairstyle is yours.\n\nSkin tone (fixed — ours): bronze-brown skin. Keep exactly this skin tone.\n\nCostume colours (ours): bronze-gold, deep crimson, jade green and dark wood brown.\n\nRank (fixed): she is a famed war general — her costume must read battlefield might at first glance: imposing, richly worked armour and cloth with flagship-card detail, never plain or sparse.\n\nExposure (fixed): bold — her outfit shows skin by design (a deep neckline, bare shoulders or arms, a high slit or short hem); intimate areas covered.\n\nFace proportions: a short midface and a soft, gently rounded jawline with a small soft chin — never a long face or a long, pointed or heavy jaw; any crown or headpiece sits above her hairline and never lengthens her face. Her eyes stay at a natural open size — never squeezed into narrow slits.\n\nComposition: vertical 2:3 full-body framing with modest headroom and clear space below the boots — the whole figure from the top of her crown or headpiece to both boots stays inside the frame, occupying about four-fifths of the image height, with the same camera distance in every genre; her hands and her signature item stay inside the frame. Camera at chest height with natural portrait perspective — no wide-angle distortion, no low angle, no close crop.\n\nIf you have already drawn a free design of her in this session, make this one clearly different — another face and hairstyle (the same hair colour and skin tone), another costume shape from the list with another signature idea, another pose and setting.\n\nWrite your own detailed image prompt from this brief, then draw it. One figure only, natural hands with five fingers; a banner or seal may carry a single faction character, no other text; no logo or watermark.\n\nChosen detailed design: choose silhouette 5, the great war cape over lamellar armor. The cape has seven broad interlocking folds attached to a fan-shaped shoulder yoke: seven closures released into one free flowing silhouette, her legend expressed through the cut. Deep crimson cape lined dark wood brown, bronze-gold articulated breast armor with a deep neckline and bare upper arms, jade-green waist sash, symmetrical bronze lamellar split skirt over short silk panels, bronze greaves. Her body is strong and curvaceous, full bust and defined waist with natural hips and long legs. Deep indigo hair cut into a voluminous shoulder-length layered bob, side-parted with a single narrow braid behind one ear. Soft oval face, violet eyes, small soft chin, proud but relaxed closed lips. Hold her one great southern broadsword obliquely down beside her with both hands around the hilt in front of her hip, the whole blade visible and never crossing behind the body. A bright late-Han southern river stockade, warm stone, wooden palisades and a distant misty jungle ridge. Face and torso almost frontal, grounded straight legs. Chest-height camera, whole headpiece and both boots framed with margins. Fine painted brushwork, soft facial finish, luminous dewy shoulders and strong warm rim light. One figure only.\n",
+ "date": "2026-11-16",
+ "record": "records/맹획/samguk.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "맹획",
+  "out": "world",
+  "world": "samguk",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {
+   "맹획|samguk": {}
+  },
+  "looks": {
+   "맹획|samguk": {
+    "params": {},
+    "faceDesignOn": true,
+    "silhouetteOn": true,
+    "exposure": "bold"
+   }
+  },
+  "shots": {
+   "맹획|samguk": {
+    "scene": "",
+    "time": "",
+    "pose": "",
+    "expr": "",
+    "frame": ""
+   }
+  },
+  "walked": {},
+  "casualN": 1,
+  "scenes": {}
+ },
+ "generation": {
+  "tool": "image_gen",
+  "endpoint": "images/generations",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "573b0bbfc23884e8f9938e51fb6ea10e3cb51301c0970d1021436f7ff0a167c4",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "prompt_form": "en-prompt",
+  "prompt_sha256": "39555f52c2ad4b2ddb875125eeca6ae4abac596d8a957bc23ccf458136170f86",
+  "retries": [],
+  "design": "gpt_free",
+  "free_prompt": "Design brief — your own take on this character. A full-body vertical 2:3 (1024×1536) character card image of Meng Huo from the Romance of the Three Kingdoms, reimagined as an adult woman — the Nanman king captured seven times and released seven times. Age: mid-twenties — a clear adult face; no facial lines. She is a woman — no beard, moustache or facial hair.\n\nYou design her yourself: invent her face, eye colour, hairstyle, makeup, expression, pose and setting as a fresh, original take — do not follow any earlier design of this character. Her hair colour, skin tone, costume and weapon are NOT free: take them from our designs below.\n\nStyle (fixed): Korean MMORPG character artwork. A recognisably drawn face with gently simplified anatomical structure. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\n\nInspiration only: proud stubbornness and final loyalty, beast-tooth necklace, tribal gold.\n\nWorld (fixed): the chaos of the late Eastern Han, around 184–200 AD: burning Luoyang, the Hulao Pass, Yellow Turban fields, warlord camps of rival banners, frontier steppe and the southern jungles of the Nanman. Her costume, weapon and setting belong to this world.\n\nCostume (choose one of ours, then add your own idea): pick ONE of these costume shapes from our set and keep its overall silhouette — 1) light armor pieces over a fitted silk martial dress, long silk sashes and a light skirt flowing from the waist and shoulders — a light, dancing silhouette; 2) layered laced lamellar armor, big heavy beast-head pauldrons and armored skirts to the knees — a broad, weighty general's silhouette; 3) fitted light lamellar armor with short armored skirts slit for riding, bracers and greaves — a lean, practical cavalry silhouette; 4) a fitted martial-arts outfit with a wide belt and arm guards, a long silk sash streaming behind — a wandering swordswoman's silhouette; 5) a great war cape spreading from the shoulders to the ankles as the main shape, lamellar armor beneath; 6) a heavy fur mantle over the shoulders with leather straps and beast ornaments — a rugged frontier silhouette; 7) a lamellar breastplate above, many layers of silk skirt flaring wide below the waist — firm above, flowing below; 8) a dark close-fitting light outfit with minimal ornament and wrapped arms and legs — a sleek silhouette, face uncovered; 9) a chest guard, a quiver, a fitted short robe and leg wraps — a light, upright archer's silhouette. Then add one signature idea of your own drawn from her legend, built into the construction of the outfit itself rather than as a print or a loose accessory — e.g. plates or cloth layered like feathers, scales or petals, a hem or sleeve cut into a motif from her story. Build it in this world's materials and our colours below.\n\nWeapon (fixed — ours): a great southern broadsword.\n\nHair colour (fixed — ours): deep indigo hair. Keep exactly this hair colour; only the hairstyle is yours.\n\nSkin tone (fixed — ours): bronze-brown skin. Keep exactly this skin tone.\n\nCostume colours (ours): bronze-gold, deep crimson, jade green and dark wood brown.\n\nRank (fixed): she is a famed war general — her costume must read battlefield might at first glance: imposing, richly worked armour and cloth with flagship-card detail, never plain or sparse.\n\nExposure (fixed): bold — her outfit shows skin by design (a deep neckline, bare shoulders or arms, a high slit or short hem); intimate areas covered.\n\nFace proportions: a short midface and a soft, gently rounded jawline with a small soft chin — never a long face or a long, pointed or heavy jaw; any crown or headpiece sits above her hairline and never lengthens her face. Her eyes stay at a natural open size — never squeezed into narrow slits.\n\nComposition: vertical 2:3 full-body framing with modest headroom and clear space below the boots — the whole figure from the top of her crown or headpiece to both boots stays inside the frame, occupying about four-fifths of the image height, with the same camera distance in every genre; her hands and her signature item stay inside the frame. Camera at chest height with natural portrait perspective — no wide-angle distortion, no low angle, no close crop.\n\nIf you have already drawn a free design of her in this session, make this one clearly different — another face and hairstyle (the same hair colour and skin tone), another costume shape from the list with another signature idea, another pose and setting.\n\nWrite your own detailed image prompt from this brief, then draw it. One figure only, natural hands with five fingers; a banner or seal may carry a single faction character, no other text; no logo or watermark.\n\nChosen detailed design: choose silhouette 5, the great war cape over lamellar armor. The cape has seven broad interlocking folds attached to a fan-shaped shoulder yoke: seven closures released into one free flowing silhouette, her legend expressed through the cut. Deep crimson cape lined dark wood brown, bronze-gold articulated breast armor with a deep neckline and bare upper arms, jade-green waist sash, symmetrical bronze lamellar split skirt over short silk panels, bronze greaves. Her body is strong and curvaceous, full bust and defined waist with natural hips and long legs. Deep indigo hair cut into a voluminous shoulder-length layered bob, side-parted with a single narrow braid behind one ear. Soft oval face, violet eyes, small soft chin, proud but relaxed closed lips. Hold her one great southern broadsword obliquely down beside her with both hands around the hilt in front of her hip, the whole blade visible and never crossing behind the body. A bright late-Han southern river stockade, warm stone, wooden palisades and a distant misty jungle ridge. Face and torso almost frontal, grounded straight legs. Chest-height camera, whole headpiece and both boots framed with margins. Fine painted brushwork, soft facial finish, luminous dewy shoulders and strong warm rim light. One figure only.\n"
+ },
+ "refDesign": "gpt_free",
+ "execution": "sam-menghuo-b58b-20261116",
+ "imported": "2026-11-16",
+ "qa": {
+  "reviewer": "gpt-session",
+  "image_sha256": "573b0bbfc23884e8f9938e51fb6ea10e3cb51301c0970d1021436f7ff0a167c4",
+  "passed": false,
+  "anatomy": "ok",
+  "exposure": "match",
+  "observations": [
+   "1024x1536; visually reviewed; selected reference face, hair and bronze skin retained; no extra or disconnected limbs observed.",
+   "Selected free design preserved. Banner shows 南 instead of permitted 雄/孟; head and both boots are inside the frame."
+  ],
+  "cause": "Generated output or prompt provenance differs from one or more requested constraints; original preserved and not regenerated."
+ },
+ "acceptance": "User selected world images 4,2,1 and authorized character-completion commits and non-force main publication.",
+ "review": {
+  "reviewed": false,
+  "by": "user",
+  "result": "pending"
+ }
+}
