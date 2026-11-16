@@ -1,0 +1,129 @@
+{
+ "atelier": "samguk",
+ "card": "관평",
+ "faction": "shu",
+ "slot": "casual7",
+ "treeV": 2,
+ "world": "samguk",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v1",
+ "ref": "관평_samguk_kr_drawn_rim_dewy_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "fantasy",
+  "place": "fx_ice",
+  "ofam": "drape",
+  "item": "peplos_mini",
+  "posture": "lean_wall",
+  "support": "back_wall",
+  "frame": "waist_up",
+  "body": "front_3q",
+  "head": "with_body",
+  "camera": "eye",
+  "right": "hair_tuck",
+  "left": "out",
+  "use": "",
+  "legs": "",
+  "gaze": "screen_left",
+  "ofree": true,
+  "ofreeRecent": "a Han-era workshop beside a smithy — adjusts a small mechanism on the work surface with a small screwdriver; a Korean jjimjilbang hall with heated floors and sleeping mats — dries her hair with a towel; the open deck of a wooden sightseeing boat on the Yangtze — standing; the back seat of a taxi at night — touches one ear cup of a pair of over-ear headphones hung around her neck; a club powder room with a lit mirror and neon on the tiles — touches one ear cup of a pair of over-ear headphones hung around her neck; an editorial photo studio with a seamless backdrop and dramatic lights — standing; a narrow path through a tall bamboo grove — standing; a candlelit gala dinner hall — holds a cup in both hands; a night-train sleeper compartment with a narrow berth — lying on her left side; inside a general's command tent — kneeling on the ground; a stage under a painted night sky of crystal stars — sitting on the ground; the riverside park at the Red Cliffs on the Yangtze — holds one end of a towel hung around her neck; a futuristic spa of white curves and soft light — standing",
+  "expr": "amused",
+  "preset": "wall_hair",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "관평_samguk_kr_drawn_rim_dewy_f_casual7.webp",
+ "prompt": "INPUT: the attached image is the approved character — her Three kingdoms card; keep her. Do not reuse earlier conversation images.\n\nCHARACTER: the same woman as the attached image — the female personification of Guan Ping of the Three Kingdoms, seen in her everyday life. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change, and her hair may be worn differently only as SCENE's Hair line says. Her Three Kingdoms identity shows ONLY as a small accessory, an object around her, or the object PROP says she holds — never in the outfit's colours, patterns or cut, never as armor, regalia or a costume.\n\nDESIGN (accessory hints only): her legend — steady and dutiful, a green war robe like her parent's, falling together with Guan Yu at Maicheng — may inform at most one small accessory, a hair ornament or an object beside her, in its palette (jade green, imperial gold, earthen brown, white jade). The clothes keep the chosen outfit's own colours; her skin, hair and eyes stay as in the attached image.\n\nSIGNATURE ACCESSORY: off duty she carries no weapon — no sword, saber, spear, glaive, halberd, bow, axe, shield or any blade in her hands, on her back or anywhere in the scene. Her signature weapon (a broad saber with a green tassel) appears only as one small worn accessory modelled on its shape and colours — a hair ornament, pendant, earring, brooch or belt charm a few centimetres long, clearly jewellery and not a usable weapon.\n\nSTYLE: Korean MMORPG character artwork. A recognisably drawn face with gently simplified anatomical structure. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\n\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nAGE: the same adult woman as in the attached image — keep her own face shape, cheekbones, eye proportions and skin tone exactly; minimal facial lines (no nasolabial folds, crow's feet, under-eye bags or cheek creases). Keep her face soft, feminine and attractive in every framing — never elongated, gaunt, mannish or heavy-jawed, even in close-ups, profiles or low angles.\n\nOUTPUT: one standalone off-duty scene of her in the outfit chosen in SCENE; her legend shows only through accessories and objects around her — never in the outfit's colours, patterns or cut, never as armor, regalia or a costume. Everything else follows SCENE (chosen).\n\nFRAME: a vertical 2:3 (1024×1536) image. Compose the image for this frame; COMPOSITION in SCENE sets how much of her shows.\n\nSCENE (chosen):\nFREE DESIGN: design the place, activity, pose, framing and outfit yourself. Start from who she is — her legend, traits and personality — and show an everyday moment that is unexpected yet feels natural for her. Make it fresh through the situation and what she is doing, not through more decoration. Avoid scenes like the recent ones listed below. Keep her face, the art style and the body and anatomy rules exactly as stated. Before drawing, write your design into the lines below, then draw it. In your pose, give each hand one job only and say plainly where each arm goes; avoid poses where it is unclear which shoulder an arm comes from — an arm behind her back, behind her head or pinned under her body — and never state where a foot sits under water. Do not make it another small repair, adjusting, measuring or sorting task at a workbench, repair stall, equipment room or locker room — those scenes are already in our own list; choose another kind of everyday moment (rest, play, a meal, travel, weather, getting ready, simply being in the place).\nRecent scenes to avoid: a Han-era workshop beside a smithy — adjusts a small mechanism on the work surface with a small screwdriver; a Korean jjimjilbang hall with heated floors and sleeping mats — dries her hair with a towel; the open deck of a wooden sightseeing boat on the Yangtze — standing; the back seat of a taxi at night — touches one ear cup of a pair of over-ear headphones hung around her neck; a club powder room with a lit mirror and neon on the tiles — touches one ear cup of a pair of over-ear headphones hung around her neck; an editorial photo studio with a seamless backdrop and dramatic lights — standing; a narrow path through a tall bamboo grove — standing; a candlelit gala dinner hall — holds a cup in both hands; a night-train sleeper compartment with a narrow berth — lying on her left side; inside a general's command tent — kneeling on the ground; a stage under a painted night sky of crystal stars — sitting on the ground; the riverside park at the Red Cliffs on the Yangtze — holds one end of a towel hung around her neck; a futuristic spa of white curves and soft light — standing.\nPlace: …\nActivity: …\nPose: …\nFraming: …\nOutfit: … (a revealing, fashionable outfit that is not in our outfit catalog — outfit-catalog.md in this pack)\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing; nothing slipped off; intimate areas covered\n\nWARDROBE: change her clothes completely. From the attached image take only her face, hair and body — not its garment, armor, regalia, ornaments, mecha plates or background. Dress her exactly as SCENE describes; that outfit must read at first glance, keeping its own recognisable colours and parts. Do not carry the attached image's palette, patterns or trim into the outfit; her Three Kingdoms identity belongs in accessories and props, never in the clothes — never restyle the chosen outfit into her faction's palette, armor, robes or regalia.\n\nANGLE: the attached image fixes who she is, not how she is posed or shot. Do not copy its head angle, head tilt, gaze direction, face size in frame, camera height or crop — turn her head, set her gaze and place the camera exactly as SCENE describes, and let her face read naturally from that new angle (profile, three-quarter, looking down or away), with her features staying the same. No default card pose, no default front-facing portrait.\n\nONE MAIN FIGURE: she is the only character in focus. Where the place is busy, other people may appear only as small, soft-focus background extras — never posed with her. No logo, no watermark, no speech bubble, no frame border. No readable text or numbers.\n\nANATOMY: natural adult proportions, about 7.5 heads tall — height from the legs, never a smaller head or a longer neck. The neck is a natural length and the head sits close to the shoulders. No body-part enlargement, no extra limbs.\n\nFIGURE: pear-shaped and curvaceous — slimmer shoulders over a narrow waist, full rounded hips and thick thighs, a full bust — keep this exact build from the attached image, neither slimmer nor fuller.\n\nBODY: a normal human body — one head, two arms and two legs, each joined at its natural joint; elbows, knees and wrists bend the human way. Hands and feet may be partly hidden by the pose, what she holds or the frame. Right and left mean her own right and left, not the viewer's.\n\nHANDS: natural human hands, no extra or duplicated limbs; each visible hand joins through its wrist and forearm to the matching shoulder. A hand may stay outside the crop, and fingers may be partly hidden by a grip.\n\nAVOID: a blue or bruise-like tint on the skin around the eyes, glossy or shiny highlights on the face, sweaty, oily or plastic-looking skin.",
+ "date": "2026-11-16",
+ "record": "records/관평/samguk-casual7.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "관평",
+  "out": "casual",
+  "world": "samguk",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 7,
+  "scenes": {
+   "관평": {
+    "era": "fantasy",
+    "place": "fx_ice",
+    "ofam": "drape",
+    "treeV": 2,
+    "prop": "",
+    "preset": "wall_hair",
+    "use": "",
+    "posture": "lean_wall",
+    "support": "back_wall",
+    "frame": "waist_up",
+    "body": "front_3q",
+    "head": "with_body",
+    "camera": "eye",
+    "right": "hair_tuck",
+    "left": "out",
+    "legs": "",
+    "gaze": "screen_left",
+    "item": "peplos_mini",
+    "expr": "amused",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "ofree": true,
+    "ofreeRecent": "a Han-era workshop beside a smithy — adjusts a small mechanism on the work surface with a small screwdriver; a Korean jjimjilbang hall with heated floors and sleeping mats — dries her hair with a towel; the open deck of a wooden sightseeing boat on the Yangtze — standing; the back seat of a taxi at night — touches one ear cup of a pair of over-ear headphones hung around her neck; a club powder room with a lit mirror and neon on the tiles — touches one ear cup of a pair of over-ear headphones hung around her neck; an editorial photo studio with a seamless backdrop and dramatic lights — standing; a narrow path through a tall bamboo grove — standing; a candlelit gala dinner hall — holds a cup in both hands; a night-train sleeper compartment with a narrow berth — lying on her left side; inside a general's command tent — kneeling on the ground; a stage under a painted night sky of crystal stars — sitting on the ground; the riverside park at the Red Cliffs on the Yangtze — holds one end of a towel hung around her neck; a futuristic spa of white curves and soft light — standing"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "2383a436bf25e15efa60f7628c2bd0d44eee749f912c2ef3d86cb1148111bd0b",
+  "ref_sha256": "ee2ced12310223ca87ec1b408bace9834580ccd7fb3c8789f20ede1b342c3198",
+  "prompt_sha256": "2c377aee07b84f55ff128fd9f6ee4a2fdf504506da5df905c129c1ff07e1bc76",
+  "prompt_form": "en-prompt",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "free_design": {
+   "Place": "a bright modern outdoor climbing gym at the base of a low bouldering wall",
+   "Activity": "she brushes chalk onto her palms before trying the first low foothold, quietly enjoying a new hobby",
+   "Pose": "standing facing the viewer, both elbows bent in front of her waist, right hand tipping a small chalk pouch into her open left palm; both feet planted naturally",
+   "Framing": "full body from head to both shoes, natural chest-height camera, face toward viewer, no other foreground people",
+   "Outfit": "a rust-orange asymmetric folded-panel cropped athletic halter and high-waisted plum petal-pleated skort, secure opaque fabric, bare midriff and arms, flat climbing shoes; a tiny green saber-shaped pendant as her only signature accessory"
+  },
+  "free_prompt": "INPUT: the attached image is the approved character — her Three kingdoms card; keep her. Do not reuse earlier conversation images.\n\nCHARACTER: the same woman as the attached image — the female personification of Guan Ping of the Three Kingdoms, seen in her everyday life. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change, and her hair may be worn differently only as SCENE's Hair line says. Her Three Kingdoms identity shows ONLY as a small accessory, an object around her, or the object PROP says she holds — never in the outfit's colours, patterns or cut, never as armor, regalia or a costume.\n\nDESIGN (accessory hints only): her legend — steady and dutiful, a green war robe like her parent's, falling together with Guan Yu at Maicheng — may inform at most one small accessory, a hair ornament or an object beside her, in its palette (jade green, imperial gold, earthen brown, white jade). The clothes keep the chosen outfit's own colours; her skin, hair and eyes stay as in the attached image.\n\nSIGNATURE ACCESSORY: off duty she carries no weapon — no sword, saber, spear, glaive, halberd, bow, axe, shield or any blade in her hands, on her back or anywhere in the scene. Her signature weapon (a broad saber with a green tassel) appears only as one small worn accessory modelled on its shape and colours — a hair ornament, pendant, earring, brooch or belt charm a few centimetres long, clearly jewellery and not a usable weapon.\n\nSTYLE: Korean MMORPG character artwork. A recognisably drawn face with gently simplified anatomical structure. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\n\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nAGE: the same adult woman as in the attached image — keep her own face shape, cheekbones, eye proportions and skin tone exactly; minimal facial lines (no nasolabial folds, crow's feet, under-eye bags or cheek creases). Keep her face soft, feminine and attractive in every framing — never elongated, gaunt, mannish or heavy-jawed, even in close-ups, profiles or low angles.\n\nOUTPUT: one standalone off-duty scene of her in the outfit chosen in SCENE; her legend shows only through accessories and objects around her — never in the outfit's colours, patterns or cut, never as armor, regalia or a costume. Everything else follows SCENE (chosen).\n\nFRAME: a vertical 2:3 (1024×1536) image. Compose the image for this frame; COMPOSITION in SCENE sets how much of her shows.\n\nSCENE (chosen):\nFREE DESIGN: design the place, activity, pose, framing and outfit yourself. Start from who she is — her legend, traits and personality — and show an everyday moment that is unexpected yet feels natural for her. Make it fresh through the situation and what she is doing, not through more decoration. Avoid scenes like the recent ones listed below. Keep her face, the art style and the body and anatomy rules exactly as stated. Before drawing, write your design into the lines below, then draw it. In your pose, give each hand one job only and say plainly where each arm goes; avoid poses where it is unclear which shoulder an arm comes from — an arm behind her back, behind her head or pinned under her body — and never state where a foot sits under water. Do not make it another small repair, adjusting, measuring or sorting task at a workbench, repair stall, equipment room or locker room — those scenes are already in our own list; choose another kind of everyday moment (rest, play, a meal, travel, weather, getting ready, simply being in the place).\nRecent scenes to avoid: a Han-era workshop beside a smithy — adjusts a small mechanism on the work surface with a small screwdriver; a Korean jjimjilbang hall with heated floors and sleeping mats — dries her hair with a towel; the open deck of a wooden sightseeing boat on the Yangtze — standing; the back seat of a taxi at night — touches one ear cup of a pair of over-ear headphones hung around her neck; a club powder room with a lit mirror and neon on the tiles — touches one ear cup of a pair of over-ear headphones hung around her neck; an editorial photo studio with a seamless backdrop and dramatic lights — standing; a narrow path through a tall bamboo grove — standing; a candlelit gala dinner hall — holds a cup in both hands; a night-train sleeper compartment with a narrow berth — lying on her left side; inside a general's command tent — kneeling on the ground; a stage under a painted night sky of crystal stars — sitting on the ground; the riverside park at the Red Cliffs on the Yangtze — holds one end of a towel hung around her neck; a futuristic spa of white curves and soft light — standing.\nPlace: a bright modern outdoor climbing gym at the base of a low bouldering wall\nActivity: she brushes chalk onto her palms before trying the first low foothold, quietly enjoying a new hobby\nPose: standing facing the viewer, both elbows bent in front of her waist, right hand tipping a small chalk pouch into her open left palm; both feet planted naturally\nFraming: full body from head to both shoes, natural chest-height camera, face toward viewer, no other foreground people\nOutfit: a rust-orange asymmetric folded-panel cropped athletic halter and high-waisted plum petal-pleated skort, secure opaque fabric, bare midriff and arms, flat climbing shoes; a tiny green saber-shaped pendant as her only signature accessory\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing; nothing slipped off; intimate areas covered\n\nWARDROBE: change her clothes completely. From the attached image take only her face, hair and body — not its garment, armor, regalia, ornaments, mecha plates or background. Dress her exactly as SCENE describes; that outfit must read at first glance, keeping its own recognisable colours and parts. Do not carry the attached image's palette, patterns or trim into the outfit; her Three Kingdoms identity belongs in accessories and props, never in the clothes — never restyle the chosen outfit into her faction's palette, armor, robes or regalia.\n\nANGLE: the attached image fixes who she is, not how she is posed or shot. Do not copy its head angle, head tilt, gaze direction, face size in frame, camera height or crop — turn her head, set her gaze and place the camera exactly as SCENE describes, and let her face read naturally from that new angle (profile, three-quarter, looking down or away), with her features staying the same. No default card pose, no default front-facing portrait.\n\nONE MAIN FIGURE: she is the only character in focus. Where the place is busy, other people may appear only as small, soft-focus background extras — never posed with her. No logo, no watermark, no speech bubble, no frame border. No readable text or numbers.\n\nANATOMY: natural adult proportions, about 7.5 heads tall — height from the legs, never a smaller head or a longer neck. The neck is a natural length and the head sits close to the shoulders. No body-part enlargement, no extra limbs.\n\nFIGURE: pear-shaped and curvaceous — slimmer shoulders over a narrow waist, full rounded hips and thick thighs, a full bust — keep this exact build from the attached image, neither slimmer nor fuller.\n\nBODY: a normal human body — one head, two arms and two legs, each joined at its natural joint; elbows, knees and wrists bend the human way. Hands and feet may be partly hidden by the pose, what she holds or the frame. Right and left mean her own right and left, not the viewer's.\n\nHANDS: natural human hands, no extra or duplicated limbs; each visible hand joins through its wrist and forearm to the matching shoulder. A hand may stay outside the crop, and fingers may be partly hidden by a grip.\n\nAVOID: a blue or bruise-like tint on the skin around the eyes, glossy or shiny highlights on the face, sweaty, oily or plastic-looking skin."
+ },
+ "execution": "sam-guanping-31c79",
+ "imported": "2026-11-16",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "2383a436bf25e15efa60f7628c2bd0d44eee749f912c2ef3d86cb1148111bd0b",
+  "passed": true,
+  "anatomy": "ok",
+  "exposure": "match",
+  "observations": [
+   "Outdoor climbing gym, orange crop top and plum skort; chalk pouch tipped into opposite palm, both feet visible and naturally planted.",
+   "Original preserved; no exposure-based regeneration of a completed image."
+  ]
+ },
+ "acceptance": "user_authorized_complete_commit_normal_main_update; preserve_generated_images",
+ "review": {
+  "reviewed": false,
+  "by": "user",
+  "result": "pending"
+ }
+}

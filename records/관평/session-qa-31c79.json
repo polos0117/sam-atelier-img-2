@@ -1,0 +1,26 @@
+{
+ "card": "관평",
+ "selection": {
+  "samguk": 2,
+  "fantasy": 2,
+  "mecha": 2
+ },
+ "execution": "sam-guanping-31c79",
+ "image_count": 27,
+ "structural_checks": "27 images 1024x1536; all three seven-cut bundles pass; all three own cuts present",
+ "cross_world_notices": [
+  "fantasy casual7 and samguk casual90 share thumbs_waist pose",
+  "fantasy casual90 and samguk casual90 share nation_square/everyday category, but belong to different historical worlds"
+ ],
+ "disposition": "Preserved completed originals; no exposure-based regeneration. Visual mismatches recorded in per-image qa.",
+ "blocked_without_image": [
+  {
+   "slot": "fantasy-casual7",
+   "requests": [
+    "5d72b935-0127-469f-89c4-7c7ef44bcbf2",
+    "d467a2f8-f68f-450e-a2cc-99845cb262cf"
+   ],
+   "completed_level": "moderate"
+  }
+ ]
+}
