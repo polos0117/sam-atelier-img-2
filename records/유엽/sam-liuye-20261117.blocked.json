@@ -1,0 +1,41 @@
+{
+ "execution": "sam-liuye-20261117",
+ "status": "blocked",
+ "reason": "One image generation returned moderation_blocked at output stage; concurrent tool invocation ended without per-slot outcomes for the remaining requests. No retries issued to avoid duplicate generation.",
+ "request_id": "b48a91f7-0888-41f7-881f-0fbc342084c0",
+ "confirmed": [
+  "fantasy-casual1",
+  "fantasy-casual2",
+  "fantasy-casual3",
+  "fantasy-casual4",
+  "fantasy-casual6",
+  "samguk-casual1",
+  "samguk-casual2",
+  "samguk-casual3",
+  "samguk-casual4",
+  "samguk-casual5",
+  "samguk-casual6",
+  "samguk-casual90"
+ ],
+ "unconfirmed": [
+  "fantasy-casual5",
+  "fantasy-casual7",
+  "fantasy-casual90",
+  "mecha-casual1",
+  "mecha-casual2",
+  "mecha-casual3",
+  "mecha-casual4",
+  "mecha-casual5",
+  "mecha-casual6",
+  "mecha-casual7",
+  "mecha-casual90",
+  "samguk-casual7"
+ ],
+ "error": {
+  "code": "moderation_blocked",
+  "moderation_stage": "output",
+  "categories": [
+   "sexual"
+  ]
+ }
+}
