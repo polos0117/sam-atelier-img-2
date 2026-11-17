@@ -1,0 +1,111 @@
+{
+  "atelier": "samguk",
+  "card": "조무",
+  "faction": "wu",
+  "role": "general",
+  "world": "mecha",
+  "style": "kr_drawn_rim_dewy",
+  "styleVersion": "v1",
+  "notes": {},
+  "look": {
+    "params": {},
+    "faceDesignOn": true,
+    "silhouetteOn": true,
+    "exposure": "bold"
+  },
+  "design": {
+    "face": {
+      "eye_color": "hazel",
+      "impression": "innocent",
+      "expr": "determined",
+      "skin_tone": "fair",
+      "age": "mid_20s",
+      "eye_size": "medium",
+      "eye_tilt": "up",
+      "mark": "dark_lip",
+      "brows": "straight_thin",
+      "nose": "aquiline",
+      "lips": "thin_long",
+      "face_shape": "diamond",
+      "eyes": "hooded"
+    },
+    "silhouette": {
+      "body": "petite_curvy",
+      "hair_color": "emerald_green",
+      "hair": "flipped_shoulder",
+      "bangs": "side_locks"
+    }
+  },
+  "shot": {
+    "scene": "",
+    "time": "",
+    "pose": "",
+    "expr": "",
+    "frame": ""
+  },
+  "file": "조무_mecha_kr_drawn_rim_dewy_f.webp",
+  "prompt": "A full-body character image, vertical 2:3 (1024×1536): Zu Mao of the Romance of the Three Kingdoms, reimagined as an adult woman — the loyal guard who wore her lord's red headscarf to die in her place.\n\n1. STYLE\nKorean MMORPG character artwork. A recognisably drawn face with gently simplified anatomical structure. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nHer face is small and soft: a short midface, a softly rounded jaw and a small chin, about 1.3 times as long as it is wide, with her eyes open at their natural size. Bangs, side locks and headpieces frame the face without lengthening it.\nSkin finish: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\n2. CHARACTER\nAge: mid-twenties — a clear adult face.\nFace — her own, recognisably this character, a woman's face with no beard or facial hair: a clear, innocent purity; fair skin; diamond-shaped face; medium-sized eyes — hooded eyes, outer eye corners slightly lifted; thin straight brows; aquiline nose; thin long lips; hazel eyes; dark berry lipstick.\nBody and hair: petite and compact yet curvaceous — full bust and rounded hips on a small frame build; shoulder-length hair with outward-flipped ends with no bangs, long face-framing side locks; deep emerald-green hair.\nExpression: a firm, resolute look with calm, steady eyes, subtle and relaxed.\nLegend, carried in her design and bearing: quiet loyalty, a borrowed red headscarf.\nAnatomy: one head, two arms and two legs, each joined at its natural joint; natural hands with five fingers.\n\n3. COSTUME AND EQUIPMENT — MECHA\nCostume: a female mecha personification built as an assault-type mecha frame — heavy armor plates, thruster packs, reinforced limbs, her weapon rebuilt as a large mecha armament. Solid hard-surface plates with visible joints cover her frame except at the openings named under Exposure; any cape or skirt is made of rigid armored plates; her face and hair stay human.\nSilhouette: a slender torso with oversized mechanical forearms and lower legs — huge gauntlets and boots — the contrast is the main shape. This silhouette sets the overall shape of the costume above — keep its materials, ornaments and rank in this shape; the details are free.\nColours: crimson red, gold, river teal, black lacquer. Faction frame: crimson and black lacquer plating with gold edges, streamlined naval hull shapes and fin binders, hydrojet thrusters, flame-orange glow lines.\nSignature item: a pair of short swords, rebuilt as a far-future high-tech version of the same kind of object with the same silhouette — hard-surface alloy plates with panel lines, mechanical joints, vents and emitter nodes, an energy edge, plasma blade or glowing core in her glow-line colour and small status lights, with any animal motif re-sculpted as sleek machined armour. She holds it at full scale: one whole object, drawn once, held in front of or beside her body; a long weapon keeps one straight, unbroken shaft with a single head or blade.\nExposure (bold): her mecha frame is cut open by design in only these places — bare upper arms below the pauldrons, which stay seated on top of her shoulders, and bare upper thighs between the hip armor and thigh-high leg plates; everywhere else she stays fully plated. The plates stay on, fitted and symmetrical, with skin clearly showing in each opening. Intimate areas covered; keep the plate material and palette.\n\n4. SCENE\nWorld: year 2190, the Wu carrier fleet in orbit above an ocean world: crimson starships and carriers, a glowing nebula, the planet's blue oceans and storm clouds below, neon running lights on the hulls.\nPose: standing confidently, her body turned slightly while her face looks toward the viewer.\nLight: a soft key light with a strong rim light tracing her hair, shoulders and armour; bright, crisp specular highlights on metal and jewellery, and a clean, warm-neutral sheen on her skin.\nComposition: her whole figure from the top of her head or headpiece to both feet inside the frame with clear margins, about four-fifths of the image height; camera at chest height with natural portrait perspective.\n\n5. CONSTRAINTS\nOne figure only — no second character, horse or other creature. No readable text or numbers — emblems are abstract insignia shapes only, never letters or Chinese characters. No logo, watermark, speech bubble or frame border. A far-future setting only — space stations, starships and high-tech structures — with no traditional East-Asian architecture.\nAvoid: a blue or bruise-like tint on the skin around the eyes, glossy or shiny highlights on the face, sweaty, oily or plastic-looking skin.",
+  "date": "2026-11-17",
+  "record": "records/조무/mecha.kr_drawn_rim_dewy-ui.json",
+  "storage": {
+    "card": "조무",
+    "out": "world",
+    "world": "mecha",
+    "style": "kr_drawn_rim_dewy",
+    "notes": {
+      "조무|mecha": {}
+    },
+    "looks": {
+      "조무|mecha": {
+        "params": {},
+        "faceDesignOn": true,
+        "silhouetteOn": true,
+        "exposure": "bold"
+      }
+    },
+    "shots": {
+      "조무|mecha": {
+        "scene": "",
+        "time": "",
+        "pose": "",
+        "expr": "",
+        "frame": ""
+      }
+    },
+    "walked": {},
+    "casualN": 1,
+    "scenes": {}
+  },
+  "generation": {
+    "tool": "image_gen",
+    "endpoint": "images/generations",
+    "size": [
+      1024,
+      1536
+    ],
+    "png_sha256": "18b1b4e799893b2ddacb1124876c4b668f8c34e50d4c6719e1e26922cc160ade",
+    "webp": {
+      "quality": 90,
+      "method": 6
+    },
+    "prompt_form": "en-prompt",
+    "prompt_sha256": "12020e9cac9f029bb80559cb28da837dbeea5a5b35fce662aa459844fd35731b",
+    "selection": 4,
+    "design": "gpt_free",
+    "free_prompt": "Design brief — your own take on this character. A full-body vertical 2:3 (1024×1536) character card image of Zu Mao from the Romance of the Three Kingdoms, reimagined as an adult woman — the loyal guard who wore her lord's red headscarf to die in her place. Age: mid-twenties — a clear adult face; no facial lines. She is a woman — no beard, moustache or facial hair.\n\nYou design her yourself: invent her face, eye colour, hairstyle, makeup, expression, pose and setting as a fresh, original take — do not follow any earlier design of this character. Her hair colour, skin tone, costume and weapon are NOT free: take them from our designs below.\n\nStyle (fixed): Korean MMORPG character artwork. A recognisably drawn face with gently simplified anatomical structure. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\n\nInspiration only: quiet loyalty, a borrowed red headscarf.\n\nWorld (fixed): year 2190, the Wu carrier fleet in orbit above an ocean world: crimson starships and carriers, a glowing nebula, the planet's blue oceans and storm clouds below, neon running lights on the hulls. Her costume, weapon and setting belong to this world.\n\nCostume (choose one of ours, then add your own idea): pick ONE of these costume shapes from our set and keep its overall silhouette — 1) a sleek armored bodysuit — thin, long plates on the shoulders, arms and legs that follow her curves closely; 2) heavy assault bulk — big, thick shoulder and leg armor, a broad upper silhouette and large thrusters on the back and legs, while the torso stays fitted and the waist narrow; 3) several rigid jointed armor plates flaring from the waist like a skirt — plates, not cloth — with the legs showing between them; 4) minimal thin armor with large thrusters at the calves and ankles — a light, fast, forward-leaning silhouette; 5) separate armor pieces rather than one shell — plates on the shoulders, forearms, chest, waist, thighs and shins, with a dark fitted inner suit showing between them; 6) complete full-body armor with plates joined seamlessly from neck to feet — bare skin only on the face and where EXPOSURE allows, dense visible seams and joints; 7) a slender torso with oversized mechanical forearms and lower legs — huge gauntlets and boots — the contrast is the main shape; 8) mecha armor shaped like a medieval knight's plate — big rounded pauldrons, a breastplate, layered plates below the waist, a head ornament instead of a helmet so her face shows; 9) several long rigid jointed plates hanging from behind the shoulders to the ankles like a cape — plates, not cloth; 10) one long segmented mechanical tail reaching from the back of her waist, tipped with a weapon or ornament. Then add one signature idea of your own drawn from her legend, built into the construction of the outfit itself rather than as a print or a loose accessory — e.g. plates or cloth layered like feathers, scales or petals, a hem or sleeve cut into a motif from her story. Build it in this world's materials and our colours below.\n\nWeapon (fixed — ours): a pair of short swords, rebuilt as a far-future high-tech version of the same kind of object with the same silhouette: hard-surface alloy plates with panel lines, mechanical joints, vents and emitter nodes, an energy edge, plasma blade or glowing core in her glow-line colour and small status lights, with any animal motif re-sculpted as sleek machined armour and no wood, silk tassels or forged-bronze fittings.\n\nHair colour (fixed — ours): deep emerald-green hair. Keep exactly this hair colour; only the hairstyle is yours.\n\nSkin tone (fixed — ours): fair skin. Keep exactly this skin tone.\n\nCostume colours (ours): crimson red, gold, river teal, black lacquer.\n\nMecha (fixed): she is a female mecha personification — her whole body is covered in solid hard-surface mecha armour plates with visible thickness, joints, panel lines and glow lines, never cloth or a gown; no cloth robe, gown, skirt or long fabric over the plates — any cape, skirt or wing is rigid armoured plates. Her face and hair stay human.\n\nRank (fixed): she is a famed war general — her costume must read battlefield might at first glance: imposing, richly worked armour and cloth with flagship-card detail, never plain or sparse.\n\nExposure (fixed): bold — her outfit shows skin by design (a deep neckline, bare shoulders or arms, a high slit or short hem); intimate areas covered.\n\nFace proportions: a short midface and a soft, gently rounded jawline with a small soft chin — never a long face or a long, pointed or heavy jaw; any crown or headpiece sits above her hairline and never lengthens her face. Her eyes stay at a natural open size — never squeezed into narrow slits.\n\nComposition: vertical 2:3 full-body framing with modest headroom and clear space below the boots — the whole figure from the top of her crown or headpiece to both boots stays inside the frame, occupying about four-fifths of the image height, with the same camera distance in every genre; her hands and her signature item stay inside the frame. Camera at chest height with natural portrait perspective — no wide-angle distortion, no low angle, no close crop.\n\nIf you have already drawn a free design of her in this session, make this one clearly different — another face and hairstyle (the same hair colour and skin tone), another costume shape from the list with another signature idea, another pose and setting.\n\nRender this original detailed design: Choose a slender high-tech armoured torso with a wide rigid fan of short overlapping hip plates and long articulated legs, all costume surfaces hard-surface alloy. Her headscarf legend is built as a crimson articulated collar that divides into two offset rigid armour ribbons along the waist and forms a protective decoy crest behind her shoulders. Emerald hair in a blunt chin-length bob with soft curled tips and side fringe, bright steel-blue eyes, small heart-shaped face with rounded chin, natural open eyes and berry lips. She faces the viewer with one foot slightly forward on a brightly lit carrier observation hangar, crimson orbital ships and ocean clouds beyond. One whole short mecha sword in each hand, mechanical gold guard and glowing orange energy edge. Crimson red, gold, river teal and black lacquer; lavish general-rank naval armour. Bare upper arms and bare upper thighs only, everything else fully plated, intimate areas covered. One figure only, natural hands with five fingers; a far-future setting only — no traditional East-Asian architecture, pagodas or tiled roofs; no hanzi; no logo or watermark."
+  },
+  "execution": "sam-zumao-9b4fa4",
+  "imported": "2026-11-17",
+  "qa": {
+    "reviewer": "GPT",
+    "image_sha256": "18b1b4e799893b2ddacb1124876c4b668f8c34e50d4c6719e1e26922cc160ade",
+    "passed": false,
+    "anatomy": "ok",
+    "exposure": "stronger",
+    "observations": [
+      "One adult woman, intact limbs and two short swords, full figure in frame.",
+      "Correct world materials and palette.",
+      "Chest opening exceeds the two openings specified by the world brief; original preserved."
+    ]
+  }
+}

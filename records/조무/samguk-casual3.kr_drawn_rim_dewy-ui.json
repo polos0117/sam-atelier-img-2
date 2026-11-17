@@ -1,0 +1,135 @@
+{
+  "atelier": "samguk",
+  "card": "조무",
+  "faction": "wu",
+  "slot": "casual3",
+  "treeV": 2,
+  "world": "samguk",
+  "style": "kr_drawn_rim_dewy",
+  "styleVersion": "v1",
+  "ref": "조무_samguk_kr_drawn_rim_dewy_f.webp",
+  "scene": {
+    "treeV": 2,
+    "era": "now",
+    "place": "stage_convention",
+    "ofam": "game_cosplay",
+    "item": "gc_leotard",
+    "posture": "stand",
+    "support": "none",
+    "frame": "three_quarter",
+    "body": "front_3q",
+    "head": "with_body",
+    "camera": "eye",
+    "right": "prop",
+    "left": "prop",
+    "use": "camera_shoot",
+    "legs": "stand_relaxed",
+    "gaze": "",
+    "hair": "down",
+    "light": "top",
+    "spot": "right_third",
+    "cosplay": {
+      "game": "overwatch",
+      "character": "Reinhardt",
+      "cut": "leotard",
+      "round": 1
+    },
+    "expr": "pensive",
+    "preset": "camera_shot",
+    "prop": "",
+    "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    },
+    "unlocked": [],
+    "aspect": "2:3"
+  },
+  "file": "조무_samguk_kr_drawn_rim_dewy_f_casual3.webp",
+  "prompt": "INPUT: the attached image is the approved character — her Three kingdoms card; keep her. Do not reuse earlier conversation images.\n\nCHARACTER: the same woman as the attached image — the female personification of Zu Mao of the Three Kingdoms, off duty in a game cosplay. Keep her face, eye and hair colours, skin tone and body proportions; expression and hair motion may change. In this cut she wears another character's costume: she is herself in that character's cosplay, not that character — her own face, hair colour and body stay exactly as in the attached image.\n\nSTYLE: Korean MMORPG character artwork. A recognisably drawn face with gently simplified anatomical structure. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\n\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nAGE: the same adult woman as in the attached image — keep her own face shape, cheekbones, eye proportions and skin tone exactly; minimal facial lines (no nasolabial folds, crow's feet, under-eye bags or cheek creases). Keep her face soft, feminine and attractive in every framing — never elongated, gaunt, mannish or heavy-jawed, even in close-ups, profiles or low angles.\n\nOUTPUT: one standalone off-duty scene of her wearing the game cosplay chosen in SCENE — a daring adult cosplay of the video game character named there, as worn to a cosplay event, an arcade night or a photo shoot. In this cut the outfit itself shows that game character: its recognisable colours, shapes and parts. Everything else follows SCENE (chosen).\n\nFRAME: a vertical 2:3 (1024×1536) image. Compose the image for this frame; COMPOSITION in SCENE sets how much of her shows.\n\nERA: the present-day real world — today's clothing, hair, devices and interiors; an ordinary woman of today, nothing of her legend in her clothes.\n\nSCENE (chosen):\nPlace: a convention photo zone under ring lights\nHair: her hair let down loose over her shoulders — same colour and length as the attached image.\nLight direction: a pool of light from above, the surroundings dimmer.\nOutfit: a daring adult cosplay of Reinhardt from Overwatch — the costume's recognisable colours and parts, cut as a gymnastic leotard with sheer tights\nPOSTURE: standing.\nCOMPOSITION: a three-quarter shot from her head to just above the knees; body turned three-quarters toward the camera; camera at her eye level; she is placed in the right third of the frame, open space of the place to her left.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left hand is in PROP.\nPROP: with both hands she raises a camera to her eye to take a photo — her own right hand on the grip, finger on the shutter, her own left hand supports the lens from below.\nLEGS: weight even on both legs.\nGAZE: one eye is set close to the eyepiece or viewfinder of what she holds, looking through it.\nEXPRESSION: a quiet, thoughtful look, lips lightly closed. Keep it subtle and natural, a light touch rather than acting: no sneer, glare, smirk-pulled cheek or chin lifted to look down at the viewer; her face stays relaxed and attractive. Brows relaxed and even, neither raised on one side nor furrowed; lips softly closed or only just parted.\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing; nothing slipped off; intimate areas covered\n\nWARDROBE: change her clothes completely into the cosplay SCENE describes. From the attached image take only her face, hair colour and body — not its garment, armor, regalia, ornaments, mecha plates or background, and none of her Three Kingdoms colours or emblems. The costume must read at first glance as that game character's look, rebuilt as a glamorous adult outfit in the cut SCENE names; she is a real woman in a cosplay, not the character — never the character's face, body or creature shape, no logo or readable text, and no weapon or prop weapon in her hands.\n\nANGLE: the attached image fixes who she is, not how she is posed or shot. Do not copy its head angle, head tilt, gaze direction, face size in frame, camera height or crop — turn her head, set her gaze and place the camera exactly as SCENE describes, and let her face read naturally from that new angle (profile, three-quarter, looking down or away), with her features staying the same. No default card pose, no default front-facing portrait.\n\nONE MAIN FIGURE: she is the only character in focus. Where the place is busy, other people may appear only as small, soft-focus background extras — never posed with her. No logo, no watermark, no speech bubble, no frame border. No readable text or numbers.\n\nANATOMY: natural adult proportions, about 7.5 heads tall — height from the legs, never a smaller head or a longer neck. The neck is a natural length and the head sits close to the shoulders. No body-part enlargement, no extra limbs.\n\nFIGURE: petite and compact yet curvaceous — full bust and rounded hips on a small frame — keep this exact build from the attached image, neither slimmer nor fuller.\n\nBODY: a normal human body — one head, two arms and two legs, each joined at its natural joint; elbows, knees and wrists bend the human way. Hands and feet may be partly hidden by the pose, what she holds or the frame. Right and left mean her own right and left, not the viewer's.\n\nHANDS: natural human hands, no extra or duplicated limbs; each visible hand joins through its wrist and forearm to the matching shoulder. A hand may stay outside the crop, and fingers may be partly hidden by a grip.\n\nAVOID: a blue or bruise-like tint on the skin around the eyes, glossy or shiny highlights on the face, sweaty, oily or plastic-looking skin.",
+  "date": "2026-11-17",
+  "record": "records/조무/samguk-casual3.kr_drawn_rim_dewy-ui.json",
+  "storage": {
+    "card": "조무",
+    "out": "casual",
+    "world": "samguk",
+    "style": "kr_drawn_rim_dewy",
+    "notes": {},
+    "looks": {},
+    "shots": {},
+    "walked": {},
+    "casualN": 3,
+    "scenes": {
+      "조무": {
+        "era": "now",
+        "place": "stage_convention",
+        "ofam": "game_cosplay",
+        "treeV": 2,
+        "prop": "",
+        "preset": "camera_shot",
+        "use": "camera_shoot",
+        "posture": "stand",
+        "support": "none",
+        "frame": "three_quarter",
+        "body": "front_3q",
+        "head": "with_body",
+        "camera": "eye",
+        "right": "prop",
+        "left": "prop",
+        "legs": "stand_relaxed",
+        "gaze": "",
+        "item": "gc_leotard",
+        "cosplay": {
+          "game": "overwatch",
+          "character": "Reinhardt",
+          "cut": "leotard",
+          "round": 1
+        },
+        "expr": "pensive",
+        "axes": {
+          "overall_intensity": "strong",
+          "skin_exposure": "bold"
+        },
+        "aspect": "2:3",
+        "unlocked": [],
+        "hair": "down",
+        "light": "top",
+        "spot": "right_third"
+      }
+    }
+  },
+  "generation": {
+    "tool": "image_gen",
+    "endpoint": "images/edits",
+    "ref_sha256": "ff0a4693edea9c46e7d2d0d1bc1014b1ae77399a282fd890927258b8ac6ba0e0",
+    "ref_webp_sha256": "b0eec32edfe768d2776149855e5132030f230ef83a014cd5a4f58ccbd802c2d8",
+    "size": [
+      1024,
+      1536
+    ],
+    "png_sha256": "0860d14bd7a885c3aeb3e180d7eefbeed82dd63022aa3fcf57cba4de62d37d05",
+    "webp": {
+      "quality": 90,
+      "method": 6
+    },
+    "prompt_form": "en-prompt",
+    "prompt_sha256": "867e94a80e1a134a2693c7e2994e132535022876df0dd208c47dcdcc93703a79",
+    "cosplay": {
+      "game": "overwatch",
+      "character": "Reinhardt",
+      "cut": "leotard"
+    }
+  },
+  "execution": "sam-zumao-9b4fa4",
+  "imported": "2026-11-17",
+  "qa": {
+    "reviewer": "GPT",
+    "image_sha256": "0860d14bd7a885c3aeb3e180d7eefbeed82dd63022aa3fcf57cba4de62d37d05",
+    "passed": false,
+    "anatomy": "ok",
+    "exposure": "match",
+    "observations": [
+      "Reinhardt-inspired grey-and-yellow leotard costume and convention camera pose follow plan; two hands grip camera naturally.",
+      "Tiny generated camera-body markings are present despite the no-text rule; original preserved."
+    ]
+  }
+}

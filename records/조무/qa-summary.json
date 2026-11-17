@@ -1,0 +1,32 @@
+{
+  "character": "조무",
+  "selection": {
+    "samguk": 2,
+    "fantasy": 2,
+    "mecha": 4
+  },
+  "images": 27,
+  "worlds": 3,
+  "casual_per_world": 8,
+  "size": [
+    1024,
+    1536
+  ],
+  "plan_checks": "passed for all three 7-cut bundles",
+  "casual_check": "all mandatory branches satisfied; no world requires a new branch",
+  "advisory": [
+    "Character-specific cut 90 shares some preset identifiers with ordinary cuts; original character-specific plans and generated images preserved."
+  ],
+  "generation_policy": "Every returned image preserved. Only slots without an image were retried, stepped down, and, for mecha-casual3, replanned once.",
+  "replanned_slot": "mecha-casual3",
+  "qa_failures": [
+    "samguk-casual6.kr_drawn_rim_dewy-ui.json",
+    "samguk-casual3.kr_drawn_rim_dewy-ui.json",
+    "samguk-casual5.kr_drawn_rim_dewy-ui.json",
+    "mecha-casual2.kr_drawn_rim_dewy-ui.json",
+    "mecha.kr_drawn_rim_dewy-ui.json",
+    "mecha-casual7.kr_drawn_rim_dewy-ui.json",
+    "samguk-casual90.kr_drawn_rim_dewy-ui.json",
+    "samguk-casual4.kr_drawn_rim_dewy-ui.json"
+  ]
+}
