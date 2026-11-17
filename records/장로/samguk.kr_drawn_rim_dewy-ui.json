@@ -1,0 +1,116 @@
+{
+ "atelier": "samguk",
+ "card": "장로",
+ "faction": "qun",
+ "role": "lord",
+ "world": "samguk",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v1",
+ "notes": {},
+ "look": {
+  "params": {},
+  "faceDesignOn": true,
+  "silhouetteOn": true,
+  "exposure": "bold"
+ },
+ "design": {
+  "face": {
+   "eye_color": "sapphire",
+   "impression": "elegant",
+   "expr": "calm",
+   "skin_tone": "fair",
+   "age": "early_20s",
+   "eye_size": "large",
+   "eye_tilt": "down",
+   "mark": "scar",
+   "brows": "soft_round",
+   "nose": "straight_narrow",
+   "lips": "full_wide",
+   "face_shape": "oval",
+   "eyes": "round_large"
+  },
+  "silhouette": {
+   "body": "tall_curvy",
+   "hair_color": "ink_green",
+   "hair": "floor_length",
+   "bangs": "choppy"
+  }
+ },
+ "shot": {
+  "scene": "",
+  "time": "",
+  "pose": "",
+  "expr": "",
+  "frame": ""
+ },
+ "file": "장로_samguk_kr_drawn_rim_dewy_f.webp",
+ "prompt": "Design brief — your own take on this character. A full-body vertical 2:3 (1024×1536) character card image of Zhang Lu from the Romance of the Three Kingdoms, reimagined as an adult woman — the Taoist ruler who governed Hanzhong for thirty years with the Five Pecks of Rice. Age: about twenty — a fresh young-adult face; no facial lines. She is a woman — no beard, moustache or facial hair.\n\nYou design her yourself: invent her face, eye colour, hairstyle, makeup, expression, pose and setting as a fresh, original take — do not follow any earlier design of this character. Her hair colour, skin tone, costume and weapon are NOT free: take them from our designs below.\n\nStyle (fixed): Korean MMORPG character artwork. A recognisably drawn face with gently simplified anatomical structure. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\n\nInspiration only: mystic benevolence, Taoist robes, rice offerings.\n\nWorld (fixed): the chaos of the late Eastern Han, around 184–200 AD: burning Luoyang, the Hulao Pass, Yellow Turban fields, warlord camps of rival banners, frontier steppe and the southern jungles of the Nanman. Her costume, weapon and setting belong to this world.\n\nCostume (choose one of ours, then add your own idea): pick ONE of these costume shapes from our set and keep its overall silhouette — 1) layered laced lamellar armor, big heavy beast-head pauldrons and armored skirts to the knees — a broad, weighty general's silhouette; 2) layered trailing court regalia with a tall crown, long hanging sashes and jade pendants — a ceremonial, stately silhouette; 3) a great war cape spreading from the shoulders to the ankles as the main shape, lamellar armor beneath; 4) a lamellar breastplate above, many layers of silk skirt flaring wide below the waist — firm above, flowing below; 5) a large phoenix crown with hanging bead strands and a weighty ceremonial robe — the headdress is the main shape. Then add one signature idea of your own drawn from her legend, built into the construction of the outfit itself rather than as a print or a loose accessory — e.g. plates or cloth layered like feathers, scales or petals, a hem or sleeve cut into a motif from her story. Build it in this world's materials and our colours below.\n\nWeapon (fixed — ours): a Taoist talisman sword.\n\nHair colour (fixed — ours): ink-black hair with a deep green sheen. Keep exactly this hair colour; only the hairstyle is yours.\n\nSkin tone (fixed — ours): fair skin. Keep exactly this skin tone.\n\nCostume colours (ours): Taoist indigo, white, black and cinnabar red.\n\nRank (fixed): she is a ruler — her costume must read her sovereign rank at first glance: layered, richly ornate and regal, with flagship-card detail, fine engraving and jewellery, never plain or sparse.\n\nExposure (fixed): bold — her outfit shows skin by design (a deep neckline, bare shoulders or arms, a high slit or short hem); intimate areas covered.\n\nFace proportions: a short midface and a soft, gently rounded jawline with a small soft chin — never a long face or a long, pointed or heavy jaw; any crown or headpiece sits above her hairline and never lengthens her face. Her eyes stay at a natural open size — never squeezed into narrow slits.\n\nComposition: vertical 2:3 full-body framing with modest headroom and clear space below the boots — the whole figure from the top of her crown or headpiece to both boots stays inside the frame, occupying about four-fifths of the image height, with the same camera distance in every genre; her hands and her signature item stay inside the frame. Camera at chest height with natural portrait perspective — no wide-angle distortion, no low angle, no close crop.\n\nIf you have already drawn a free design of her in this session, make this one clearly different — another face and hairstyle (the same hair colour and skin tone), another costume shape from the list with another signature idea, another pose and setting.\n\nWrite your own detailed image prompt from this brief, then draw it. One figure only, natural hands with five fingers; a banner or seal may carry a single faction character, no other text; no logo or watermark.\n\nDetailed design for this image:\nShe has a soft heart-shaped face, warm violet eyes and ink-black deep-green hair in a long thick side braid with airy fringe. Choose silhouette 5, great phoenix crown and weighty ceremonial robe; five broad folded sleeve layers fan like grain scoops, built into the garment. Indigo, white, black and cinnabar red, intricate sovereign goldwork. Deep neckline, bare arms and a high slit, intimate areas covered. She stands at a mountain sanctuary stone terrace, both feet grounded, talisman sword held diagonally downward to her side, other hand loosely raised.",
+ "date": "2026-11-17",
+ "record": "records/장로/samguk.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "장로",
+  "out": "world",
+  "world": "samguk",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {
+   "장로|samguk": {}
+  },
+  "looks": {
+   "장로|samguk": {
+    "params": {},
+    "faceDesignOn": true,
+    "silhouetteOn": true,
+    "exposure": "bold"
+   }
+  },
+  "shots": {
+   "장로|samguk": {
+    "scene": "",
+    "time": "",
+    "pose": "",
+    "expr": "",
+    "frame": ""
+   }
+  },
+  "walked": {},
+  "casualN": 1,
+  "scenes": {}
+ },
+ "execution": "sam-zhanglu-b6829c",
+ "imported": "2026-11-18",
+ "acceptance": "user selected 4,3,1; commit and non-force main push authorized",
+ "review": {
+  "reviewed": true,
+  "by": "user",
+  "result": "selected_world_4"
+ },
+ "generation": {
+  "tool": "image_gen",
+  "endpoint": "images/generations",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "5b8b680b57a20491ea386b979426c03f395b9392139f3975afa2cc2235102d98",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "prompt_form": "en-prompt",
+  "prompt_sha256": "3bd13db6c83a60fd54e43e1c600d1bcaf0b73d43ce803c2c3d2fee56cac74afb",
+  "design": "gpt_free",
+  "selection_number": 4,
+  "free_prompt": "Design brief — your own take on this character. A full-body vertical 2:3 (1024×1536) character card image of Zhang Lu from the Romance of the Three Kingdoms, reimagined as an adult woman — the Taoist ruler who governed Hanzhong for thirty years with the Five Pecks of Rice. Age: about twenty — a fresh young-adult face; no facial lines. She is a woman — no beard, moustache or facial hair.\n\nYou design her yourself: invent her face, eye colour, hairstyle, makeup, expression, pose and setting as a fresh, original take — do not follow any earlier design of this character. Her hair colour, skin tone, costume and weapon are NOT free: take them from our designs below.\n\nStyle (fixed): Korean MMORPG character artwork. A recognisably drawn face with gently simplified anatomical structure. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\n\nInspiration only: mystic benevolence, Taoist robes, rice offerings.\n\nWorld (fixed): the chaos of the late Eastern Han, around 184–200 AD: burning Luoyang, the Hulao Pass, Yellow Turban fields, warlord camps of rival banners, frontier steppe and the southern jungles of the Nanman. Her costume, weapon and setting belong to this world.\n\nCostume (choose one of ours, then add your own idea): pick ONE of these costume shapes from our set and keep its overall silhouette — 1) layered laced lamellar armor, big heavy beast-head pauldrons and armored skirts to the knees — a broad, weighty general's silhouette; 2) layered trailing court regalia with a tall crown, long hanging sashes and jade pendants — a ceremonial, stately silhouette; 3) a great war cape spreading from the shoulders to the ankles as the main shape, lamellar armor beneath; 4) a lamellar breastplate above, many layers of silk skirt flaring wide below the waist — firm above, flowing below; 5) a large phoenix crown with hanging bead strands and a weighty ceremonial robe — the headdress is the main shape. Then add one signature idea of your own drawn from her legend, built into the construction of the outfit itself rather than as a print or a loose accessory — e.g. plates or cloth layered like feathers, scales or petals, a hem or sleeve cut into a motif from her story. Build it in this world's materials and our colours below.\n\nWeapon (fixed — ours): a Taoist talisman sword.\n\nHair colour (fixed — ours): ink-black hair with a deep green sheen. Keep exactly this hair colour; only the hairstyle is yours.\n\nSkin tone (fixed — ours): fair skin. Keep exactly this skin tone.\n\nCostume colours (ours): Taoist indigo, white, black and cinnabar red.\n\nRank (fixed): she is a ruler — her costume must read her sovereign rank at first glance: layered, richly ornate and regal, with flagship-card detail, fine engraving and jewellery, never plain or sparse.\n\nExposure (fixed): bold — her outfit shows skin by design (a deep neckline, bare shoulders or arms, a high slit or short hem); intimate areas covered.\n\nFace proportions: a short midface and a soft, gently rounded jawline with a small soft chin — never a long face or a long, pointed or heavy jaw; any crown or headpiece sits above her hairline and never lengthens her face. Her eyes stay at a natural open size — never squeezed into narrow slits.\n\nComposition: vertical 2:3 full-body framing with modest headroom and clear space below the boots — the whole figure from the top of her crown or headpiece to both boots stays inside the frame, occupying about four-fifths of the image height, with the same camera distance in every genre; her hands and her signature item stay inside the frame. Camera at chest height with natural portrait perspective — no wide-angle distortion, no low angle, no close crop.\n\nIf you have already drawn a free design of her in this session, make this one clearly different — another face and hairstyle (the same hair colour and skin tone), another costume shape from the list with another signature idea, another pose and setting.\n\nWrite your own detailed image prompt from this brief, then draw it. One figure only, natural hands with five fingers; a banner or seal may carry a single faction character, no other text; no logo or watermark.\n\nDetailed design for this image:\nShe has a soft heart-shaped face, warm violet eyes and ink-black deep-green hair in a long thick side braid with airy fringe. Choose silhouette 5, great phoenix crown and weighty ceremonial robe; five broad folded sleeve layers fan like grain scoops, built into the garment. Indigo, white, black and cinnabar red, intricate sovereign goldwork. Deep neckline, bare arms and a high slit, intimate areas covered. She stands at a mountain sanctuary stone terrace, both feet grounded, talisman sword held diagonally downward to her side, other hand loosely raised."
+ },
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "5b8b680b57a20491ea386b979426c03f395b9392139f3975afa2cc2235102d98",
+  "passed": false,
+  "anatomy": "ok",
+  "exposure": "match",
+  "observations": [
+   "Single adult woman, two arms and two legs, correct genre and selected source preserved.",
+   "Banner displays 道 and small talisman glyphs beyond permitted single 雄 or 張; preserved without regeneration."
+  ]
+ }
+}
