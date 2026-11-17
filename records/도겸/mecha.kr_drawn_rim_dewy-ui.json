@@ -1,0 +1,116 @@
+{
+  "atelier": "samguk",
+  "card": "도겸",
+  "faction": "qun",
+  "role": "lord",
+  "world": "mecha",
+  "style": "kr_drawn_rim_dewy",
+  "styleVersion": "v1",
+  "notes": {},
+  "look": {
+    "params": {},
+    "faceDesignOn": true,
+    "silhouetteOn": true,
+    "exposure": "bold"
+  },
+  "design": {
+    "face": {
+      "eye_color": "coral",
+      "impression": "soft",
+      "expr": "wistful",
+      "skin_tone": "warm_beige",
+      "age": "early_30s",
+      "eye_size": "medium",
+      "eye_tilt": "up",
+      "mark": "dark_lip",
+      "brows": "angled_sharp",
+      "nose": "aquiline",
+      "lips": "thin_long",
+      "face_shape": "diamond",
+      "eyes": "narrow_upturned"
+    },
+    "silhouette": {
+      "body": "curvy",
+      "hair_color": "platinum_blonde",
+      "hair": "double_buns",
+      "bangs": "none"
+    }
+  },
+  "shot": {
+    "scene": "",
+    "time": "",
+    "pose": "",
+    "expr": "",
+    "frame": ""
+  },
+  "file": "도겸_mecha_kr_drawn_rim_dewy_f.webp",
+  "prompt": "A full-body character image, vertical 2:3 (1024×1536): Tao Qian of the Romance of the Three Kingdoms, reimagined as an adult woman — the old governor who passed Xu province to Liu Bei on her deathbed.\n\n1. STYLE\nKorean MMORPG character artwork. A recognisably drawn face with gently simplified anatomical structure. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nHer face is small and soft: a short midface, a softly rounded jaw and a small chin, about 1.3 times as long as it is wide, with her eyes open at their natural size. Bangs, side locks and headpieces frame the face without lengthening it.\nSkin finish: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\n2. CHARACTER\nAge: early thirties — a poised, graceful face with soft contours.\nFace — her own, recognisably this character, a woman's face with no beard or facial hair: a soft, gentle warmth; warm beige skin; diamond-shaped face; medium-sized eyes — narrow upturned eyes, outer eye corners slightly lifted; sharp angled brows; aquiline nose; thin long lips; coral-orange eyes; dark berry lipstick.\nBody and hair: curvy build; twin buns high on the head with no bangs, forehead bare; platinum-blonde hair.\nExpression: a faint wistful smile, soft eyes, subtle and relaxed.\nLegend, carried in her design and bearing: gentle old age, official robes.\nAnatomy: one head, two arms and two legs, each joined at its natural joint; natural hands with five fingers.\n\n3. COSTUME AND EQUIPMENT — MECHA\nCostume: a female mecha personification built as a command-type mecha — crowned head unit with an antenna crest, cape-like binder wings, heavy chest plating with an emblem core, a flagship back unit. Solid hard-surface plates with visible joints cover her frame except at the openings named under Exposure; any cape or skirt is made of rigid armored plates; her face and hair stay human.\nSilhouette: large wing-shaped binder plates spread symmetrically behind her back as the main shape, with light body armor. This silhouette sets the overall shape of the costume above — keep its materials, ornaments and rank in this shape; the details are free.\nColours: sea-salt blue, pearl white, pale jade and silver. Faction frame: mismatched violet and tarnished-gold plating with bronze patches and battle scars, aggressive spiked silhouette, salvaged parts and warlord insignia shapes, violet glow lines.\nSignature item: a seal of Xu province, rebuilt as a far-future high-tech version of the same kind of object with the same silhouette — hard-surface alloy plates with panel lines, mechanical joints, vents and emitter nodes, an energy edge, plasma blade or glowing core in her glow-line colour and small status lights, with any animal motif re-sculpted as sleek machined armour. She holds it at full scale: one whole object, drawn once, held in front of or beside her body; a long weapon keeps one straight, unbroken shaft with a single head or blade.\nExposure (bold): her mecha frame is cut open by design in only these places — bare upper arms below the pauldrons, which stay seated on top of her shoulders, and a bare waist and midriff between the bust plate and the hip armor; everywhere else she stays fully plated. The plates stay on, fitted and symmetrical, with skin clearly showing in each opening. Intimate areas covered; keep the plate material and palette.\n\n4. SCENE\nWorld: year 2190, the Free Zones — a lawless asteroid belt between the three powers: warlord fortresses carved into asteroids, wrecked starships drifting in the dark, a violet nebula, warning lights blinking.\nPose: standing confidently, her body turned slightly while her face looks toward the viewer.\nLight: a soft key light with a strong rim light tracing her hair, shoulders and armour; bright, crisp specular highlights on metal and jewellery, and a clean, warm-neutral sheen on her skin.\nComposition: her whole figure from the top of her head or headpiece to both feet inside the frame with clear margins, about four-fifths of the image height; camera at chest height with natural portrait perspective.\n\n5. CONSTRAINTS\nOne figure only — no second character, horse or other creature. No readable text or numbers — emblems are abstract insignia shapes only, never letters or Chinese characters. No logo, watermark, speech bubble or frame border. A far-future setting only — space stations, starships and high-tech structures — with no traditional East-Asian architecture.\nAvoid: a blue or bruise-like tint on the skin around the eyes, glossy or shiny highlights on the face, sweaty, oily or plastic-looking skin.",
+  "date": "2026-11-17",
+  "record": "records/도겸/mecha.kr_drawn_rim_dewy-ui.json",
+  "storage": {
+    "card": "도겸",
+    "out": "world",
+    "world": "mecha",
+    "style": "kr_drawn_rim_dewy",
+    "notes": {
+      "도겸|mecha": {}
+    },
+    "looks": {
+      "도겸|mecha": {
+        "params": {},
+        "faceDesignOn": true,
+        "silhouetteOn": true,
+        "exposure": "bold"
+      }
+    },
+    "shots": {
+      "도겸|mecha": {
+        "scene": "",
+        "time": "",
+        "pose": "",
+        "expr": "",
+        "frame": ""
+      }
+    },
+    "walked": {},
+    "casualN": 1,
+    "scenes": {}
+  },
+  "execution": "sam-taoqian-214dd4",
+  "imported": "2026-11-18",
+  "qa": {
+    "size": [
+      1024,
+      1536
+    ],
+    "reviewer": "gpt-session",
+    "exposure": "match",
+    "observations": [
+      "Single adult woman; full body inside frame."
+    ],
+    "passed": true,
+    "anatomy": "ok",
+    "image_sha256": "f44f9f3eb0f9f4e7e461a8aea5631fa3b671d08677bc8ad1a91d817237c67b97"
+  },
+  "review": {
+    "reviewed": true,
+    "by": "user",
+    "result": "selected",
+    "selection": 3
+  },
+  "generation": {
+    "tool": "image_gen",
+    "endpoint": "images/generations",
+    "size": [
+      1024,
+      1536
+    ],
+    "png_sha256": "f44f9f3eb0f9f4e7e461a8aea5631fa3b671d08677bc8ad1a91d817237c67b97",
+    "prompt_sha256": "061ca8537a7bf0af7a6a63bf919e8fd44521c56270119c88938e445cfed2a7cd",
+    "webp": {
+      "quality": 90
+    },
+    "design": "gpt_free",
+    "free_prompt": "Design brief — your own take on this character. A full-body vertical 2:3 (1024×1536) character card image of Tao Qian from the Romance of the Three Kingdoms, reimagined as an adult woman — the old governor who passed Xu province to Liu Bei on her deathbed. Age: early thirties — a poised, graceful face with soft contours; at most faint lines, no deep folds or under-eye bags. She is a woman — no beard, moustache or facial hair.\n\nYou design her yourself: invent her face, eye colour, hairstyle, makeup, expression, pose and setting as a fresh, original take — do not follow any earlier design of this character. Her hair colour, skin tone, costume and weapon are NOT free: take them from our designs below.\n\nStyle (fixed): Korean MMORPG character artwork. A recognisably drawn face with gently simplified anatomical structure. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\n\nInspiration only: gentle old age, official robes.\n\nWorld (fixed): year 2190, the Free Zones — a lawless asteroid belt between the three powers: warlord fortresses carved into asteroids, wrecked starships drifting in the dark, a violet nebula, warning lights blinking. Her costume, weapon and setting belong to this world.\n\nCostume (choose one of ours, then add your own idea): pick ONE of these costume shapes from our set and keep its overall silhouette — 1) large wing-shaped binder plates spread symmetrically behind her back as the main shape, with light body armor; 2) several rigid jointed armor plates flaring from the waist like a skirt — plates, not cloth — with the legs showing between them; 3) a long coat made of rigid plates from the shoulders to below the knees, open at the front to show the body armor, with an angular collar; 4) a large ring halo behind her head and a tall crown-like head unit, with long hanging shoulder plates — a ceremonial, elegant shape; 5) complete full-body armor with plates joined seamlessly from neck to feet — bare skin only on the face and where EXPOSURE allows, dense visible seams and joints; 6) mecha armor shaped like a medieval knight's plate — big rounded pauldrons, a breastplate, layered plates below the waist, a head ornament instead of a helmet so her face shows; 7) several long rigid jointed plates hanging from behind the shoulders to the ankles like a cape — plates, not cloth. Then add one signature idea of your own drawn from her legend, built into the construction of the outfit itself rather than as a print or a loose accessory — e.g. plates or cloth layered like feathers, scales or petals, a hem or sleeve cut into a motif from her story. Build it in this world's materials and our colours below.\n\nWeapon (fixed — ours): a seal of Xu province, rebuilt as a far-future high-tech version of the same kind of object with the same silhouette: hard-surface alloy plates with panel lines, mechanical joints, vents and emitter nodes, an energy edge, plasma blade or glowing core in her glow-line colour and small status lights, with any animal motif re-sculpted as sleek machined armour and no wood, silk tassels or forged-bronze fittings.\n\nHair colour (fixed — ours): platinum-blonde hair. Keep exactly this hair colour; only the hairstyle is yours.\n\nSkin tone (fixed — ours): warm beige skin. Keep exactly this skin tone.\n\nCostume colours (ours): sea-salt blue, pearl white, pale jade and silver.\n\nMecha (fixed): she is a female mecha personification — her whole body is covered in solid hard-surface mecha armour plates with visible thickness, joints, panel lines and glow lines, never cloth or a gown; no cloth robe, gown, skirt or long fabric over the plates — any cape, skirt or wing is rigid armoured plates. Her face and hair stay human.\n\nRank (fixed): she is a ruler — her costume must read her sovereign rank at first glance: layered, richly ornate and regal, with flagship-card detail, fine engraving and jewellery, never plain or sparse.\n\nExposure (fixed): bold — her outfit shows skin by design (a deep neckline, bare shoulders or arms, a high slit or short hem); intimate areas covered.\n\nFace proportions: a short midface and a soft, gently rounded jawline with a small soft chin — never a long face or a long, pointed or heavy jaw; any crown or headpiece sits above her hairline and never lengthens her face. Her eyes stay at a natural open size — never squeezed into narrow slits.\n\nComposition: vertical 2:3 full-body framing with modest headroom and clear space below the boots — the whole figure from the top of her crown or headpiece to both boots stays inside the frame, occupying about four-fifths of the image height, with the same camera distance in every genre; her hands and her signature item stay inside the frame. Camera at chest height with natural portrait perspective — no wide-angle distortion, no low angle, no close crop.\n\nIf you have already drawn a free design of her in this session, make this one clearly different — another face and hairstyle (the same hair colour and skin tone), another costume shape from the list with another signature idea, another pose and setting.\n\nWrite your own detailed image prompt from this brief, then draw it. One figure only, natural hands with five fingers; a far-future setting only — no traditional East-Asian architecture, pagodas or tiled roofs; no hanzi; no logo or watermark.\n\nChosen original design: softly rounded face with a small gentle chin, aqua-green eyes, silver-grey eyeliner, rose lips, platinum-blonde high ponytail with sweeping side bangs. Choose costume shape 4: large rigid ring halo behind her head, tall crown-like head unit and long hanging shoulder plates. Her transfer of sovereignty inspires interlocking iris-like armor segments that open around a pale-jade command core, a structural motif repeated in the halo and shoulder plates. Dense sea-salt-blue hard-surface armor, pearl-white ceramic panels, pale jade energy seams and engraved silver hardware. Human face, hair and visible warm-beige skin in a deep neckline and symmetrical upper-arm and upper-thigh openings, intimate areas covered; all costume material is rigid mecha plating, no cloth. She stands front-facing at a bright orbital command dock, a single alloy provincial command seal with a glowing core floats just above her open right palm as a held device, left hand open by her side. Quiet dignified smile, both hands visible. Asteroid fortifications and violet nebula beyond; no other figures.\n"
+  }
+}
