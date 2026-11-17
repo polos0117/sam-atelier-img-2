@@ -1,0 +1,116 @@
+{
+ "atelier": "samguk",
+ "card": "우길",
+ "faction": "qun",
+ "role": "official",
+ "world": "mecha",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v1",
+ "notes": {},
+ "look": {
+  "params": {},
+  "faceDesignOn": true,
+  "silhouetteOn": true,
+  "exposure": "bold"
+ },
+ "design": {
+  "face": {
+   "eye_color": "teal",
+   "impression": "innocent",
+   "expr": "calm",
+   "skin_tone": "porcelain",
+   "age": "mid_20s",
+   "eye_size": "small",
+   "eye_tilt": "down",
+   "mark": "gloss",
+   "brows": "arched_thin",
+   "nose": "small_button",
+   "lips": "thin_bow",
+   "face_shape": "round",
+   "eyes": "droopy_soft"
+  },
+  "silhouette": {
+   "body": "busty_slender",
+   "hair_color": "jade_green",
+   "hair": "half_up",
+   "bangs": "choppy"
+  }
+ },
+ "shot": {
+  "scene": "",
+  "time": "",
+  "pose": "",
+  "expr": "",
+  "frame": ""
+ },
+ "file": "우길_mecha_kr_drawn_rim_dewy_f.webp",
+ "prompt": "A full-body character image, vertical 2:3 (1024×1536): Yu Ji of the Romance of the Three Kingdoms, reimagined as an adult woman — the Taoist who vanished before Sun Ce's eyes.\n\n1. STYLE\nKorean MMORPG character artwork. A recognisably drawn face with gently simplified anatomical structure. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nHer face is small and soft: a short midface, a softly rounded jaw and a small chin, about 1.3 times as long as it is wide, with her eyes open at their natural size. Bangs, side locks and headpieces frame the face without lengthening it.\nSkin finish: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\n2. CHARACTER\nAge: mid-twenties — a clear adult face.\nFace — her own, recognisably this character, a woman's face with no beard or facial hair: a clear, innocent purity; porcelain-pale skin; round face; smaller, narrower eyes than usual anime proportion — soft droopy eyes, outer eye corners drooping downward; thin arched brows; small button nose; thin lips with a defined cupid's bow; teal eyes; glossy nude lips.\nBody and hair: slender-limbed yet full-busted with rounded hips and a narrow waist build; long hair worn half-up, half-down with choppy uneven bangs; pale jade-green hair.\nExpression: a relaxed, unforced face, lips gently closed, subtle and relaxed.\nLegend, carried in her design and bearing: ethereal mystic calm, white robes, drifting mist.\nAnatomy: one head, two arms and two legs, each joined at its natural joint; natural hands with five fingers.\n\n3. COSTUME AND EQUIPMENT — MECHA\nCostume: a female mecha personification built as a support and logistics mecha frame — lighter plating, data panels and shield units, utility sub-arms. Solid hard-surface plates with visible joints cover her frame except at the openings named under Exposure; any cape or skirt is made of rigid armored plates; her face and hair stay human.\nSilhouette: separate armor pieces rather than one shell — plates on the shoulders, forearms, chest, waist, thighs and shins, with a dark fitted inner suit showing between them. This silhouette sets the overall shape of the costume above — keep its materials, ornaments and rank in this shape; the details are free.\nColours: undyed linen white, bamboo green, ink grey and pale celadon. Faction frame: linen-white and bamboo-green plating with an ink-grey frame and celadon accents, light scholarly silhouette, scroll motifs, soft celadon glow lines.\nSignature item: a Taoist horsetail whisk, rebuilt as a far-future high-tech version of the same kind of object with the same silhouette — hard-surface alloy plates with panel lines, mechanical joints, vents and emitter nodes, an energy edge, plasma blade or glowing core in her glow-line colour and small status lights, with any animal motif re-sculpted as sleek machined armour. She holds it at full scale: one whole object, drawn once, held in front of or beside her body; a long weapon keeps one straight, unbroken shaft with a single head or blade.\nExposure (bold): her mecha frame is cut open by design in only these places — bare upper arms below the pauldrons, which stay seated on top of her shoulders, and bare upper thighs between the hip armor and thigh-high leg plates; everywhere else she stays fully plated. The plates stay on, fitted and symmetrical, with skin clearly showing in each opening. Intimate areas covered; keep the plate material and palette.\n\n4. SCENE\nWorld: year 2190, the Free Zones — a lawless asteroid belt between the three powers: warlord fortresses carved into asteroids, wrecked starships drifting in the dark, a violet nebula, warning lights blinking.\nPose: standing confidently, her body turned slightly while her face looks toward the viewer.\nLight: a soft key light with a strong rim light tracing her hair, shoulders and armour; bright, crisp specular highlights on metal and jewellery, and a clean, warm-neutral sheen on her skin.\nComposition: her whole figure from the top of her head or headpiece to both feet inside the frame with clear margins, about four-fifths of the image height; camera at chest height with natural portrait perspective.\n\n5. CONSTRAINTS\nOne figure only — no second character, horse or other creature. No readable text or numbers — emblems are abstract insignia shapes only, never letters or Chinese characters. No logo, watermark, speech bubble or frame border. A far-future setting only — space stations, starships and high-tech structures — with no traditional East-Asian architecture.\nAvoid: a blue or bruise-like tint on the skin around the eyes, glossy or shiny highlights on the face, sweaty, oily or plastic-looking skin.",
+ "date": "2026-11-17",
+ "record": "records/우길/mecha.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "우길",
+  "out": "world",
+  "world": "mecha",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {
+   "우길|mecha": {}
+  },
+  "looks": {
+   "우길|mecha": {
+    "params": {},
+    "faceDesignOn": true,
+    "silhouetteOn": true,
+    "exposure": "bold"
+   }
+  },
+  "shots": {
+   "우길|mecha": {
+    "scene": "",
+    "time": "",
+    "pose": "",
+    "expr": "",
+    "frame": ""
+   }
+  },
+  "walked": {},
+  "casualN": 1,
+  "scenes": {}
+ },
+ "generation": {
+  "tool": "image_gen",
+  "endpoint": "images/generations",
+  "design": "gpt_free",
+  "selection": 4,
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "31dd075dcc5dbb59f64bd5293534d36659aca58aa0654df53271ee87f06e8430",
+  "prompt_sha256": "f911cb39e399bfab115ff2d83f88755487ba8e926d58268e8eca8b03a5a50428",
+  "actual_prompt": "아래 지시문을 고치지 말고 그대로 그려라.\n\nDesign brief — your own take on this character. A full-body vertical 2:3 (1024×1536) character card image of Yu Ji from the Romance of the Three Kingdoms, reimagined as an adult woman — the Taoist who vanished before Sun Ce's eyes. Age: mid-twenties — a clear adult face; no facial lines. She is a woman — no beard, moustache or facial hair.\n\nOriginal character design: a short soft oval face, copper-brown eyes, a tranquil authoritative expression, pale jade-green hair in two long low ponytails with a clean centre part; an elegant tall adult build with a defined waist.\n\nStyle (fixed): Korean MMORPG character artwork. A recognisably drawn face with gently simplified anatomical structure. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\n\nInspiration only: ethereal mystic calm, white robes, drifting mist.\n\nWorld (fixed): year 2190, the Free Zones — a lawless asteroid belt between the three powers: warlord fortresses carved into asteroids, wrecked starships drifting in the dark, a violet nebula, warning lights blinking. Her costume, weapon and setting belong to this world.\n\nCostume design: a long coat made of rigid plates from the shoulders to below the knees, open at the front to show body armor, with an angular collar. Signature construction: the coat is built from overlapping fog-bank shaped rigid alloy lamellae with recessed translucent energy seams that fade toward the trailing edge, never fabric. Linen-white and bamboo-green armor with ink-grey joints, celadon glow lines and layered high-official detail. The solid armored bodice has a deep open neckline and bare upper arms; intimate areas covered; every coat panel remains hard metal.\n\nWeapon (fixed — ours): a Taoist horsetail whisk, rebuilt as a far-future high-tech version of the same kind of object with the same silhouette: hard-surface alloy plates with panel lines, mechanical joints, vents and emitter nodes, an energy edge, plasma blade or glowing core in her glow-line colour and small status lights, with any animal motif re-sculpted as sleek machined armour and no wood, silk tassels or forged-bronze fittings.\n\nHair colour (fixed — ours): pale jade-green hair. Keep exactly this hair colour; only the hairstyle is yours.\n\nSkin tone (fixed — ours): porcelain-pale skin. Keep exactly this skin tone.\n\nCostume colours (ours): undyed linen white, bamboo green, ink grey and pale celadon.\n\nMecha (fixed): she is a female mecha personification — her whole body is covered in solid hard-surface mecha armour plates with visible thickness, joints, panel lines and glow lines, never cloth or a gown; no cloth robe, gown, skirt or long fabric over the plates — any cape, skirt or wing is rigid armoured plates. Her face and hair stay human.\n\nRank (fixed): she is a high court official — her costume must read dignified office at first glance: refined, layered and finely ornamented, with flagship-card detail, never plain or sparse.\n\nExposure (fixed): bold — her outfit shows skin by design (a deep neckline, bare shoulders or arms, a high slit or short hem); intimate areas covered.\n\nFace proportions: a short midface and a soft, gently rounded jawline with a small soft chin — never a long face or a long, pointed or heavy jaw; any crown or headpiece sits above her hairline and never lengthens her face. Her eyes stay at a natural open size — never squeezed into narrow slits.\n\nComposition: vertical 2:3 full-body framing with modest headroom and clear space below the boots — the whole figure from the top of her crown or headpiece to both boots stays inside the frame, occupying about four-fifths of the image height, with the same camera distance in every genre; her hands and her signature item stay inside the frame. Camera at chest height with natural portrait perspective — no wide-angle distortion, no low angle, no close crop.\n\nPose and setting: standing with her body at a mild three-quarter angle and face toward the viewer in a deserted asteroid fortress transit bay in 2190; left hand holding the complete alloy emitter horsetail whisk upright, right hand touching a small abstract control surface; clean window light, a violet nebula and wrecked ships outside.\n\nOne figure only, natural hands with five fingers; a far-future setting only — no traditional East-Asian architecture, pagodas or tiled roofs; no hanzi; no logo or watermark.",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "free_prompt": "Design brief — your own take on this character. A full-body vertical 2:3 (1024×1536) character card image of Yu Ji from the Romance of the Three Kingdoms, reimagined as an adult woman — the Taoist who vanished before Sun Ce's eyes. Age: mid-twenties — a clear adult face; no facial lines. She is a woman — no beard, moustache or facial hair.\n\nOriginal character design: a short soft oval face, copper-brown eyes, a tranquil authoritative expression, pale jade-green hair in two long low ponytails with a clean centre part; an elegant tall adult build with a defined waist.\n\nStyle (fixed): Korean MMORPG character artwork. A recognisably drawn face with gently simplified anatomical structure. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\n\nInspiration only: ethereal mystic calm, white robes, drifting mist.\n\nWorld (fixed): year 2190, the Free Zones — a lawless asteroid belt between the three powers: warlord fortresses carved into asteroids, wrecked starships drifting in the dark, a violet nebula, warning lights blinking. Her costume, weapon and setting belong to this world.\n\nCostume design: a long coat made of rigid plates from the shoulders to below the knees, open at the front to show body armor, with an angular collar. Signature construction: the coat is built from overlapping fog-bank shaped rigid alloy lamellae with recessed translucent energy seams that fade toward the trailing edge, never fabric. Linen-white and bamboo-green armor with ink-grey joints, celadon glow lines and layered high-official detail. The solid armored bodice has a deep open neckline and bare upper arms; intimate areas covered; every coat panel remains hard metal.\n\nWeapon (fixed — ours): a Taoist horsetail whisk, rebuilt as a far-future high-tech version of the same kind of object with the same silhouette: hard-surface alloy plates with panel lines, mechanical joints, vents and emitter nodes, an energy edge, plasma blade or glowing core in her glow-line colour and small status lights, with any animal motif re-sculpted as sleek machined armour and no wood, silk tassels or forged-bronze fittings.\n\nHair colour (fixed — ours): pale jade-green hair. Keep exactly this hair colour; only the hairstyle is yours.\n\nSkin tone (fixed — ours): porcelain-pale skin. Keep exactly this skin tone.\n\nCostume colours (ours): undyed linen white, bamboo green, ink grey and pale celadon.\n\nMecha (fixed): she is a female mecha personification — her whole body is covered in solid hard-surface mecha armour plates with visible thickness, joints, panel lines and glow lines, never cloth or a gown; no cloth robe, gown, skirt or long fabric over the plates — any cape, skirt or wing is rigid armoured plates. Her face and hair stay human.\n\nRank (fixed): she is a high court official — her costume must read dignified office at first glance: refined, layered and finely ornamented, with flagship-card detail, never plain or sparse.\n\nExposure (fixed): bold — her outfit shows skin by design (a deep neckline, bare shoulders or arms, a high slit or short hem); intimate areas covered.\n\nFace proportions: a short midface and a soft, gently rounded jawline with a small soft chin — never a long face or a long, pointed or heavy jaw; any crown or headpiece sits above her hairline and never lengthens her face. Her eyes stay at a natural open size — never squeezed into narrow slits.\n\nComposition: vertical 2:3 full-body framing with modest headroom and clear space below the boots — the whole figure from the top of her crown or headpiece to both boots stays inside the frame, occupying about four-fifths of the image height, with the same camera distance in every genre; her hands and her signature item stay inside the frame. Camera at chest height with natural portrait perspective — no wide-angle distortion, no low angle, no close crop.\n\nPose and setting: standing with her body at a mild three-quarter angle and face toward the viewer in a deserted asteroid fortress transit bay in 2190; left hand holding the complete alloy emitter horsetail whisk upright, right hand touching a small abstract control surface; clean window light, a violet nebula and wrecked ships outside.\n\nOne figure only, natural hands with five fingers; a far-future setting only — no traditional East-Asian architecture, pagodas or tiled roofs; no hanzi; no logo or watermark."
+ },
+ "execution": "sam-yuji-20261117-83842d",
+ "imported": "2026-11-17",
+ "qa": {
+  "anatomy": "ok",
+  "exposure": "match",
+  "observations": [
+   "전신과 두 손, 불자 형태 확인. 쥔 손의 가려진 손가락은 개별 확인에 한계.",
+   "원본 재생성 없음."
+  ],
+  "reviewer": "gpt",
+  "image_sha256": "31dd075dcc5dbb59f64bd5293534d36659aca58aa0654df53271ee87f06e8430",
+  "passed": true
+ },
+ "acceptance": "user_selection_1_3_4_and_upload_approval",
+ "review": {
+  "reviewed": true,
+  "by": "user",
+  "result": "selected"
+ }
+}
