@@ -1,0 +1,115 @@
+{
+  "atelier": "samguk",
+  "card": "미부인",
+  "faction": "shu",
+  "role": "official",
+  "world": "fantasy",
+  "style": "kr_drawn_rim_dewy",
+  "styleVersion": "v1",
+  "notes": {},
+  "look": {
+    "params": {},
+    "faceDesignOn": true,
+    "silhouetteOn": true,
+    "exposure": "bold"
+  },
+  "design": {
+    "face": {
+      "eye_color": "jade",
+      "impression": "soft",
+      "expr": "gentle",
+      "skin_tone": "porcelain",
+      "age": "early_20s",
+      "eye_size": "medium",
+      "eye_tilt": "up",
+      "mark": "mole_eye",
+      "brows": "high_arched",
+      "nose": "high_bridge",
+      "lips": "thin_bow",
+      "face_shape": "v_line",
+      "eyes": "peach_blossom"
+    },
+    "silhouette": {
+      "body": "busty_slender",
+      "hair_color": "sky_blue",
+      "hair": "long_curly",
+      "bangs": "asymmetric"
+    }
+  },
+  "shot": {
+    "scene": "",
+    "time": "",
+    "pose": "",
+    "expr": "",
+    "frame": ""
+  },
+  "file": "미부인_fantasy_kr_drawn_rim_dewy_f.webp",
+  "prompt": "Design brief — your own take on this character. A full-body vertical 2:3 (1024×1536) character card image of Lady Mi from the Romance of the Three Kingdoms, reimagined as an adult woman — Liu Bei's consort who entrusted the infant heir to Zhao Yun at Changban. Age: about twenty — a fresh young-adult face; no facial lines. She is a woman — no beard, moustache or facial hair.\n\nYou design her yourself: invent her face, eye colour, hairstyle, makeup, expression, pose and setting as a fresh, original take — do not follow any earlier design of this character. Her hair colour, skin tone, costume and weapon are NOT free: take them from our designs below.\n\nStyle (fixed): Korean MMORPG character artwork. A recognisably drawn face with gently simplified anatomical structure. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\n\nInspiration only: gentle courage and self-sacrifice, simple elegant court robes.\n\nWorld (fixed): a righteous highland kingdom of Western medieval high fantasy: grey-stone castles and fortified abbeys on green mountain ridges, alpine meadows, waterfalls and oak forests, heraldic banners of green and gold bearing a dragon device, oaths sworn under an ancient oak, gentle green nature-magic. Her costume, weapon and setting belong to this world.\n\nCostume (choose one of ours, then add your own idea): pick ONE of these costume shapes from our set and keep its overall silhouette — 1) leather armor with a short cloak, a lowered hood, bracers and boots — a light, agile ranger's silhouette; 2) a long floor-length robe with a high collar, wide sleeves and a shoulder mantle — a tall, mysterious mage's silhouette; 3) a fitted breastplate and pauldrons above a gown skirt flaring to the floor — an elegant lady-knight silhouette; 4) a light breastplate and bracers with robe panels split from the waist — half armor, half robe; 5) thin leaf-patterned armor plates and flowing light fabric panels with a slender circlet — a slender, graceful silhouette; 6) a long coat below the knees with epaulettes, a belt, gloves and tall boots — a crisp, commanding officer's silhouette; 7) a floor-length priestly vestment with gold-trimmed stoles and a tall head ornament — a long, devout silhouette. Then add one signature idea of your own drawn from her legend, built into the construction of the outfit itself rather than as a print or a loose accessory — e.g. plates or cloth layered like feathers, scales or petals, a hem or sleeve cut into a motif from her story. Build it in this world's materials and our colours below.\n\nWeapon (fixed — ours): a jade hairpin, reimagined as a Western high-fantasy version of the same kind of object with the same silhouette: polished steel and silvered mithril throughout, the shaft or hilt also forged metal with engraved runes (never plain wood), a faint magical glow running along the edge and the runes, a gem-set guard or socket, a leather-wrapped grip and heraldic or elven ornament, with any animal motif re-sculpted in Western heraldic style and no Chinese fittings, silk tassels or hanzi.\n\nHair colour (fixed — ours): pale sky-blue hair. Keep exactly this hair colour; only the hairstyle is yours.\n\nSkin tone (fixed — ours): porcelain-pale skin. Keep exactly this skin tone.\n\nCostume colours (ours): jade green, imperial gold, earthen brown, white jade.\n\nRank (fixed): she is a high court official — her costume must read dignified office at first glance: refined, layered and finely ornamented, with flagship-card detail, never plain or sparse.\n\nExposure (fixed): bold — her outfit shows skin by design (a deep neckline, bare shoulders or arms, a high slit or short hem); intimate areas covered.\n\nFace proportions: a short midface and a soft, gently rounded jawline with a small soft chin — never a long face or a long, pointed or heavy jaw; any crown or headpiece sits above her hairline and never lengthens her face. Her eyes stay at a natural open size — never squeezed into narrow slits.\n\nComposition: vertical 2:3 full-body framing with modest headroom and clear space below the boots — the whole figure from the top of her crown or headpiece to both boots stays inside the frame, occupying about four-fifths of the image height, with the same camera distance in every genre; her hands and her signature item stay inside the frame. Camera at chest height with natural portrait perspective — no wide-angle distortion, no low angle, no close crop.\n\nIf you have already drawn a free design of her in this session, make this one clearly different — another face and hairstyle (the same hair colour and skin tone), another costume shape from the list with another signature idea, another pose and setting.\n\nWrite your own detailed image prompt from this brief, then draw it. One figure only, natural hands with five fingers; Western medieval setting and dress only — no Chinese architecture, robes, junks or hanzi; no logo or watermark.\n\nRESOLVED ORIGINAL DESIGN:\nChosen costume shape 7: floor-length priestly vestment with gold-trimmed stoles and tall head ornament. The stoles split into gently nested arch shapes, like a sanctuary built into the clothing, recalling her protective resolve; white-jade silk and jade-green velvet, imperial gold trim and earthen-brown leather details, deep neckline, bare shoulders and upper arms, full-length slit, refined lavish high-court construction. Pale sky-blue hair in a shoulder-length softly curled cut with straight airy bangs, small rounded face, golden hazel eyes, light freckle accents and peaceful closed-lip smile. One hand presents a complete gem-set silver-mithril magical hairpin with runic engraving; other hand touches a carved Western stone balustrade. Standing front-facing in an oak-shaded fortified abbey cloister, bright shafts of daylight, no East Asian objects.",
+  "date": "2026-11-17",
+  "record": "records/미부인/fantasy.kr_drawn_rim_dewy-ui.json",
+  "storage": {
+    "card": "미부인",
+    "out": "world",
+    "world": "fantasy",
+    "style": "kr_drawn_rim_dewy",
+    "notes": {
+      "미부인|fantasy": {}
+    },
+    "looks": {
+      "미부인|fantasy": {
+        "params": {},
+        "faceDesignOn": true,
+        "silhouetteOn": true,
+        "exposure": "bold"
+      }
+    },
+    "shots": {
+      "미부인|fantasy": {
+        "scene": "",
+        "time": "",
+        "pose": "",
+        "expr": "",
+        "frame": ""
+      }
+    },
+    "walked": {},
+    "casualN": 1,
+    "scenes": {}
+  },
+  "generation": {
+    "tool": "image_gen",
+    "endpoint": "images/generations",
+    "size": [
+      1024,
+      1536
+    ],
+    "png_sha256": "f69957bac5bb0994e7a7050710695247110c28dc612e4eaf69ec110c316edb23",
+    "webp": {
+      "quality": 90
+    },
+    "prompt_form": "en-prompt",
+    "prompt_sha256": "4f02979fd6b8a435ebf63b7cbe854fc9ecd9925eea2726f55b040ddf39dbfa17",
+    "selection": 4,
+    "design": "gpt_free",
+    "free_prompt": "Design brief — your own take on this character. A full-body vertical 2:3 (1024×1536) character card image of Lady Mi from the Romance of the Three Kingdoms, reimagined as an adult woman — Liu Bei's consort who entrusted the infant heir to Zhao Yun at Changban. Age: about twenty — a fresh young-adult face; no facial lines. She is a woman — no beard, moustache or facial hair.\n\nYou design her yourself: invent her face, eye colour, hairstyle, makeup, expression, pose and setting as a fresh, original take — do not follow any earlier design of this character. Her hair colour, skin tone, costume and weapon are NOT free: take them from our designs below.\n\nStyle (fixed): Korean MMORPG character artwork. A recognisably drawn face with gently simplified anatomical structure. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\n\nInspiration only: gentle courage and self-sacrifice, simple elegant court robes.\n\nWorld (fixed): a righteous highland kingdom of Western medieval high fantasy: grey-stone castles and fortified abbeys on green mountain ridges, alpine meadows, waterfalls and oak forests, heraldic banners of green and gold bearing a dragon device, oaths sworn under an ancient oak, gentle green nature-magic. Her costume, weapon and setting belong to this world.\n\nCostume (choose one of ours, then add your own idea): pick ONE of these costume shapes from our set and keep its overall silhouette — 1) leather armor with a short cloak, a lowered hood, bracers and boots — a light, agile ranger's silhouette; 2) a long floor-length robe with a high collar, wide sleeves and a shoulder mantle — a tall, mysterious mage's silhouette; 3) a fitted breastplate and pauldrons above a gown skirt flaring to the floor — an elegant lady-knight silhouette; 4) a light breastplate and bracers with robe panels split from the waist — half armor, half robe; 5) thin leaf-patterned armor plates and flowing light fabric panels with a slender circlet — a slender, graceful silhouette; 6) a long coat below the knees with epaulettes, a belt, gloves and tall boots — a crisp, commanding officer's silhouette; 7) a floor-length priestly vestment with gold-trimmed stoles and a tall head ornament — a long, devout silhouette. Then add one signature idea of your own drawn from her legend, built into the construction of the outfit itself rather than as a print or a loose accessory — e.g. plates or cloth layered like feathers, scales or petals, a hem or sleeve cut into a motif from her story. Build it in this world's materials and our colours below.\n\nWeapon (fixed — ours): a jade hairpin, reimagined as a Western high-fantasy version of the same kind of object with the same silhouette: polished steel and silvered mithril throughout, the shaft or hilt also forged metal with engraved runes (never plain wood), a faint magical glow running along the edge and the runes, a gem-set guard or socket, a leather-wrapped grip and heraldic or elven ornament, with any animal motif re-sculpted in Western heraldic style and no Chinese fittings, silk tassels or hanzi.\n\nHair colour (fixed — ours): pale sky-blue hair. Keep exactly this hair colour; only the hairstyle is yours.\n\nSkin tone (fixed — ours): porcelain-pale skin. Keep exactly this skin tone.\n\nCostume colours (ours): jade green, imperial gold, earthen brown, white jade.\n\nRank (fixed): she is a high court official — her costume must read dignified office at first glance: refined, layered and finely ornamented, with flagship-card detail, never plain or sparse.\n\nExposure (fixed): bold — her outfit shows skin by design (a deep neckline, bare shoulders or arms, a high slit or short hem); intimate areas covered.\n\nFace proportions: a short midface and a soft, gently rounded jawline with a small soft chin — never a long face or a long, pointed or heavy jaw; any crown or headpiece sits above her hairline and never lengthens her face. Her eyes stay at a natural open size — never squeezed into narrow slits.\n\nComposition: vertical 2:3 full-body framing with modest headroom and clear space below the boots — the whole figure from the top of her crown or headpiece to both boots stays inside the frame, occupying about four-fifths of the image height, with the same camera distance in every genre; her hands and her signature item stay inside the frame. Camera at chest height with natural portrait perspective — no wide-angle distortion, no low angle, no close crop.\n\nIf you have already drawn a free design of her in this session, make this one clearly different — another face and hairstyle (the same hair colour and skin tone), another costume shape from the list with another signature idea, another pose and setting.\n\nWrite your own detailed image prompt from this brief, then draw it. One figure only, natural hands with five fingers; Western medieval setting and dress only — no Chinese architecture, robes, junks or hanzi; no logo or watermark.\n\nRESOLVED ORIGINAL DESIGN:\nChosen costume shape 7: floor-length priestly vestment with gold-trimmed stoles and tall head ornament. The stoles split into gently nested arch shapes, like a sanctuary built into the clothing, recalling her protective resolve; white-jade silk and jade-green velvet, imperial gold trim and earthen-brown leather details, deep neckline, bare shoulders and upper arms, full-length slit, refined lavish high-court construction. Pale sky-blue hair in a shoulder-length softly curled cut with straight airy bangs, small rounded face, golden hazel eyes, light freckle accents and peaceful closed-lip smile. One hand presents a complete gem-set silver-mithril magical hairpin with runic engraving; other hand touches a carved Western stone balustrade. Standing front-facing in an oak-shaded fortified abbey cloister, bright shafts of daylight, no East Asian objects."
+  },
+  "execution": "sam-mifuren-20261117",
+  "imported": "2026-11-17",
+  "qa": {
+    "reviewer": "GPT",
+    "image_sha256": "f69957bac5bb0994e7a7050710695247110c28dc612e4eaf69ec110c316edb23",
+    "passed": true,
+    "anatomy": "ok",
+    "exposure": "match",
+    "observations": [
+      "Single adult woman, both hands and feet visible.",
+      "Genre and pale sky-blue hair preserved.",
+      "Complete jade hairpin visible."
+    ]
+  },
+  "review": {
+    "reviewed": true,
+    "by": "user",
+    "result": "world option 4 selected"
+  }
+}
