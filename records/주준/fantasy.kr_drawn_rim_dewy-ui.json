@@ -1,0 +1,121 @@
+{
+ "atelier": "samguk",
+ "card": "주준",
+ "faction": "qun",
+ "role": "general",
+ "world": "fantasy",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v1",
+ "notes": {},
+ "look": {
+  "params": {},
+  "faceDesignOn": true,
+  "silhouetteOn": true,
+  "exposure": "bold"
+ },
+ "design": {
+  "face": {
+   "eye_color": "dark_brown",
+   "impression": "stoic",
+   "expr": "focused",
+   "skin_tone": "golden_tan",
+   "age": "early_30s",
+   "eye_size": "medium",
+   "eye_tilt": "up",
+   "mark": "mole_eye",
+   "brows": "straight_thick",
+   "nose": "upturned",
+   "lips": "heart_full",
+   "face_shape": "oval",
+   "eyes": "monolid_long"
+  },
+  "silhouette": {
+   "body": "curvy_athletic",
+   "hair_color": "sunset_pink",
+   "hair": "low_ponytail",
+   "bangs": "wispy"
+  }
+ },
+ "shot": {
+  "scene": "",
+  "time": "",
+  "pose": "",
+  "expr": "",
+  "frame": ""
+ },
+ "file": "주준_fantasy_kr_drawn_rim_dewy_f.webp",
+ "prompt": "A full-body character image, vertical 2:3 (1024×1536): Zhu Jun of the Romance of the Three Kingdoms, reimagined as an adult woman — the imperial general who retook Wancheng from the Yellow Turbans.\n\n1. STYLE\nKorean MMORPG character artwork. A recognisably drawn face with gently simplified anatomical structure. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nHer face is small and soft: a short midface, a softly rounded jaw and a small chin, about 1.3 times as long as it is wide, with her eyes open at their natural size. Bangs, side locks and headpieces frame the face without lengthening it.\nSkin finish: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\n2. CHARACTER\nAge: early thirties — a poised, graceful face with soft contours.\nFace — her own, recognisably this character, a woman's face with no beard or facial hair: a stoic, unreadable reserve; light warm-beige skin with a golden undertone; oval face; medium-sized eyes — long monolid eyes, outer eye corners slightly lifted; thick straight brows; upturned nose; full heart-shaped lips; dark brown eyes; a small beauty mark under one eye.\nBody and hair: toned athletic-curvy, full-busted with rounded hips build; a low ponytail tied at the nape with wispy see-through bangs; sunset-pink hair.\nExpression: attentive, steady eyes, mouth closed, subtle and relaxed.\nLegend, carried in her design and bearing: steady strategy, Han imperial armor.\nAnatomy: one head, two arms and two legs, each joined at its natural joint; natural hands with five fingers.\n\n3. COSTUME AND EQUIPMENT — MEDIEVAL FANTASY\nCostume: a knight-champion's armor — articulated plate with a heraldic tabard in her faction's colours, a plumed helm or circlet, a battle cape, her weapon at hand. Western medieval high-fantasy dress — plate, mail and heraldic tabards, gowns and mantles, circlets and crowns; steel, leather, wool, velvet and gold, with a subtle magical glow along the patterns. Her Three Kingdoms origin shows through her signature item, her colours and her bearing.\nSilhouette: full plate armor from neck to feet with big rounded pauldrons and a short heraldic tabard — a solid knight's silhouette. This silhouette sets the overall shape of the costume above — keep its materials, ornaments and rank in this shape; the details are free.\nColours: Han black and vermilion, gold and jade.\nSignature item: a long spear, reimagined as a Western high-fantasy version of the same kind of object with the same silhouette — polished steel and silvered mithril throughout, the shaft or hilt also forged metal with engraved runes (never plain wood), a faint magical glow running along the edge and the runes, a gem-set guard or socket, a leather-wrapped grip and heraldic or elven ornament, with any animal motif re-sculpted in Western heraldic style. She holds it at full scale: one whole object, drawn once, held in front of or beside her body; a long weapon keeps one straight, unbroken shaft with a single head or blade.\nExposure (bold): her regalia opens to show skin — bare upper arms below the pauldrons, which stay seated on top of her shoulders (bare shoulders only where no shoulder guard sits), a deep open neckline under the gorget with natural cleavage, the tabard or gown cut with a high side slit at full length — it shows the side line of one leg as she stands, no leg pushed out or knee bent for it; armor pieces stay on and symmetrical. Intimate areas covered; no corset; keep the costume material and palette.\n\n4. SCENE\nWorld: the shattered realms of medieval high fantasy, an age of rival warlords after a fallen empire: a ruined imperial capital, mercenary camps, border keeps, outlaw marches and wild southern jungles, dark violet battle-magic.\nPose: standing confidently, her body turned slightly while her face looks toward the viewer.\nLight: a soft key light with a strong rim light tracing her hair, shoulders and armour; bright, crisp specular highlights on metal and jewellery, and a clean, warm-neutral sheen on her skin.\nComposition: her whole figure from the top of her head or headpiece to both feet inside the frame with clear margins, about four-fifths of the image height; camera at chest height with natural portrait perspective.\n\n5. CONSTRAINTS\nOne figure only — no second character, horse or other creature. No readable text or numbers — banners and shields carry only heraldic devices (a beast or a crest), never letters or Chinese characters. No logo, watermark, speech bubble or frame border. A Western medieval setting and dress only — stone castles, Romanesque or Gothic architecture — with no Chinese architecture, robes or hanzi.\nAvoid: a blue or bruise-like tint on the skin around the eyes, glossy or shiny highlights on the face, sweaty, oily or plastic-looking skin.",
+ "date": "2026-11-17",
+ "record": "records/주준/fantasy.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "주준",
+  "out": "world",
+  "world": "fantasy",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {
+   "주준|fantasy": {}
+  },
+  "looks": {
+   "주준|fantasy": {
+    "params": {},
+    "faceDesignOn": true,
+    "silhouetteOn": true,
+    "exposure": "bold"
+   }
+  },
+  "shots": {
+   "주준|fantasy": {
+    "scene": "",
+    "time": "",
+    "pose": "",
+    "expr": "",
+    "frame": ""
+   }
+  },
+  "walked": {},
+  "casualN": 1,
+  "scenes": {}
+ },
+ "generation": {
+  "tool": "image_gen",
+  "endpoint": "images/generations",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "21ba1fc126bbd3fe94a14872b47b2ba76d469b2bff0ed737a07d25d51b20e6a4",
+  "prompt_form": "en-prompt",
+  "prompt_sha256": "f47aa0dd4deaed8a2bd7afc94f3e4e7951cf4e9311016bbf1f6af80aca270ae2",
+  "actual_prompt": "A full-body vertical 2:3 (1024×1536) character image of Zhu Jun from the Romance of the Three Kingdoms, reimagined as an adult woman — the imperial general who retook Wancheng from the Yellow Turbans.\n\nStyle (fixed): Korean MMORPG character artwork. A recognisably drawn face with gently simplified anatomical structure. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\n\nWorld (fixed): the shattered realms of medieval high fantasy, an age of rival warlords after a fallen empire: a ruined imperial capital, mercenary camps, border keeps, outlaw marches and wild southern jungles, dark violet battle-magic. Her costume, weapon and setting belong to this world.\n\nWeapon (fixed — ours): a long spear, reimagined as a Western high-fantasy version of the same kind of object with the same silhouette: polished steel and silvered mithril throughout, the shaft or hilt also forged metal with engraved runes (never plain wood), a faint magical glow running along the edge and the runes, a gem-set guard or socket, a leather-wrapped grip and heraldic or elven ornament, with any animal motif re-sculpted in Western heraldic style and no Chinese fittings, silk tassels or hanzi.\n\nHair colour (fixed — ours): sunset-pink hair. Keep exactly this hair colour; only the hairstyle is yours.\n\nSkin tone (fixed — ours): light warm-beige skin with a golden undertone. Keep exactly this skin tone.\n\nCostume colours (ours): Han black and vermilion, gold and jade.\n\nRank (fixed): she is a famed war general — her costume must read battlefield might at first glance: imposing, richly worked armour and cloth with flagship-card detail, never plain or sparse.\n\nExposure (fixed): bold — her outfit shows skin by design (a deep neckline, bare shoulders or arms, a high slit or short hem); intimate areas covered.\n\nFace proportions: a short midface and a soft, gently rounded jawline with a small soft chin — never a long face or a long, pointed or heavy jaw; any crown or headpiece sits above her hairline and never lengthens her face. Her eyes stay at a natural open size — never squeezed into narrow slits.\n\nComposition: vertical 2:3 full-body framing with modest headroom and clear space below the boots — the whole figure from the top of her crown or headpiece to both boots stays inside the frame, occupying about four-fifths of the image height, with the same camera distance in every genre; her hands and her signature item stay inside the frame. Camera at chest height with natural portrait perspective — no wide-angle distortion, no low angle, no close crop.\n\nCHARACTER: Zhu Jun, an adult woman in her early thirties, soft rounded oval face, clear violet eyes at a natural open size, strong straight brows and small soft chin. Sunset-pink hair in shoulder-length loose waves swept to one side, light warm-beige skin with a golden undertone; athletic curvy figure and full bust. An assured, level gaze.\nCOSTUME: Choose silhouette 3: fitted breastplate and pauldrons above a gown skirt flaring to the floor, an imposing elegant lady-knight. Black enameled steel and vermilion velvet with gold and jade. The gown is constructed with overlapping reinforced triangular panels opening from the waist like the leaves of a recovered citadel gate, structural layers rather than a print. Symmetrical rounded pauldrons, bare upper arms, deep neckline, a high side slit, intimate areas covered; no corset. A Western gold circlet and sculpted heraldic armor fittings.\nPOSE AND SCENE: She stands squarely in a ruined Western imperial cloister, one hand keeping a single long mithril spear planted vertically by her side, the free hand gently gathering the edge of her mantle at waist height. Both feet clearly grounded. Late afternoon light crosses Gothic stone arcades, vermilion heraldic banners carry abstract devices without letters, faint violet magic in distant rubble.\n\nOne figure only, one head, two arms and two legs joined naturally. Natural hands with five fingers, both hands visible. No other people or animals. No logo, watermark, frame or readable text, except a single 朱 on a Han banner in the Three Kingdoms world. Western medieval fantasy uses only Western heraldic devices and no hanzi; mecha uses abstract insignia only.",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "selected_candidate": 4,
+  "design": "gpt_free",
+  "free_prompt": "A full-body vertical 2:3 (1024×1536) character image of Zhu Jun from the Romance of the Three Kingdoms, reimagined as an adult woman — the imperial general who retook Wancheng from the Yellow Turbans.\n\nStyle (fixed): Korean MMORPG character artwork. A recognisably drawn face with gently simplified anatomical structure. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\n\nWorld (fixed): the shattered realms of medieval high fantasy, an age of rival warlords after a fallen empire: a ruined imperial capital, mercenary camps, border keeps, outlaw marches and wild southern jungles, dark violet battle-magic. Her costume, weapon and setting belong to this world.\n\nWeapon (fixed — ours): a long spear, reimagined as a Western high-fantasy version of the same kind of object with the same silhouette: polished steel and silvered mithril throughout, the shaft or hilt also forged metal with engraved runes (never plain wood), a faint magical glow running along the edge and the runes, a gem-set guard or socket, a leather-wrapped grip and heraldic or elven ornament, with any animal motif re-sculpted in Western heraldic style and no Chinese fittings, silk tassels or hanzi.\n\nHair colour (fixed — ours): sunset-pink hair. Keep exactly this hair colour; only the hairstyle is yours.\n\nSkin tone (fixed — ours): light warm-beige skin with a golden undertone. Keep exactly this skin tone.\n\nCostume colours (ours): Han black and vermilion, gold and jade.\n\nRank (fixed): she is a famed war general — her costume must read battlefield might at first glance: imposing, richly worked armour and cloth with flagship-card detail, never plain or sparse.\n\nExposure (fixed): bold — her outfit shows skin by design (a deep neckline, bare shoulders or arms, a high slit or short hem); intimate areas covered.\n\nFace proportions: a short midface and a soft, gently rounded jawline with a small soft chin — never a long face or a long, pointed or heavy jaw; any crown or headpiece sits above her hairline and never lengthens her face. Her eyes stay at a natural open size — never squeezed into narrow slits.\n\nComposition: vertical 2:3 full-body framing with modest headroom and clear space below the boots — the whole figure from the top of her crown or headpiece to both boots stays inside the frame, occupying about four-fifths of the image height, with the same camera distance in every genre; her hands and her signature item stay inside the frame. Camera at chest height with natural portrait perspective — no wide-angle distortion, no low angle, no close crop.\n\nCHARACTER: Zhu Jun, an adult woman in her early thirties, soft rounded oval face, clear violet eyes at a natural open size, strong straight brows and small soft chin. Sunset-pink hair in shoulder-length loose waves swept to one side, light warm-beige skin with a golden undertone; athletic curvy figure and full bust. An assured, level gaze.\nCOSTUME: Choose silhouette 3: fitted breastplate and pauldrons above a gown skirt flaring to the floor, an imposing elegant lady-knight. Black enameled steel and vermilion velvet with gold and jade. The gown is constructed with overlapping reinforced triangular panels opening from the waist like the leaves of a recovered citadel gate, structural layers rather than a print. Symmetrical rounded pauldrons, bare upper arms, deep neckline, a high side slit, intimate areas covered; no corset. A Western gold circlet and sculpted heraldic armor fittings.\nPOSE AND SCENE: She stands squarely in a ruined Western imperial cloister, one hand keeping a single long mithril spear planted vertically by her side, the free hand gently gathering the edge of her mantle at waist height. Both feet clearly grounded. Late afternoon light crosses Gothic stone arcades, vermilion heraldic banners carry abstract devices without letters, faint violet magic in distant rubble.\n\nOne figure only, one head, two arms and two legs joined naturally. Natural hands with five fingers, both hands visible. No other people or animals. No logo, watermark, frame or readable text, except a single 朱 on a Han banner in the Three Kingdoms world. Western medieval fantasy uses only Western heraldic devices and no hanzi; mecha uses abstract insignia only.",
+  "qa_selection_note": "사용자가 선택한 원본을 보존. 판타지·메카 한자 깃발, 메카 추가 피부 개방 및 창끝 잘림은 재생성하지 않음."
+ },
+ "execution": "sam-zhujun-20261117",
+ "imported": "2026-11-17",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "21ba1fc126bbd3fe94a14872b47b2ba76d469b2bff0ed737a07d25d51b20e6a4",
+  "passed": false,
+  "anatomy": "ok",
+  "exposure": "match",
+  "observations": [
+   "사용자가 선택한 세계컷. 세계 장르와 전신 확인.",
+   "해당 세계의 문자 없음 제약과 달리 한자 깃발이 들어감.",
+   "1024×1536. 눈에 띄는 추가 팔·다리는 보이지 않음.",
+   "그립·가림·크롭으로 손가락 전체 개별 확인에는 한계가 있음. 원본 보존."
+  ],
+  "cause": "구도·배경·소품·노출이 지시와 다른 부분을 검수에 기록. 생성된 원본은 재생성 없이 보존."
+ },
+ "acceptance": "user_approval_2026-11-17 — 세계컷 선택 2,4,3 및 완료 후 main 일반 반영 승인",
+ "review": {
+  "reviewed": true,
+  "by": "user",
+  "result": "approved"
+ }
+}

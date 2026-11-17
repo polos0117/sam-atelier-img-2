@@ -1,0 +1,118 @@
+{
+ "atelier": "samguk",
+ "card": "주준",
+ "faction": "qun",
+ "role": "general",
+ "world": "samguk",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v1",
+ "notes": {},
+ "look": {
+  "params": {},
+  "faceDesignOn": true,
+  "silhouetteOn": true,
+  "exposure": "bold"
+ },
+ "design": {
+  "face": {
+   "eye_color": "dark_brown",
+   "impression": "stoic",
+   "expr": "focused",
+   "skin_tone": "golden_tan",
+   "age": "early_30s",
+   "eye_size": "medium",
+   "eye_tilt": "down",
+   "mark": "mole_eye",
+   "brows": "straight_thick",
+   "nose": "upturned",
+   "lips": "heart_full",
+   "face_shape": "heart",
+   "eyes": "droopy_soft"
+  },
+  "silhouette": {
+   "body": "curvy_athletic",
+   "hair_color": "sunset_pink",
+   "hair": "cloud_updo",
+   "bangs": "curtain"
+  }
+ },
+ "shot": {
+  "scene": "",
+  "time": "",
+  "pose": "",
+  "expr": "",
+  "frame": ""
+ },
+ "file": "주준_samguk_kr_drawn_rim_dewy_f.webp",
+ "prompt": "A full-body character image, vertical 2:3 (1024×1536): Zhu Jun of the Romance of the Three Kingdoms, reimagined as an adult woman — the imperial general who retook Wancheng from the Yellow Turbans.\n\n1. STYLE\nKorean MMORPG character artwork. A recognisably drawn face with gently simplified anatomical structure. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nHer face is small and soft: a short midface, a softly rounded jaw and a small chin, about 1.3 times as long as it is wide, with her eyes open at their natural size. Bangs, side locks and headpieces frame the face without lengthening it.\nSkin finish: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\n2. CHARACTER\nAge: early thirties — a poised, graceful face with soft contours.\nFace — her own, recognisably this character, a woman's face with no beard or facial hair: a stoic, unreadable reserve; light warm-beige skin with a golden undertone; heart-shaped face; medium-sized eyes — soft droopy eyes, outer eye corners drooping downward; thick straight brows; upturned nose; full heart-shaped lips; dark brown eyes; a small beauty mark under one eye.\nBody and hair: toned athletic-curvy, full-busted with rounded hips build; a tall, swept cloud-shaped updo with curtain bangs; sunset-pink hair.\nExpression: attentive, steady eyes, mouth closed, subtle and relaxed.\nLegend, carried in her design and bearing: steady strategy, Han imperial armor.\nAnatomy: one head, two arms and two legs, each joined at its natural joint; natural hands with five fingers.\n\n3. COSTUME AND EQUIPMENT — THREE KINGDOMS\nCostume: Three Kingdoms war general's armor — lamellar scale armor laced over a silk battle robe, beast-head shoulder guards, a plumed helmet or a war headband, a long war cape, her weapon at hand. Late-Han Chinese dress — cross-collared silk robes with wide sleeves and a broad sash, lamellar or scale armor laced with cords where armor is worn, bronze, jade and lacquer ornament, Han court hair ornaments; silk, lacquered leather, bronze and iron.\nSilhouette: a heavy fur mantle over the shoulders with leather straps and beast ornaments — a rugged frontier silhouette. This silhouette sets the overall shape of the costume above — keep its materials, ornaments and rank in this shape; the details are free.\nColours: Han black and vermilion, gold and jade.\nSignature item: a long spear. She holds it at full scale: one whole object, drawn once, held in front of or beside her body; a long weapon keeps one straight, unbroken shaft with a single head or blade.\nExposure (bold): her robes open to show skin — the cross collar opened into a deep neckline with natural cleavage, bare upper arms above detached wide sleeves (and bare shoulders where no shoulder guard sits), the skirt panels cut with a high side slit at full length — it shows the side line of one leg as she stands, no leg pushed out or knee bent for it; any armor pieces stay on and symmetrical. Intimate areas covered; keep the costume material and palette.\n\n4. SCENE\nWorld: the chaos of the late Eastern Han, around 184–200 AD: burning Luoyang, the Hulao Pass, Yellow Turban fields, warlord camps of rival banners, frontier steppe and the southern jungles of the Nanman.\nPose: standing confidently, her body turned slightly while her face looks toward the viewer.\nLight: a soft key light with a strong rim light tracing her hair, shoulders and armour; bright, crisp specular highlights on metal and jewellery, and a clean, warm-neutral sheen on her skin.\nComposition: her whole figure from the top of her head or headpiece to both feet inside the frame with clear margins, about four-fifths of the image height; camera at chest height with natural portrait perspective.\n\n5. CONSTRAINTS\nOne figure only — no second character, horse or other creature. No readable text or numbers, except that a banner, seal or emblem may carry the single character 雄 or 朱. No logo, watermark, speech bubble or frame border. Three Kingdoms-era Chinese dress, architecture and materials only.\nAvoid: a blue or bruise-like tint on the skin around the eyes, glossy or shiny highlights on the face, sweaty, oily or plastic-looking skin.",
+ "date": "2026-11-17",
+ "record": "records/주준/samguk.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "주준",
+  "out": "world",
+  "world": "samguk",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {
+   "주준|samguk": {}
+  },
+  "looks": {
+   "주준|samguk": {
+    "params": {},
+    "faceDesignOn": true,
+    "silhouetteOn": true,
+    "exposure": "bold"
+   }
+  },
+  "shots": {
+   "주준|samguk": {
+    "scene": "",
+    "time": "",
+    "pose": "",
+    "expr": "",
+    "frame": ""
+   }
+  },
+  "walked": {},
+  "casualN": 1,
+  "scenes": {}
+ },
+ "generation": {
+  "tool": "image_gen",
+  "endpoint": "images/generations",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "a3d30d733a8fa70ae6b24ebbdf54f8263dacb7ffad34e9e3e24a77c1c36a9f0c",
+  "prompt_form": "en-prompt",
+  "prompt_sha256": "9f836900033619999c843a59e327cb3ac3f00fdaaf73e3b04bb5c0b2204762f5",
+  "actual_prompt": "A full-body character image, vertical 2:3 (1024×1536): Zhu Jun of the Romance of the Three Kingdoms, reimagined as an adult woman — the imperial general who retook Wancheng from the Yellow Turbans.\n\n1. STYLE\nKorean MMORPG character artwork. A recognisably drawn face with gently simplified anatomical structure. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nHer face is small and soft: a short midface, a softly rounded jaw and a small chin, about 1.3 times as long as it is wide, with her eyes open at their natural size. Bangs, side locks and headpieces frame the face without lengthening it.\nSkin finish: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\n2. CHARACTER\nAge: early thirties — a poised, graceful face with soft contours.\nFace — her own, recognisably this character, a woman's face with no beard or facial hair: a stoic, unreadable reserve; light warm-beige skin with a golden undertone; heart-shaped face; medium-sized eyes — soft droopy eyes, outer eye corners drooping downward; thick straight brows; upturned nose; full heart-shaped lips; dark brown eyes; a small beauty mark under one eye.\nBody and hair: toned athletic-curvy, full-busted with rounded hips build; a tall, swept cloud-shaped updo with curtain bangs; sunset-pink hair.\nExpression: attentive, steady eyes, mouth closed, subtle and relaxed.\nLegend, carried in her design and bearing: steady strategy, Han imperial armor.\nAnatomy: one head, two arms and two legs, each joined at its natural joint; natural hands with five fingers.\n\n3. COSTUME AND EQUIPMENT — THREE KINGDOMS\nCostume: Three Kingdoms war general's armor — lamellar scale armor laced over a silk battle robe, beast-head shoulder guards, a plumed helmet or a war headband, a long war cape, her weapon at hand. Late-Han Chinese dress — cross-collared silk robes with wide sleeves and a broad sash, lamellar or scale armor laced with cords where armor is worn, bronze, jade and lacquer ornament, Han court hair ornaments; silk, lacquered leather, bronze and iron.\nSilhouette: a heavy fur mantle over the shoulders with leather straps and beast ornaments — a rugged frontier silhouette. This silhouette sets the overall shape of the costume above — keep its materials, ornaments and rank in this shape; the details are free.\nColours: Han black and vermilion, gold and jade.\nSignature item: a long spear. She holds it at full scale: one whole object, drawn once, held in front of or beside her body; a long weapon keeps one straight, unbroken shaft with a single head or blade.\nExposure (bold): her robes open to show skin — the cross collar opened into a deep neckline with natural cleavage, bare upper arms above detached wide sleeves (and bare shoulders where no shoulder guard sits), the skirt panels cut with a high side slit at full length — it shows the side line of one leg as she stands, no leg pushed out or knee bent for it; any armor pieces stay on and symmetrical. Intimate areas covered; keep the costume material and palette.\n\n4. SCENE\nWorld: the chaos of the late Eastern Han, around 184–200 AD: burning Luoyang, the Hulao Pass, Yellow Turban fields, warlord camps of rival banners, frontier steppe and the southern jungles of the Nanman.\nPose: standing confidently, her body turned slightly while her face looks toward the viewer.\nLight: a soft key light with a strong rim light tracing her hair, shoulders and armour; bright, crisp specular highlights on metal and jewellery, and a clean, warm-neutral sheen on her skin.\nComposition: her whole figure from the top of her head or headpiece to both feet inside the frame with clear margins, about four-fifths of the image height; camera at chest height with natural portrait perspective.\n\n5. CONSTRAINTS\nOne figure only — no second character, horse or other creature. No readable text or numbers, except that a banner, seal or emblem may carry the single character 雄 or 朱. No logo, watermark, speech bubble or frame border. Three Kingdoms-era Chinese dress, architecture and materials only.\nAvoid: a blue or bruise-like tint on the skin around the eyes, glossy or shiny highlights on the face, sweaty, oily or plastic-looking skin.",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "selected_candidate": 2,
+  "design": "our",
+  "qa_selection_note": "사용자가 선택한 원본을 보존. 판타지·메카 한자 깃발, 메카 추가 피부 개방 및 창끝 잘림은 재생성하지 않음."
+ },
+ "execution": "sam-zhujun-20261117",
+ "imported": "2026-11-17",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "a3d30d733a8fa70ae6b24ebbdf54f8263dacb7ffad34e9e3e24a77c1c36a9f0c",
+  "passed": true,
+  "anatomy": "ok",
+  "exposure": "match",
+  "observations": [
+   "사용자가 선택한 세계컷. 세계 장르와 전신 확인.",
+   "1024×1536. 눈에 띄는 추가 팔·다리는 보이지 않음.",
+   "그립·가림·크롭으로 손가락 전체 개별 확인에는 한계가 있음. 원본 보존."
+  ]
+ },
+ "acceptance": "user_approval_2026-11-17 — 세계컷 선택 2,4,3 및 완료 후 main 일반 반영 승인",
+ "review": {
+  "reviewed": true,
+  "by": "user",
+  "result": "approved"
+ }
+}
