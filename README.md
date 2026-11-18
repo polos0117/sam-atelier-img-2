@@ -1,6 +1,6 @@
 # sam-atelier-img-2
 
-[sam-atelier](https://github.com/polos0117/sam-atelier) 의 **둘째** 그림 저장소다(2026-11-12 부터 열림). 앞 저장소는 [sam-atelier-img](https://github.com/polos0117/sam-atelier-img)(0 번)에 있다.
+[sam-atelier](https://github.com/polos0117/sam-atelier) 의 **둘째** 그림 저장소다(2026-11-12 ~ 11-18 열림 → **2026-11-18 닫힘**, 약 1.08 GB — 이미 있는 이름의 교체만. 새 그림은 [sam-atelier-img-3](https://github.com/polos0117/sam-atelier-img-3)). 앞 저장소는 [sam-atelier-img](https://github.com/polos0117/sam-atelier-img)(0 번)에 있다.
 Pages 로 `https://polos0117.github.io/sam-atelier-img-2/img/<파일>` 에서 읽는다. 게임의 초상(`sam-atelier/images/`)과는 따로다.
 
 ## 왜 하나 더 두나
@@ -13,7 +13,7 @@ GitHub Pages 사이트 한 개는 1 GB 까지다. 첫 저장소 `sam-atelier-img
 
 ## 규칙
 
-- **새 그림은 여기에만 올린다.** 첫 저장소는 닫혔다 — 그쪽에 새 이름이 올라오면 등록이 전부 멈춘다.
+- ~~새 그림은 여기에만 올린다.~~ **2026-11-18 부터 새 그림은 `sam-atelier-img-3` 에.** 첫 저장소는 닫혔다 — 그쪽에 새 이름이 올라오면 등록이 전부 멈춘다.
   이미 있는 이름을 고쳐 그리는 교체만 그 파일이 있는 저장소에 덮어쓴다(`data/img.json` 의 `where`, 없으면 0 번).
 - 같은 이름을 두 저장소에 두지 않는다(등록이 멈춘다).
 - 새 그림의 기록(`records/<장수>/`)도 여기에 둔다. 한 장수의 기록이 두 저장소에 나뉘어도 도구(계획기 · `casual-check`)가 둘 다 읽는다.
