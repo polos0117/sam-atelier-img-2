@@ -1,0 +1,145 @@
+{
+ "atelier": "samguk",
+ "card": "관은병",
+ "faction": "shu",
+ "slot": "casual3",
+ "treeV": 2,
+ "world": "samguk",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v1",
+ "ref": "관은병_samguk_kr_drawn_rim_dewy_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "now",
+  "place": "stage_convention",
+  "ofam": "game_cosplay",
+  "item": "gc_crop_set",
+  "posture": "walk",
+  "support": "none",
+  "frame": "environmental",
+  "body": "back",
+  "head": "with_body",
+  "camera": "eye",
+  "right": "prop",
+  "left": "down",
+  "use": "camera_carry",
+  "kind": "hold",
+  "legs": "walk_stride",
+  "gaze": "horizon",
+  "time": "fluorescent",
+  "hair": "down",
+  "depth": "flat",
+  "cosplay": {
+   "game": "league_of_legends",
+   "character": "Ezreal",
+   "cut": "crop_set",
+   "round": 1
+  },
+  "expr": "",
+  "preset": "walk_away",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "관은병_samguk_kr_drawn_rim_dewy_f_casual3.webp",
+ "prompt": "INPUT: the attached image is the approved character — her Three kingdoms card; keep her. Do not reuse earlier conversation images.\n\nCHARACTER: the same woman as the attached image — the female personification of Guan Yinping of the Three Kingdoms, off duty in a game cosplay. Keep her face, eye and hair colours, skin tone and body proportions; expression and hair motion may change. In this cut she wears another character's costume: she is herself in that character's cosplay, not that character — her own face, hair colour and body stay exactly as in the attached image.\n\nSTYLE: Korean MMORPG character artwork. A recognisably drawn face with gently simplified anatomical structure. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\n\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nAGE: the same adult woman as in the attached image — keep her own face shape, cheekbones, eye proportions and skin tone exactly; minimal facial lines (no nasolabial folds, crow's feet, under-eye bags or cheek creases). Keep her face soft, feminine and attractive in every framing — never elongated, gaunt, mannish or heavy-jawed, even in close-ups, profiles or low angles.\n\nOUTPUT: one standalone off-duty scene of her wearing the game cosplay chosen in SCENE — a daring adult cosplay of the video game character named there, as worn to a cosplay event, an arcade night or a photo shoot. In this cut the outfit itself shows that game character: its recognisable colours, shapes and parts. Everything else follows SCENE (chosen).\n\nFRAME: a vertical 2:3 (1024×1536) image. Compose the image for this frame; COMPOSITION in SCENE sets how much of her shows.\n\nERA: the present-day real world — today's clothing, hair, devices and interiors; an ordinary woman of today, nothing of her legend in her clothes.\n\nSCENE (chosen):\nPlace: a convention photo zone under ring lights\nTime of day: cool white overhead light, flat and bright; flat white light with crisp edges, no warm glow.\nHair: her hair let down loose over her shoulders — same colour and length as the attached image.\nOutfit: a daring adult cosplay of Ezreal from League of Legends — the costume's recognisable colours and parts, cut as a cropped top and a micro skirt or hot pants that bare the midriff\nPOSTURE: walking.\nCOMPOSITION: an environmental long shot, her complete figure and enough of the place around her; back to the camera; camera at her eye level; a wall or backdrop of the place close behind her.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left arm hangs relaxed at her side.\nPROP: with her own right hand she carries a camera by its grip at her side; it is all she holds.\nLEGS: mid-stride, one heel lifting.\nGAZE: she looks toward the far distance.\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing; nothing slipped off; intimate areas covered\n\nWARDROBE: change her clothes completely into the cosplay SCENE describes. From the attached image take only her face, hair colour and body — not its garment, armor, regalia, ornaments, mecha plates or background, and none of her Three Kingdoms colours or emblems. The costume must read at first glance as that game character's look, rebuilt as a glamorous adult outfit in the cut SCENE names; she is a real woman in a cosplay, not the character — never the character's face, body or creature shape, no logo or readable text, and no weapon or prop weapon in her hands.\n\nANGLE: the attached image fixes who she is, not how she is posed or shot. Do not copy its head angle, head tilt, gaze direction, face size in frame, camera height or crop — turn her head, set her gaze and place the camera exactly as SCENE describes, and let her face read naturally from that new angle (profile, three-quarter, looking down or away), with her features staying the same. No default card pose, no default front-facing portrait.\n\nONE MAIN FIGURE: she is the only character in focus. Where the place is busy, other people may appear only as small, soft-focus background extras — never posed with her. No logo, no watermark, no speech bubble, no frame border. No readable text or numbers.\n\nANATOMY: natural adult proportions, about 7.5 heads tall — height from the legs, never a smaller head or a longer neck. The neck is a natural length and the head sits close to the shoulders. No body-part enlargement, no extra limbs.\n\nFIGURE: voluptuous, generously curved at bust, hips and thighs — keep this exact build from the attached image, neither slimmer nor fuller.\n\nBODY: a normal human body — one head, two arms and two legs, each joined at its natural joint; elbows, knees and wrists bend the human way. Hands and feet may be partly hidden by the pose, what she holds or the frame. Right and left mean her own right and left, not the viewer's.\n\nHANDS: natural human hands, no extra or duplicated limbs; each visible hand joins through its wrist and forearm to the matching shoulder. A hand may stay outside the crop, and fingers may be partly hidden by a grip.\n\nAVOID: a blue or bruise-like tint on the skin around the eyes, glossy or shiny highlights on the face, sweaty, oily or plastic-looking skin.",
+ "date": "2026-11-18",
+ "record": "records/관은병/samguk-casual3.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "관은병",
+  "out": "casual",
+  "world": "samguk",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 3,
+  "scenes": {
+   "관은병": {
+    "era": "now",
+    "place": "stage_convention",
+    "ofam": "game_cosplay",
+    "treeV": 2,
+    "prop": "",
+    "preset": "walk_away",
+    "use": "camera_carry",
+    "kind": "hold",
+    "posture": "walk",
+    "support": "none",
+    "frame": "environmental",
+    "body": "back",
+    "head": "with_body",
+    "camera": "eye",
+    "right": "prop",
+    "left": "down",
+    "legs": "walk_stride",
+    "gaze": "horizon",
+    "item": "gc_crop_set",
+    "cosplay": {
+     "game": "league_of_legends",
+     "character": "Ezreal",
+     "cut": "crop_set",
+     "round": 1
+    },
+    "expr": "",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "time": "fluorescent",
+    "hair": "down",
+    "depth": "flat"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "c815a6442b079511df0ff05e3b82244c56870438238bd2c87c9e1c013a09adb0",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "prompt_form": "en-prompt",
+  "prompt_sha256": "c1d8ceb901eb400127b81d8a7ce1347e1cdf5d9c1c6939655adc51e27f5eff83",
+  "retries": [],
+  "ref_sha256": "b779b7339b15d467c0e1c2c9ba71c6c9add96a4333050c3103402b9151b6721b",
+  "cosplay": {
+   "game": "league_of_legends",
+   "character": "Ezreal",
+   "cut": "crop_set"
+  }
+ },
+ "execution": "sam-guanyinping-20261118",
+ "imported": "2026-11-18",
+ "qa": {
+  "reviewer": "gpt-session",
+  "passed": false,
+  "anatomy": "ok",
+  "exposure": "match",
+  "observations": [
+   "Ezreal-inspired crop costume, convention setting and hand-held camera present.",
+   "Both arms and hands connect; no extra limbs observed.",
+   "Walking portrait faces front three-quarter rather than the planned back-facing walk away."
+  ],
+  "cause": "The reference card frontal orientation outweighed the scene back-facing direction.",
+  "image_sha256": "c815a6442b079511df0ff05e3b82244c56870438238bd2c87c9e1c013a09adb0"
+ },
+ "acceptance": "user_approval — character images and data commit and normal main update authorized",
+ "review": {
+  "reviewed": false,
+  "by": "user",
+  "result": "pending"
+ }
+}
