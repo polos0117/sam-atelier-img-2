@@ -1,0 +1,129 @@
+{
+ "atelier": "samguk",
+ "card": "허저",
+ "faction": "wei",
+ "slot": "casual5",
+ "treeV": 2,
+ "world": "mecha",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v1",
+ "ref": "허저_mecha_kr_drawn_rim_dewy_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "fantasy",
+  "place": "fx_marble_bath",
+  "ofam": "adventure",
+  "item": "desert_nomad",
+  "posture": "stand",
+  "support": "none",
+  "frame": "environmental",
+  "body": "side",
+  "head": "with_body",
+  "camera": "low",
+  "right": "prop",
+  "left": "prop",
+  "use": "guzheng_play",
+  "kind": "both",
+  "legs": "stand_relaxed",
+  "gaze": "",
+  "time": "day_indoor",
+  "color": "pattern",
+  "shade": "lilac_stripe",
+  "denier": "d40",
+  "situ": "sweat",
+  "expr": "sensual",
+  "preset": "stand_use",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "허저_mecha_kr_drawn_rim_dewy_f_casual5.webp",
+ "prompt": "INPUT: the attached image is the approved character — her Mecha card; keep her. Do not reuse earlier conversation images.\n\nCHARACTER: the same woman as the attached image — the female personification of Xu Chu of the Three Kingdoms, seen in her everyday life. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change, and her hair may be worn differently only as SCENE's Hair line says. Her mecha-world identity shows ONLY as a small accessory, an object around her, or the object PROP says she holds — never in the outfit's colours, patterns or cut, never as armor, regalia or a costume.\n\nDESIGN (accessory hints only): her legend — immense strength and a simple heart, bare muscular shoulders and arms, a huge war club — may inform at most one small accessory, a hair ornament or an object beside her, in its palette (deep navy blue, black lacquer, cold steel silver, ivory white). The clothes keep the chosen outfit's own colours; her skin, hair and eyes stay as in the attached image.\n\nSIGNATURE ACCESSORY: off duty she carries no weapon — no sword, saber, spear, glaive, halberd, bow, axe, shield or any blade in her hands, on her back or anywhere in the scene. Her signature weapon (a huge spiked war club) appears only as one small worn accessory modelled on its shape and colours — a hair ornament, pendant, earring, brooch or belt charm a few centimetres long, clearly jewellery and not a usable weapon.\n\nSTYLE: Korean MMORPG character artwork. A recognisably drawn face with gently simplified anatomical structure. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\n\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nAGE: the same adult woman as in the attached image — keep her own face shape, cheekbones, eye proportions and skin tone exactly; minimal facial lines (no nasolabial folds, crow's feet, under-eye bags or cheek creases). Keep her face soft, feminine and attractive in every framing — never elongated, gaunt, mannish or heavy-jawed, even in close-ups, profiles or low angles.\n\nOUTPUT: one standalone off-duty scene of her in the outfit chosen in SCENE; her legend shows only through accessories and objects around her — never in the outfit's colours, patterns or cut, never as armor, regalia or a costume. Everything else follows SCENE (chosen).\n\nFRAME: a vertical 2:3 (1024×1536) image. Compose the image for this frame; COMPOSITION in SCENE sets how much of her shows.\n\nSETTING: a stylised stage, editorial or fantasy set, not bound to a real year — still one real adult woman in a believable space, no creatures.\n\nSCENE (chosen):\nPlace: a Roman marble bath hall — columns, mosaic floors and a wide steaming pool lit from high windows\nTime of day: daytime indoors — bright, even light filling the room; daylight bouncing softly off pale walls.\nOutfit: a desert-explorer look — a light linen scarf loose over the shoulders, a cropped linen top, low-slung loose linen trousers and leather sandals — in lilac-and-white stripes; the outfit colour reads clearly at first glance; fabric weight — its knit or thin-fabric pieces (a top, an inner top or a knit dress) are 40-denier yarn, semi-sheer so her skin tone and body line show softly through, with a fully opaque lining over the bust and the hips; any tights or stockings are sheer 25-denier nylon; shorts, skirts, leather, denim and other heavy materials stay opaque; right now — the heat of the place has left a fine sheen on her skin, her top clinging lightly at the collar and the small of her back, a few damp strands at her temples; the fabric stays opaque\nPOSTURE: standing.\nCOMPOSITION: an environmental long shot, her complete figure and enough of the place around her; body in side profile, her face in profile too, not turned toward the camera, facing the right of the frame, so her own right side is toward the camera; camera slightly below, looking up at her.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand is in PROP — her near arm, on the camera side.\nLEFT HAND: her own left hand is in PROP — her far arm, on the side away from the camera.\nPROP: with both hands she plays a guzheng zither laid across her lap or a low table — her own right hand plucks the strings, her own left hand presses the strings beyond the bridges.\nLEGS: weight even on both legs.\nGAZE: her eyes are lowered.\nEXPRESSION: softly lidded eyes, lips relaxed. Keep it subtle and natural, a light touch rather than acting: no sneer, glare, smirk-pulled cheek or chin lifted to look down at the viewer; her face stays relaxed and attractive. Brows relaxed and even, neither raised on one side nor furrowed; lips softly closed or only just parted.\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing; intimate areas covered\n\nWARDROBE: change her clothes completely. From the attached image take only her face, hair and body — not its garment, armor, regalia, ornaments, mecha plates or background. Dress her exactly as SCENE describes; that outfit must read at first glance, keeping its own recognisable colours and parts. Do not carry the attached image's palette, patterns or trim into the outfit; her mecha-world identity belongs in accessories and props, never in the clothes — never restyle the chosen outfit into her faction's palette, armor, robes or regalia.\n\nANGLE: the attached image fixes who she is, not how she is posed or shot. Do not copy its head angle, head tilt, gaze direction, face size in frame, camera height or crop — turn her head, set her gaze and place the camera exactly as SCENE describes, and let her face read naturally from that new angle (profile, three-quarter, looking down or away), with her features staying the same. No default card pose, no default front-facing portrait.\n\nONE MAIN FIGURE: she is the only character in focus. Where the place is busy, other people may appear only as small, soft-focus background extras — never posed with her. No logo, no watermark, no speech bubble, no frame border. No readable text or numbers.\n\nANATOMY: natural adult proportions, about 7.5 heads tall — height from the legs, never a smaller head or a longer neck. The neck is a natural length and the head sits close to the shoulders. No body-part enlargement, no extra limbs.\n\nFIGURE: strong and broad-shouldered with firm muscle, yet full-busted with wide rounded hips and a defined waist — keep this exact build from the attached image, neither slimmer nor fuller.\n\nBODY: a normal human body — one head, two arms and two legs, each joined at its natural joint; elbows, knees and wrists bend the human way. Hands and feet may be partly hidden by the pose, what she holds or the frame. Right and left mean her own right and left, not the viewer's.\n\nHANDS: natural human hands, no extra or duplicated limbs; each visible hand joins through its wrist and forearm to the matching shoulder. A hand may stay outside the crop, and fingers may be partly hidden by a grip.\n\nAVOID: a blue or bruise-like tint on the skin around the eyes, glossy or shiny highlights on the face, sweaty, oily or plastic-looking skin.",
+ "date": "2026-11-18",
+ "record": "records/허저/mecha-casual5.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "허저",
+  "out": "casual",
+  "world": "mecha",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 5,
+  "scenes": {
+   "허저": {
+    "era": "fantasy",
+    "place": "fx_marble_bath",
+    "ofam": "adventure",
+    "treeV": 2,
+    "prop": "",
+    "preset": "stand_use",
+    "use": "guzheng_play",
+    "kind": "both",
+    "posture": "stand",
+    "support": "none",
+    "frame": "environmental",
+    "body": "side",
+    "head": "with_body",
+    "camera": "low",
+    "right": "prop",
+    "left": "prop",
+    "legs": "stand_relaxed",
+    "gaze": "",
+    "item": "desert_nomad",
+    "expr": "sensual",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "color": "pattern",
+    "shade": "lilac_stripe",
+    "denier": "d40",
+    "situ": "sweat",
+    "time": "day_indoor"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "cab077a02af17f6f1b03c0a1dcaac240105d6fbeed2f5674c02be0783a380db5",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "prompt_form": "en-prompt",
+  "prompt_sha256": "e27220dbf2d8e58b96454021ef492bbfb9eca493a02eb6d32da63cffe964e5f9",
+  "selection": 1,
+  "ref_sha256": "b059fa3fb52e7641aa7ed6d2dcdb51079b37f2c41c3b79696f921d9ab89077b5"
+ },
+ "execution": "sam-xuchu-20261118",
+ "imported": "2026-11-18",
+ "acceptance": "user selected worlds 3,2,1 and authorized commit plus non-force main update",
+ "review": {
+  "reviewed": false,
+  "by": "user",
+  "result": "pending"
+ },
+ "qa": {
+  "reviewer": "gpt-session",
+  "image_sha256": "cab077a02af17f6f1b03c0a1dcaac240105d6fbeed2f5674c02be0783a380db5",
+  "passed": true,
+  "anatomy": "ok",
+  "exposure": "match",
+  "observations": [
+   "Lavender-striped desert explorer outfit at marble bath palace; both hands play one continuous guzheng; feet and sandals visible; small background extras."
+  ]
+ }
+}

@@ -1,0 +1,129 @@
+{
+ "atelier": "samguk",
+ "card": "허저",
+ "faction": "wei",
+ "slot": "casual2",
+ "treeV": 2,
+ "world": "mecha",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v1",
+ "ref": "허저_mecha_kr_drawn_rim_dewy_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "nation",
+  "place": "nation_garden",
+  "ofam": "homewear",
+  "item": "knit_dress_home",
+  "posture": "lean_wall",
+  "support": "back_wall",
+  "frame": "chest_up",
+  "body": "front_3q",
+  "head": "with_body",
+  "camera": "eye",
+  "right": "arms_crossed",
+  "left": "arms_crossed",
+  "use": "",
+  "legs": "",
+  "gaze": "camera",
+  "time": "morning",
+  "moment": "bubbles_float",
+  "light": "back",
+  "color": "mono",
+  "shade": "black_white",
+  "denier": "d80",
+  "expr": "curious",
+  "preset": "crossed_wall",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "허저_mecha_kr_drawn_rim_dewy_f_casual2.webp",
+ "prompt": "INPUT: the attached image is the approved character — her Mecha card; keep her. Do not reuse earlier conversation images.\n\nCHARACTER: the same woman as the attached image — the female personification of Xu Chu of the Three Kingdoms, seen in her everyday life. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change, and her hair may be worn differently only as SCENE's Hair line says. Her mecha-world identity shows ONLY as a small accessory, an object around her, or the object PROP says she holds — never in the outfit's colours, patterns or cut, never as armor, regalia or a costume.\n\nDESIGN (accessory hints only): her legend — immense strength and a simple heart, bare muscular shoulders and arms, a huge war club — may inform at most one small accessory, a hair ornament or an object beside her, in its palette (deep navy blue, black lacquer, cold steel silver, ivory white). The clothes keep the chosen outfit's own colours; her skin, hair and eyes stay as in the attached image.\n\nOBJECTS: any identity accessory or object, including the one PROP names, takes the form of her mecha world — a sleek metal charm, a tech tag, a glass-and-steel cup; no Chinese antique objects such as jade carvings, porcelain cups or paper lanterns.\n\nSIGNATURE ACCESSORY: off duty she carries no weapon — no sword, saber, spear, glaive, halberd, bow, axe, shield or any blade in her hands, on her back or anywhere in the scene. Her signature weapon (a huge spiked war club) appears only as one small worn accessory modelled on its shape and colours — a hair ornament, pendant, earring, brooch or belt charm a few centimetres long, clearly jewellery and not a usable weapon.\n\nSTYLE: Korean MMORPG character artwork. A recognisably drawn face with gently simplified anatomical structure. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\n\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nAGE: the same adult woman as in the attached image — keep her own face shape, cheekbones, eye proportions and skin tone exactly; minimal facial lines (no nasolabial folds, crow's feet, under-eye bags or cheek creases). Keep her face soft, feminine and attractive in every framing — never elongated, gaunt, mannish or heavy-jawed, even in close-ups, profiles or low angles.\n\nOUTPUT: one standalone off-duty scene of her in the outfit chosen in SCENE; her legend shows only through accessories and objects around her — never in the outfit's colours, patterns or cut, never as armor, regalia or a costume. Everything else follows SCENE (chosen).\n\nFRAME: a vertical 2:3 (1024×1536) image. Compose the image for this frame; COMPOSITION in SCENE sets how much of her shows.\n\nCROP: a chest-up shot — the bottom edge crosses just below her bust; waist, hips and legs are out of frame. This crop wins over every other line: details apply only to the part that shows, and the outfit reads through its visible neckline, straps, fabric and colour. Never widen the framing to show a hidden support, hand or leg; a limb crossing the edge runs naturally on past it, never cut off or fading out inside the image.\n\nWORLD: this scene happens inside her own world — the world of the attached image — as if she simply lives there: year 2190, the Wei Federation in orbit: a navy-black orbital fortress and capital-ship fleet above a cold blue planet, starfields and a distant sun, hard white floodlights on armored hulls. Its architecture, props, light and weather show the world; no creatures, no second character, no readable text other than abstract heraldic or insignia shapes — never letters or Chinese characters. Her clothes stay the everyday outfit SCENE describes, not regalia or armor.\n\nSCENE (chosen):\nPlace: a hydroponic garden dome aboard a starship, glowing planters around a still reflecting pool\nTime of day: early morning — low clean light, long soft shadows; fresh low sunlight, long cool shadows.\nLight direction: backlit — the main light comes from behind her, a bright rim along her hair and shoulders.\nSmall moment: soap bubbles drift through the air in front of her.\nOutfit: a soft body-hugging knit dress — in black with a single crisp white accent; the outfit colour reads clearly at first glance; fabric weight — its knit or thin-fabric pieces (a top, an inner top or a knit dress) are 80-denier yarn, semi-sheer so her skin tone and body line show softly through, with a fully opaque lining over the bust and the hips; any tights or stockings are sheer 60-denier nylon; shorts, skirts, leather, denim and other heavy materials stay opaque\nPOSTURE: standing, leaning back against a wall.\nSUPPORT: her back rests against the wall.\nCOMPOSITION: a chest-up shot of her face, shoulders and expression; body turned three-quarters toward the camera; camera at her eye level.\nLens / perspective: 85mm-equivalent short-telephoto perspective from a suitable distance, with gentle background compression.\nBOTH HANDS: her arms are folded loosely across her chest.\nGAZE: she looks into the camera.\nEXPRESSION: one brow slightly raised, attentive eyes. Keep it subtle and natural, a light touch rather than acting: no sneer, glare, smirk-pulled cheek or chin lifted to look down at the viewer; her face stays relaxed and attractive. Her eyes are naturally open and clear, not heavy-lidded or half-closed; lips softly closed or only just parted.\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — inside the crop, the chosen outfit is worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders and collarbones, skin clearly showing; the crop stays exactly where CROP sets it and never moves down to show more; intimate areas covered\n\nWARDROBE: change her clothes completely. From the attached image take only her face, hair and body — not its garment, armor, regalia, ornaments, mecha plates or background. Dress her exactly as SCENE describes; the part of that outfit inside the crop must read at first glance in its own colours. Do not carry the attached image's palette, patterns or trim into the outfit; her mecha-world identity belongs in accessories and props, never in the clothes — never restyle the chosen outfit into her faction's palette, armor, robes or regalia.\n\nANGLE: the attached image fixes who she is, not how she is posed or shot. Do not copy its head angle, head tilt, gaze direction, face size in frame, camera height or crop — turn her head, set her gaze and place the camera exactly as SCENE describes, and let her face read naturally from that new angle (profile, three-quarter, looking down or away), with her features staying the same. No default card pose, no default front-facing portrait.\n\nONE MAIN FIGURE: she is the only character in focus. Where the place is busy, other people may appear only as small, soft-focus background extras — never posed with her. No logo, no watermark, no speech bubble, no frame border. No readable text or numbers.\n\nANATOMY: natural adult proportions, never a smaller head or a longer neck. The neck is a natural length and the head sits close to the shoulders. No body-part enlargement, no extra limbs.\n\nFIGURE: strong and broad-shouldered with firm muscle, yet full-busted with wide rounded hips and a defined waist — keep this exact build from the attached image, neither slimmer nor fuller.\n\nBODY: a normal human body — one head, two arms and two legs, each joined at its natural joint; elbows, knees and wrists bend the human way. Hands and feet may be partly hidden by the pose, what she holds or the frame. Right and left mean her own right and left, not the viewer's.\n\nHANDS: natural human hands, no extra or duplicated limbs; each visible hand joins through its wrist and forearm to the matching shoulder. A hand may stay outside the crop, and fingers may be partly hidden by a grip.\n\nAVOID: a blue or bruise-like tint on the skin around the eyes, glossy or shiny highlights on the face, sweaty, oily or plastic-looking skin.",
+ "date": "2026-11-18",
+ "record": "records/허저/mecha-casual2.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "허저",
+  "out": "casual",
+  "world": "mecha",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 2,
+  "scenes": {
+   "허저": {
+    "era": "nation",
+    "place": "nation_garden",
+    "ofam": "homewear",
+    "treeV": 2,
+    "prop": "",
+    "preset": "crossed_wall",
+    "use": "",
+    "posture": "lean_wall",
+    "support": "back_wall",
+    "frame": "chest_up",
+    "body": "front_3q",
+    "head": "with_body",
+    "camera": "eye",
+    "right": "arms_crossed",
+    "left": "arms_crossed",
+    "legs": "",
+    "gaze": "camera",
+    "item": "knit_dress_home",
+    "expr": "curious",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "color": "mono",
+    "shade": "black_white",
+    "denier": "d80",
+    "time": "morning",
+    "light": "back",
+    "moment": "bubbles_float"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "d7bd777ff9d260d2a3951a84cdf14df1393042d40a7ce48c7698f71e681e483a",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "prompt_form": "en-prompt",
+  "prompt_sha256": "93cac741006fd830b881c7bb676a7db8b1d4c63ab83587a083c80fee921f8c17",
+  "selection": 1,
+  "ref_sha256": "b059fa3fb52e7641aa7ed6d2dcdb51079b37f2c41c3b79696f921d9ab89077b5"
+ },
+ "execution": "sam-xuchu-20261118",
+ "imported": "2026-11-18",
+ "acceptance": "user selected worlds 3,2,1 and authorized commit plus non-force main update",
+ "review": {
+  "reviewed": false,
+  "by": "user",
+  "result": "pending"
+ },
+ "qa": {
+  "reviewer": "gpt-session",
+  "image_sha256": "d7bd777ff9d260d2a3951a84cdf14df1393042d40a7ce48c7698f71e681e483a",
+  "passed": true,
+  "anatomy": "ok",
+  "exposure": "match",
+  "observations": [
+   "Black-and-white knit mini outfit in orbital garden dome, arms crossed; finger tips partly occluded as expected, shoulders connected."
+  ]
+ }
+}
