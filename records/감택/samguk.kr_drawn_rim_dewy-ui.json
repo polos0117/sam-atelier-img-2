@@ -1,0 +1,116 @@
+{
+ "atelier": "samguk",
+ "card": "감택",
+ "faction": "wu",
+ "role": "official",
+ "world": "samguk",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v1",
+ "notes": {},
+ "look": {
+  "params": {},
+  "faceDesignOn": true,
+  "silhouetteOn": true,
+  "exposure": "bold"
+ },
+ "design": {
+  "face": {
+   "eye_color": "sky_blue",
+   "impression": "innocent",
+   "expr": "curious",
+   "skin_tone": "fair",
+   "age": "late_20s",
+   "eye_size": "medium",
+   "eye_tilt": "up",
+   "mark": "bare",
+   "brows": "low_heavy",
+   "nose": "broad_soft",
+   "lips": "small_bow",
+   "face_shape": "v_line",
+   "eyes": "almond_wide"
+  },
+  "silhouette": {
+   "body": "hourglass",
+   "hair_color": "lavender",
+   "hair": "tilted_bun",
+   "bangs": "swept_back"
+  }
+ },
+ "shot": {
+  "scene": "",
+  "time": "",
+  "pose": "",
+  "expr": "",
+  "frame": ""
+ },
+ "file": "감택_samguk_kr_drawn_rim_dewy_f.webp",
+ "prompt": "A full-body vertical 2:3 (1024×1536) character card image of Kan Ze from the Romance of the Three Kingdoms, reimagined as an adult woman — a fisherman's child who memorized all the classics. Age: late twenties — a graceful grown-up face with soft, smooth contours; no wrinkles, folds or under-eye bags. She is a woman — no beard, moustache or facial hair.\n\nStyle (fixed): Korean MMORPG character artwork. A recognisably drawn face with gently simplified anatomical structure. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\n\nInspiration only: humble origin and vast learning, a scholar's robe over plain clothes.\n\nWorld (fixed): Eastern Wu along the Yangtze, around 200–280 AD: the river capital Jianye, great war junks with crimson sails, river fortresses, southern rain and lotus marshes, the fire ships of the Red Cliffs. Her costume, weapon and setting belong to this world.\n\nChosen costume silhouette: no armor — a long floor-length robe with wide sleeves and a broad sash, a long elegant falling silhouette.\nOriginal character design: Her layered crimson and river-teal silk court robe is constructed of narrow overlapping folded panels like the bamboo strips she once memorized; its deep neckline, bare shoulders and high side slit keep intimate areas covered. Gold woven edging and a black lacquer ceremonial belt proclaim high office. Her lavender hair forms two thick low braids coiled behind her head beneath a delicate gold court comb. Fair skin, warm hazel round-almond eyes, a short oval face and small rounded chin, softly smiling lips. She stands front-facing on a sunlit Jianye riverside reading terrace, both feet planted naturally, holding the single fishing basket of scrolls at waist height in both hands.\n\nWeapon (fixed — ours): a fishing basket of scrolls.\n\nHair colour (fixed — ours): soft lavender hair. Keep exactly this hair colour; only the hairstyle is yours.\n\nSkin tone (fixed — ours): fair skin. Keep exactly this skin tone.\n\nCostume colours (ours): crimson red, gold, river teal, black lacquer.\n\nRank (fixed): she is a high court official — her costume must read dignified office at first glance: refined, layered and finely ornamented, with flagship-card detail, never plain or sparse.\n\nExposure (fixed): bold — her outfit shows skin by design (a deep neckline, bare shoulders or arms, a high slit or short hem); intimate areas covered.\n\nFace proportions: a short midface and a soft, gently rounded jawline with a small soft chin — never a long face or a long, pointed or heavy jaw; any crown or headpiece sits above her hairline and never lengthens her face. Her eyes stay at a natural open size — never squeezed into narrow slits.\n\nComposition: vertical 2:3 full-body framing with modest headroom and clear space below the boots — the whole figure from the top of her crown or headpiece to both boots stays inside the frame, occupying about four-fifths of the image height, with the same camera distance in every genre; her hands and her signature item stay inside the frame. Camera at chest height with natural portrait perspective — no wide-angle distortion, no low angle, no close crop.\n\nOne figure only, two human arms and two legs, natural hands with five fingers each. No logo or watermark. No readable text apart from one faction character on a banner or seal in the Three Kingdoms world; no text in the other worlds.",
+ "date": "2026-11-18",
+ "record": "records/감택/samguk.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "감택",
+  "out": "world",
+  "world": "samguk",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {
+   "감택|samguk": {}
+  },
+  "looks": {
+   "감택|samguk": {
+    "params": {},
+    "faceDesignOn": true,
+    "silhouetteOn": true,
+    "exposure": "bold"
+   }
+  },
+  "shots": {
+   "감택|samguk": {
+    "scene": "",
+    "time": "",
+    "pose": "",
+    "expr": "",
+    "frame": ""
+   }
+  },
+  "walked": {},
+  "casualN": 1,
+  "scenes": {}
+ },
+ "generation": {
+  "selected_candidate": 3,
+  "design": "gpt_free",
+  "free_prompt": "A full-body vertical 2:3 (1024×1536) character card image of Kan Ze from the Romance of the Three Kingdoms, reimagined as an adult woman — a fisherman's child who memorized all the classics. Age: late twenties — a graceful grown-up face with soft, smooth contours; no wrinkles, folds or under-eye bags. She is a woman — no beard, moustache or facial hair.\n\nStyle (fixed): Korean MMORPG character artwork. A recognisably drawn face with gently simplified anatomical structure. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\n\nInspiration only: humble origin and vast learning, a scholar's robe over plain clothes.\n\nWorld (fixed): Eastern Wu along the Yangtze, around 200–280 AD: the river capital Jianye, great war junks with crimson sails, river fortresses, southern rain and lotus marshes, the fire ships of the Red Cliffs. Her costume, weapon and setting belong to this world.\n\nChosen costume silhouette: no armor — a long floor-length robe with wide sleeves and a broad sash, a long elegant falling silhouette.\nOriginal character design: Her layered crimson and river-teal silk court robe is constructed of narrow overlapping folded panels like the bamboo strips she once memorized; its deep neckline, bare shoulders and high side slit keep intimate areas covered. Gold woven edging and a black lacquer ceremonial belt proclaim high office. Her lavender hair forms two thick low braids coiled behind her head beneath a delicate gold court comb. Fair skin, warm hazel round-almond eyes, a short oval face and small rounded chin, softly smiling lips. She stands front-facing on a sunlit Jianye riverside reading terrace, both feet planted naturally, holding the single fishing basket of scrolls at waist height in both hands.\n\nWeapon (fixed — ours): a fishing basket of scrolls.\n\nHair colour (fixed — ours): soft lavender hair. Keep exactly this hair colour; only the hairstyle is yours.\n\nSkin tone (fixed — ours): fair skin. Keep exactly this skin tone.\n\nCostume colours (ours): crimson red, gold, river teal, black lacquer.\n\nRank (fixed): she is a high court official — her costume must read dignified office at first glance: refined, layered and finely ornamented, with flagship-card detail, never plain or sparse.\n\nExposure (fixed): bold — her outfit shows skin by design (a deep neckline, bare shoulders or arms, a high slit or short hem); intimate areas covered.\n\nFace proportions: a short midface and a soft, gently rounded jawline with a small soft chin — never a long face or a long, pointed or heavy jaw; any crown or headpiece sits above her hairline and never lengthens her face. Her eyes stay at a natural open size — never squeezed into narrow slits.\n\nComposition: vertical 2:3 full-body framing with modest headroom and clear space below the boots — the whole figure from the top of her crown or headpiece to both boots stays inside the frame, occupying about four-fifths of the image height, with the same camera distance in every genre; her hands and her signature item stay inside the frame. Camera at chest height with natural portrait perspective — no wide-angle distortion, no low angle, no close crop.\n\nOne figure only, two human arms and two legs, natural hands with five fingers each. No logo or watermark. No readable text apart from one faction character on a banner or seal in the Three Kingdoms world; no text in the other worlds.",
+  "tool": "image_gen",
+  "endpoint": "images/generations",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "5bf927c3c8986c9b55cea3e1fda6e61c15bbe8cb76e6e42551256471a701d560",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "prompt_form": "en-prompt",
+  "prompt_sha256": "3d28b1d7d959c3d9d980b436cc25cbda87aa113310d02a8d10581d56a2ecb592",
+  "retries": []
+ },
+ "execution": "sam-kanze-20261118-321",
+ "imported": "2026-11-18",
+ "qa": {
+  "reviewer": "gpt-session",
+  "image_sha256": "5bf927c3c8986c9b55cea3e1fda6e61c15bbe8cb76e6e42551256471a701d560",
+  "passed": true,
+  "anatomy": "ok",
+  "exposure": "match",
+  "observations": [
+   "Selected by user: 3. One adult female full-body figure with lavender hair, two arms and two legs; hands and carried scroll basket checked."
+  ]
+ },
+ "acceptance": "user_approval_2026-11-18 — character images and dex changes committed and reflected on main without force or deletion",
+ "review": {
+  "reviewed": false,
+  "by": "user",
+  "result": "pending"
+ }
+}
