@@ -1,0 +1,114 @@
+{
+ "atelier": "samguk",
+ "card": "감부인",
+ "faction": "shu",
+ "role": "official",
+ "world": "samguk",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v1",
+ "notes": {},
+ "look": {
+  "params": {},
+  "faceDesignOn": true,
+  "silhouetteOn": true,
+  "exposure": "bold"
+ },
+ "design": {
+  "face": {
+   "eye_color": "graphite_grey",
+   "impression": "elegant",
+   "expr": "soft_smile",
+   "skin_tone": "porcelain",
+   "age": "early_20s",
+   "eye_size": "medium",
+   "eye_tilt": "up",
+   "mark": "mole_eye",
+   "brows": "feathered",
+   "nose": "petite_straight",
+   "lips": "soft_medium",
+   "face_shape": "v_line",
+   "eyes": "phoenix"
+  },
+  "silhouette": {
+   "body": "willowy_curvy",
+   "hair_color": "royal_blue",
+   "hair": "tilted_bun",
+   "bangs": "baby"
+  }
+ },
+ "shot": {
+  "scene": "",
+  "time": "",
+  "pose": "",
+  "expr": "",
+  "frame": ""
+ },
+ "file": "감부인_samguk_kr_drawn_rim_dewy_f.webp",
+ "prompt": "A full-body character image, vertical 2:3 (1024×1536): Lady Gan of the Romance of the Three Kingdoms, reimagined as an adult woman — Liu Bei's consort, famed for skin as white as jade.\n\n1. STYLE\nKorean MMORPG character artwork. A recognisably drawn face with gently simplified anatomical structure. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nHer face is small and soft: a short midface, a softly rounded jaw and a small chin, about 1.3 times as long as it is wide, with her eyes open at their natural size. Bangs, side locks and headpieces frame the face without lengthening it.\nSkin finish: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\n2. CHARACTER\nAge: about twenty — a fresh young-adult face.\nFace — her own, recognisably this character, a woman's face with no beard or facial hair: an elegant, refined presence; porcelain-pale skin; delicate V-line face with a small, soft chin; medium-sized eyes — long phoenix eyes with lifted outer corners, outer eye corners slightly lifted; soft feathered brows; petite straight nose; soft medium lips; graphite-grey eyes; a small beauty mark under one eye.\nBody and hair: willowy and long-limbed with soft curves — a full bust, rounded hips and a slender waist build; a bun tilted to one side with loose strands with short baby bangs; royal-blue hair.\nExpression: a faint soft smile, relaxed eyes, subtle and relaxed.\nLegend, carried in her design and bearing: grace through hardship, mother of the heir, a small white jade figurine kept close.\nAnatomy: one head, two arms and two legs, each joined at its natural joint; natural hands with five fingers.\n\n3. COSTUME AND EQUIPMENT — THREE KINGDOMS\nCostume: a Han court official's dress — layered robes with a broad belt and a hanging seal cord, a black jinxian guan cap, an ink brush and bound bamboo slips. Late-Han Chinese dress — cross-collared silk robes with wide sleeves and a broad sash, lamellar or scale armor laced with cords where armor is worn, bronze, jade and lacquer ornament, Han court hair ornaments; silk, lacquered leather, bronze and iron.\nSilhouette: a dark close-fitting light outfit with minimal ornament and wrapped arms and legs — a sleek silhouette, face uncovered. This silhouette sets the overall shape of the costume above — keep its materials, ornaments and rank in this shape; the details are free.\nColours: jade green, imperial gold, earthen brown, white jade.\nSignature item: a small white jade figurine. She holds it at full scale: one whole object, drawn once, held in front of or beside her body; a long weapon keeps one straight, unbroken shaft with a single head or blade.\nExposure (bold): her robes open to show skin — the cross collar opened into a deep neckline with natural cleavage, bare upper arms above detached wide sleeves (and bare shoulders where no shoulder guard sits), the skirt panels cut with a high side slit at full length — it shows the side line of one leg as she stands, no leg pushed out or knee bent for it; any armor pieces stay on and symmetrical. Intimate areas covered; keep the costume material and palette.\n\n4. SCENE\nWorld: Shu Han in the Sichuan basin, around 208–263 AD: the city of Chengdu, cliffside plank roads over gorges, mist-wrapped mountains and bamboo forests, peach orchards, green-and-gold banners.\nPose: standing confidently, her body turned slightly while her face looks toward the viewer.\nLight: a soft key light with a strong rim light tracing her hair, shoulders and armour; bright, crisp specular highlights on metal and jewellery, and a clean, warm-neutral sheen on her skin.\nComposition: her whole figure from the top of her head or headpiece to both feet inside the frame with clear margins, about four-fifths of the image height; camera at chest height with natural portrait perspective.\n\n5. CONSTRAINTS\nOne figure only — no second character, horse or other creature. No readable text or numbers, except that a banner, seal or emblem may carry the single character 蜀 or 甘. No logo, watermark, speech bubble or frame border. Three Kingdoms-era Chinese dress, architecture and materials only.\nAvoid: a blue or bruise-like tint on the skin around the eyes, glossy or shiny highlights on the face, sweaty, oily or plastic-looking skin.",
+ "date": "2026-11-18",
+ "record": "records/감부인/samguk.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "감부인",
+  "out": "world",
+  "world": "samguk",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {
+   "감부인|samguk": {}
+  },
+  "looks": {
+   "감부인|samguk": {
+    "params": {},
+    "faceDesignOn": true,
+    "silhouetteOn": true,
+    "exposure": "bold"
+   }
+  },
+  "shots": {
+   "감부인|samguk": {
+    "scene": "",
+    "time": "",
+    "pose": "",
+    "expr": "",
+    "frame": ""
+   }
+  },
+  "walked": {},
+  "casualN": 1,
+  "scenes": {}
+ },
+ "generation": {
+  "tool": "image_gen",
+  "endpoint": "images/generations",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "e3a8dcd731890caca6e2141102952e01f00b02c6cb0a6f65dc86ed58171bbc3d",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "prompt_form": "en-prompt",
+  "prompt_sha256": "44ceec1297532996f30e12073c9841fcb21d687b82c6acbedbe1bcc8a66cf7f9",
+  "prompt": "A full-body character image, vertical 2:3 (1024×1536): Lady Gan of the Romance of the Three Kingdoms, reimagined as an adult woman — Liu Bei's consort, famed for skin as white as jade.\n\n1. STYLE\nKorean MMORPG character artwork. A recognisably drawn face with gently simplified anatomical structure. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nHer face is small and soft: a short midface, a softly rounded jaw and a small chin, about 1.3 times as long as it is wide, with her eyes open at their natural size. Bangs, side locks and headpieces frame the face without lengthening it.\nSkin finish: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\n2. CHARACTER\nAge: about twenty — a fresh young-adult face.\nFace — her own, recognisably this character, a woman's face with no beard or facial hair: an elegant, refined presence; porcelain-pale skin; delicate V-line face with a small, soft chin; medium-sized eyes — long phoenix eyes with lifted outer corners, outer eye corners slightly lifted; soft feathered brows; petite straight nose; soft medium lips; graphite-grey eyes; a small beauty mark under one eye.\nBody and hair: willowy and long-limbed with soft curves — a full bust, rounded hips and a slender waist build; a bun tilted to one side with loose strands with short baby bangs; royal-blue hair.\nExpression: a faint soft smile, relaxed eyes, subtle and relaxed.\nLegend, carried in her design and bearing: grace through hardship, mother of the heir, a small white jade figurine kept close.\nAnatomy: one head, two arms and two legs, each joined at its natural joint; natural hands with five fingers.\n\n3. COSTUME AND EQUIPMENT — THREE KINGDOMS\nCostume: a Han court official's dress — layered robes with a broad belt and a hanging seal cord, a black jinxian guan cap, an ink brush and bound bamboo slips. Late-Han Chinese dress — cross-collared silk robes with wide sleeves and a broad sash, lamellar or scale armor laced with cords where armor is worn, bronze, jade and lacquer ornament, Han court hair ornaments; silk, lacquered leather, bronze and iron.\nSilhouette: a dark close-fitting light outfit with minimal ornament and wrapped arms and legs — a sleek silhouette, face uncovered. This silhouette sets the overall shape of the costume above — keep its materials, ornaments and rank in this shape; the details are free.\nColours: jade green, imperial gold, earthen brown, white jade.\nSignature item: a small white jade figurine. She holds it at full scale: one whole object, drawn once, held in front of or beside her body; a long weapon keeps one straight, unbroken shaft with a single head or blade.\nExposure (bold): her robes open to show skin — the cross collar opened into a deep neckline with natural cleavage, bare upper arms above detached wide sleeves (and bare shoulders where no shoulder guard sits), the skirt panels cut with a high side slit at full length — it shows the side line of one leg as she stands, no leg pushed out or knee bent for it; any armor pieces stay on and symmetrical. Intimate areas covered; keep the costume material and palette.\n\n4. SCENE\nWorld: Shu Han in the Sichuan basin, around 208–263 AD: the city of Chengdu, cliffside plank roads over gorges, mist-wrapped mountains and bamboo forests, peach orchards, green-and-gold banners.\nPose: standing confidently, her body turned slightly while her face looks toward the viewer.\nLight: a soft key light with a strong rim light tracing her hair, shoulders and armour; bright, crisp specular highlights on metal and jewellery, and a clean, warm-neutral sheen on her skin.\nComposition: her whole figure from the top of her head or headpiece to both feet inside the frame with clear margins, about four-fifths of the image height; camera at chest height with natural portrait perspective.\n\n5. CONSTRAINTS\nOne figure only — no second character, horse or other creature. No readable text or numbers, except that a banner, seal or emblem may carry the single character 蜀 or 甘. No logo, watermark, speech bubble or frame border. Three Kingdoms-era Chinese dress, architecture and materials only.\nAvoid: a blue or bruise-like tint on the skin around the eyes, glossy or shiny highlights on the face, sweaty, oily or plastic-looking skin.",
+  "retries": []
+ },
+ "execution": "sam-ganfuren-7618",
+ "imported": "2026-11-18",
+ "acceptance": "user approved character completion and non-force main updates; selected world images 1,1,4",
+ "review": {
+  "reviewed": false,
+  "by": "user",
+  "result": "pending"
+ },
+ "qa": {
+  "reviewer": "gpt-session",
+  "image_sha256": "e3a8dcd731890caca6e2141102952e01f00b02c6cb0a6f65dc86ed58171bbc3d",
+  "passed": true,
+  "anatomy": "ok",
+  "exposure": "match",
+  "observations": [
+   "Late-Han-inspired court outfit and white jade figurine; both hands visible; one woman."
+  ]
+ }
+}

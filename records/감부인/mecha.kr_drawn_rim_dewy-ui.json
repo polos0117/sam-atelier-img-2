@@ -1,0 +1,118 @@
+{
+ "atelier": "samguk",
+ "card": "감부인",
+ "faction": "shu",
+ "role": "official",
+ "world": "mecha",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v1",
+ "notes": {},
+ "look": {
+  "params": {},
+  "faceDesignOn": true,
+  "silhouetteOn": true,
+  "exposure": "bold"
+ },
+ "design": {
+  "face": {
+   "eye_color": "graphite_grey",
+   "impression": "elegant",
+   "expr": "soft_smile",
+   "skin_tone": "porcelain",
+   "age": "early_20s",
+   "eye_size": "medium",
+   "eye_tilt": "up",
+   "mark": "mole_eye",
+   "brows": "feathered",
+   "nose": "petite_straight",
+   "lips": "soft_medium",
+   "face_shape": "oval",
+   "eyes": "peach_blossom"
+  },
+  "silhouette": {
+   "body": "willowy_curvy",
+   "hair_color": "royal_blue",
+   "hair": "chignon",
+   "bangs": "wispy"
+  }
+ },
+ "shot": {
+  "scene": "",
+  "time": "",
+  "pose": "",
+  "expr": "",
+  "frame": ""
+ },
+ "file": "감부인_mecha_kr_drawn_rim_dewy_f.webp",
+ "prompt": "A full-body character image, vertical 2:3 (1024×1536): Lady Gan of the Romance of the Three Kingdoms, reimagined as an adult woman — Liu Bei's consort, famed for skin as white as jade.\n\n1. STYLE\nKorean MMORPG character artwork. A recognisably drawn face with gently simplified anatomical structure. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nHer face is small and soft: a short midface, a softly rounded jaw and a small chin, about 1.3 times as long as it is wide, with her eyes open at their natural size. Bangs, side locks and headpieces frame the face without lengthening it.\nSkin finish: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\n2. CHARACTER\nAge: about twenty — a fresh young-adult face.\nFace — her own, recognisably this character, a woman's face with no beard or facial hair: an elegant, refined presence; porcelain-pale skin; oval face; medium-sized eyes — peach-blossom eyes with a soft, curved lower lid, outer eye corners slightly lifted; soft feathered brows; petite straight nose; soft medium lips; graphite-grey eyes; a small beauty mark under one eye.\nBody and hair: willowy and long-limbed with soft curves — a full bust, rounded hips and a slender waist build; an elegant low chignon with wispy see-through bangs; royal-blue hair.\nExpression: a faint soft smile, relaxed eyes, subtle and relaxed.\nLegend, carried in her design and bearing: grace through hardship, mother of the heir, a small white jade figurine kept close.\nAnatomy: one head, two arms and two legs, each joined at its natural joint; natural hands with five fingers.\n\n3. COSTUME AND EQUIPMENT — MECHA\nCostume: a female mecha personification built as a support and logistics mecha frame — lighter plating, data panels and shield units, utility sub-arms. Solid hard-surface plates with visible joints cover her frame except at the openings named under Exposure; any cape or skirt is made of rigid armored plates; her face and hair stay human.\nSilhouette: sparse outer plates over an exposed mechanical skeleton of metal struts, pistons and cables — light and precise. This silhouette sets the overall shape of the costume above — keep its materials, ornaments and rank in this shape; the details are free.\nColours: jade green, imperial gold, earthen brown, white jade. Faction frame: jade-green and white plating with imperial-gold trims, organic layered armor like overlapping leaves, a resilient all-terrain frame, warm green glow lines.\nSignature item: a small white jade figurine, rebuilt as a far-future high-tech version of the same kind of object with the same silhouette — hard-surface alloy plates with panel lines, mechanical joints, vents and emitter nodes, an energy edge, plasma blade or glowing core in her glow-line colour and small status lights, with any animal motif re-sculpted as sleek machined armour. She holds it at full scale: one whole object, drawn once, held in front of or beside her body; a long weapon keeps one straight, unbroken shaft with a single head or blade.\nExposure (bold): her mecha frame is cut open by design in only these places — bare upper arms below the pauldrons, which stay seated on top of her shoulders, and a deep open chest window with natural cleavage framed by the chest plates; everywhere else she stays fully plated. The plates stay on, fitted and symmetrical, with skin clearly showing in each opening. Intimate areas covered; keep the plate material and palette.\n\n4. SCENE\nWorld: year 2190, the Shu frontier colony on a jade-green moon: terraced garden cities under vast glass domes, a ringed gas giant filling the sky, an orbital elevator climbing into space, starship docks glowing green.\nPose: standing confidently, her body turned slightly while her face looks toward the viewer.\nLight: a soft key light with a strong rim light tracing her hair, shoulders and armour; bright, crisp specular highlights on metal and jewellery, and a clean, warm-neutral sheen on her skin.\nComposition: her whole figure from the top of her head or headpiece to both feet inside the frame with clear margins, about four-fifths of the image height; camera at chest height with natural portrait perspective.\n\n5. CONSTRAINTS\nOne figure only — no second character, horse or other creature. No readable text or numbers — emblems are abstract insignia shapes only, never letters or Chinese characters. No logo, watermark, speech bubble or frame border. A far-future setting only — space stations, starships and high-tech structures — with no traditional East-Asian architecture.\nAvoid: a blue or bruise-like tint on the skin around the eyes, glossy or shiny highlights on the face, sweaty, oily or plastic-looking skin.",
+ "date": "2026-11-18",
+ "record": "records/감부인/mecha.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "감부인",
+  "out": "world",
+  "world": "mecha",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {
+   "감부인|mecha": {}
+  },
+  "looks": {
+   "감부인|mecha": {
+    "params": {},
+    "faceDesignOn": true,
+    "silhouetteOn": true,
+    "exposure": "bold"
+   }
+  },
+  "shots": {
+   "감부인|mecha": {
+    "scene": "",
+    "time": "",
+    "pose": "",
+    "expr": "",
+    "frame": ""
+   }
+  },
+  "walked": {},
+  "casualN": 1,
+  "scenes": {}
+ },
+ "generation": {
+  "tool": "image_gen",
+  "endpoint": "images/generations",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "d5d5564c250b9efa4bb9ffad41ec826ad73019f7dd3673e7a1dcbc5bc00c435e",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "prompt_form": "en-prompt",
+  "prompt_sha256": "14114e0320cf8a66537107d67d6d5d14b695a5bd69088d2691a6d3a0cf910960",
+  "prompt": "Full-body vertical 2:3 (1024×1536) character card image of Lady Gan from Romance of the Three Kingdoms, reimagined as an adult woman, about twenty, a fresh young-adult face without facial lines or facial hair. Liu Bei's consort, famed for skin as white as jade; grace through hardship, mother of the heir, a small white jade figurine kept close. Korean MMORPG character artwork. A recognisably drawn face with gently simplified anatomical structure. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume. Royal-blue hair and porcelain-pale skin, fixed. Costume colours: jade green, imperial gold, earthen brown, white jade. She is a high court official: refined layered finely ornamented costume with flagship-card detail, never plain or sparse. Bold exposure: deep neckline, bare shoulders or arms, high slit or short hem, intimate areas covered. Short midface, soft gently rounded jaw and small soft chin, natural open eyes; no long or pointed face. Whole figure from crown to both feet inside frame, four-fifths of image height, clear margins below feet, hands and signature object inside frame. Chest-height camera, natural portrait perspective, no low angle or distortion. One woman only, two arms and two legs naturally joined, both hands visible with five fingers each. No second character, animal, logo, watermark or frame. Year 2190 Shu frontier colony on a jade-green moon, green glowing starship docks under glass-domed gardens, ringed gas giant in sky, no traditional architecture or hanzi. Female mecha personification, full solid hard-surface mecha armor plates of visible thickness with joints, panel and glow lines, human face and hair; no cloth, robe, fabric skirt or gown. Choose our silhouette 7: rigid ring-shaped armor bands floating around waist and ankles with light body armor. Rings split into interlocking white-jade-alloy arcs like a protective carved heirloom case; layered jade-green ceremonial breastplate and hip plates with imperial-gold trim and earthen-brown articulated joints. Bold deep neckline and exposed shoulder sections between hard armor plates, intimate areas covered. Royal-blue hair in a long sleek high ponytail with parted face-framing locks, small soft heart-shaped face, violet eyes, thoughtful warm smile. Right hand displays one small high-tech white-jade-alloy figurine with engraved panel lines, articulated joints, vents and green glowing emitter core; left hand open naturally beside waist ring. Standing slight three-quarter with face toward viewer, feet naturally aligned on a garden docking platform, clear morning light.",
+  "retries": [],
+  "refDesign": "gpt_free",
+  "design": "gpt_free",
+  "free_prompt": "Full-body vertical 2:3 (1024×1536) character card image of Lady Gan from Romance of the Three Kingdoms, reimagined as an adult woman, about twenty, a fresh young-adult face without facial lines or facial hair. Liu Bei's consort, famed for skin as white as jade; grace through hardship, mother of the heir, a small white jade figurine kept close. Korean MMORPG character artwork. A recognisably drawn face with gently simplified anatomical structure. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume. Royal-blue hair and porcelain-pale skin, fixed. Costume colours: jade green, imperial gold, earthen brown, white jade. She is a high court official: refined layered finely ornamented costume with flagship-card detail, never plain or sparse. Bold exposure: deep neckline, bare shoulders or arms, high slit or short hem, intimate areas covered. Short midface, soft gently rounded jaw and small soft chin, natural open eyes; no long or pointed face. Whole figure from crown to both feet inside frame, four-fifths of image height, clear margins below feet, hands and signature object inside frame. Chest-height camera, natural portrait perspective, no low angle or distortion. One woman only, two arms and two legs naturally joined, both hands visible with five fingers each. No second character, animal, logo, watermark or frame. Year 2190 Shu frontier colony on a jade-green moon, green glowing starship docks under glass-domed gardens, ringed gas giant in sky, no traditional architecture or hanzi. Female mecha personification, full solid hard-surface mecha armor plates of visible thickness with joints, panel and glow lines, human face and hair; no cloth, robe, fabric skirt or gown. Choose our silhouette 7: rigid ring-shaped armor bands floating around waist and ankles with light body armor. Rings split into interlocking white-jade-alloy arcs like a protective carved heirloom case; layered jade-green ceremonial breastplate and hip plates with imperial-gold trim and earthen-brown articulated joints. Bold deep neckline and exposed shoulder sections between hard armor plates, intimate areas covered. Royal-blue hair in a long sleek high ponytail with parted face-framing locks, small soft heart-shaped face, violet eyes, thoughtful warm smile. Right hand displays one small high-tech white-jade-alloy figurine with engraved panel lines, articulated joints, vents and green glowing emitter core; left hand open naturally beside waist ring. Standing slight three-quarter with face toward viewer, feet naturally aligned on a garden docking platform, clear morning light.",
+  "selection": 4
+ },
+ "execution": "sam-ganfuren-7618",
+ "imported": "2026-11-18",
+ "acceptance": "user approved character completion and non-force main updates; selected world images 1,1,4",
+ "review": {
+  "reviewed": false,
+  "by": "user",
+  "result": "pending"
+ },
+ "qa": {
+  "reviewer": "gpt-session",
+  "image_sha256": "d5d5564c250b9efa4bb9ffad41ec826ad73019f7dd3673e7a1dcbc5bc00c435e",
+  "passed": true,
+  "anatomy": "ok",
+  "exposure": "match",
+  "observations": [
+   "User selected free design 4: royal-blue ponytail, violet eyes, rigid floating ring armour and small high-tech figurine."
+  ]
+ }
+}
