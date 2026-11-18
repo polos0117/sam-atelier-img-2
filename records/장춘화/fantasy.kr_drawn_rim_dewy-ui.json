@@ -1,0 +1,117 @@
+{
+ "atelier": "samguk",
+ "card": "장춘화",
+ "faction": "wei",
+ "role": "official",
+ "world": "fantasy",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v1",
+ "notes": {},
+ "look": {
+  "params": {},
+  "faceDesignOn": true,
+  "silhouetteOn": true,
+  "exposure": "bold"
+ },
+ "design": {
+  "face": {
+   "eye_color": "hazel",
+   "impression": "cool",
+   "expr": "cold_smile",
+   "skin_tone": "warm_beige",
+   "age": "early_20s",
+   "eye_size": "small",
+   "eye_tilt": "up",
+   "mark": "blush",
+   "brows": "straight_thin",
+   "nose": "broad_soft",
+   "lips": "plush_pout",
+   "face_shape": "heart",
+   "eyes": "phoenix"
+  },
+  "silhouette": {
+   "body": "hourglass",
+   "hair_color": "platinum_blonde",
+   "hair": "mermaid_waves",
+   "bangs": "one_eye"
+  }
+ },
+ "shot": {
+  "scene": "",
+  "time": "",
+  "pose": "",
+  "expr": "",
+  "frame": ""
+ },
+ "file": "장춘화_fantasy_kr_drawn_rim_dewy_f.webp",
+ "prompt": "A full-body character image, vertical 2:3 (1024×1536): Zhang Chunhua of the Romance of the Three Kingdoms, reimagined as an adult woman — the iron-willed matriarch of the Sima house.\n\n1. STYLE\nKorean MMORPG character artwork. A recognisably drawn face with gently simplified anatomical structure. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nHer face is small and soft: a short midface, a softly rounded jaw and a small chin, about 1.3 times as long as it is wide, with her eyes open at their natural size. Bangs, side locks and headpieces frame the face without lengthening it.\nSkin finish: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\n2. CHARACTER\nAge: about twenty — a fresh young-adult face.\nFace — her own, recognisably this character, a woman's face with no beard or facial hair: a cool, aloof beauty; warm beige skin; heart-shaped face; smaller, narrower eyes than usual anime proportion — long phoenix eyes with lifted outer corners, outer eye corners slightly lifted; thin straight brows; broad soft nose; soft, full lips; hazel eyes; rosy flushed cheeks.\nBody and hair: hourglass-figured — full bust and hips, distinctly narrow-waisted build; very long loose mermaid waves to the waist with long bangs falling over one eye; platinum-blonde hair.\nExpression: a faint cool smile, calm composed eyes, subtle and relaxed.\nLegend, carried in her design and bearing: unshakable household authority, a dagger kept hidden, cold elegance.\nAnatomy: one head, two arms and two legs, each joined at its natural joint; natural hands with five fingers.\n\n3. COSTUME AND EQUIPMENT — MEDIEVAL FANTASY\nCostume: a royal chancellor's or court scholar's dress — a long embroidered coat with a stole, a seal ring, ledgers and a quill. Western medieval high-fantasy dress — plate, mail and heraldic tabards, gowns and mantles, circlets and crowns; steel, leather, wool, velvet and gold, with a subtle magical glow along the patterns. Her Three Kingdoms origin shows through her signature item, her colours and her bearing.\nSilhouette: leather armor with a short cloak, a lowered hood, bracers and boots — a light, agile ranger's silhouette. This silhouette sets the overall shape of the costume above — keep its materials, ornaments and rank in this shape; the details are free.\nColours: deep navy blue, black lacquer, cold steel silver, ivory white, with small accents of deep plum purple and silver (the Sima Jin).\nSignature item: a hidden dagger in a silk sheath, reimagined as a Western high-fantasy version of the same kind of object with the same silhouette — polished steel and silvered mithril throughout, the shaft or hilt also forged metal with engraved runes (never plain wood), a faint magical glow running along the edge and the runes, a gem-set guard or socket, a leather-wrapped grip and heraldic or elven ornament, with any animal motif re-sculpted in Western heraldic style. She holds it at full scale: one whole object, drawn once, held in front of or beside her body; a long weapon keeps one straight, unbroken shaft with a single head or blade.\nExposure (bold): her regalia opens to show skin — bare upper arms below the pauldrons, which stay seated on top of her shoulders (bare shoulders only where no shoulder guard sits), a deep open neckline under the gorget with natural cleavage, the tabard or gown cut with a high side slit at full length — it shows the side line of one leg as she stands, no leg pushed out or knee bent for it; armor pieces stay on and symmetrical. Intimate areas covered; no corset; keep the costume material and palette.\n\n4. SCENE\nWorld: a stern northern empire of medieval high fantasy: black-stone citadels with blue banners, iron-shod heavy cavalry, snowy plains and pine forests, a court ruled by strict law, cold blue sigil-magic.\nPose: standing confidently, her body turned slightly while her face looks toward the viewer.\nLight: a soft key light with a strong rim light tracing her hair, shoulders and armour; bright, crisp specular highlights on metal and jewellery, and a clean, warm-neutral sheen on her skin.\nComposition: her whole figure from the top of her head or headpiece to both feet inside the frame with clear margins, about four-fifths of the image height; camera at chest height with natural portrait perspective.\n\n5. CONSTRAINTS\nOne figure only — no second character, horse or other creature. No readable text or numbers — banners and shields carry only heraldic devices (a beast or a crest), never letters or Chinese characters. No logo, watermark, speech bubble or frame border. A Western medieval setting and dress only — stone castles, Romanesque or Gothic architecture — with no Chinese architecture, robes or hanzi.\nAvoid: a blue or bruise-like tint on the skin around the eyes, glossy or shiny highlights on the face, sweaty, oily or plastic-looking skin.",
+ "date": "2026-11-18",
+ "record": "records/장춘화/fantasy.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "장춘화",
+  "out": "world",
+  "world": "fantasy",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {
+   "장춘화|fantasy": {}
+  },
+  "looks": {
+   "장춘화|fantasy": {
+    "params": {},
+    "faceDesignOn": true,
+    "silhouetteOn": true,
+    "exposure": "bold"
+   }
+  },
+  "shots": {
+   "장춘화|fantasy": {
+    "scene": "",
+    "time": "",
+    "pose": "",
+    "expr": "",
+    "frame": ""
+   }
+  },
+  "walked": {},
+  "casualN": 1,
+  "scenes": {}
+ },
+ "execution": "sam-zhangchunhua-c8bdad",
+ "imported": "2026-11-18",
+ "generation": {
+  "tool": "image_gen",
+  "endpoint": "images/generations",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "2938957b451bb12b13ade31c3db48983f60f1f8ea73585bb29f92aab36050aa1",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "prompt_form": "en-prompt",
+  "prompt_sha256": "67bdd882edfac9a0d939586b0891660fff31d9f366baa7fe8024073cce744394",
+  "design": "our_design",
+  "selected_number": 2,
+  "selection": "user 1,2,2 on 2026-11-18",
+  "retries": []
+ },
+ "qa": {
+  "reviewer": "gpt-session",
+  "image_sha256": "2938957b451bb12b13ade31c3db48983f60f1f8ea73585bb29f92aab36050aa1",
+  "passed": true,
+  "anatomy": "ok",
+  "exposure": "match",
+  "observations": [
+   "Original selected by user, no regeneration.",
+   "One adult woman, complete full-body framing, attached image colours and world materials verified."
+  ]
+ },
+ "acceptance": "user approval: selected 1,2,2; commit and normal main push authorised",
+ "review": {
+  "reviewed": true,
+  "by": "user",
+  "result": "selected"
+ }
+}

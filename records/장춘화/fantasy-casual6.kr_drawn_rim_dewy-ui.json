@@ -1,0 +1,129 @@
+{
+ "atelier": "samguk",
+ "card": "장춘화",
+ "faction": "wei",
+ "slot": "casual6",
+ "treeV": 2,
+ "world": "fantasy",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v1",
+ "ref": "장춘화_fantasy_kr_drawn_rim_dewy_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "now",
+  "place": "drying_terrace",
+  "ofam": "resort",
+  "item": "sarong_set",
+  "posture": "stand",
+  "support": "none",
+  "frame": "face_close",
+  "body": "side",
+  "head": "with_body",
+  "camera": "eye",
+  "right": "hair_tuck",
+  "left": "out",
+  "use": "",
+  "legs": "",
+  "gaze": "down",
+  "ofree": true,
+  "ofreeRecent": "a starship data archive — kneeling on the ground; a small far-future planetarium rehearsal room on an orbital habitat — off duty she tries an event-host costume while turning a little eclipse disc in front of a lamp; an art or pottery studio of easels — holds her keepsake at chest height; a modern miniature-terrarium stall beneath a skylight — she places a tiny pale porous stone among damp moss inside a glass globe and tilts the globe to watch a faint veil of condensation clear; a chandelier ballroom at a masquerade — holds a masquerade mask on a stick up to her eyes; her living room with a deep sofa — plays an acoustic guitar; a hydroponic bathing pool aboard a starship — standing; a small mountain-path shrine at the Slope of the Fallen Phoenix — holds a few lit incense sticks in both hands before her; a hot-spring town footbath under a wooden roof — dries her hair with a towel; inside a knightly order's campaign pavilion — sitting on the ground; an editorial photo studio with a seamless backdrop and dramatic lights — standing; an old brush-and-ink shop in a heritage quarter — brings a cup to her lips; the front row of a fashion show beside a lit runway — checks the photo on the back screen of a camera at chest height",
+  "expr": "nostalgic",
+  "preset": "hair_close",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "장춘화_fantasy_kr_drawn_rim_dewy_f_casual6.webp",
+ "prompt": "INPUT: the attached image is the approved character — her Medieval fantasy card; keep her. Do not reuse earlier conversation images.\n\nCHARACTER: the same woman as the attached image — the female personification of Zhang Chunhua of the Three Kingdoms, seen in her everyday life. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change, and her hair may be worn differently only as SCENE's Hair line says. Her Three Kingdoms identity shows ONLY as a small accessory, an object around her, or the object PROP says she holds — never in the outfit's colours, patterns or cut, never as armor, regalia or a costume.\n\nDESIGN (accessory hints only): her legend — unshakable household authority, a dagger kept hidden, cold elegance — may inform at most one small accessory, a hair ornament or an object beside her, in its palette (deep navy blue, black lacquer, cold steel silver, ivory white, with small accents of deep plum purple and silver (the Sima Jin)). The clothes keep the chosen outfit's own colours; her skin, hair and eyes stay as in the attached image.\n\nSIGNATURE ACCESSORY: off duty she carries no weapon — no sword, saber, spear, glaive, halberd, bow, axe, shield or any blade in her hands, on her back or anywhere in the scene. Her signature weapon (a hidden dagger in a silk sheath) appears only as one small worn accessory modelled on its shape and colours — a hair ornament, pendant, earring, brooch or belt charm a few centimetres long, clearly jewellery and not a usable weapon.\n\nSTYLE: Korean MMORPG character artwork. A recognisably drawn face with gently simplified anatomical structure. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\n\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nAGE: the same adult woman as in the attached image — keep her own face shape, cheekbones, eye proportions and skin tone exactly; minimal facial lines (no nasolabial folds, crow's feet, under-eye bags or cheek creases). Keep her face soft, feminine and attractive in every framing — never elongated, gaunt, mannish or heavy-jawed, even in close-ups, profiles or low angles.\n\nOUTPUT: one standalone off-duty scene of her in the outfit chosen in SCENE; her legend shows only through accessories and objects around her — never in the outfit's colours, patterns or cut, never as armor, regalia or a costume. Everything else follows SCENE (chosen).\n\nFRAME: a vertical 2:3 (1024×1536) image. Compose the image for this frame; COMPOSITION in SCENE sets how much of her shows.\n\nSCENE (chosen):\nFREE DESIGN: design the place, activity, pose, framing and outfit yourself. Start from who she is — her legend, traits and personality — and show an everyday moment that is unexpected yet feels natural for her. Make it fresh through the situation and what she is doing, not through more decoration. Avoid scenes like the recent ones listed below. Keep her face, the art style and the body and anatomy rules exactly as stated. Before drawing, write your design into the lines below, then draw it. In your pose, give each hand one job only and say plainly where each arm goes; avoid poses where it is unclear which shoulder an arm comes from — an arm behind her back, behind her head or pinned under her body — and never state where a foot sits under water. Do not make it another small repair, adjusting, measuring or sorting task at a workbench, repair stall, equipment room or locker room — those scenes are already in our own list; choose another kind of everyday moment (rest, play, a meal, travel, weather, getting ready, simply being in the place).\nRecent scenes to avoid: a starship data archive — kneeling on the ground; a small far-future planetarium rehearsal room on an orbital habitat — off duty she tries an event-host costume while turning a little eclipse disc in front of a lamp; an art or pottery studio of easels — holds her keepsake at chest height; a modern miniature-terrarium stall beneath a skylight — she places a tiny pale porous stone among damp moss inside a glass globe and tilts the globe to watch a faint veil of condensation clear; a chandelier ballroom at a masquerade — holds a masquerade mask on a stick up to her eyes; her living room with a deep sofa — plays an acoustic guitar; a hydroponic bathing pool aboard a starship — standing; a small mountain-path shrine at the Slope of the Fallen Phoenix — holds a few lit incense sticks in both hands before her; a hot-spring town footbath under a wooden roof — dries her hair with a towel; inside a knightly order's campaign pavilion — sitting on the ground; an editorial photo studio with a seamless backdrop and dramatic lights — standing; an old brush-and-ink shop in a heritage quarter — brings a cup to her lips; the front row of a fashion show beside a lit runway — checks the photo on the back screen of a camera at chest height.\nPlace: a modern covered railway platform with a little roasted-chestnut kiosk and autumn trees beyond the glass wall\nActivity: she has just bought a warm paper cone of chestnuts; she blows gently across one peeled chestnut before tasting it, an unguarded moment between journeys\nPose: standing with a relaxed hip shift, body and face three-quarter front; her left forearm angles forward from her left shoulder and her left hand cradles the paper cone at waist height; her right elbow remains beside her ribs and her right hand holds one chestnut near her lips; both hands visible\nFraming: vertical waist-up portrait at eye level, her softly lit face unobscured and the platform canopy receding behind her\nOutfit: an original saffron cutwork shoulder bolero joined by two slim side bands to a structured low-V bralette, with a forest-green asymmetrical pleated culotte-skirt and a curved waist clasp; exposed collarbones, cleavage and midriff, opaque lining at intimate areas, unmistakably modern travel fashion and no armour\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing; nothing slipped off; intimate areas covered\n\nWARDROBE: change her clothes completely. From the attached image take only her face, hair and body — not its garment, armor, regalia, ornaments, mecha plates or background. Dress her exactly as SCENE describes; that outfit must read at first glance, keeping its own recognisable colours and parts. Do not carry the attached image's palette, patterns or trim into the outfit; her Three Kingdoms identity belongs in accessories and props, never in the clothes — never restyle the chosen outfit into her faction's palette, armor, robes or regalia.\n\nANGLE: the attached image fixes who she is, not how she is posed or shot. Do not copy its head angle, head tilt, gaze direction, face size in frame, camera height or crop — turn her head, set her gaze and place the camera exactly as SCENE describes, and let her face read naturally from that new angle (profile, three-quarter, looking down or away), with her features staying the same. No default card pose, no default front-facing portrait.\n\nONE MAIN FIGURE: she is the only character in focus. Where the place is busy, other people may appear only as small, soft-focus background extras — never posed with her. No logo, no watermark, no speech bubble, no frame border. No readable text or numbers.\n\nANATOMY: natural adult proportions, about 7.5 heads tall — height from the legs, never a smaller head or a longer neck. The neck is a natural length and the head sits close to the shoulders. No body-part enlargement, no extra limbs.\n\nFIGURE: hourglass-figured — full bust and hips, distinctly narrow-waisted — keep this exact build from the attached image, neither slimmer nor fuller.\n\nBODY: a normal human body — one head, two arms and two legs, each joined at its natural joint; elbows, knees and wrists bend the human way. Hands and feet may be partly hidden by the pose, what she holds or the frame. Right and left mean her own right and left, not the viewer's.\n\nHANDS: natural human hands, no extra or duplicated limbs; each visible hand joins through its wrist and forearm to the matching shoulder. A hand may stay outside the crop, and fingers may be partly hidden by a grip.\n\nAVOID: a blue or bruise-like tint on the skin around the eyes, glossy or shiny highlights on the face, sweaty, oily or plastic-looking skin.",
+ "date": "2026-11-18",
+ "record": "records/장춘화/fantasy-casual6.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "장춘화",
+  "out": "casual",
+  "world": "fantasy",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 6,
+  "scenes": {
+   "장춘화": {
+    "era": "now",
+    "place": "drying_terrace",
+    "ofam": "resort",
+    "treeV": 2,
+    "prop": "",
+    "preset": "hair_close",
+    "use": "",
+    "posture": "stand",
+    "support": "none",
+    "frame": "face_close",
+    "body": "side",
+    "head": "with_body",
+    "camera": "eye",
+    "right": "hair_tuck",
+    "left": "out",
+    "legs": "",
+    "gaze": "down",
+    "item": "sarong_set",
+    "expr": "nostalgic",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "ofree": true,
+    "ofreeRecent": "a starship data archive — kneeling on the ground; a small far-future planetarium rehearsal room on an orbital habitat — off duty she tries an event-host costume while turning a little eclipse disc in front of a lamp; an art or pottery studio of easels — holds her keepsake at chest height; a modern miniature-terrarium stall beneath a skylight — she places a tiny pale porous stone among damp moss inside a glass globe and tilts the globe to watch a faint veil of condensation clear; a chandelier ballroom at a masquerade — holds a masquerade mask on a stick up to her eyes; her living room with a deep sofa — plays an acoustic guitar; a hydroponic bathing pool aboard a starship — standing; a small mountain-path shrine at the Slope of the Fallen Phoenix — holds a few lit incense sticks in both hands before her; a hot-spring town footbath under a wooden roof — dries her hair with a towel; inside a knightly order's campaign pavilion — sitting on the ground; an editorial photo studio with a seamless backdrop and dramatic lights — standing; an old brush-and-ink shop in a heritage quarter — brings a cup to her lips; the front row of a fashion show beside a lit runway — checks the photo on the back screen of a camera at chest height"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen",
+  "endpoint": "images/edits",
+  "ref_sha256": "2938957b451bb12b13ade31c3db48983f60f1f8ea73585bb29f92aab36050aa1",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "94dde728e4c8fb3d461497d6a9c81176c90c7637261c2f0b964dc835ffec46a4",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "prompt_form": "en-prompt",
+  "prompt_sha256": "1c01882908e237b52e42ea02f69783845b2a309f656e6b77f604e50c7423793d",
+  "retries": [],
+  "free_design": {
+   "Place": "a modern covered railway platform with a little roasted-chestnut kiosk and autumn trees beyond the glass wall",
+   "Activity": "she has just bought a warm paper cone of chestnuts; she blows gently across one peeled chestnut before tasting it, an unguarded moment between journeys",
+   "Pose": "standing with a relaxed hip shift, body and face three-quarter front; her left forearm angles forward from her left shoulder and her left hand cradles the paper cone at waist height; her right elbow remains beside her ribs and her right hand holds one chestnut near her lips; both hands visible",
+   "Framing": "vertical waist-up portrait at eye level, her softly lit face unobscured and the platform canopy receding behind her",
+   "Outfit": "an original saffron cutwork shoulder bolero joined by two slim side bands to a structured low-V bralette, with a forest-green asymmetrical pleated culotte-skirt and a curved waist clasp; exposed collarbones, cleavage and midriff, opaque lining at intimate areas, unmistakably modern travel fashion and no armour"
+  },
+  "free_prompt": "INPUT: the attached image is the approved character — her Medieval fantasy card; keep her. Do not reuse earlier conversation images.\n\nCHARACTER: the same woman as the attached image — the female personification of Zhang Chunhua of the Three Kingdoms, seen in her everyday life. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change, and her hair may be worn differently only as SCENE's Hair line says. Her Three Kingdoms identity shows ONLY as a small accessory, an object around her, or the object PROP says she holds — never in the outfit's colours, patterns or cut, never as armor, regalia or a costume.\n\nDESIGN (accessory hints only): her legend — unshakable household authority, a dagger kept hidden, cold elegance — may inform at most one small accessory, a hair ornament or an object beside her, in its palette (deep navy blue, black lacquer, cold steel silver, ivory white, with small accents of deep plum purple and silver (the Sima Jin)). The clothes keep the chosen outfit's own colours; her skin, hair and eyes stay as in the attached image.\n\nSIGNATURE ACCESSORY: off duty she carries no weapon — no sword, saber, spear, glaive, halberd, bow, axe, shield or any blade in her hands, on her back or anywhere in the scene. Her signature weapon (a hidden dagger in a silk sheath) appears only as one small worn accessory modelled on its shape and colours — a hair ornament, pendant, earring, brooch or belt charm a few centimetres long, clearly jewellery and not a usable weapon.\n\nSTYLE: Korean MMORPG character artwork. A recognisably drawn face with gently simplified anatomical structure. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\n\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nAGE: the same adult woman as in the attached image — keep her own face shape, cheekbones, eye proportions and skin tone exactly; minimal facial lines (no nasolabial folds, crow's feet, under-eye bags or cheek creases). Keep her face soft, feminine and attractive in every framing — never elongated, gaunt, mannish or heavy-jawed, even in close-ups, profiles or low angles.\n\nOUTPUT: one standalone off-duty scene of her in the outfit chosen in SCENE; her legend shows only through accessories and objects around her — never in the outfit's colours, patterns or cut, never as armor, regalia or a costume. Everything else follows SCENE (chosen).\n\nFRAME: a vertical 2:3 (1024×1536) image. Compose the image for this frame; COMPOSITION in SCENE sets how much of her shows.\n\nSCENE (chosen):\nFREE DESIGN: design the place, activity, pose, framing and outfit yourself. Start from who she is — her legend, traits and personality — and show an everyday moment that is unexpected yet feels natural for her. Make it fresh through the situation and what she is doing, not through more decoration. Avoid scenes like the recent ones listed below. Keep her face, the art style and the body and anatomy rules exactly as stated. Before drawing, write your design into the lines below, then draw it. In your pose, give each hand one job only and say plainly where each arm goes; avoid poses where it is unclear which shoulder an arm comes from — an arm behind her back, behind her head or pinned under her body — and never state where a foot sits under water. Do not make it another small repair, adjusting, measuring or sorting task at a workbench, repair stall, equipment room or locker room — those scenes are already in our own list; choose another kind of everyday moment (rest, play, a meal, travel, weather, getting ready, simply being in the place).\nRecent scenes to avoid: a starship data archive — kneeling on the ground; a small far-future planetarium rehearsal room on an orbital habitat — off duty she tries an event-host costume while turning a little eclipse disc in front of a lamp; an art or pottery studio of easels — holds her keepsake at chest height; a modern miniature-terrarium stall beneath a skylight — she places a tiny pale porous stone among damp moss inside a glass globe and tilts the globe to watch a faint veil of condensation clear; a chandelier ballroom at a masquerade — holds a masquerade mask on a stick up to her eyes; her living room with a deep sofa — plays an acoustic guitar; a hydroponic bathing pool aboard a starship — standing; a small mountain-path shrine at the Slope of the Fallen Phoenix — holds a few lit incense sticks in both hands before her; a hot-spring town footbath under a wooden roof — dries her hair with a towel; inside a knightly order's campaign pavilion — sitting on the ground; an editorial photo studio with a seamless backdrop and dramatic lights — standing; an old brush-and-ink shop in a heritage quarter — brings a cup to her lips; the front row of a fashion show beside a lit runway — checks the photo on the back screen of a camera at chest height.\nPlace: a modern covered railway platform with a little roasted-chestnut kiosk and autumn trees beyond the glass wall\nActivity: she has just bought a warm paper cone of chestnuts; she blows gently across one peeled chestnut before tasting it, an unguarded moment between journeys\nPose: standing with a relaxed hip shift, body and face three-quarter front; her left forearm angles forward from her left shoulder and her left hand cradles the paper cone at waist height; her right elbow remains beside her ribs and her right hand holds one chestnut near her lips; both hands visible\nFraming: vertical waist-up portrait at eye level, her softly lit face unobscured and the platform canopy receding behind her\nOutfit: an original saffron cutwork shoulder bolero joined by two slim side bands to a structured low-V bralette, with a forest-green asymmetrical pleated culotte-skirt and a curved waist clasp; exposed collarbones, cleavage and midriff, opaque lining at intimate areas, unmistakably modern travel fashion and no armour\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing; nothing slipped off; intimate areas covered\n\nWARDROBE: change her clothes completely. From the attached image take only her face, hair and body — not its garment, armor, regalia, ornaments, mecha plates or background. Dress her exactly as SCENE describes; that outfit must read at first glance, keeping its own recognisable colours and parts. Do not carry the attached image's palette, patterns or trim into the outfit; her Three Kingdoms identity belongs in accessories and props, never in the clothes — never restyle the chosen outfit into her faction's palette, armor, robes or regalia.\n\nANGLE: the attached image fixes who she is, not how she is posed or shot. Do not copy its head angle, head tilt, gaze direction, face size in frame, camera height or crop — turn her head, set her gaze and place the camera exactly as SCENE describes, and let her face read naturally from that new angle (profile, three-quarter, looking down or away), with her features staying the same. No default card pose, no default front-facing portrait.\n\nONE MAIN FIGURE: she is the only character in focus. Where the place is busy, other people may appear only as small, soft-focus background extras — never posed with her. No logo, no watermark, no speech bubble, no frame border. No readable text or numbers.\n\nANATOMY: natural adult proportions, about 7.5 heads tall — height from the legs, never a smaller head or a longer neck. The neck is a natural length and the head sits close to the shoulders. No body-part enlargement, no extra limbs.\n\nFIGURE: hourglass-figured — full bust and hips, distinctly narrow-waisted — keep this exact build from the attached image, neither slimmer nor fuller.\n\nBODY: a normal human body — one head, two arms and two legs, each joined at its natural joint; elbows, knees and wrists bend the human way. Hands and feet may be partly hidden by the pose, what she holds or the frame. Right and left mean her own right and left, not the viewer's.\n\nHANDS: natural human hands, no extra or duplicated limbs; each visible hand joins through its wrist and forearm to the matching shoulder. A hand may stay outside the crop, and fingers may be partly hidden by a grip.\n\nAVOID: a blue or bruise-like tint on the skin around the eyes, glossy or shiny highlights on the face, sweaty, oily or plastic-looking skin."
+ },
+ "execution": "sam-zhangchunhua-c8bdad",
+ "imported": "2026-11-18",
+ "qa": {
+  "reviewer": "gpt-session",
+  "image_sha256": "94dde728e4c8fb3d461497d6a9c81176c90c7637261c2f0b964dc835ffec46a4",
+  "passed": true,
+  "anatomy": "ok",
+  "exposure": "match",
+  "observations": [
+   "Both hands each hold a chestnut or paper cone, saffron top and green culotte skirt; railway platform."
+  ]
+ },
+ "acceptance": "user authorised commit and normal main push; no recreation for exposure censorship",
+ "review": {
+  "reviewed": false,
+  "by": "user",
+  "result": "pending"
+ }
+}
